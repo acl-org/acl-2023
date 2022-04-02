@@ -30,7 +30,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
-   email = "zkozareva@gmail.com"
+   email = "zornitsa@kozareva.com"
 %}
 
 {% include committee-member.html
