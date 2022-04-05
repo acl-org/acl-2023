@@ -73,7 +73,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 | ~~Publication date~~ | ~~Monday~~ | ~~May 24, 2021~~ |
 | ~~Co-located event: [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/)~~ | ~~Thursday – Friday~~ | ~~June 3 – 4, 2021~~ |
 !-->
-| Conference date | Friday – Tuesday | December 7 – 11, 2022 |
+| Conference date | Wednesday – Sunday | December 7 – 11, 2022 |
 {: .dates-table}
 
 <!--
