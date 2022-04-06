@@ -325,10 +325,10 @@ on gender expression. Several emirates, including Abu Dhabi and Dubai, have addi
 Discretion is generally advisable.  -->
 <!-- [This page](https://nomadicboys.com/is-abu-dhabi-safe-for-gay-travellers/) provides some practical advice for LGBTQI travellers.  -->
 
-**Would people identifying as LGBTQ encounter any issues?**
+**Would people identifying as LGBTQ+ encounter any issues?**
 
 We understand the concerns but do not anticipate any issues. 
-The local organization team has been in touch with leaders of Queer in AI and other organizations to discuss how to make the venue most hospitable and answer any concerns they may have. 
+The local organization team has been in touch with leaders of LGBTQ+ affinity groups to discuss how to make the venue most hospitable and answer any concerns they may have. 
 
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
 
