@@ -28,7 +28,10 @@ main:
   
   - title: "Sponsors"
     url: /sponsors/
-    
+  
+  - title: "Contact"
+    url: /contact 
+  
   - title: "Venue"
     url: /venue
 
