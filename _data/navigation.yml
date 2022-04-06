@@ -27,7 +27,7 @@ main:
     url: /organization
   
   - title: "Sponsors"
-    url: /not_available 
+    url: /sponsors/
     
   - title: "Venue"
     url: /venue
