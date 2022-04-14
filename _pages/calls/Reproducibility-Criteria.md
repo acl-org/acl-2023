@@ -11,9 +11,9 @@ Reviewers will be asked to assess the reproducibility of the work as part of the
 The following are the criteria that reviews will take under consideration. 
 
 For all reported experimental results:
- - A clear description of the mathematical setting, algorithm, and/or model.
+ - A clear description of the mathematical setting, algorithm, and/or model
  - Submission of a zip file containing source code, with specification of all dependencies, including external libraries, or a link to such resources (while still anonymized)
- - Description of computing infrastructure used
+Description of computing infrastructure used
  - The average runtime for each model or algorithm (e.g., training, inference, etc.), or estimated energy cost
  - Number of parameters in each model
  - Corresponding validation performance for each reported test result
