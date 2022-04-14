@@ -39,13 +39,15 @@ For more information, see the [ACL Policies for Submission, Review, and Citation
 
 EMNLP 2022 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the EMNLP 2022 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, ACL workshops), as well as ARR. In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to EMNLP 2022 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
 
-EMNLP 2022 will also accept submissions of ARR-reviewed papers, provided that the ARR reviews and meta-reviews are available by the ARR-to-conference submission deadline. However, EMNLP 2022 will not accept direct submissions that were previously submitted to ARR, or that overlap significantly (>25%) with such submissions.  I.e., if a paper was previously reviewed by ARR, it must be submitted with the ARR reviews and meta-reviews, unless withdrawn for ARR prior to May 24, 2022.
+EMNLP 2022 will also accept submissions of ARR-reviewed papers, provided that the ARR reviews and meta-reviews are available by the ARR-to-conference submission deadline. However, EMNLP 2022 will not accept direct submissions that are actively under review in ARR, or that overlap significantly (>25%) with such submissions.
 
 ## Mandatory Discussion of Limitations
 
 We believe that it is also important to discuss the limitations of your work, in addition to its strengths. **EMNLP 2022 requires all papers to have a clear discussion of limitations, in a dedicated section titled “Limitations”.** This section will appear at the end of the paper, after the discussion/conclusions section and before the references, and will not count towards the page limit. **Papers without a limitation section will be automatically rejected without review.**
 
 ARR-reviewed paper that did not include “**Limitations**” section in their prior submission, should submit a PDF with such a section together with their EMNLP 2022 submission.
+
+While we are open to different types of limitations, just mentioning that a set of results have been shown for English only probably does not reflect what we expect. Mentioning that the method works mostly for languages with limited morphology, like English, is a much better alternative. In addition, limitations such as low scalability to long text, the requirement of large GPU resources, or other things that inspire crucial further investigation are welcome.
 
 ## EMNLP 2022 Theme Track: “Open questions, major obstacles, and unresolved issues in NLP”
 
