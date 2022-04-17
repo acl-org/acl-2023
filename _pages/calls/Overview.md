@@ -31,7 +31,7 @@ Papers submitted directly to EMNLP will have the “regular” review process: p
 
 - Papers submitted to ARR before May 24, 2022, **can be withdrawn and submitted to EMNLP 2022**. 
 	- **Note**: In order for a paper to be submitted directly to EMNLP 2022, it must be inactive in the ARR system. This means that the submission must either be explicitly withdrawn by the authors, or the ARR reviews are finished and shared with the authors before May 24, and the paper was not re-submitted to ARR.
-	- **Note**: The authors can [withdrawn](https://aclrollingreview.org/cfp) from ARR by May 24, 2022, regardless of how many reviews they have received.
+	- **Note**: The authors can [withdraw](https://aclrollingreview.org/cfp) from ARR by May 24, 2022, regardless of how many reviews they have received.
 
 - Papers that are in the ARR system after May 24, 2022, either submitted after or submitted before and not withdrawn, **cannot be submitted to EMNLP 2022**.
 
