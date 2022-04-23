@@ -1,20 +1,69 @@
 ---
 title: Workshops
 layout: single
-excerpt: "NAACL 2021 Workshops."
+excerpt: "EMNLP 2022 Workshops."
 permalink: /program/workshops/
 toc: false
 sidebar: 
     nav: program
 ---
 
-Note that while the main conference time zone is Pacific Daylight Time (PDT), workshop time zones vary.
+<!-- Note that while the main conference time zone is Pacific Daylight Time (PDT), workshop time zones vary. -->
 
 Please refer to each individual event's website for more details.
 
-## June 6
+<!-- ## June 6 -->
 
-### W1: The 2nd Workshop on NLP for Medical Conversations
+
+### TSAR: Workshop on Text Simplification, Accessibility, and Readability
+
+### WANLP: The Seventh Arabic Natural Language Processing Workshop
+
+### FinNLP: The Fourth Workshop on Financial Technology and Natural Language Processing
+
+### GEM: Natural Language Generation, Evaluation, and Metrics
+
+### NLLP: The Fourth Workshop on Natural Legal Language Processing
+
+### BlackboxNLP: Analysing and interpreting neural networks for NLP
+
+### WMT: Seventh Conference on Machine Translation
+
+### WiNLP: The Sixth Widening NLP Workshop
+
+### CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text
+
+### DASH: Data Science with Human-in-the-Loop: Language Advances
+
+### MMNLU: Massively Multilingual Natural Language Understanding
+
+### NILLI: Novel Ideas in Learning-to-Learn through Interaction
+
+### FLP: 3rd Workshop on Figurative Language Processing
+
+### NLP4PI: Second Workshop on NLP for Positive Impact
+
+### CoNLL: The SIGNLL Conference on Computational Natural Language Learning
+
+### SustaiNLP: The Third Workshop on Simple and Efficient Natural Language Processing
+
+### MathNLP: 1st Workshop on Mathematical Natural Language Processing
+
+### SereTOD: Towards Semi-Supervised and Reinforced Task-Oriented Dialog Systems
+
+### UM-IoS: Unimodal and Multimodal Induction of Linguistic Structures
+
+### LOUHI: 13th International Workshop on Health Text Mining and Information Analysis
+
+### MRL: The 2nd Workshop on Multi-lingual Representation Learning
+
+### EvoNLP: The First Workshop on Ever Evolving NLP
+
+### SSLL:   Sharing Stories and Lessons Learned
+
+### NLP_CSS:NLP and Computational Social Science
+
+<!-- ### W1: The 2nd Workshop on NLP for Medical Conversations
 See [event website](https://sites.google.com/view/nlp4mc2021/home).
 
 *Organizers: Chaitanya Shivade, Rashmi Gangadharaiah, Spandana Gella, Sandeep Konam, Shaoqing Yuan, Yi Zhang and Parminder Bhatia*
@@ -128,4 +177,4 @@ See [event website](http://turing.iimas.unam.mx/americasnlp/).
 ### W22: Fifth Workshop on Computational Approaches to Linguistic Code Switching
 See [event website](https://code-switching.github.io/2021).
 
-*Organizers: Thamar Solorio, Mona Diab, Alan W Black, Sunayana Sitaram, Emre Yilmaz and Victor Soto*
+*Organizers: Thamar Solorio, Mona Diab, Alan W Black, Sunayana Sitaram, Emre Yilmaz and Victor Soto* -->
