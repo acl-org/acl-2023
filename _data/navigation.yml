@@ -18,7 +18,7 @@ main:
     url: /not_available
 
   - title: "Calls"
-    url: /calls/papers/Overview
+    url: /calls/main_conference_papers/
     
   - title: "Blog"
     url: /blog/
@@ -75,26 +75,15 @@ program:
 #        url: /sponsors/list/
 
 calls:
-  - title: Call for Papers
+  - title: "Call for"
     children:
-      - title: "Overview"
-        url: /calls/papers/Overview
-      - title: "Important Dates"
-        url: /calls/papers/Important-Dates
-      - title: "Mandatory abstract submission"
-        url: /calls/papers/Mandatory-abstract-submission
-      - title: "Submissions"
-        url: /calls/papers/Submissions
-      - title: "Paper Submission Information"
-        url: /calls/papers/Paper-Submission-Information
-      - title: "Anonymity Period"
-        url: /calls/papers/Anonymity-Period
-      - title: "Instructions For Double-Blind Review"
-        url: /calls/papers/Instructions
-      - title: "Reproducibility Criteria"
-        url: /calls/papers/Reproducibility-Criteria
-      - title: "Presentation Requirement"
-        url: /calls/papers/Presentation-Requirement
+      - title: "Main Conference Papers"
+        url: /calls/main_conference_papers/
+      - title: "System Demonstrations"
+        url: /calls/System_Demonstrations/
+      - title: "Industry Track"
+        url: /calls/industry_track/
+      
   #- title: Submission Material
   #  children:
   #    - title: "Area Descriptions"
