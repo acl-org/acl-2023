@@ -1,5 +1,5 @@
 ---
-title: Call for Industry Track
+title: Call for Industry Track Papers
 layout: single
 permalink: /calls/industry_track/
 sidebar: 
