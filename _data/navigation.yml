@@ -81,7 +81,7 @@ calls:
         url: /calls/main_conference_papers/
       - title: "System Demonstrations"
         url: /calls/System_Demonstrations/
-      - title: "Industry Track"
+      - title: "Industry Track Papers"
         url: /calls/industry_track/
       
   #- title: Submission Material
