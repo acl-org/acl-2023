@@ -12,7 +12,7 @@ toc_icon: "cog"
 The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022) invites the submission of long and short papers on substantial, original, and unpublished research on empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals. 
 
 
-<hr color="#FF0000" /> 
+<hr color="#E1FFFF" /> 
 
 EMNLP 2022 will follow EMNLP 2021 and go with a **hybrid** format with respect to ARR. This means that while **EMNLP will accept ARR-reviewed papers**, it will **also accept submissions directly to EMNLP through the START system**.
 
