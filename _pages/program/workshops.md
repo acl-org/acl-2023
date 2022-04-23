@@ -59,9 +59,9 @@ Please refer to each individual event's website for more details.
 
 ### EvoNLP: The First Workshop on Ever Evolving NLP
 
-### SSLL:   Sharing Stories and Lessons Learned
+### SSLL: Sharing Stories and Lessons Learned
 
-### NLP_CSS:NLP and Computational Social Science
+### NLP_CSS: NLP and Computational Social Science
 
 <!-- ### W1: The 2nd Workshop on NLP for Medical Conversations
 See [event website](https://sites.google.com/view/nlp4mc2021/home).
