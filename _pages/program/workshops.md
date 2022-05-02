@@ -16,52 +16,76 @@ Please refer to each individual event's website for more details.
 
 
 ### TSAR: Workshop on Text Simplification, Accessibility, and Readability
+Sanja Štajner, Horacio Saggion, Wei Xu, Marcos Zampieri and Daniel Ferré
 
 ### WANLP: The Seventh Arabic Natural Language Processing Workshop
+Houda Bouamor, Hend Al-Khalifa, Kareem Darwish, Owen Rambow, Fethi Bougares, Ahmed Abdelali, Wajdi Zaghouani, Nadi Tomeh and Salam Khalifa
 
 ### FinNLP: The Fourth Workshop on Financial Technology and Natural Language Processing
+Hsin-Hsi Chen, Hiroya Takamura, Hen-Hsen Huang and Chung-Chi Chen
 
 ### GEM: Natural Language Generation, Evaluation, and Metrics
+Antoine Bosselut, Khyathi Chandu, Kaustubh Dhole, Varun Gangal, Sebastian Gehrmann, Yacine Jernite, Jekaterina Novikova and Laura Perez-Beltrachini
 
 ### NLLP: The Fourth Workshop on Natural Legal Language Processing
+Nikolaos Aletras, Ilias Chalkidis, Leslie Barrett, Cătălina Goanță and Daniel Preoțiuc-Pietro
 
 ### BlackboxNLP: Analysing and interpreting neural networks for NLP
+Jasmijn Bastings, Yonatan Belinkov, Yanai Elazar, Dieuwke Hupkes, Naomi Saphra and Sarah Wiegreffe
 
 ### WMT: Seventh Conference on Machine Translation
+Philipp Koehn
 
 ### WiNLP: The Sixth Widening NLP Workshop
+Xanda Schofield and Surangika Ranathunga
 
 ### CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text
+Ali Hürriyetoğlu, Hristo Tanev, Vanni Zavarella and Erdem Yörük
 
 ### DASH: Data Science with Human-in-the-Loop: Language Advances
+Eduard Dragut, Yunyao Li, Lucian Popa, Slobodan Vucetic and Shashank Srivastava
 
 ### MMNLU: Massively Multilingual Natural Language Understanding
+Jack FitzGerald, Kay Rottmann, Julia Hirschberg, Mohit Bansal, Anna Rumshisky and Charith Peris
 
 ### NILLI: Novel Ideas in Learning-to-Learn through Interaction
+Prasanna Parthasarathi, Koustuv Sinha, Kalesha Bullard,Chinnadhurai Sankar, Adina Williams, Marc-Alexandre Côté, Sarath Chandar and Joelle Pineau
 
 ### FLP: 3rd Workshop on Figurative Language Processing
+Debanjan Ghosh, Beata Beigman Klebanov, Smaranda Muresan, Anna Feldman, Soujanya Poria and Tuhin Chakrabarty
 
 ### NLP4PI: Second Workshop on NLP for Positive Impact
+Laura Biester, Dora Demszky, Zhijing Jin, Mrinmaya Sachan, Flavio Schneider, Joel Tetreault, Steven Wilson, Lu Xiao and Jieyu Zhao
 
 ### CoNLL: The SIGNLL Conference on Computational Natural Language Learning
+Vivek Srikumar and Antske Fokkens
 
 ### SustaiNLP: The Third Workshop on Simple and Efficient Natural Language Processing
+Maha Elbayad, Angela Fan, Iryna Gurevych, Yufang Hou, Zornitsa Kozareva, Sasha Luccioni, Nafise Sadat Moosavi and Sujith Ravi
 
 ### MathNLP: 1st Workshop on Mathematical Natural Language Processing
+Deborah Ferreira and Andre Freitas
 
 ### SereTOD: Towards Semi-Supervised and Reinforced Task-Oriented Dialog Systems
+Zhijian Ou, Junlan Feng and Juanzi Li
 
 ### UM-IoS: Unimodal and Multimodal Induction of Linguistic Structures
+Wenjuan Han, Zilong Zheng, Zhouhan Lin, Lifeng Jin, Yikang Shen, Yoon Kim, Kewei Tu and Joyce Y. Chai
 
 ### LOUHI: 13th International Workshop on Health Text Mining and Information Analysis
+Alberto Lavelli, Eben Holderness, Antonio Jimeno Yepes, Anne-Lyse Minard, James Pustejovsky and Fabio Rinaldi
 
 ### MRL: The 2nd Workshop on Multi-lingual Representation Learning
+Duygu Ataman, Hila Gonen, Sebastian Ruder, Orhan Firat, Kelechi ogueji, Gözde Gül Sahin and Jamshidbek Mirzakhalov
 
 ### EvoNLP: The First Workshop on Ever Evolving NLP
+Francesco Barbieri, Jose Camacho-Collados, Bhuwan Dhingra, Luis Espinosa-Anke, Elena Gribovskaya, Angeliki Lazaridou, Daniel Loureiro and Leonardo Neves
 
 ### SSLL: Sharing Stories and Lessons Learned
+Diyi Yang, Pradeep Dasigi, Tongshuang Wu, Tuhin Chakrabarty and Mike Zheng Shou
 
 ### NLP_CSS: NLP and Computational Social Science
+Svitlana Volkova, David Jurgens, David Bamman, Dirk Hovy and Brendan O'Connor
 
 <!-- ### W1: The 2nd Workshop on NLP for Medical Conversations
 See [event website](https://sites.google.com/view/nlp4mc2021/home).
