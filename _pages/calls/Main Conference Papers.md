@@ -131,6 +131,14 @@ EMNLP 2022 has the goal of a broad technical program. Relevant topics for the co
 
 ## Paper Submission Information
 
+### Paper Submission and Templates
+Submission is electronic, using the Softconf START conference management system. Both long and short papers must follow the EMNLP 2022 two-column format, using the supplied official style files. The templates can be downloaded in [Style Files and Formatting](/calls/style-and-formatting/).
+ **Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.**
+
+#### Verification
+
+To guarantee conformance to publication standards, we will be using the ACL Pubcheck tool (https://github.com/acl-org/aclpubcheck). The PDFs of camera-ready papers must be run through this tool prior to their final submission, and we recommend its use also at submission time.
+
 ### Long Papers
 
 Long paper submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Review forms will be made available prior to the deadlines. Long papers may consist of up to 8 pages of content, plus unlimited pages for references and appendix; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account.
@@ -183,13 +191,7 @@ Authors are required to honor the ethical code set out in the ACL [Code of Ethic
 
 Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. The EMNLP review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [ethics FAQ](https://2021.emnlp.org/call-for-papers/ethics-faq) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
 
-### Paper Submission and Templates
-Submission is electronic, using the Softconf START conference management system. Both long and short papers must follow the EMNLP 2022 two-column format, using the supplied official style files. The templates can be downloaded in [Style Files and Formatting](/calls/style-and-formatting/).
- **Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.**
 
-#### Verification
-
-To guarantee conformance to publication standards, we will be using the ACL Pubcheck tool (https://github.com/acl-org/aclpubcheck). The PDFs of camera-ready papers must be run through this tool prior to their final submission, and we recommend its use also at submission time.
 
 ### Optional Supplementary Materials
 **Appendices, Software and Data**
