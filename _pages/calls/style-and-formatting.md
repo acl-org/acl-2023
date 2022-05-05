@@ -7,7 +7,7 @@ sidebar:
 toc: false
 ---
 
-The templates can also be downloaded directly ([LaTeX](/downloads/emnlp2022-latex.zip), [Word](/downloads/emnlp2022.docx)).
+The templates can be downloaded directly ([LaTeX](/downloads/emnlp2022-latex.zip), [Word](/downloads/emnlp2022.docx)).
 
 ## Formatting Guidelines
 
