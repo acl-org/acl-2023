@@ -7,7 +7,7 @@ sidebar:
 toc: false
 ---
 
-The templates are available as an [Overleaf template](https://www.overleaf.com/latex/templates/emnlp-2022-template/hqchdxrsnwjs) and can also be downloaded directly ([LaTeX](/downloads/emnlp2022-latex.zip), [Word](/downloads/emnlp2022.docx)).
+The templates can also be downloaded directly ([LaTeX](/downloads/emnlp2022-latex.zip), [Word](/downloads/emnlp2022.docx)).
 
 ## Formatting Guidelines
 
