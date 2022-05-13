@@ -36,8 +36,7 @@ Jasmijn Bastings, Yonatan Belinkov, Yanai Elazar, Dieuwke Hupkes, Naomi Saphra a
 ### [WMT: Seventh Conference on Machine Translation](http://www.statmt.org/wmt22/)
 Philipp Koehn
 
-| 2 days |
-----------
+|2 days|
 
 ### WiNLP: The Sixth Widening NLP Workshop
 Xanda Schofield and Surangika Ranathunga
@@ -45,8 +44,7 @@ Xanda Schofield and Surangika Ranathunga
 ### [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](https://emw.ku.edu.tr/case-2022/)
 Ali Hürriyetoğlu, Hristo Tanev, Vanni Zavarella and Erdem Yörük
 
-| 2 days |
-----------
+|2 days|
 
 ### DASH: Data Science with Human-in-the-Loop: Language Advances
 Eduard Dragut, Yunyao Li, Lucian Popa, Slobodan Vucetic and Shashank Srivastava
@@ -66,8 +64,8 @@ Laura Biester, Dora Demszky, Zhijing Jin, Mrinmaya Sachan, Flavio Schneider, Joe
 ### [CoNLL: The SIGNLL Conference on Computational Natural Language Learning](https://conll.org/)
 Vivek Srikumar and Antske Fokkens
 
-| 2 days |
-----------
+|2 days|
+
 
 ### [SustaiNLP: The Third Workshop on Simple and Efficient Natural Language Processing](https://sites.google.com/view/sustainlp2022/home)
 Maha Elbayad, Angela Fan, Iryna Gurevych, Yufang Hou, Zornitsa Kozareva, Sasha Luccioni, Nafise Sadat Moosavi and Sujith Ravi
