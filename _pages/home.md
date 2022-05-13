@@ -10,7 +10,7 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 
 ## News
 
-<!--<div class="text-center notice--danger">
+<!-- <div class="text-center notice--danger">
 <p>Please fill out the short <a href="https://forms.office.com/r/Ww583kAMf7"><strong>post-conference survey</strong></a> to help us better organize future conferences.</p>
 <p style="font-size: 80%">The survey takes ~4 minutes to complete. Note that there will be no email receipt once you hit submit, and please only submit once.
 Aggregate statistics for non-text answers may be made publicly available. Answers to this survey will remain anonymous.
@@ -30,9 +30,9 @@ and the pre-recorded talks for authors who opted in will be uploaded to the ACL 
 {: .text-center .notice--info}
 
 The [**Conference Program Schedule**](/program/) is now online.
-{: .text-center .notice--info}
+{: .text-center .notice--info} -->
 
-<style>
+<!-- <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
@@ -49,19 +49,10 @@ The [**Conference Program Schedule**](/program/) is now online.
 | June 1, 2021 | The [Conference Structure](/blog/conference-structure/) is now available.
 | June 1, 2021 | Added the list of [Keynote Speakers](/program/keynotes/).
 | May 31, 2021 | Event annoucements by D&I chairs: [Mexican Cultural Events](/blog/mexican-event), [Intersectionality in NLP](/blog/intersectionality-panel), [Inclusivity in Conferences](/blog/inclusivity-panel), [Getting into NLP research and grad school applications](/blog/grad-school-panel/)
-{: .news-table}
+{: .news-table} -->
 
-[Older News](/archive/){: .btn .btn--info}
-{: .text-center}
-!-->
-## Important Dates
-
-<style>
-.dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 55%; }
-.dates-table tr td:nth-child(2) { width: 25%; }
-.dates-table del { color: #888; }
-</style>
+<!-- [Older News](/archive/){: .btn .btn--info}
+{: .text-center} -->
 
 <!--
 | ~~Start of the anonymity period~~ | ~~Friday~~ | ~~October 23, 2020~~ |
@@ -73,6 +64,17 @@ The [**Conference Program Schedule**](/program/) is now online.
 | ~~Publication date~~ | ~~Monday~~ | ~~May 24, 2021~~ |
 | ~~Co-located event: [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/)~~ | ~~Thursday – Friday~~ | ~~June 3 – 4, 2021~~ |
 !-->
+
+
+## Important Dates
+
+<style>
+.dates-table { font-size: .9em; }
+.dates-table tr td:nth-child(1) { width: 55%; }
+.dates-table tr td:nth-child(2) { width: 25%; }
+.dates-table del { color: #888; }
+</style>
+
 | Conference date | Wednesday – Sunday | December 7 – 11, 2022 |
 {: .dates-table}
 
