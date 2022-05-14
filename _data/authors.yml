@@ -60,7 +60,7 @@ demo-chairs:
 website-chairs:
   name        : "Website Chairs"
   bio         : "Zhaochun Ren, Fajie Yuan"
-  avatar      : "assets/images/logos/acl-logo.png"
+  avatar      : "assets/images/logos/blank-logo.png"
   
 local-organizing-committee:
   name        : "Local Organizing Committee"
@@ -68,5 +68,5 @@ local-organizing-committee:
 Bashar Alhafni, Tuka Alhanai, Hussein Al-Natsheh, 	
 Houda Bouamor, Kareem Darwish, Go Inoue, 	
 Khaled Shaalan, Ling Shao, Di Wang"
-  avatar      : "assets/images/logos/acl-logo.png"
+  avatar      : "assets/images/logos/blank-logo.png"
 
