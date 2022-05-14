@@ -61,3 +61,12 @@ website-chairs:
   name        : "Website Chairs"
   bio         : "Zhaochun Ren, Fajie Yuan"
   avatar      : "assets/images/logos/acl-logo.png"
+  
+local-organizing-committee:
+  name        : "Local Organizing Committee"
+  bio         : "Nizar Habash, Eric Xing, Hanan Aldarmaki, 	
+Bashar Alhafni, Tuka Alhanai, Hussein Al-Natsheh, 	
+Houda Bouamor, Kareem Darwish, Go Inoue, 	
+Khaled Shaalan, Ling Shao, Di Wang"
+  avatar      : "assets/images/logos/acl-logo.png"
+
