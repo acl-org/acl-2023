@@ -75,7 +75,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .dates-table del { color: #888; }
 </style>
 
-| Conference date | Wednesday – Sunday | December 7 – 11, 2022 |
+| Conference date (online & offline) | Wednesday – Sunday | December 7 – 11, 2022 |
 {: .dates-table}
 
 <!--
@@ -84,4 +84,4 @@ The [**Conference Program Schedule**](/program/) is now online.
 
 ## Welcome!
 
-EMNLP 2022 will take place in Abu Dhabi from **December 7th to December 11th, 2022**.
+EMNLP 2022 will take place in Abu Dhabi from **December 7th to December 11th, 2022**. And it will be held in hybrid mode, both online and offline.
