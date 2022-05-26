@@ -13,6 +13,11 @@ Q: I just finished my work and want to consider submiting it to EMNLP. Shall I s
 A: You can choose either mode. However, if you choose to submit to ARR, and cannot get meta review by Jul 24th, then you might risk not being able to commit to EMNLP. However, given that there is more than 2months before the deadline, it is likely that you will get your reviews by then!
 {: .answer}
 
+Q: Can I submit my paper back to ARR after being rejected from EMNLP?
+{: .question}
+A: A paper may not be simultaneously under review through ARR and EMNLP 2022. In addition, a paper that has received reviews through ARR and then separately receives reviews from EMNLP will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers)
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
