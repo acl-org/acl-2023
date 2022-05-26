@@ -15,7 +15,7 @@ A: You can choose either mode. However, if you choose to submit to ARR, and cann
 
 Q: Can I submit my paper back to ARR after being rejected from EMNLP?
 {: .question}
-A: A paper may not be simultaneously under review through ARR and EMNLP 2022. In addition, a paper that has received reviews through ARR and then separately receives reviews from EMNLP will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers)
+A: A paper may not be simultaneously under review through ARR and EMNLP 2022. In addition, a paper that has received reviews through ARR and then separately receives reviews from EMNLP will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers).
 {: .answer}
 
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
