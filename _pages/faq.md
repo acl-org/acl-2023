@@ -8,7 +8,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-Q: I just finished my work and want to consider submiting it to EMNLP. Shall I submit to ARR in the May cycle or wait to submit directly in June?
+Q: I just finished my work and want to consider submiting it to EMNLP. Shall I submit it to ARR in the Jun cycle or directly to the conference?
 {: .question}
 A: You can choose either mode. However, if you choose to submit to ARR, and cannot get meta review by Jul 24th, then you might risk not being able to commit to EMNLP. However, given that there is more than 2months before the deadline, it is likely that you will get your reviews by then!
 {: .answer}
