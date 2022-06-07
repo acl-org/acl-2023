@@ -1,116 +1,515 @@
 ---
 title: Senior Program Committee
 layout: single
-excerpt: "NAACL 2021 program committee."
+excerpt: "EMNLP 2022 senior program committee."
 permalink: /committees/program/
 sidebar:
     nav: "committees"
 ---
 
 ### Computational Social Science and Cultural Analytics
-**SACs:** David Bamman, Chenhao Tan <br>
-**ACs:** Dallas Card, Paramveer Dhillon, Lucie Flek, Kenny Joseph, David Mimno, Dong Nguyen, Brendan O'Connor, Daniel Preotiuc-Pietro, Sara Tonelli, Svetlana Volkova, Justine Zhang
+{% include committee-member.html
+   name="David Banman"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="dbamman@berkeley.edu"
+%}
+
+{% include committee-member.html
+   name="Diyi Yang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="diyi.yang@cc.gatech.edu"
+%}
+
+{% include committee-member.html
+   name="Paolo Rosso"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="prosso@dsic.upv.es"
+%}
+
 
 ### Dialogue and Interactive Systems
-**SACs:** Maxine Eskenazi, Kallirroi Georgila, Jiwei Li <br>
-**ACs:** Ryuichiro Higashinaka, Casey Kennington, Kazunori Komatani, Sungjin Lee, Pierre Lison, Jose David Lopes, Ramesh Manuvinakurike, Michael McTear, Alexandros Papangelis, Rebecca Passonneau, Gabriel Skantze, David Traum, Stefan Ultes, Nigel Ward, Jason Williams, Koichiro Yoshino, Kai Yu, Tiancheng Zhao
+{% include committee-member.html
+   name="Wenjie Li"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="cswjli@comp.polyu.edu.hk"
+%}
+
+{% include committee-member.html
+   name="Wanxiang Che"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="car@ir.hit.edu.cn"
+%}
+
+{% include committee-member.html
+   name="Jason Williams"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="jason_williams4@apple.com"
+%}
 
 ### Discourse and Pragmatics
-**SACs:** Giuseppe Carenini, Junyi (Jessy) Li <br>
-**ACs:** Malihe Alikhani, Shafiq Joty, Sujian Li, Annie Louis, Deyi Xiong
+{% include committee-member.html
+   name="Yufang Hou"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="bnuxiaofang@gmail.com"
+%}
 
-### Ethics, Bias, and Fairness
-**SACs:** Kai-Wei Chang <br>
-**ACs:** Vinodkumar Prabhakaran, Rachel Rudinger
+### Efficient Methods for NLP
+{% include committee-member.html
+   name="Sujith Ravi"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="sravi@sravi.org"
+%}
 
-### Green NLP
-**SACs:** Roy Schwartz <br>
-**ACs:** Niranjan Balasubramanian, Emma Strubell
+{% include committee-member.html
+   name="William Wang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="william@cs.ucsb.edu"
+%}
 
-### Language Generation
-**SACs:** Asli Celikyilmaz, Nanyun Peng, Wei Xu <br>
-**ACs:** Antoine Bosselut, Greg Durrett, Claire Gardent, Iryna Gurevych, Srinivasan Iyer, Mohit Iyyer, Yangfeng Ji, Mirella Lapata, Mike Lewis, Ankur Parikh, Laura Perez-Beltrachini, Sudha Rao, Hannah Rashkin, Mark Riedl, John Wieting
+### Ethics and NLP
+{% include committee-member.html
+   name="Eduardo Blanco"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="Eduardo.Blanco@asu.edu"
+%}
+
+### Natural Language Generation
+{% include committee-member.html
+   name="Alexander Rush"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="arush@cornell.edu"
+%}
+
+{% include committee-member.html
+   name="Minlie Huang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="aihuang@tsinghua.edu.cn"
+%}
+
+{% include committee-member.html
+   name="Wei 'Coco' Xu"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="wei.xu@cc.gatech.edu"
+%}
 
 ### Information Extraction
-**SACs:** Heng Ji, Zornitsa Kozareva, William Wang <br>
-**ACs:** Gerard de Melo, Luciano Del Corro, Bhuwan Dhingra, Ruihong Huang, Lifu Huang, Arzoo Katiyar, Ni Lao, Yi Luan, Ndapa Nakashole, Vincent Ng, Thien Huu Nguyen, Qiang Ning, Sujith Ravi, Siliang Tang, Derrry Tanti Wijaya, Bishan Yang, Dian Yu, Sheng Zhang
+{% include committee-member.html
+   name="Hoifung Poon"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="hoifung@microsoft.com"
+%}
+
+{% include committee-member.html
+   name="Alan Ritter"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="alan.ritter@cc.gatech.edu"
+%}
+
+{% include committee-member.html
+   name="Kang Liu"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="kliu@nlpr.ia.ac.cn"
+%}
 
 ### Information Retrieval and Text Mining
-**SACs:** Eugene Agichtein, Alessandro Moschitti <br>
-**ACs:** Qingyao Ai, Ahmed Hassan Awadallah, Simone Filice, Karthik Raman, Oleg Rokhlenko, Luca Soldaini, Yi Tay, Olga Uryupina, Thuy Vu, Hamed Zamani
+{% include committee-member.html
+   name="Yiqun Liu"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="yiqunliu@tsinghua.edu.cn"
+%}
 
-### Interpretability and Analysis of Models for NLP
-**SACs:** Yonatan Belinkov, Grzegorz Chrupala, Anders Søgaard <br>
-**ACs:** Jasmijn Bastings, Allyson Ettinger, Katja Filippova, Antske Fokkens, Dieuwke Hupkes, Hung-yi Lee, Zachary Lipton, Lilja Øvrelid, Anna Rogers, Benjamin Roth, Hassan Sajjad, Wojciech Samek, Ian Tenney, Xin (Eric) Wang, Willem Zuidema
+{% include committee-member.html
+   name="Scott Yih"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="scottyih@fb.com"
+%}
 
-### Language Grounding to Vision, Robotics and Beyond
-**SACs:** Jason Baldridge, Mohit Bansal <br>
-**ACs:** Aishwarya Agrawal, Joyce Chai, Spandana Gella, David Harwath, Lisa Anne Hendricks, Angeliki Lazaridou, Karthik Narasimhan, Jesse Thomason, Mark Yatskar
+### Interpretability, Interactivity and Analysis of Models for NLP
+{% include committee-member.html
+   name="Sameer Singh"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="sameer@uci.edu"
+%}
 
-### Language Resources and Evaluation
-**SACs:** Sam Bowman, Matt Gardner <br>
-**ACs:** Pradeep Dasigi, Kyle Gorman, Joakim Nivre, Saku Sugawara, Alane Suhr, Reut Tsarfaty, Aaron White, Adina Williams
+{% include committee-member.html
+   name="Ana Marasovic"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="anam@allenai.org"
+%}
 
 ### Linguistic Theories, Cognitive Modeling and Psycholinguistics
-**SACs:** William Schuler <br>
-**ACs:** Richard Futrell, Kasia Hitczenko, Emily Prud'hommeaux, Marten van Schijndel
+{% include committee-member.html
+   name="Raquel Fernandez"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="raquel.fernandez@uva.nl"
+%}
 
-### Machine Learning for NLP: Classification and Structured Prediction Models
-**SACs:** Alan Ritter, Sasha Rush, Vivek Srikumar <br>
-**ACs:** Yoav Artzi, Isabelle Augenstein, Mathieu Blondel, Shay Cohen, Caio Corro, Dan Goldwasser, Yoon Kim, Lingpeng Kong, Paul Michel, Lili Mou, Vlad Niculae, Gabriel Stanovsky, Karl Stratos, Swabha Swayamdipta
+{% include committee-member.html
+   name="Richard Futrell"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="rfutrell@uci.edu"
+%}
 
-### Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
-**SACs:** Kevin Gimpel, Omer Levy <br>
-**ACs:** Roee Aharoni, Michael Auli, Taylor Berg-Kirkpatrick, Li Dong, Tatsunori Hashimoto, Andre Martins, Matthew Peters, Colin Raffel, Rico Sennrich, Lei Yu
+### Machine Learning for NLP
+{% include committee-member.html
+   name="Taro Watanabe"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="taro@is.naist.jp"
+%}
+
+{% include committee-member.html
+   name="Kevin Duh"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="kevinduh@cs.jhu.edu"
+%}
+
+{% include committee-member.html
+   name="Zhiyuan Liu"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="liuzy@tsinghua.edu.cn"
+%}
+
+{% include committee-member.html
+   name="Anders Søgaard"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="soegaard@di.ku.dk"
+%}
 
 ### Machine Translation
-**SACs:** George Foster, Maja Popović, Matt Post <br>
-**ACs:** Antonis Anastasopoulos, Eleftherios Avramidis, Michael Denkowski, Mark Fishel, Alexander Fraser, Markus Freitag, Yvette Graham, Paco Guzmán, Christian Hardmeier, Carolina Scarton, Dimitar Shterionov, Michel Simard, Marco Turchi, Eva Vanmassenhove, David Vilar, Rui Wang
+{% include committee-member.html
+   name="Derek Wong"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="derekfw@um.edu.mo"
+%}
+
+{% include committee-member.html
+   name="Liang Huang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="liang.huang.sh@gmail.com"
+%}
+
+{% include committee-member.html
+   name="Marcin Junczys-Dowmunt"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="marcin.junczysdowmunt@microsoft.com"
+%}
 
 ### Multilinguality
-**SACs:** Manaal Faruqui, Radu Florian <br>
-**ACs:** Marine Carpuat, Orhan Firat, Dan Garrette, Katharina Kann, Sara Rosenthal, Sakriani Sakti, Ves Stoyanov, Shyam Upadhyay, Zhiguo Wang, Imed Zitouni
+{% include committee-member.html
+   name="Eunsol Choi"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="eunsol@utexas.edu"
+%}
+
+{% include committee-member.html
+   name="Monojit Choudhury"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="monojitc@microsoft.com"
+%}
 
 ### NLP Applications
-**SACs:** Yun-Nung Vivian Chen, Jing Huang, Nitin Madnani, Byron Wallace, <br>
-**ACs:** Andrew O. Arnold, Aoife Cahill, Chris Donahue, Vivek Kulkarni, Rohit Kumar, Cheng-Te Li, Yang Liu, Tristan Naumann, Hoifung Poon, Peng Qi, Nazneen Fatema Rajani, Vikram Ramanarayanan, Kevin Small, Gokhan Tur, Sowmya Vajjala, Karin Verspoor, Guangtao Wang, Youzheng Wu, Bing Xiang, Pengtao Xie, Helen Yannakoudakis, Torsten Zesch, Yuhao Zhang
+{% include committee-member.html
+   name="Marek Rei"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="marek.rei@imperial.ac.uk"
+%}
 
 ### Phonology, Morphology and Word Segmentation
-**SACs:** Ryan Cotterell <br>
-**ACs:** Xuanjing Huang, Francis Tyers, Ekaterina Vylomova
+{% include committee-member.html
+   name="Qi Zhang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="qz@fudan.edu.cn"
+%}
 
 ### Question Answering
-**SACs**: Danqi Chen, Hannaneh Hajishirzi <br>
-**ACs:** Jonathan Berant, Jordan Boyd-Graber, Kyunghyun Cho, Eunsol Choi, Nan Duan, Kelvin Guu, Robin Jia, Daniel Khashabi, Tushar Khot, Jimmy Lin, Xiang Ren, Minjoon Seo, Pontus Stenetorp, Huan Sun
+{% include committee-member.html
+   name="Danqi Chen"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="danqic@cs.princeton.edu"
+%}
 
-### Semantics: Lexical Semantics
-**SACs**: Ivan Vulić <br>
-**ACs:** Goran Glavaš, Taher Pilehvar, Roi Reichart, Steven Schockaert, Ekaterina Shutova, Aline Villavicencio
+{% include committee-member.html
+   name="Anna Rogers"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="arogers@sodas.ku.dk"
+%}
 
-### Semantics: Sentence-level Semantics and Textual Inference
-**SACs:** Daniel Cer, Douwe Kiela, Wenpeng Yin <br>
-**ACs:** Heike Adel, Roy Bar-Haim, Iz Beltagy, Eduardo Blanco, Shiyu Chang, Daniel Hershcovich, Adam Poliak, Christopher G. Potts, Siva Reddy, Marek Rei, German Rigau, Cicero Nogueira dos Santos, Yangqiu Song, Yinfei Yang, Mo Yu
+### Resources and Evaluation
+{% include committee-member.html
+   name="Valerio Basile"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="valerio.basile@unito.it"
+%}
 
-### Sentiment Analysis and Stylistic Analysis
-**SACs:** Preslav Nakov, Diyi Yang <br>
-**ACs:** Tanmoy Chakraborty, Lun-Wei Ku, Soujanya Poria, Paolo Rosso, Thamar Solorio, Aixin Sun, Arkaitz Zubiaga, Yulan He, Roman Klinger
+{% include committee-member.html
+   name="Jose Collados"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="josecamachocollados@gmail.com"
+%}
 
-### Speech
-**SAC:** Eric Fosler-Lussier <br>
-**ACs:** Erica Cooper, Yao Qian, Yuxuan Wang
+{% include committee-member.html
+   name="Filip Ginter"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="figint@utu.fi"
+%}
+
+### Semantics: Lexical, Sentence level, Textual Inference and Other areas
+{% include committee-member.html
+   name="Linfeng Song"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="lfsong@tencent.com"
+%}
+
+{% include committee-member.html
+   name="Jackie Chi Kit Cheung"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="jcheung@cs.mcgill.ca"
+%}
+
+{% include committee-member.html
+   name="Bernd Bohnet"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="bohnetbd@google.com"
+%}
+
+### Sentiment Analysis, Stylistic Analysis, and Argument Mining
+{% include committee-member.html
+   name="Eric Cambria"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="cambria@ntu.edu.sg"
+%}
+
+{% include committee-member.html
+   name="Meishan Zhang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="mason.zms@gmail.com"
+%}
+
+### Speech, Vision, Robotics, Multimodal Grounding
+{% include committee-member.html
+   name="Jesse Thomason"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="jessetho@usc.edu"
+%}
+
+{% include committee-member.html
+   name="Yonatan Bisk"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="ybisk@cs.cmu.edu"
+%}
 
 ### Summarization
-**SACs:** Michael Elhadad, Yue Zhang <br>
-**ACs:** Arman Cohan, Sebastian Gehrmann, Logan Lebanoff, Fei Liu, Pengfei Liu, Shashi Narayan, Manabu Okumura, Xiaojun Wan, Rui Zhang
+{% include committee-member.html
+   name="Xiaojun Wan"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="wanxiaojun@pku.edu.cn"
+%}
+
+{% include committee-member.html
+   name="Horacio Saggion"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="horacio.saggion@upf.edu"
+%}
+
+{% include committee-member.html
+   name="Lu Wang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="wangluxy@umich.edu"
+%}
+
+{% include committee-member.html
+   name="Fei Liu"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="feiliu@cs.ucf.edu"
+%}
 
 ### Syntax: Tagging, Chunking, and Parsing
-**SAC:** Kenji Sagae <br>
-**ACs:** Marco Kuhlmann, Miryam de Lhoneux, Jennifer Foster, David Chiang, Weiwei Sun, Miguel Ballesteros
+{% include committee-member.html
+   name="Slav Petrov"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="slav@google.com"
+%}
 
-### Special Theme: New Challenges in NLP
-**SAC:** Kenneth Church <br>
-**ACs:** Chris Callison-Burch, Valia Kordoni, Sabine Schulte im Walde, Costanza Navarretta
+{% include committee-member.html
+   name="Xavier Carreras"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="xavcar@gmail.com"
+%}
 
-### Conflict of Interest (COI)
-**SAC:** Graham Neubig <br>
-**ACs:** Monoji Choudhury, Anna Korhonen, Wei Lu, Kathy McKeown, Noah A. Smith
+### Commonsense Reasoning
+{% include committee-member.html
+   name="German Rigau"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="german.rigau@ehu.eus"
+%}
+
+{% include committee-member.html
+   name="Xiang Ren"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="xiangren@usc.edu"
+%}
+
+### Language Modeling and Analysis of Language Models
+{% include committee-member.html
+   name="Luke Zettlemoyer"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="lsz@cs.washington.edu"
+%}
+
+{% include committee-member.html
+   name="Colin Raffel"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="craffel@gmail.com"
+%}
+
+{% include committee-member.html
+   name="Kenthon Lee"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="kentonl@google.com"
+%}
+
+### Unsupervised and Weakly-Supervised Methods in NLP
+{% include committee-member.html
+   name="Yoon Kim"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="yoonkim@mit.edu"
+%}
+
+{% include committee-member.html
+   name="Mihai Surdeanu"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="msurdeanu@arizona.edu"
+%}
+
+### Theme Track
+{% include committee-member.html
+   name="Kenji Sagae"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="sagaeucdavis.edu"
+%}
+
+{% include committee-member.html
+   name="Jonathan May"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="jonmay@isi.edu"
+%}
