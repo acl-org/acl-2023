@@ -86,7 +86,7 @@ Duygu Ataman, Hila Gonen, Sebastian Ruder, Orhan Firat, Kelechi ogueji, Gözde G
 ### [EvoNLP: The First Workshop on Ever Evolving NLP](https://sites.google.com/view/evonlp/)
 Francesco Barbieri, Jose Camacho-Collados, Bhuwan Dhingra, Luis Espinosa-Anke, Elena Gribovskaya, Angeliki Lazaridou, Daniel Loureiro and Leonardo Neves
 
-### SSLL: Sharing Stories and Lessons Learned
+### [SSLL: Sharing Stories and Lessons Learned](https://sites.google.com/view/ssll-nlp-workshop/home)
 Diyi Yang, Pradeep Dasigi, Tongshuang Wu, Tuhin Chakrabarty and Mike Zheng Shou
 
 ### [NLP_CSS: NLP and Computational Social Science](https://sites.google.com/site/nlpandcss/)
