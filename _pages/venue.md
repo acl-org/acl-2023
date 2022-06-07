@@ -194,9 +194,18 @@ Abu Dhabi has a range of impressive dining options to offer, with stylish restau
 ### Dubai
 
 Dubai is only 140km (1 hour and 20 minutes by car) away from Abu Dhabi.
+Dubai is a vibrant, urban, and multicultural city with attractive tourist destinations, such as Burj Khalifa -- the tallest building in the world.
 To find out more, please visit [here](https://www.visitdubai.com/).
 
 ![dubai]({{ site.baseurl }}/assets/images/abu_dhabi/burj-khalifa_01.jpeg)
+
+### Sharjah
+
+Sharjah is the third largest Emirate, it is only ~165km (1 hour and 50 minutes by car) away from Abu Dhabi.
+It is a major cultural hub in the UAE, there is also a wide variety of activities awaiting.
+To find out more, please visit the city's guide [here](https://www.visitsharjah.com/en/regions/sharjah-city/).
+
+![sharjah]({{ site.baseurl }}/assets/images/abu_dhabi/sharjah_01.jpg)
 
 ## Important Information
 
