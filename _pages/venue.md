@@ -58,6 +58,11 @@ From Abu Dhabi Corniche, ADNEC is located just 15 minutes away.
 <!-- Add a bit about CAREEM -->
 - **Buses** are also available around Abu Dhabi and ADNEC is serviced by bus number 040, seven days a week. For more information on bus routes, services and fares please see the [Department of Transport website](https://itc.gov.ae/en/info/Abu_Dhabi_Region_Bus_Services).
 
+### Visas
+Visa requirements vary by country of citizenship.
+Please check out [this page](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae) for more information.
+
+
 ## COVID-19 Regulations 
 <!-- Testing and Medical Assistance -->
 
@@ -280,10 +285,6 @@ The tap water in Abu Dhabi is safe to drink. But locally bottled water is genera
 
 Bargaining is expected in the souk and is not unusual elsewhere. Vendors will usually drop the price and often quite substantially, particularly for a cash sale. -->
 
-
-**Visas**
-Visa requirements vary by country of citizenship.
-[Citizens of these countries](https://www.visitdubai.com/en/plan-your-trip/visa-information) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 30 days with a 10-day grace period for extension. [Citizens of these countries](https://www.visitdubai.com/en/plan-your-trip/visa-information) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 90 days. More information about other passports is available [here](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae).
 
 ## FAQs
 
