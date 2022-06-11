@@ -237,6 +237,14 @@ sidebar:
 %}
 
 {% include committee-member.html
+   name="Jiajun Zhang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="jjzhang@nlpr.ia.ac.cn"
+%}
+
+{% include committee-member.html
    name="Liang Huang"
    picture="/assets/images/committee/books.jpeg"
    site=""
@@ -276,6 +284,14 @@ sidebar:
    site=""
    institution=""
    email="marek.rei@imperial.ac.uk"
+%}
+
+{% include committee-member.html
+   name="Joel Tetreault"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email="tetreaul@gmail.com"
 %}
 
 ### Phonology, Morphology and Word Segmentation
