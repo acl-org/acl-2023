@@ -18,6 +18,11 @@ Q: Can I submit my paper back to ARR after being rejected from EMNLP?
 A: A paper may not be simultaneously under review through ARR and EMNLP 2022. In addition, a paper that has received reviews through ARR and then separately receives reviews from EMNLP will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers).
 {: .answer}
 
+Q: I intend to commit from ARR by July 24. Can my submission be put to arXiv by June 24?
+{: .question}
+A: Yes you can do that. Due to several similar inquries we decided to allow two separate anonimity deadlines for direct submission and for ARR comissions, respectively, both for one month.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
