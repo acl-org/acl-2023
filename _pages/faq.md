@@ -23,6 +23,11 @@ Q: I intend to commit from ARR by July 24. Can my submission be put to arXiv by 
 A: Yes you can do that. Due to several similar inquries we decided to allow two separate anonimity deadlines for direct submission and for ARR comissions, respectively, both for one month.
 {: .answer}
 
+Q: Do I have to submit my abstract to SOFTCONF if I commit from ARR?
+{: .question}
+A: No you do not have to. Just commit directly after Jun 25 through the same SOFTCONF system. We will make the submission page ready after the direct submission deadline.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
