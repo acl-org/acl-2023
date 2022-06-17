@@ -28,6 +28,11 @@ Q: Do I have to submit my abstract to SOFTCONF if I commit from ARR?
 A: No you do not have to. Just commit directly after Jun 25 through the same SOFTCONF system. We will make the submission page ready after the direct submission deadline.
 {: .answer}
 
+Q: Why does my draft not pass the formality test by using the standard conference template and ACL Pubcheck?
+{: .question}
+A: For using the verification script, one should *not* use the review mode.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
