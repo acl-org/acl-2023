@@ -33,6 +33,11 @@ Q: Why does my draft not pass the formality test by using the standard conferenc
 A: For using the verification script, one should *not* use the review mode.
 {: .answer}
 
+Q: If I commit from ARR, what is the page limit of my rebuttal file?
+{: .question}
+A: We require that the rebuttal file does not exceed one page using the standard template.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
