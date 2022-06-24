@@ -104,11 +104,11 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Natalie Schluter"
+   name="Margot Mieskes"
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
-   email = "nael@itu.dk"
+   email = "margot.mieskes@h-da.de"
 %}
 
 <h2>Demonstration Chairs</h2>
