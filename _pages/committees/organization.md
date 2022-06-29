@@ -142,7 +142,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
-   email = "eger@aiphes.tu-darmstadt.de"
+   email = "steffen.eger@uni-bielefeld.de"
 %}
 
 {% include committee-member.html
