@@ -10,6 +10,8 @@ sidebar:
 
 <!-- Note that while the main conference time zone is Gulf Standard Time (UTC+4), workshop time zones vary. -->
 
+[Workshop chairs](https://2022.emnlp.org/organization/): Daniel Hershcovich and Asli Celikyilmaz.
+
 Please refer to each individual event's website for more details.
 
 
