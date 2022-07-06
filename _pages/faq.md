@@ -38,6 +38,16 @@ Q: If I commit from ARR, what is the page limit of my rebuttal file?
 A: We require that the rebuttal file does not exceed one page using the standard template.
 {: .answer}
 
+Q: I am a reviewer and I want to reduce my review load / change my assigned submissions/ tell my unavailability dates.
+{: .question}
+A: Kindly contact your senior area chairs for taking necessary actions.
+{: .answer}
+
+Q: I forgot to add Limitations to my submission, can you add this?
+{: .question}
+A: Sorry we have decided that all submissions without Limitations will be desk rejected
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
