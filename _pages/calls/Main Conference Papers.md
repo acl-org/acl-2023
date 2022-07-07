@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 ## Important Notice
-[**Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available for Main Conference Papers.
+[**Main Conference Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available.
 
 ## Overview
 The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022) invites the submission of long and short papers on substantial, original, and unpublished research on empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals. 
