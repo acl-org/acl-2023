@@ -75,7 +75,7 @@ Duygu Ataman, Hila Gonen, Sebastian Ruder, Orhan Firat, Kelechi ogueji, Gözde G
 ### W19: [NILLI: Novel Ideas in Learning-to-Learn through Interaction](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/)
 Prasanna Parthasarathi, Koustuv Sinha, Kalesha Bullard,Chinnadhurai Sankar, Adina Williams, Marc-Alexandre Côté, Sarath Chandar and Joelle Pineau
 
-### W20: MathNLP: 1st Workshop on Mathematical Natural Language Processing
+### W20: [MathNLP: 1st Workshop on Mathematical Natural Language Processing](https://sites.google.com/view/1st-mathnlp/home)
 Deborah Ferreira and Andre Freitas
 
 ### W21: [SSLL: Sharing Stories and Lessons Learned](https://sites.google.com/view/ssll-nlp-workshop/home)
