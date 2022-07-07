@@ -48,6 +48,11 @@ Q: I forgot to add Limitations to my submission, can you add this?
 A: Sorry we have decided that all submissions without Limitations will be desk rejected
 {: .answer}
 
+Q: I want to commit my ARR submission to EMNLP, and cannot find the submission link.
+{: .question}
+A: we intend to use the same submission link for ARR comission, but in order to avoid inconvenience in the review system, we are holding the activation until review begins. We expect that the submission page will be ready by Jul 10th. Thanks for your waiting!
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
