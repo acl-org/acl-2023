@@ -53,6 +53,11 @@ Q: I want to commit my ARR submission to EMNLP, and cannot find the submission l
 A: we intend to use the same submission link for ARR comission, but in order to avoid inconvenience in the review system, we are holding the activation until review begins. We expect that the submission page will be ready by Jul 10th. Thanks for your waiting!
 {: .answer}
 
+Q: I am very sorry that we missed the deadline, because of something that we could not foresee. 
+{: .question}
+A: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
