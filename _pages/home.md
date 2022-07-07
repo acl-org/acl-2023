@@ -10,7 +10,8 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 
 ## News
 <div class="text-center notice--danger">
-<p><a href="https://softconf.com/emnlp2022/industry-track"><strong>Industry Track submission link</strong></a> is now available.</p>
+<p><a href="https://softconf.com/emnlp2022/industry-track"><strong>Industry Track submission link</strong></a> is now available.
+</p>
 </div>
 
 [**Main Conference Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available.
