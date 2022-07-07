@@ -9,14 +9,14 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+## Important Notice
+[**Industry Track Papers submission link**](https://softconf.com/emnlp2022/industry-track) is now available.
+
 EMNLP 2022 Industry Track in Abu Dhabi, United Arab Emirates
 
 Conference: December 7-11, 2022
 
 **Paper submission deadline: July 25th, 2022**
-
-## Important Notice
-[**Industry Track Papers submission link**](https://softconf.com/emnlp2022/industry-track) is now available.
 
 **BACKGROUND** Language technologies and their applications are an integral and critical part of our daily lives. The development of many of these technologies trace their roots to academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected the performance of these algorithms to provide plausible solutions to real-world applications. While a controlled laboratory setting is vital for a deeper scientific understanding of the problems underlying language technologies and the impact of algorithmic design choices on the performance of a technology, transitioning the technology to real-world industrial strength applications raises a different, yet challenging, set of technical issues.
 ## TOPICS
