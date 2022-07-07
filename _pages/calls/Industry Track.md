@@ -15,6 +15,9 @@ Conference: December 7-11, 2022
 
 **Paper submission deadline: July 25th, 2022**
 
+## Important Notice
+[**Industry Track Papers submission link**](https://softconf.com/emnlp2022/industry-track) is now available.
+
 **BACKGROUND** Language technologies and their applications are an integral and critical part of our daily lives. The development of many of these technologies trace their roots to academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected the performance of these algorithms to provide plausible solutions to real-world applications. While a controlled laboratory setting is vital for a deeper scientific understanding of the problems underlying language technologies and the impact of algorithmic design choices on the performance of a technology, transitioning the technology to real-world industrial strength applications raises a different, yet challenging, set of technical issues.
 ## TOPICS
 We invite submissions describing innovations and implementations in all areas of speech and natural language processing technologies and systems that are relevant to real-word applications. The primary focus of this track is on papers that advance the understanding of, and demonstrate the effective handling of, practical issues related to the deployment of language processing technologies in non-trivial real-world systems. By “non-trivial real-world system” we mean an application that is deployed for real-world use, i.e. outside controlled environments such as a laboratories, classrooms or experimental crowd-sourced setups, and that uses natural language processing (including speech technology), even if not state of the art in terms of research. There is no requirement that the system be made by a for-profit company, but the users of the system are most likely outside the NLP research community.
