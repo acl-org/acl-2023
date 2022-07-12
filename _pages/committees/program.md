@@ -452,6 +452,15 @@ sidebar:
    email="ybisk@cs.cmu.edu"
 %}
 
+{% include committee-member.html
+   name="Reut Tsarfaty"
+   picture="/assets/images/committee/books.jpeg"
+   site="http://www.tsarfaty.com/index.html"
+   institution="The Open University of Israel"
+   email="reutts@openu.ac.il"
+%}
+
+
 ### Summarization
 {% include committee-member.html
    name="Xiaojun Wan"
@@ -576,13 +585,4 @@ sidebar:
    site=""
    institution=""
    email="jonmay@isi.edu"
-%}
-
-### Speech Track
-{% include committee-member.html
-   name="Reut Tsarfaty"
-   picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution="Bar Ilan University"
-   email="reut.tsarfaty@biu.ac.il"
 %}
