@@ -456,8 +456,8 @@ sidebar:
    name="Reut Tsarfaty"
    picture="/assets/images/committee/books.jpeg"
    site="http://www.tsarfaty.com/index.html"
-   institution="The Open University of Israel"
-   email="reutts@openu.ac.il"
+   institution="Bar-Ilan University"
+   email="reut.tsarfaty@biu.ac.il"
 %}
 
 
