@@ -577,3 +577,12 @@ sidebar:
    institution=""
    email="jonmay@isi.edu"
 %}
+
+### Speech Track
+{% include committee-member.html
+   name="Reut Tsarfaty"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution="Bar Ilan University"
+   email="reut.tsarfaty@biu.ac.il"
+%}
