@@ -160,6 +160,14 @@ sidebar:
    email="scottyih@fb.com"
 %}
 
+{% include committee-member.html
+   name="Don Metzler"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution="Google"
+   email=""
+%}
+
 ### Interpretability, Interactivity and Analysis of Models for NLP
 {% include committee-member.html
    name="Sameer Singh"
