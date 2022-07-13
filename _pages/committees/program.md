@@ -185,6 +185,14 @@ sidebar:
    email="anam@allenai.org"
 %}
 
+{% include committee-member.html
+   name="Yuval Pinter"
+   picture="/assets/images/committee/books.jpeg"
+   site="https://www.cs.bgu.ac.il/~pintery/"
+   institution="Ben-Gurion University of the Negev (BGU)"
+   email="uvp@cs.bgu.ac.il"
+%}
+
 ### Linguistic Theories, Cognitive Modeling and Psycholinguistics
 {% include committee-member.html
    name="Raquel Fernandez"
