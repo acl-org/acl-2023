@@ -165,7 +165,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution="Google"
-   email=""
+   email="metzler@google.com"
 %}
 
 ### Interpretability, Interactivity and Analysis of Models for NLP
