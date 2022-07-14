@@ -50,7 +50,7 @@ A: Sorry we have decided that all submissions without Limitations will be desk r
 
 Q: I want to commit my ARR submission to EMNLP, and cannot find the submission link.
 {: .question}
-A: we intend to use the same submission link for ARR comission, but in order to avoid inconvenience in the review system, we are holding the activation until review begins. We expect that the submission page will be ready by Jul 10th. Thanks for your waiting!
+A: You can submit using the same SOFTCONF link as direct submissions. See [CFP url](https://softconf.com/emnlp2022/papers/).
 {: .answer}
 
 Q: I am very sorry that we missed the deadline, because of something that we could not foresee. 
