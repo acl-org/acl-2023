@@ -12,7 +12,7 @@ sidebar:
    name="David Banman"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="UC  Berkeley"
    email="dbamman@berkeley.edu"
 %}
 
@@ -20,7 +20,7 @@ sidebar:
    name="Diyi Yang"
    picture="/assets/images/committee/books.jpeg"
    site="https://faculty.cc.gatech.edu/~dyang888/"
-   institution=""
+   institution="Georgia Institute of Technology"
    email="diyi.yang@cc.gatech.edu"
 %}
 
@@ -28,7 +28,7 @@ sidebar:
    name="Paolo Rosso"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Universitat Politècnica de València, Spain"
    email="prosso@dsic.upv.es"
 %}
 
@@ -38,7 +38,7 @@ sidebar:
    name="Wenjie Li"
    picture="/assets/images/committee/books.jpeg"
    site="www.comp.polyu.edu.hk/~cswjli"
-   institution=""
+   institution="The Hong Kong Polytechnic University"
    email="cswjli@comp.polyu.edu.hk"
 %}
 
@@ -46,7 +46,7 @@ sidebar:
    name="Wanxiang Che"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Harbin Institute of Technology"
    email="car@ir.hit.edu.cn"
 %}
 
@@ -72,7 +72,7 @@ sidebar:
    name="Sujith Ravi"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="SliceX AI"
    email="sravi@sravi.org"
 %}
 
@@ -80,7 +80,7 @@ sidebar:
    name="William Wang"
    picture="/assets/images/committee/books.jpeg"
    site="https://www.cs.ucsb.edu/~william/"
-   institution=""
+   institution="University of California, Santa Barbara"
    email="william@cs.ucsb.edu"
 %}
 
@@ -89,7 +89,7 @@ sidebar:
    name="Eduardo Blanco"
    picture="/assets/images/committee/books.jpeg"
    site="https://eduardoblanco.github.io/"
-   institution=""
+   institution="Arizona State University"
    email="Eduardo.Blanco@asu.edu"
 %}
 
@@ -98,7 +98,7 @@ sidebar:
    name="Alexander Rush"
    picture="/assets/images/committee/books.jpeg"
    site="http://rush-nlp.com/"
-   institution=""
+   institution="Cornell University"
    email="arush@cornell.edu"
 %}
 
@@ -106,7 +106,7 @@ sidebar:
    name="Minlie Huang"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Tsinghua University"
    email="aihuang@tsinghua.edu.cn"
 %}
 
@@ -123,7 +123,7 @@ sidebar:
    name="Hoifung Poon"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Microsoft Research"
    email="hoifung@microsoft.com"
 %}
 
@@ -173,7 +173,7 @@ sidebar:
    name="Sameer Singh"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="University of California, Irvine"
    email="sameer@uci.edu"
 %}
 
@@ -181,7 +181,7 @@ sidebar:
    name="Ana Marasovic"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="University of Utah"
    email="anam@allenai.org"
 %}
 
@@ -223,7 +223,7 @@ sidebar:
    name="Taro Watanabe"
    picture="/assets/images/committee/books.jpeg"
    site="https://sites.google.com/site/tarowtnb/"
-   institution=""
+   institution="Nara Institute of Science and Technology"
    email="taro@is.naist.jp"
 %}
 
@@ -231,7 +231,7 @@ sidebar:
    name="Kevin Duh"
    picture="/assets/images/committee/books.jpeg"
    site="https://www.cs.jhu.edu/~kevinduh"
-   institution=""
+   institution="Johns Hopkins University"
    email="kevinduh@cs.jhu.edu"
 %}
 
@@ -247,7 +247,7 @@ sidebar:
    name="Anders Søgaard"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="University of Copenhagen"
    email="soegaard@di.ku.dk"
 %}
 
@@ -264,7 +264,7 @@ sidebar:
    name="Jiajun Zhang"
    picture="/assets/images/committee/books.jpeg"
    site="http://www.nlpr.ia.ac.cn/cip/jjzhang.htm"
-   institution=""
+   institution="Institute of Automation Chinese Academy of Sciences"
    email="jjzhang@nlpr.ia.ac.cn"
 %}
 
@@ -272,7 +272,7 @@ sidebar:
    name="Liang Huang"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Oregon State University"
    email="liang.huang.sh@gmail.com"
 %}
 
@@ -280,7 +280,7 @@ sidebar:
    name="Marcin Junczys-Dowmunt"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Microsoft Redmond"
    email="marcin.junczysdowmunt@microsoft.com"
 %}
 
@@ -297,7 +297,7 @@ sidebar:
    name="Monojit Choudhury"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Microsoft"
    email="monojitc@microsoft.com"
 %}
 
@@ -322,7 +322,7 @@ sidebar:
    name="Ivan Vulic"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="University of Cambridge"
    email="iv250@cam.ac.uk"
 %}
 
@@ -364,7 +364,7 @@ sidebar:
    name="Anna Rogers"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="University of Copenhagen"
    email="arogers@sodas.ku.dk"
 %}
 
@@ -373,7 +373,7 @@ sidebar:
    name="Valerio Basile"
    picture="/assets/images/committee/books.jpeg"
    site="http://valeriobasile.github.io/"
-   institution=""
+   institution="University of Turin"
    email="valerio.basile@unito.it"
 %}
 
@@ -406,7 +406,7 @@ sidebar:
    name="Miguel Ballesteros"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="AWS AI Labs"
    email="ballemig@amazon.com"
 %}
 
@@ -439,7 +439,7 @@ sidebar:
    name="Eric Cambria"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Nanyang Technological University"
    email="cambria@ntu.edu.sg"
 %}
 
@@ -482,7 +482,7 @@ sidebar:
    name="Xiaojun Wan"
    picture="/assets/images/committee/books.jpeg"
    site="https://wanxiaojun.github.io"
-   institution=""
+   institution="Peking University"
    email="wanxiaojun@pku.edu.cn"
 %}
 
@@ -490,7 +490,7 @@ sidebar:
    name="Horacio Saggion"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Universitat Pompeu Fabra"
    email="horacio.saggion@upf.edu"
 %}
 
@@ -498,7 +498,7 @@ sidebar:
    name="Lu Wang"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="University of Michigan"
    email="wangluxy@umich.edu"
 %}
 
@@ -532,7 +532,7 @@ sidebar:
    name="German Rigau"
    picture="/assets/images/committee/books.jpeg"
    site="https://adimen.si.ehu.es/~rigau/"
-   institution=""
+   institution="University of the Basque Country"
    email="german.rigau@ehu.eus"
 %}
 
@@ -540,7 +540,7 @@ sidebar:
    name="Xiang Ren"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="University of Southern California"
    email="xiangren@usc.edu"
 %}
 
@@ -591,7 +591,7 @@ sidebar:
    name="Kenji Sagae"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="University of California, Davis"
    email="sagaeucdavis.edu"
 %}
 
@@ -599,6 +599,6 @@ sidebar:
    name="Jonathan May"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Information Sciences Institute University of Southern California"
    email="jonmay@isi.edu"
 %}
