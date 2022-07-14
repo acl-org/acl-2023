@@ -10,51 +10,51 @@ sidebar:
 <h2>General Chair</h2>
 {% include committee-member.html
    name="Noah Smith"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/nasmith_sm.jpg"
    site=" "
-   institution=" "
+   institution="University of Washington"
    email = "nasmith@cs.washington.edu"
 %}
 
 <h2>Program Chairs </h2>
 {% include committee-member.html
    name="Yoav Goldberg"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Yoav_Goldberg.jpg"
    site=""
-   institution=""
+   institution="Bar Ilan University"
    email = "yoav.goldberg@gmail.com"
 %}
 
 {% include committee-member.html
    name="Zornitsa Kozareva"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Zornitsa_Kozareva.jpg"
    site=""
-   institution=""
+   institution="University of California, Santa Cruz"
    email = "zornitsa@kozareva.com"
 %}
 
 {% include committee-member.html
    name="Yue Zhang"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Yue_Zhang.jpg"
    site=""
-   institution=""
+   institution="Westlake University"
    email = "yue.zhang@wias.org.cn"
 %}
 
 <h2>Industry Track Chairs </h2>
 {% include committee-member.html
    name=" Angeliki Lazaridou"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Angeliki_Lazaridou.jpg"
    site=""
-   institution=""
+   institution="DeepMind"
    email = "angeliki@google.com"
 %}
 
 {% include committee-member.html
    name="Yunyao Li"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/YunyaoLi_SQ.jpg"
    site=""
-   institution=""
+   institution="IBM"
    email = "yunyaoli@us.ibm.com"
 %}
 
@@ -62,34 +62,34 @@ sidebar:
 </h2>
 {% include committee-member.html
    name="Asli Celikyilmaz"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Asl_Celikyilmaz.jpg"
    site=""
-   institution=""
+   institution="Microsoft"
    email = "asli.ca@live.com"
 %}
 
 {% include committee-member.html
    name="Daniel Hershcovich"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Daniel_Hershcovich.jpg"
    site=""
-   institution=""
+   institution="University of Copenhagen"
    email = "dh@di.ku.dk"
 %}
 
 <h2>Tutorial Chairs </h2>
 {% include committee-member.html
    name="Samhaa R. El-Beltagy"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Samhaa_R.jpg"
    site=""
-   institution=""
+   institution="Newgiza University and Optomatica"
    email = "samhaa@computer.org"
 %}
 
 {% include committee-member.html
    name="Xipeng Qiu"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Xipeng_Qiu.jpg"
    site=""
-   institution=""
+   institution="Fudan University"
    email = "xpqiu@fudan.edu.cn"
 %}
 
@@ -97,76 +97,76 @@ sidebar:
 <h2>Ethics Chairs</h2>
 {% include committee-member.html
    name="Lea Frermann"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Lea_Frermann.jpg"
    site=""
-   institution=""
+   institution="University of Melbourne"
    email = "lea.frermann@unimelb.edu.au"
 %}
 
 {% include committee-member.html
    name="Margot Mieskes"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Margot_Mieskes.jpg"
    site=""
-   institution=""
+   institution="University of Applied Sciences, Darmstadt"
    email = "margot.mieskes@h-da.de"
 %}
 
 <h2>Demonstration Chairs</h2>
 {% include committee-member.html
    name="Wanxiang Che"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Wanxiang_Che.jpg"
    site=""
-   institution=""
+   institution="Harbin Institute of Technology"
    email = "wanxiang@gmail.com"
 %}
 
 {% include committee-member.html
    name="Ekaterina Shutova"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Ekaterina_Shutova.jpg"
    site=""
-   institution=""
+   institution="ILLC, University of Amsterdam"
    email = "shutova.e@gmail.com"
 %}
 
 <h2>Publication Chairs</h2>
 {% include committee-member.html
    name="Ryan Cotterell"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Ryan_Cotterell.jpg"
    site=""
-   institution=""
+   institution="University of Cambridge"
    email = "ryan.cotterell@gmail.com"
 %}
 
 {% include committee-member.html
    name="Steffen Eger"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Steffen_Eger.jpg"
    site=""
-   institution=""
+   institution="Stand-in Professor, Bielefeld University"
    email = "steffen.eger@uni-bielefeld.de"
 %}
 
 {% include committee-member.html
    name="Sam Wiseman"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Sam_Wiseman.jpg"
    site=""
-   institution=""
+   institution="Duke University"
    email = "swiseman@cs.duke.edu"
 %}
 
 <h2>Publicity Chairs </h2>
 {% include committee-member.html
    name="Eunsol Choi"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Eunsol_Choi.jpg"
    site=" "
-   institution=" "
+   institution="The University of Texas at Austin"
    email = "eunsol@utexas.edu"
 %}
 
 {% include committee-member.html
    name="Wajdi Zaghouani"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Wajdi_Zaghouani.jpg"
    site=""
-   institution=""
+   institution="Hamad Bin Khalifa University"
    email = "wzaghouani@hbku.edu.qa"
 %}
 
@@ -174,25 +174,25 @@ sidebar:
 <h2>Student Volunteer Chairs</h2>
 {% include committee-member.html
    name="Houda Bouamor"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Houda_Bouamor.jpg"
    site="https:"
-   institution=""
+   institution="Carnegie Mellon University in Qatar"
    email = "hbouamor@cmu.edu"
 %}
 
 <h2>Virtual Infrastructure Chair</h2>
 {% include committee-member.html
    name="Wassim El Hajj"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Wassim_El_Hajj.jpg"
    site=""
-   institution=""
+   institution="American University of Beirut"
    email = "we07@aub.edu.lb"
 %}
 {% include committee-member.html
    name="Hao Fang"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Hao_Fang.jpg"
    site=""
-   institution=""
+   institution="Microsoft"
    email = "hao.fang@microsoft.com"
 %}
 
@@ -200,50 +200,50 @@ sidebar:
 <h2>Website Chairs</h2>
 {% include committee-member.html
    name="Zhaochun Ren"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Zhaochun_Ren.jpg"
    site=""
-   institution=""
+   institution="Shandong University"
    email = "zhc.ren@gmail.com"
 %}
 {% include committee-member.html
    name="Fajie Yuan"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/fajie.jpg"
    site=""
-   institution=""
+   institution="Westlake University"
    email = "yuanfajie@westlake.edu.cn"
 %}
 
 <h2>Diversity/Inclusion/Outreach Chairs</h2>
 {% include committee-member.html
    name="Thamar Solorio"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Thamar_Solorio.jpg"
    site=""
-   institution=""
+   institution="University of Houston"
    email = "thamar.solorio@gmail.com"
 %}
 
 {% include committee-member.html
    name="Andreas Vlachos"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Andreas_Vlachos.jpg"
    site=""
-   institution=""
+   institution="University of Cambridge"
    email = "av308@cam.ac.uk"
 %}
 
 <h2>Reviewer Mentoring Chairs</h2>
 {% include committee-member.html
    name="David Mimno"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/mimno.jpg"
    site=""
-   institution=""
+   institution="Cornell University"
    email = "david.mimno@gmail.com"
 %}
 
 {% include committee-member.html
    name="Yanyan Lan"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Yanyan_Lan.jpg"
    site=""
-   institution=""
+   institution="Tsinghua University"
    email = "lanyanyan@mail.tsinghua.edu.cn"
 %}
 
@@ -251,17 +251,17 @@ sidebar:
 <h2>Sponsorship Chairs</h2>
 {% include committee-member.html
    name="Mingxuan Wang"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Mingxuan_Wang.jpg"
    site=""
-   institution=""
+   institution="ByteDance AI Lab"
    email = "wangmingxuan.89@bytedance.com"
 %}
 
 {% include committee-member.html
    name="Imed Zitouni"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Imed_Zitouni.jpg"
    site=""
-   institution=""
+   institution="Google"
    email = "izitouni@google.com"
 %}
 
@@ -270,89 +270,89 @@ sidebar:
 
 {% include committee-member.html
    name="Nizar Habash, Chair"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Nizar_Habash.jpg"
    site=""
-   institution=""
+   institution="New York University Abu Dhabi"
    email = "nizar.habash@nyu.edu"
 %}
 
 {% include committee-member.html
    name="Eric Xing, Co-Chair"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Eric_Xing.jpg"
    site=""
-   institution=""
+   institution="Mohamed bin Zayed University of AI"
    email = "president@mbzuai.ac.ae"
 %}
 
 {% include committee-member.html
    name="Hanan Aldarmaki"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Hanan_Aldarmaki.jpg"
    site=""
-   institution=""
+   institution="United Arab Emirates University"
    email = "h-aldarmaki@uaeu.ac.ae"
 %}
 
 {% include committee-member.html
    name="Bashar Alhafni"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Bashar_Alhafni.jpg"
    site=""
-   institution=""
+   institution="New York University"
    email = "alhafni@nyu.edu"
 %}
 
 {% include committee-member.html
    name="Tuka Alhanai"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Tuka_Alhanai.jpg"
    site=""
-   institution=""
+   institution="New York University Abu Dhabi"
    email = "tuka.alhanai@nyu.edu"
 %}
 
 {% include committee-member.html
    name="Hussein Al-Natsheh"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Hussein_NATSHEH.jpg"
    site=""
-   institution=""
+   institution="Beyond Limits"
    email = "hal-natsheh@beyond.ai"
 %}
 
 {% include committee-member.html
    name="Houda Bouamor"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Houda_Bouamor.jpg"
    site=""
-   institution=""
+   institution="Carnegie Mellon University in Qatar"
    email = "hbouamor@cmu.edu"
 %}
 
 {% include committee-member.html
    name="Kareem Darwish"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Kareem_Darwish.jpg"
    site=""
-   institution=""
+   institution="aiXplain"
    email = "kareem.darwish@aixplain.com"
 %}
 
 {% include committee-member.html
    name="Go Inoue"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Go_Inoue.jpg"
    site=""
-   institution=""
+   institution="New York University Abu Dhabi"
    email = "go.inoue@nyu.edu"
 %}
 
 {% include committee-member.html
    name="Khaled Shaalan"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Khaled_Shaalan.jpg"
    site=""
-   institution=""
+   institution="The British University in Dubai"
    email = "khaled.shaalan@buid.ac.ae"
 %}
 
 {% include committee-member.html
    name="Ling Shao"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/ling_shao.jpg"
    site=""
-   institution=""
+   institution="Inception Institute of Artificial Intelligence, Abu Dhabi, United Arab Emirates"
    email = "ling.shao@ieee.org"
 %}
 
@@ -360,6 +360,6 @@ sidebar:
    name="Di Wang"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Khalifa University"
    email = "di.wang@ku.ac.ae"
 %}
