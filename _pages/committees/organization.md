@@ -12,7 +12,7 @@ sidebar:
    name="Noah Smith"
    picture="/assets/images/committee/nasmith_sm.jpg"
    site=" "
-   institution="University of Washington"
+   institution="University of Washington/Allen Institute for Artificial Intelligence"
    email = "nasmith@cs.washington.edu"
 %}
 
@@ -29,7 +29,7 @@ sidebar:
    name="Zornitsa Kozareva"
    picture="/assets/images/committee/Zornitsa_Kozareva.jpg"
    site=""
-   institution="University of California, Santa Cruz"
+   institution=" Meta AI - FAIR"
    email = "zornitsa@kozareva.com"
 %}
 
