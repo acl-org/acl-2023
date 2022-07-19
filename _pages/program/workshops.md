@@ -84,7 +84,7 @@ Diyi Yang, Pradeep Dasigi, Tongshuang Wu, Tuhin Chakrabarty and Mike Zheng Shou
 ## Both Days: Wednesday-Thursday 7-8 December 2022
 
 ### W22: [WMT: Seventh Conference on Machine Translation](http://www.statmt.org/wmt22/)
-Philipp Koehn
+Philipp Koehn, Loïc Barrault, Ondřej Bojar, Fethi Bougares, Rajen Chatterjee, Marta R. Costa-jussà, Christian Federmann, Mark Fishel, Alexander Fraser, Markus Freitag, Yvette Graham, Roman Grundkiewicz, Paco Guzman, Barry Haddow, Matthias Huck, Antonio Jimeno Yepes, Tom Kocmi, André Martins, Makoto Morishita, Christof Monz, Masaaki Nagata, Toshiaki Nakazawa, Matteo Negri, Aurélie Névéol, Mariana Neves, Martin Popel, Matt Post, Marco Turchi and Marcos Zampieri
 
 ### W23: [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](https://emw.ku.edu.tr/case-2022/)
 Ali Hürriyetoğlu, Hristo Tanev, Vanni Zavarella and Erdem Yörük
