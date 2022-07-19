@@ -16,9 +16,6 @@ Please refer to each individual event's website for more details.
 
 ## Wednesday 7 December 2022
 
-### W1: [WANLP: The Seventh Arabic Natural Language Processing Workshop](https://sites.google.com/view/wanlp2022/)
-Houda Bouamor, Hend Al-Khalifa, Kareem Darwish, Owen Rambow, Fethi Bougares, Ahmed Abdelali, Wajdi Zaghouani, Nadi Tomeh and Salam Khalifa
-
 ### W2: [GEM: Natural Language Generation, Evaluation, and Metrics](https://gem-benchmark.com/workshop)
 Antoine Bosselut, Khyathi Chandu, Kaustubh Dhole, Varun Gangal, Sebastian Gehrmann, Yacine Jernite, Jekaterina Novikova and Laura Perez-Beltrachini
 
@@ -50,6 +47,9 @@ Svitlana Volkova, David Jurgens, David Bamman, Dirk Hovy and Brendan O'Connor
 Jack FitzGerald, Kay Rottmann, Julia Hirschberg, Mohit Bansal, Anna Rumshisky and Charith Peris
 
 ## Thursday 8 December 2022
+
+### W1: [WANLP: The Seventh Arabic Natural Language Processing Workshop](https://sites.google.com/view/wanlp2022/)
+Houda Bouamor, Hend Al-Khalifa, Kareem Darwish, Owen Rambow, Fethi Bougares, Ahmed Abdelali, Wajdi Zaghouani, Nadi Tomeh and Salam Khalifa
 
 ### W12: [TSAR: Workshop on Text Simplification, Accessibility, and Readability](https://www.taln.upf.edu/pages/tsar2022-ws/)
 Sanja Štajner, Horacio Saggion, Wei Xu, Marcos Zampieri, Matthew Shardlow, Daniel Ferrés, Kai North and Kim Cheng Sheang
