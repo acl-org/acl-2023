@@ -54,8 +54,8 @@ sidebar:
    name="Yunyao Li"
    picture="/assets/images/committee/YunyaoLi_SQ.jpg"
    site=""
-   institution="IBM"
-   email = "yunyaoli@us.ibm.com"
+   institution="Apple"
+   email = "yunyaoli@apple.com"
 %}
 
 <h2>Workshop Chairs 
