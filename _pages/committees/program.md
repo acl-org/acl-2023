@@ -202,13 +202,6 @@ sidebar:
    email="raquel.fernandez@uva.nl"
 %}
 
-{% include committee-member.html
-   name="Vera Demberg"
-   picture="/assets/images/committee/sac/VeraDemberg.jpg"
-   site="https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html"
-   institution="Saarland University"
-   email="vera@coli.uni-saarland.de"
-%}
 
 {% include committee-member.html
    name="Richard Futrell"
