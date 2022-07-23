@@ -16,9 +16,6 @@ Please refer to each individual event's website for more details.
 
 ## Wednesday 7 December 2022
 
-### W1: [WANLP: The Seventh Arabic Natural Language Processing Workshop](https://sites.google.com/view/wanlp2022/)
-Houda Bouamor, Hend Al-Khalifa, Kareem Darwish, Owen Rambow, Fethi Bougares, Ahmed Abdelali, Wajdi Zaghouani, Nadi Tomeh and Salam Khalifa
-
 ### W2: [GEM: Natural Language Generation, Evaluation, and Metrics](https://gem-benchmark.com/workshop)
 Antoine Bosselut, Khyathi Chandu, Kaustubh Dhole, Varun Gangal, Sebastian Gehrmann, Yacine Jernite, Jekaterina Novikova and Laura Perez-Beltrachini
 
@@ -50,6 +47,9 @@ Svitlana Volkova, David Jurgens, David Bamman, Dirk Hovy and Brendan O'Connor
 Jack FitzGerald, Kay Rottmann, Julia Hirschberg, Mohit Bansal, Anna Rumshisky and Charith Peris
 
 ## Thursday 8 December 2022
+
+### W1: [WANLP: The Seventh Arabic Natural Language Processing Workshop](https://sites.google.com/view/wanlp2022/)
+Houda Bouamor, Hend Al-Khalifa, Kareem Darwish, Owen Rambow, Fethi Bougares, Ahmed Abdelali, Wajdi Zaghouani, Nadi Tomeh and Salam Khalifa
 
 ### W12: [TSAR: Workshop on Text Simplification, Accessibility, and Readability](https://www.taln.upf.edu/pages/tsar2022-ws/)
 Sanja Štajner, Horacio Saggion, Wei Xu, Marcos Zampieri, Matthew Shardlow, Daniel Ferrés, Kai North and Kim Cheng Sheang
@@ -84,7 +84,7 @@ Diyi Yang, Pradeep Dasigi, Tongshuang Wu, Tuhin Chakrabarty and Mike Zheng Shou
 ## Both Days: Wednesday-Thursday 7-8 December 2022
 
 ### W22: [WMT: Seventh Conference on Machine Translation](http://www.statmt.org/wmt22/)
-Philipp Koehn
+Philipp Koehn, Loïc Barrault, Ondřej Bojar, Fethi Bougares, Rajen Chatterjee, Marta R. Costa-jussà, Christian Federmann, Mark Fishel, Alexander Fraser, Markus Freitag, Yvette Graham, Roman Grundkiewicz, Paco Guzman, Barry Haddow, Matthias Huck, Antonio Jimeno Yepes, Tom Kocmi, André Martins, Makoto Morishita, Christof Monz, Masaaki Nagata, Toshiaki Nakazawa, Matteo Negri, Aurélie Névéol, Mariana Neves, Martin Popel, Matt Post, Marco Turchi and Marcos Zampieri
 
 ### W23: [CASE: The 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text](https://emw.ku.edu.tr/case-2022/)
 Ali Hürriyetoğlu, Hristo Tanev, Vanni Zavarella and Erdem Yörük
