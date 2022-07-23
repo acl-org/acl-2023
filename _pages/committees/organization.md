@@ -180,6 +180,22 @@ sidebar:
    email = "hbouamor@cmu.edu"
 %}
 
+{% include committee-member.html
+   name="Ashutosh Modi"
+   picture="/assets/images/committee/Houda_Bouamor.jpg"
+   site="https://ashutosh-modi.github.io/"
+   institution="Indian Institute of Technology Kanpur (IIT Kanpur)"
+   email = "ashutoshm@cse.iitk.ac.in"
+%}
+
+{% include committee-member.html
+   name="Hanan Aldarmaki"
+   picture="/assets/images/committee/Hanan_Aldarmaki.jpg"
+   site=""
+   institution="United Arab Emirates University"
+   email = "h-aldarmaki@uaeu.ac.ae"
+%}
+
 <h2>Virtual Infrastructure Chair</h2>
 {% include committee-member.html
    name="Wassim El Hajj"
