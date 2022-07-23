@@ -182,7 +182,7 @@ sidebar:
 
 {% include committee-member.html
    name="Ashutosh Modi"
-   picture="/assets/images/committee/Houda_Bouamor.jpg"
+   picture="/assets/images/committee/Ashutosh.jpg"
    site="https://ashutosh-modi.github.io/"
    institution="Indian Institute of Technology Kanpur (IIT Kanpur)"
    email = "ashutoshm@cse.iitk.ac.in"
