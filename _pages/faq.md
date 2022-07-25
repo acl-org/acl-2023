@@ -58,6 +58,16 @@ Q: I am very sorry that we missed the deadline, because of something that we cou
 A: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
 {: .answer}
 
+Q: Can I upload a modified version of our ARR submission?
+{: .question}
+A: No -- we will use the original version and original reviews, since there will be no separate reviewing process for ARR comissions.
+{: .answer}
+
+Q: The PDF file for ARR commission should contain the full paper or just the limiation and rebuttal sections?
+{: .question}
+A: It should only contain the limitation and rebuttal sections.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
