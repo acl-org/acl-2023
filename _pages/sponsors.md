@@ -8,7 +8,7 @@ toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 diamond:
   - url: https://ai.facebook.com/
-    image_path: /assets/images/logos/facebook-logo.png
+    image_path: /assets/images/logos/meta-logo.png
     alt: Meta
     title: Meta
   - url: https://www.amazon.science/
