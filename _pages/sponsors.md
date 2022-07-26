@@ -37,6 +37,7 @@ Diamond
     image_path: /assets/images/logos/mbzuai-logo.png
     alt: Mohamed bin Zayed University of Artificial Intelligence
     title: Mohamed bin Zayed University of Artificial Intelligence
+    
 Platinum
   - url: https://www.microsoft.com
     image_path: /assets/images/logos/microsoft-logo.jpg
@@ -54,6 +55,7 @@ Platinum
     image_path: /assets/images/logos/bytedance-logo.png
     alt: ByteDance
     title: ByteDance
+    
 Gold
   - url: https://careers.servicenow.com/careers/jobs?keywords=ATG&sortBy=relevance&page=1
     image_path: /assets/images/logos/servicenow-logo.jpeg
@@ -75,6 +77,7 @@ Gold
     image_path: /assets/images/logos/tii-logo.png
     alt: Technology Innovation Institute (TII) in Abu Dhabi
     title: Technology Innovation Institute (TII) in Abu Dhabi
+    
 Silver
   - url: https://research.duolingo.com
     image_path: /assets/images/logos/duolingo-logo.png
@@ -88,6 +91,7 @@ Silver
     image_path: /assets/images/logos/translated-logo.png
     alt: Translated
     title: Translated
+    
 Bronze
   - url: https://babelscape.com
     image_path: /assets/images/logos/babelscape-logo.png
@@ -109,6 +113,7 @@ Bronze
     image_path: /assets/images/logos/cair-logo.jpg
     alt: CAIR
     title: CAIR
+    
 Diversity and Inclusion: Champion
   - url: https://www.microsoft.com/en-us/research/
     image_path: /assets/images/logos/microsoft-logo.jpg
