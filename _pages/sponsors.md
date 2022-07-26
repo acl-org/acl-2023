@@ -6,6 +6,8 @@ sidebar: false
 toc: false
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
+---
+
 Diamond
   - url: https://ai.facebook.com/
     image_path: /assets/images/logos/facebook-logo.png
@@ -116,7 +118,6 @@ Diversity and Inclusion: Champion
     image_path: /assets/images/logos/nyuad-logo.png
     alt: New York University Abu Dhabi
     title: New York University Abu Dhabi
----
 
 EMNLP 2022 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
 
