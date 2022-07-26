@@ -16,7 +16,7 @@ diamond:
     alt: Amazon
     title: Amazon
   - url: https://machinelearning.apple.com
-    image_path: /assets/images/logos/apple-logo.png
+    image_path: /assets/images/logos/apple-logo.jpg
     alt: Apple
     title: Apple
   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/?utm_medium=cto&utm_content=site-partner&utm_source=site-
@@ -45,7 +45,7 @@ platinum:
     alt: Megagon
     title: Megagon
   - url: https://home.baidu.com/home/index
-    image_path: /assets/images/logos/baidu-logo.jpg
+    image_path: /assets/images/logos/baidu-logo.png
     alt: Baidu
     title: Baidu
   - url: https://www.bytedance.com/en
