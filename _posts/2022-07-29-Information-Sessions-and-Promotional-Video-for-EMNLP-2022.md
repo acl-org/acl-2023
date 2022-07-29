@@ -12,7 +12,7 @@ As part of promoting EMNLP 2022 in Abu Dhabi, the local organizing committee cha
 The information sessions and closing sessions at these conferences also featured a promotional video for EMNLP 2022 in Abu Dhabi (Thanks to the UAE Department of Culture and Tourism).
 
 
-URL: https://www.youtube.com/watch?v=3tjSurqRZEs
+URL: [https://www.youtube.com/watch?v=3tjSurqRZEs](https://www.youtube.com/watch?v=3tjSurqRZEs)
  
  
-For more information about visiting Abu Dhabi, see https://visitabudhabi.ae/en.  
+For more information about visiting Abu Dhabi, see [https://visitabudhabi.ae/en](https://visitabudhabi.ae/en).
