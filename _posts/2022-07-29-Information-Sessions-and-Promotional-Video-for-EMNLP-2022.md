@@ -1,7 +1,7 @@
 ---
 title: "Information Sessions and Promotional Video for EMNLP 2022"
 author: website-chairs
-author_profile: true
+author_profile: false
 tags:
   announcement publicity
 categories:
