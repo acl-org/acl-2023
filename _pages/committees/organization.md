@@ -63,8 +63,8 @@ sidebar:
 {% include committee-member.html
    name="Asli Celikyilmaz"
    picture="/assets/images/committee/Asl_Celikyilmaz.jpg"
-   site=""
-   institution="Microsoft"
+   site="http://asli.us/"
+   institution="FAIR Labs at META"
    email = "asli.ca@live.com"
 %}
 
