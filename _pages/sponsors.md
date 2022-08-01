@@ -7,10 +7,10 @@ toc: false
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 partner:
-  - url: https://tcaabudhabi.ae/en/default.aspx
-    image_path: /assets/images/logos/addct-logo.jpg
-    alt: Abu Dhabi Department of Culture and Tourism
-    title: Abu Dhabi Department of Culture and Tourism
+  - url: https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau
+    image_path: /assets/images/logos/adceb.png
+    alt: Abu Dhabi Convention and Exhibition Bureau
+    title: Abu Dhabi Convention and Exhibition Bureau
 diamond:
   - url: https://ai.facebook.com/
     image_path: /assets/images/logos/meta-logo.png
