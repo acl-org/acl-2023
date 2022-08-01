@@ -9,7 +9,7 @@ categories:
 ---
 As part of promoting EMNLP 2022 in Abu Dhabi, the local organizing committee chair, Nizar Habash, held information sessions in three major conferences this year: ACL 2022, LREC 2022, and NAACL 2022. Here are the [slides](/downloads/NAACL-EMNLP-2022-Presentation.pdf) from the latest information session in NAACL 2022.
 
-The information sessions and closing sessions at these conferences also featured a promotional video for EMNLP 2022 in Abu Dhabi (Thanks to the UAE Department of Culture and Tourism).
+The information sessions and closing sessions at these conferences also featured a promotional video for EMNLP 2022 in Abu Dhabi (Thanks to the Abu Dhabi Department of Culture and Tourism).
 
 
 URL: [https://www.youtube.com/watch?v=3tjSurqRZEs](https://www.youtube.com/watch?v=3tjSurqRZEs)
