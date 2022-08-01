@@ -6,6 +6,11 @@ sidebar: false
 toc: false
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
+partner:
+  - url: https://tcaabudhabi.ae/en/default.aspx
+    image_path: /assets/images/logos/addct-logo.jpg
+    alt: Abu Dhabi Department of Culture and Tourism
+    title: Abu Dhabi Department of Culture and Tourism
 diamond:
   - url: https://ai.facebook.com/
     image_path: /assets/images/logos/meta-logo.png
@@ -144,6 +149,10 @@ for information about sponsorship rates and benefits.
 .sponsors-list > a:hover { box-shadow: 0 0 10px #00000044; }
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
+
+## Destination Partner
+
+{% include sponsors-list id="partner" layout="third" %}
 
 ## Diamond
 
