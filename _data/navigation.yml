@@ -31,6 +31,9 @@ main:
   
   - title: "Contact"
     url: /contact 
+    
+  - title: "Volunteers"
+    url: /volunteers 
   
   - title: "Venue"
     url: /venue
@@ -85,8 +88,8 @@ calls:
         url: /calls/industry_track/
       - title: "Style Files and Formatting"
         url: /calls/style-and-formatting/
-      - title: "Volunteers"
-        url: /calls/volunteers/
+#       - title: "Volunteers"
+#         url: /calls/volunteers/
         
   
   #- title: Submission Material
