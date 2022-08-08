@@ -24,3 +24,19 @@ Applicants for both the Student Volunteer Program and the Student Scholarship Pr
 ## SUBMISSION PROCEDURE
 
 Applicants for either the Student Volunteer Program or the Student Scholarship Program must be full-time students and should submit the application form [here](https://forms.gle/cwvq88ohKtp5t88z6) where we ask a few questions and **a one-page CV**. 
+
+Students should make travel arrangements, accommodation, and registration independent of the results of their application. All Student Scholarship and Student Volunteer Award recipients must also register for the conference and declare **“I am a Student Volunteer”** in the main conference application form since they will all participate in the Student Volunteer Program. 
+
+Students will be reimbursed after the conference and upon providing scanned receipts and an accounting of the requested funding (i.e., a business expense report) to the ACL Business Manager, Priscilla Rasmussen. Students will have to provide a valid mailing address to receive the reimbursement checks (preferred method) or their complete banking details to receive a wire reimbursement (only in case they cannot accept checks).
+
+## IMPORTANT DATES
+
+Application deadline: TBA
+Notification of acceptance: TBA
+
+## CONTACT
+
+Student Volunteers Chairs
+emnlp2022.volunteers@gmail.com
+
+
