@@ -32,11 +32,13 @@ Students will be reimbursed after the conference and upon providing scanned rece
 ## IMPORTANT DATES
 
 Application deadline: TBA
+
 Notification of acceptance: TBA
 
 ## CONTACT
 
 Student Volunteers Chairs
+
 emnlp2022.volunteers@gmail.com
 
 
