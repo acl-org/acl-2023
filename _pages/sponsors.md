@@ -54,7 +54,7 @@ platinum:
     alt: Baidu
     title: Baidu
   - url: https://www.bytedance.com/en
-    image_path: /assets/images/logos/bytedance-logo.svg
+    image_path: /assets/images/logos/bytedance-logo.png
     alt: ByteDance
     title: ByteDance  
 gold:
