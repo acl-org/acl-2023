@@ -63,7 +63,7 @@ Nikolaos Aletras, Ilias Chalkidis, Leslie Barrett, Cătălina Goanță and Danie
 ### W15: [BlackboxNLP: Analysing and interpreting neural networks for NLP](https://blackboxnlp.github.io/)
 Jasmijn Bastings, Yonatan Belinkov, Yanai Elazar, Dieuwke Hupkes, Naomi Saphra and Sarah Wiegreffe
 
-### W16: [DaSH: Data Science with Human-in-the-Loop: Language Advances](https://www.dashworkshops.org/emnlp2022)
+### W16: [DaSH: Data Science with Human-in-the-Loop: Language Advances](https://www.dashworkshops.org/emnlp-2022)
 Eduard Dragut, Yunyao Li, Lucian Popa, Slobodan Vucetic and Shashank Srivastava
 
 ### W17: [FLP: 3rd Workshop on Figurative Language Processing](https://sites.google.com/view/figlang2022)
