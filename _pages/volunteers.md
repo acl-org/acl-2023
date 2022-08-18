@@ -31,9 +31,9 @@ Students will be reimbursed after the conference and upon providing scanned rece
 
 ## IMPORTANT DATES
 
-Application deadline: TBA
+Application deadline:  October 31st
 
-Notification of acceptance: TBA
+Notification of acceptance: November 15th
 
 ## CONTACT
 
