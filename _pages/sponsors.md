@@ -150,7 +150,7 @@ for information about sponsorship rates and benefits.
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-## Destination Partner
+## Supporting Partner
 
 {% include sponsors-list id="partner" layout="third" %}
 
