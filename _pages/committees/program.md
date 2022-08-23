@@ -9,7 +9,7 @@ sidebar:
 
 ### Computational Social Science and Cultural Analytics
 {% include committee-member.html
-   name="David Banman"
+   name="David Bamman"
    picture="/assets/images/committee/sac/bamman_pic.jpg"
    site="https://people.ischool.berkeley.edu/~dbamman/"
    institution="UC Berkeley"
