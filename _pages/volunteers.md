@@ -31,9 +31,9 @@ Students will be reimbursed after the conference and upon providing scanned rece
 
 ## IMPORTANT DATES
 
-Application deadline:  October 31st
+Application deadline:  October 24th
 
-Notification of acceptance: November 15th
+Notification of acceptance: November 9th
 
 ## CONTACT
 
