@@ -68,6 +68,20 @@ Q: The PDF file for ARR commission should contain the full paper or just the lim
 A: It should only contain the limitation and rebuttal sections.
 {: .answer}
 
+Q: Policies of Venue Selection for EMNLP
+{: .question}
+A: The primary objective of ACL SIGDAT is to organize conferences to promote research and development of theories and technologies in computational linguistics and natural language processing, as defined in its constitution (https://sigdat.org/constitution). The SIGDAT committee, consisting of the president, vice-president, vice-president-elect, and secretary-treasurer, selects conference venues to fulfill its duty.  
+ 
+The SIGDAT committee selects a conference venue aiming to make the conference productive, safe, affordable, accessible, and enjoyable for the attendees.  They also take inclusion and diversity very seriously, often reaching out to encourage bids from countries and regions where the conference has not been held, following the ACL constitution. https://aclweb.org/adminwiki/index.php?title=ACL_Constitution
+ 
+The selection process generally consists of the following steps.
+ 
+1. The committee creates and distributes a "call for bids", ideally two years before the conference. For example, this is the call-for-bids for EMNLP 2023: https://www.aclweb.org/portal/content/call-bids-host-emnlp-2023. 
+2. After receiving bids, the committee evaluates them and ranks them based on the criteria stated above.
+3. The committee sends the bids to the ACL treasurer and ACL business manager for review.
+4. The committee, ACL treasurer, and business manager have discussions on the selection. They also communicate with the bidders when necessary, gathering as much information as is needed to make a decision.
+{: .answer}
+
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
 <!--<style>
