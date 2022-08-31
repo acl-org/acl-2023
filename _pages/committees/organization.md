@@ -9,39 +9,39 @@ sidebar:
 
 <h2>General Chair</h2>
 {% include committee-member.html
-   name="Noah Smith"
-   picture="/assets/images/committee/nasmith_sm.jpg"
-   site=" "
-   institution="University of Washington/Allen Institute for Artificial Intelligence"
-   email = "nasmith@cs.washington.edu"
+   name="Yang Liu"
+   picture="/assets/images/committee/yang_liu.jpg"
+   site="https://www.amazon.science/author/yang-liu"
+   institution="Amazon Alexa AI"
+   email = "yangliud@amazon.com"
 %}
 
 <h2>Program Chairs </h2>
 {% include committee-member.html
-   name="Yoav Goldberg"
-   picture="/assets/images/committee/Yoav_Goldberg.jpg"
-   site=""
-   institution="Bar Ilan University"
-   email = "yoav.goldberg@gmail.com"
+   name="Jordan Boyd-Graber"
+   picture="/assets/images/committee/jordan_boyd-graber.jpg"
+   site="http://users.umiacs.umd.edu/~jbg/"
+   institution="University of Maryland"
+   email = "jbg@umiacs.umd.edu"
 %}
 
 {% include committee-member.html
-   name="Zornitsa Kozareva"
-   picture="/assets/images/committee/Zornitsa_Kozareva.jpg"
-   site=""
-   institution=" Meta AI - FAIR"
+   name="Naoaki Okazaki"
+   picture="/assets/images/committee/naoaki_okazaki.jpg"
+   site="http://www.chokkan.org"
+   institution="Tokyo Institute of Technology"
    email = "zornitsa@kozareva.com"
 %}
 
 {% include committee-member.html
-   name="Yue Zhang"
-   picture="/assets/images/committee/Yue_Zhang.jpg"
-   site=""
-   institution="Westlake University"
-   email = "yue.zhang@wias.org.cn"
+   name="Anna Rogers"
+   picture="/assets/images/committee/anna_rogers.jpg"
+   site="https://annargrs.github.io"
+   institution="University of Copenhagen"
+   email = "arogers@sodas.ku.dk"
 %}
 
-<h2>Industry Track Chairs </h2>
+<!-- <h2>Industry Track Chairs </h2>
 {% include committee-member.html
    name=" Angeliki Lazaridou"
    picture="/assets/images/committee/Angeliki_Lazaridou.jpg"
@@ -210,26 +210,26 @@ sidebar:
    site=""
    institution="Microsoft"
    email = "hao.fang@microsoft.com"
-%}
+%} -->
 
 
 <h2>Website Chairs</h2>
 {% include committee-member.html
-   name="Zhaochun Ren"
-   picture="/assets/images/committee/Zhaochun_Ren.jpg"
-   site=""
-   institution="Shandong University"
-   email = "zhc.ren@gmail.com"
+   name="Jinho Choi"
+   picture="/assets/images/committee/jinho_choi.jpg"
+   site="https://www.emorynlp.org/faculty/jinho-choi"
+   institution="Emory University"
+   email = "jinho.choi@emory.edu"
 %}
 {% include committee-member.html
-   name="Fajie Yuan"
-   picture="/assets/images/committee/fajie.jpg"
-   site=""
-   institution="Westlake University"
-   email = "yuanfajie@westlake.edu.cn"
+   name="Zhongyu Wei"
+   picture="/assets/images/committee/zhongyu_wei.jpg"
+   site="http://www.sdspeople.fudan.edu.cn/zywei/"
+   institution="Fudan University"
+   email = "zywei@fudan.edu.cn"
 %}
 
-<h2>Diversity/Inclusion/Outreach Chairs</h2>
+<!-- <h2>Diversity/Inclusion/Outreach Chairs</h2>
 {% include committee-member.html
    name="Thamar Solorio"
    picture="/assets/images/committee/Thamar_Solorio.jpg"
@@ -378,4 +378,4 @@ sidebar:
    site=""
    institution="Khalifa University"
    email = "di.wang@ku.ac.ae"
-%}
+%} -->

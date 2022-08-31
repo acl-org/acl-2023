@@ -3,7 +3,7 @@ title: "The 61st Annual Meeting of the Association for Computational Linguistics
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/toronto/wallpaperflare.com_wallpaper.jpg"
+  overlay_image: "/assets/images/toronto/wallpaperflare.com_toronto.jpg"
   caption: '<a href="https://www.wallpaperflare.com/toronto-skyline-at-night-images-android-wallpapers-for-your-desktop-or-phone-3840×2160-wallpaper-bnmtd" target="_blank">Photo @ Wallpaper Flare</a>'
 excerpt: "Toronto, Canada<br>July 9-14, 2023"
 ---

@@ -123,11 +123,11 @@ di_champion:
     title: New York University Abu Dhabi
 ---
 
-EMNLP 2022 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
+ACL 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
 
-If your organization would like to sponsor EMNLP or other conferences in the ACL family,
+<!-- If your organization would like to sponsor ACL or other conferences in the ACL family,
 please refer to our [**Sponsorship Booklet**](/downloads/Sponsorship brochure for ACL 2022 conferences - 2022-07-03-3.pdf)
-for information about sponsorship rates and benefits.
+for information about sponsorship rates and benefits. -->
 
 <style>
 .sponsors-list { justify-content: flex-start; }
@@ -150,30 +150,40 @@ for information about sponsorship rates and benefits.
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-## Supporting Partner
+<!-- ## Supporting Partner
 
-{% include sponsors-list id="partner" layout="third" %}
+{% include sponsors-list id="partner" layout="third" %} -->
 
 ## Diamond
 
-{% include sponsors-list id="diamond" layout="third" %}
+To be announced
+
+<!-- {% include sponsors-list id="diamond" layout="third" %} -->
 
 ## Platinum
 
-{% include sponsors-list id="platinum" layout="third" %}
+To be announced
+
+<!-- {% include sponsors-list id="platinum" layout="third" %} -->
 
 ## Gold
 
-{% include sponsors-list id="gold" layout="third" %}
+To be announced
+
+<!-- {% include sponsors-list id="gold" layout="third" %} -->
 
 ## Silver
 
-{% include sponsors-list id="silver" layout="third" %}
+To be announced
+
+<!-- {% include sponsors-list id="silver" layout="third" %} -->
 
 ## Bronze
 
-{% include sponsors-list id="bronze" layout="third" %}
+To be announced
 
-## Diversity and Inclusion: Champion
+<!-- {% include sponsors-list id="bronze" layout="third" %} -->
 
-{% include sponsors-list id="di_champion" layout="third" %}
+<!-- ## Diversity and Inclusion: Champion
+
+{% include sponsors-list id="di_champion" layout="third" %} -->

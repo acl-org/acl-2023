@@ -1,7 +1,7 @@
 ---
 title: Call for System Demonstrations
 layout: single
-permalink: /calls/System_Demonstrations/
+permalink: /calls/system_demonstration/
 sidebar: 
     nav: "calls"
 toc: true
@@ -9,7 +9,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-* **You may also be interested in the main [call for papers](../main_conference_papers/).**
+To be announced.
+
+<!-- * **You may also be interested in the main [call for papers](../main_conference_papers/).**
 
 The EMNLP 2022 System Demonstration Program Committee invites proposals for the Demonstrations Program. Demonstrations may range from early research prototypes to mature production-ready systems. Of particular interest are publicly available open-source or open-access systems. We additionally strongly encourage demonstrations of industrial systems that are technologically innovative given the current state of the art of theory and applied research in natural language processing. Each submitted demonstration must be accompanied by a submitted paper describing the system (see below). 
 
@@ -85,5 +87,5 @@ You are required to submit a short (~2 minute) screencast video demonstrating th
 
 [Wanxiang Che](http://ir.hit.edu.cn/~car/) (Harbin Institute of Technology, China)
 
-[Ekaterina Shutova](https://www.shutova.org/) (University of Amsterdam, Netherlands)
+[Ekaterina Shutova](https://www.shutova.org/) (University of Amsterdam, Netherlands) -->
 

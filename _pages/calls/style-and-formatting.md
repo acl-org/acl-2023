@@ -1,13 +1,15 @@
 ---
-title: EMNLP 2022 Style Files and Formatting
+title: ACL 2023 Style Files and Formatting
 layout: single
-permalink: /calls/style-and-formatting/
+permalink: /calls/style_and_formatting/
 sidebar:
     nav: "calls"
 toc: false
 ---
 
-<font size=6>
+To be announced.
+
+<!-- <font size=6>
 The templates can be downloaded directly. 
 </font>
 ([LaTeX](/downloads/emnlp2022-latex.zip), [Word](/downloads/emnlp2022.docx))
@@ -32,4 +34,4 @@ The templates can be downloaded directly.
 
 * There is no `\aclpaperid` macro. Softconf will add the submission ID stamp.
 
-* A few bug fixes that have cropped up over the years and then sometimes inadvertently reintroduced.
+* A few bug fixes that have cropped up over the years and then sometimes inadvertently reintroduced. -->

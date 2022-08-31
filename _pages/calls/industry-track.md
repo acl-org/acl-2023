@@ -9,7 +9,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## Important Notice
+To be announced.
+
+<!-- ## Important Notice
 [**Industry Track Papers submission link**](https://softconf.com/emnlp2022/industry-track) is now available.
 
 ## Overview
@@ -121,6 +123,6 @@ Authors will be allowed extra space after the 6th page for an optional broader i
 
 **Will the papers in the industry track be published in the proceedings?** Yes, industry track papers will be published as a separate volume of the proceedings. For example, see the EMNLP 2021 proceedings.
 
-**How do I decide whether to submit to the research track or the industry track?** Papers describing key lessons learned and challenges pertaining to real-world deployment of NLP and speech technologies are best suited for industry track. Authors are advised to review the call for papers for both tracks and submit to the track that best matches your work. The list of topics and reviewing criteria may be helpful. You can also reach out to the track chairs if you need help deciding.
+**How do I decide whether to submit to the research track or the industry track?** Papers describing key lessons learned and challenges pertaining to real-world deployment of NLP and speech technologies are best suited for industry track. Authors are advised to review the call for papers for both tracks and submit to the track that best matches your work. The list of topics and reviewing criteria may be helpful. You can also reach out to the track chairs if you need help deciding. -->
 
 

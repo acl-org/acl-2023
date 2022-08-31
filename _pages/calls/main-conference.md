@@ -1,14 +1,17 @@
 ---
 title: Call for Main Conference Papers
 layout: single
-permalink: /calls/main_conference_papers/
+permalink: /calls/main_conference/
 sidebar: 
     nav: "calls"
 toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
-## Important Notice
+
+To be announced.
+
+<!-- ## Important Notice
 [**ARR commission link**](https://softconf.com/emnlp2022/papers/) is now available.
 
 ## Overview
@@ -253,4 +256,4 @@ All accepted papers must be presented at the conference—either on-line or in-p
 
 At least one author of each accepted paper must register for EMNLP 2022 by the early registration deadline.
 
-More information can be found in the Committee blog. If you have questions that are not answered there, please email the program co-chairs at emnlp2022pcs@gmail.com.
+More information can be found in the Committee blog. If you have questions that are not answered there, please email the program co-chairs at emnlp2022pcs@gmail.com. -->

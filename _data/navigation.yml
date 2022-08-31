@@ -18,7 +18,7 @@ main:
   #   url: /not_available
 
   - title: "Calls"
-    url: /calls/main_conference_papers/
+    url: /calls/main_conference/
     
   - title: "Blog"
     url: /blog/
@@ -29,8 +29,8 @@ main:
   - title: "Sponsors"
     url: /sponsors/
   
-  - title: "Contact"
-    url: /contact 
+  # - title: "Contact"
+  #   url: /contact 
     
   - title: "Volunteers"
     url: /volunteers 
@@ -47,8 +47,8 @@ main:
   - title: "FAQ"
     url: /faq/
  
-  - title: "Ethics"
-    url: /ethics/faq/
+  # - title: "Ethics"
+  #   url: /ethics/faq/
 
 
 program:
@@ -69,6 +69,34 @@ program:
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 
+calls:
+  - title: "Call for"
+    children:
+      - title: "Main Conference"
+        url: /calls/main_conference/
+      - title: "Industry Track"
+        url: /calls/industry_track/
+      - title: "System Demonstration"
+        url: /calls/system_demonstration/
+      - title: "Student Research Workshop"
+        url: /calls/student_research_workshop/
+      - title: "Style Files and Formatting"
+        url: /calls/style_and_formatting/
+#       - title: "Volunteers"
+#         url: /calls/volunteers/
+
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /organization/
+      # - title: "Senior Program Committee"
+      #   url: /committees/program/
+      #- title: "Ethics Committee"
+      #  url: /ethics/committee/
+      #- title: "Diversity & Inclusion Committee"
+      #  url: /committees/diversity-inclusion/
+
 # sponsors:
 #   - title: Sponsors
 #     children:
@@ -76,21 +104,6 @@ program:
 #         url: /sponsors/booklet/
 #      - title: "List of Sponsors"
 #        url: /sponsors/list/
-
-calls:
-  - title: "Call for"
-    children:
-      - title: "Main Conference Papers"
-        url: /calls/main_conference_papers/
-      - title: "System Demonstrations"
-        url: /calls/System_Demonstrations/
-      - title: "Industry Track Papers"
-        url: /calls/industry_track/
-      - title: "Style Files and Formatting"
-        url: /calls/style-and-formatting/
-#       - title: "Volunteers"
-#         url: /calls/volunteers/
-        
   
   #- title: Submission Material
   #  children:
@@ -132,8 +145,8 @@ participants:
     children:
       - title: "Anti-harassment"
         url: /participants/anti_harassment/
-      - title: "COVID-19 Safety at EMNLP 2022"
-        url: /participants/covid_19_safety/
+     # - title: "COVID-19 Safety at EMNLP 2022"
+     #   url: /participants/covid_19_safety/
      # - title: "Instructions for Paper Presenters"
      #   url: /participants/presenters/
      # - title: "Instructions for Zoom Rooms"
@@ -143,14 +156,3 @@ participants:
      #  - title: "Social Event"
      #    url: /participants/social/
 
-committees:
-  - title: Committees
-    children:
-      - title: "Organizing Committee"
-        url: /organization/
-      - title: "Senior Program Committee"
-        url: /committees/program/
-      #- title: "Ethics Committee"
-      #  url: /ethics/committee/
-      #- title: "Diversity & Inclusion Committee"
-      #  url: /committees/diversity-inclusion/
