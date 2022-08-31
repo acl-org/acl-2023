@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: single
-excerpt: "NAACL 2021 Tutorials."
+excerpt: "ACL 2023 Tutorials."
 permalink: /program/tutorials/
 toc: true
 toc_sticky: true
@@ -12,7 +12,7 @@ sidebar:
 
 ## Tutorial Schedule
 
-**Date:** 6 Jun 2021 (all times PDT, UTC-7)
+**Date:** July 9, 2023 (all times PDT, UTC-7)
 
 **Morning Session (08:00–12:00)**
 * [T1](#t1): Pretrained Transformers for Text Ranking: BERT and Beyond

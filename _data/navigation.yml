@@ -14,8 +14,8 @@ main:
   - title: "Program"
     url: /program/
 
-  - title: "Registration"
-    url: /not_available
+  # - title: "Registration"
+  #   url: /not_available
 
   - title: "Calls"
     url: /calls/main_conference_papers/

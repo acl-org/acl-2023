@@ -1,14 +1,14 @@
 ---
 title: Conference Program
 layout: single
-excerpt: "NAACL 2021 Conference Program."
+excerpt: "ACL 2023 Conference Program."
 permalink: /program/
 toc: false
 sidebar:
     nav: program
 ---
 
-Please refer to the [Conference blog post](/blog/) for more details information.
+Please refer to our [blog posts](/blog/) for more details.
 
 <!--Please refer to the [Conference Structure blog post](/blog/conference-structure/) for more details regarding the schedule and presentation formats.
 
