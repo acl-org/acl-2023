@@ -41,7 +41,8 @@ sidebar:
    email = "arogers@sodas.ku.dk"
 %}
 
-<!-- <h2>Industry Track Chairs </h2>
+<!-- 
+<h2>Industry Track Chairs </h2>
 {% include committee-member.html
    name=" Angeliki Lazaridou"
    picture="/assets/images/committee/Angeliki_Lazaridou.jpg"
@@ -57,58 +58,41 @@ sidebar:
    institution="Apple"
    email = "yunyaoli@apple.com"
 %}
+-->
 
 <h2>Workshop Chairs 
 </h2>
 {% include committee-member.html
-   name="Asli Celikyilmaz"
-   picture="/assets/images/committee/Asl_Celikyilmaz.jpg"
-   site="http://asli.us/"
-   institution="FAIR Labs at META"
-   email = "asli.ca@live.com"
+   name="Eduardo Blanco"
+   picture="/assets/images/committee/eduardo_blanco.jpg"
+   site="https://eduardoblanco.github.io"
+   institution="University of Arizona"
+   email = "eduardoblanco@arizona.edu"
 %}
 
 {% include committee-member.html
-   name="Daniel Hershcovich"
-   picture="/assets/images/committee/Daniel_Hershcovich.jpg"
-   site=""
-   institution="University of Copenhagen"
-   email = "dh@di.ku.dk"
+   name="Yang Feng"
+   picture="/assets/images/committee/yang_feng.jpg"
+   site="https://yangfengyf.github.io"
+   institution="Chinese Academy of Sciences"
+   email = "fengyang@ict.ac.cn"
 %}
 
 <h2>Tutorial Chairs </h2>
 {% include committee-member.html
-   name="Samhaa R. El-Beltagy"
-   picture="/assets/images/committee/Samhaa_R.jpg"
-   site=""
-   institution="Newgiza University and Optomatica"
-   email = "samhaa@computer.org"
+   name="Siva Reddy"
+   picture="/assets/images/committee/siva_reddy.jpg"
+   site="https://sivareddy.in"
+   institution="McGill University"
+   email = "siva.reddy@mila.quebec"
 %}
 
 {% include committee-member.html
-   name="Xipeng Qiu"
-   picture="/assets/images/committee/Xipeng_Qiu.jpg"
-   site=""
-   institution="Fudan University"
-   email = "xpqiu@fudan.edu.cn"
-%}
-
-
-<h2>Ethics Chairs</h2>
-{% include committee-member.html
-   name="Lea Frermann"
-   picture="/assets/images/committee/Lea_Frermann.jpg"
-   site=""
-   institution="University of Melbourne"
-   email = "lea.frermann@unimelb.edu.au"
-%}
-
-{% include committee-member.html
-   name="Margot Mieskes"
-   picture="/assets/images/committee/Margot_Mieskes.jpg"
-   site=""
-   institution="University of Applied Sciences, Darmstadt"
-   email = "margot.mieskes@h-da.de"
+   name="Yun-Nung (Vivian) Chen"
+   picture="/assets/images/committee/yun-nung_chen.jpg"
+   site="https://www.csie.ntu.edu.tw/~yvchen/"
+   institution="National Taiwan University"
+   email = "yvchen@csie.ntu.edu.tw"
 %}
 
 <h2>Demonstration Chairs</h2>
@@ -118,39 +102,6 @@ sidebar:
    site=""
    institution="Harbin Institute of Technology"
    email = "wanxiang@gmail.com"
-%}
-
-{% include committee-member.html
-   name="Ekaterina Shutova"
-   picture="/assets/images/committee/Ekaterina_Shutova.jpg"
-   site=""
-   institution="ILLC, University of Amsterdam"
-   email = "shutova.e@gmail.com"
-%}
-
-<h2>Publication Chairs</h2>
-{% include committee-member.html
-   name="Ryan Cotterell"
-   picture="/assets/images/committee/Ryan_Cotterell.jpg"
-   site=""
-   institution="University of Cambridge"
-   email = "ryan.cotterell@gmail.com"
-%}
-
-{% include committee-member.html
-   name="Steffen Eger"
-   picture="/assets/images/committee/Steffen_Eger.jpg"
-   site=""
-   institution="Stand-in Professor, Bielefeld University"
-   email = "steffen.eger@uni-bielefeld.de"
-%}
-
-{% include committee-member.html
-   name="Sam Wiseman"
-   picture="/assets/images/committee/Sam_Wiseman.jpg"
-   site=""
-   institution="Duke University"
-   email = "swiseman@cs.duke.edu"
 %}
 
 <h2>Publicity Chairs </h2>
@@ -196,6 +147,73 @@ sidebar:
    email = "h-aldarmaki@uaeu.ac.ae"
 %}
 
+<h2>Website Chairs</h2>
+{% include committee-member.html
+   name="Jinho Choi"
+   picture="/assets/images/committee/jinho_choi.jpg"
+   site="https://www.emorynlp.org/faculty/jinho-choi"
+   institution="Emory University"
+   email = "jinho.choi@emory.edu"
+%}
+{% include committee-member.html
+   name="Zhongyu Wei"
+   picture="/assets/images/committee/zhongyu_wei.jpg"
+   site="http://www.sdspeople.fudan.edu.cn/zywei/"
+   institution="Fudan University"
+   email = "zywei@fudan.edu.cn"
+%}
+
+<!-- 
+<h2>Ethics Chairs</h2>
+{% include committee-member.html
+   name="Lea Frermann"
+   picture="/assets/images/committee/Lea_Frermann.jpg"
+   site=""
+   institution="University of Melbourne"
+   email = "lea.frermann@unimelb.edu.au"
+%}
+
+{% include committee-member.html
+   name="Margot Mieskes"
+   picture="/assets/images/committee/Margot_Mieskes.jpg"
+   site=""
+   institution="University of Applied Sciences, Darmstadt"
+   email = "margot.mieskes@h-da.de"
+%}
+
+{% include committee-member.html
+   name="Ekaterina Shutova"
+   picture="/assets/images/committee/Ekaterina_Shutova.jpg"
+   site=""
+   institution="ILLC, University of Amsterdam"
+   email = "shutova.e@gmail.com"
+%}
+
+<h2>Publication Chairs</h2>
+{% include committee-member.html
+   name="Ryan Cotterell"
+   picture="/assets/images/committee/Ryan_Cotterell.jpg"
+   site=""
+   institution="University of Cambridge"
+   email = "ryan.cotterell@gmail.com"
+%}
+
+{% include committee-member.html
+   name="Steffen Eger"
+   picture="/assets/images/committee/Steffen_Eger.jpg"
+   site=""
+   institution="Stand-in Professor, Bielefeld University"
+   email = "steffen.eger@uni-bielefeld.de"
+%}
+
+{% include committee-member.html
+   name="Sam Wiseman"
+   picture="/assets/images/committee/Sam_Wiseman.jpg"
+   site=""
+   institution="Duke University"
+   email = "swiseman@cs.duke.edu"
+%}
+
 <h2>Virtual Infrastructure Chair</h2>
 {% include committee-member.html
    name="Wassim El Hajj"
@@ -212,22 +230,6 @@ sidebar:
    email = "hao.fang@microsoft.com"
 %} -->
 
-
-<h2>Website Chairs</h2>
-{% include committee-member.html
-   name="Jinho Choi"
-   picture="/assets/images/committee/jinho_choi.jpg"
-   site="https://www.emorynlp.org/faculty/jinho-choi"
-   institution="Emory University"
-   email = "jinho.choi@emory.edu"
-%}
-{% include committee-member.html
-   name="Zhongyu Wei"
-   picture="/assets/images/committee/zhongyu_wei.jpg"
-   site="http://www.sdspeople.fudan.edu.cn/zywei/"
-   institution="Fudan University"
-   email = "zywei@fudan.edu.cn"
-%}
 
 <!-- <h2>Diversity/Inclusion/Outreach Chairs</h2>
 {% include committee-member.html
