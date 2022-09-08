@@ -16,7 +16,8 @@ sidebar:
    email = "yangliud@amazon.com"
 %}
 
-<h2>Program Chairs </h2>
+
+<h2>Program Chairs</h2>
 {% include committee-member.html
    name="Jordan Boyd-Graber"
    picture="/assets/images/committee/jordan_boyd-graber.jpg"
@@ -41,8 +42,10 @@ sidebar:
    email = "arogers@sodas.ku.dk"
 %}
 
+
+<h2>Industry Track Chairs</h2>
+
 <!-- 
-<h2>Industry Track Chairs </h2>
 {% include committee-member.html
    name=" Angeliki Lazaridou"
    picture="/assets/images/committee/Angeliki_Lazaridou.jpg"
@@ -60,8 +63,9 @@ sidebar:
 %}
 -->
 
-<h2>Workshop Chairs 
-</h2>
+
+<h2>Workshop Chairs</h2>
+
 {% include committee-member.html
    name="Eduardo Blanco"
    picture="/assets/images/committee/eduardo_blanco.jpg"
@@ -78,7 +82,9 @@ sidebar:
    email = "fengyang@ict.ac.cn"
 %}
 
-<h2>Tutorial Chairs </h2>
+
+<h2>Tutorial Chairs</h2>
+
 {% include committee-member.html
    name="Siva Reddy"
    picture="/assets/images/committee/siva_reddy.jpg"
@@ -95,7 +101,17 @@ sidebar:
    email = "yvchen@csie.ntu.edu.tw"
 %}
 
+{% include committee-member.html
+   name="Margot Mieskes"
+   picture="/assets/images/committee/margot_mieskes.jpg"
+   site="https://sis.h-da.de/personen/professor-innen-auf-einen-blick/prof-dr-margot-mieskes"
+   institution="University of Applied Sciences, Darmstadt"
+   email = "margot.mieskes@h-da.de"
+%}
+
+
 <h2>Demonstration Chairs</h2>
+
 {% include committee-member.html
    name="Alan Ritter"
    picture="/assets/images/committee/alan_ritter.jpg"
@@ -104,7 +120,25 @@ sidebar:
    email = "alan.ritter@cc.gatech.edu"
 %}
 
+{% include committee-member.html
+   name="Danushka Bollegala"
+   picture="/assets/images/committee/danushka_bollegala.jpg"
+   site="https://danushka.net"
+   institution="University of Liverpool"
+   email = "danushka.bollegala@liverpool.ac.uk"
+%}
+
+{% include committee-member.html
+   name="Ruihong Huang"
+   picture="/assets/images/committee/ruihong_huang.jpg"
+   site="https://people.engr.tamu.edu/huangrh/index.html"
+   institution="Texas A&M University"
+   email = "huangrh@cse.tamu.edu"
+%}
+
+
 <h2>Publicity and Social Media Chairs</h2>
+
 {% include committee-member.html
    name="Devamanyu Hazarika"
    picture="/assets/images/committee/devamanyu_hazarika.jpg"
@@ -121,7 +155,9 @@ sidebar:
    email = "wzaghouani@hbku.edu.qa"
 %}
 
+
 <h2>Website Chairs</h2>
+
 {% include committee-member.html
    name="Jinho Choi"
    picture="/assets/images/committee/jinho_choi.jpg"
@@ -129,6 +165,7 @@ sidebar:
    institution="Emory University"
    email = "jinho.choi@emory.edu"
 %}
+
 {% include committee-member.html
    name="Zhongyu Wei"
    picture="/assets/images/committee/zhongyu_wei.jpg"
@@ -137,10 +174,28 @@ sidebar:
    email = "zywei@fudan.edu.cn"
 %}
 
-<h2>Student Research Workshop (SRW) Chairs</h2>
 
+<h2>Student Research Workshop</h2>
 
-<h2>SRW Faculty Advisors</h2>
+<h3>Chairs</h3>
+
+{% include committee-member.html
+   name="Gisela Vallejo"
+   picture="/assets/images/committee/gisela_vallejo.jpg"
+   site="http://gvallejo.co"
+   institution="University of Melbourne"
+   email = "gvallejo@student.unimelb.edu.au"
+%}
+
+{% include committee-member.html
+   name="Yao Fu"
+   picture="/assets/images/committee/yao_fu.jpg"
+   site="https://franxyao.github.io"
+   institution="University of Edinburgh"
+   email = "yao.fu@ed.ac.uk"
+%}
+
+<h3>Faculty Advisors</h3>
 
 {% include committee-member.html
    name="Lu Wang"
