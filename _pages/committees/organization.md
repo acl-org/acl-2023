@@ -43,27 +43,6 @@ sidebar:
 %}
 
 
-<h2>Industry Track Chairs</h2>
-
-<!-- 
-{% include committee-member.html
-   name=" Angeliki Lazaridou"
-   picture="/assets/images/committee/Angeliki_Lazaridou.jpg"
-   site=""
-   institution="DeepMind"
-   email = "angeliki@google.com"
-%}
-
-{% include committee-member.html
-   name="Yunyao Li"
-   picture="/assets/images/committee/YunyaoLi_SQ.jpg"
-   site=""
-   institution="Apple"
-   email = "yunyaoli@apple.com"
-%}
--->
-
-
 <h2>Workshop Chairs</h2>
 
 {% include committee-member.html
@@ -134,6 +113,17 @@ sidebar:
    site="https://people.engr.tamu.edu/huangrh/index.html"
    institution="Texas A&M University"
    email = "huangrh@cse.tamu.edu"
+%}
+
+
+<h2>Industry Track Chairs</h2>
+
+{% include committee-member.html
+   name=" Sunayana Sitaram"
+   picture="/assets/images/committee/sunayana_sitaram.jpg"
+   site="https://www.microsoft.com/en-us/research/people/susitara/"
+   institution="Microsoft Research India"
+   email = "Sunayana.Sitaram@microsoft.com"
 %}
 
 
