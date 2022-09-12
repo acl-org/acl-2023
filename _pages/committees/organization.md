@@ -61,6 +61,14 @@ sidebar:
    email = "fengyang@ict.ac.cn"
 %}
 
+{% include committee-member.html
+   name="Annie Louis"
+   picture="/assets/images/committee/annie_louis.jpg"
+   site="https://research.google/people/106801/"
+   institution="Google Research"
+   email = "annielouis@google.com"
+%}
+
 
 <h2>Tutorial Chairs</h2>
 
@@ -185,6 +193,14 @@ sidebar:
    email = "yao.fu@ed.ac.uk"
 %}
 
+{% include committee-member.html
+   name="Vishakh Padmakumar"
+   picture="/assets/images/committee/vishakh_padmakumar.jpg"
+   site="https://vishakhpk.github.io"
+   institution="New York University"
+   email = "vishakh@nyu.edu"
+%}
+
 <h3>Faculty Advisors</h3>
 
 {% include committee-member.html
@@ -193,4 +209,14 @@ sidebar:
    site="https://web.eecs.umich.edu/~wangluxy/"
    institution="University of Michigan"
    email = "wangluxy@umich.edu"
+%}
+
+<h2>Publication Chairs</h2>
+
+{% include committee-member.html
+   name="Ryan Cotterell"
+   picture="/assets/images/committee/ryan_cotterell.jpg"
+   site="https://rycolab.io/authors/ryan/"
+   institution="University of Cambridge"
+   email = "rcotterell@inf.ethz.ch"
 %}
