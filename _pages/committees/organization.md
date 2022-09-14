@@ -153,6 +153,14 @@ sidebar:
    email = "wzaghouani@hbku.edu.qa"
 %}
 
+{% include committee-member.html
+   name="Eva Vanmassenhove"
+   picture="/assets/images/committee/eva_vanmassenhove.jpg"
+   site="https://www.tilburguniversity.edu/staff/e-o-j-vanmassenhove"
+   institution="Tilburg University"
+   email = "E.O.J.Vanmassenhove@tilburguniversity.edu"
+%}
+
 
 <h2>Website Chairs</h2>
 
@@ -211,6 +219,7 @@ sidebar:
    email = "wangluxy@umich.edu"
 %}
 
+
 <h2>Publication Chairs</h2>
 
 {% include committee-member.html
@@ -219,4 +228,42 @@ sidebar:
    site="https://rycolab.io/authors/ryan/"
    institution="University of Cambridge"
    email = "rcotterell@inf.ethz.ch"
+%}
+
+{% include committee-member.html
+   name="Lifu Huang"
+   picture="/assets/images/committee/lifu_huang.jpg"
+   site="https://wilburone.github.io"
+   institution="Virginia Tech"
+   email = "lifuh@vt.edu"
+%}
+
+
+<h2>Virtual Infrastructure Chairs</h2>
+
+{% include committee-member.html
+   name="Martín Villalba"
+   picture="/assets/images/committee/martin_villalba.jpg"
+   site="https://7c0h.com"
+   institution="Bayer AG"
+   email = "villalba@7c0h.com"
+%}
+
+{% include committee-member.html
+   name="Jiacheng Xu"
+   picture="/assets/images/committee/jiacheng_xu.jpg"
+   site="https://jiacheng-xu.github.io"
+   institution="Salesforce Research"
+   email = "jiacheng.xu@salesforce.com"
+%}
+
+
+<h2>Ethics Chairs</h2>
+
+{% include committee-member.html
+   name="Dirk Hovy"
+   picture="/assets/images/committee/dirk_hovy.jpg"
+   site="http://www.dirkhovy.com"
+   institution="Bocconi University"
+   email = "mail@dirkhovy.com"
 %}
