@@ -267,3 +267,14 @@ sidebar:
    institution="Bocconi University"
    email = "mail@dirkhovy.com"
 %}
+
+
+<h2>Diversity and Inclusion Chairs</h2>
+
+{% include committee-member.html
+   name="Maryam Fazel-Zarandi"
+   picture="/assets/images/committee/maryam_fazel-zarandi.jpg"
+   site="https://www.maryamfazel.com"
+   institution="Meta Research"
+   email = "maryamfazel@fb.com"
+%}
