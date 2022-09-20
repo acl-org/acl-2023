@@ -73,14 +73,6 @@ sidebar:
 <h2>Tutorial Chairs</h2>
 
 {% include committee-member.html
-   name="Siva Reddy"
-   picture="/assets/images/committee/siva_reddy.jpg"
-   site="https://sivareddy.in"
-   institution="McGill University"
-   email = "siva.reddy@mila.quebec"
-%}
-
-{% include committee-member.html
    name="Yun-Nung (Vivian) Chen"
    picture="/assets/images/committee/yun-nung_chen.jpg"
    site="https://www.csie.ntu.edu.tw/~yvchen/"
@@ -96,16 +88,16 @@ sidebar:
    email = "margot.mieskes@h-da.de"
 %}
 
+{% include committee-member.html
+   name="Siva Reddy"
+   picture="/assets/images/committee/siva_reddy.jpg"
+   site="https://sivareddy.in"
+   institution="McGill University"
+   email = "siva.reddy@mila.quebec"
+%}
+
 
 <h2>Demonstration Chairs</h2>
-
-{% include committee-member.html
-   name="Alan Ritter"
-   picture="/assets/images/committee/alan_ritter.jpg"
-   site="http://aritter.github.io"
-   institution="Georgia Institute of Technology"
-   email = "alan.ritter@cc.gatech.edu"
-%}
 
 {% include committee-member.html
    name="Danushka Bollegala"
@@ -121,6 +113,14 @@ sidebar:
    site="https://people.engr.tamu.edu/huangrh/index.html"
    institution="Texas A&M University"
    email = "huangrh@cse.tamu.edu"
+%}
+
+{% include committee-member.html
+   name="Alan Ritter"
+   picture="/assets/images/committee/alan_ritter.jpg"
+   site="http://aritter.github.io"
+   institution="Georgia Institute of Technology"
+   email = "alan.ritter@cc.gatech.edu"
 %}
 
 
@@ -146,19 +146,19 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Tong Xu"
-   picture="/assets/images/committee/tong_xu.jpg"
-   site="http://staff.ustc.edu.cn/~tongxu/"
-   institution="University of Science and Technology of China"
-   email = "wzaghouani@hbku.edu.qa"
-%}
-
-{% include committee-member.html
    name="Eva Vanmassenhove"
    picture="/assets/images/committee/eva_vanmassenhove.jpg"
    site="https://www.tilburguniversity.edu/staff/e-o-j-vanmassenhove"
    institution="Tilburg University"
    email = "E.O.J.Vanmassenhove@tilburguniversity.edu"
+%}
+
+{% include committee-member.html
+   name="Tong Xu"
+   picture="/assets/images/committee/tong_xu.jpg"
+   site="http://staff.ustc.edu.cn/~tongxu/"
+   institution="University of Science and Technology of China"
+   email = "wzaghouani@hbku.edu.qa"
 %}
 
 
@@ -186,14 +186,6 @@ sidebar:
 <h3>Chairs</h3>
 
 {% include committee-member.html
-   name="Gisela Vallejo"
-   picture="/assets/images/committee/gisela_vallejo.jpg"
-   site="http://gvallejo.co"
-   institution="University of Melbourne"
-   email = "gvallejo@student.unimelb.edu.au"
-%}
-
-{% include committee-member.html
    name="Yao Fu"
    picture="/assets/images/committee/yao_fu.jpg"
    site="https://franxyao.github.io"
@@ -209,15 +201,16 @@ sidebar:
    email = "vishakh@nyu.edu"
 %}
 
-<h3>Faculty Advisors</h3>
-
 {% include committee-member.html
-   name="Lu Wang"
-   picture="/assets/images/committee/lu_wang.jpg"
-   site="https://web.eecs.umich.edu/~wangluxy/"
-   institution="University of Michigan"
-   email = "wangluxy@umich.edu"
+   name="Gisela Vallejo"
+   picture="/assets/images/committee/gisela_vallejo.jpg"
+   site="http://gvallejo.co"
+   institution="University of Melbourne"
+   email = "gvallejo@student.unimelb.edu.au"
 %}
+
+
+<h3>Faculty Advisors</h3>
 
 {% include committee-member.html
    name="Ivan Vulić"
@@ -225,6 +218,14 @@ sidebar:
    site="https://sites.google.com/site/ivanvulic/"
    institution="University of Cambridge"
    email = "iv250@cam.ac.uk"
+%}
+
+{% include committee-member.html
+   name="Lu Wang"
+   picture="/assets/images/committee/lu_wang.jpg"
+   site="https://web.eecs.umich.edu/~wangluxy/"
+   institution="University of Michigan"
+   email = "wangluxy@umich.edu"
 %}
 
 
@@ -244,6 +245,25 @@ sidebar:
    site="https://wilburone.github.io"
    institution="Virginia Tech"
    email = "lifuh@vt.edu"
+%}
+
+{% include committee-member.html
+   name="Jesse Thomason"
+   picture="/assets/images/committee/jesse_thomason.jpg"
+   site="https://jessethomason.com"
+   institution="University of Southern California"
+   email = "jessetho@usc.edu"
+%}
+
+
+<h2>Student Volunteer Chairs</h2>
+
+{% include committee-member.html
+   name="Tao Yu"
+   picture="/assets/images/committee/tao_yu.jpg"
+   site="https://taoyds.github.io"
+   institution="University of Hong Kong"
+   email = "tyu@cs.hku.hk"
 %}
 
 
@@ -277,7 +297,34 @@ sidebar:
 %}
 
 
+<h2>Sponsorship Chairs</h2>
+
+{% include committee-member.html
+   name="Lei Li"
+   picture="/assets/images/committee/lei_li.jpg"
+   site="https://sites.cs.ucsb.edu/~lilei/"
+   institution="Univeristy of California Santa Barbara"
+   email = "leili@cs.ucsb.edu"
+%}
+
+{% include committee-member.html
+   name="Alla Rozovskaya"
+   picture="/assets/images/committee/alla_rozovskaya.jpg"
+   site="https://sites.google.com/site/allamrozovskaya/"
+   institution="The City University of New York"
+   email = "arozovskaya@qc.cuny.edu"
+%}
+
+
 <h2>Diversity and Inclusion Chairs</h2>
+
+{% include committee-member.html
+   name="Daniel Beck"
+   picture="/assets/images/committee/daniel_beck.jpg"
+   site="https://beckdaniel.wordpress.com"
+   institution="University of Melbourne"
+   email = "d.beck@unimelb.edu.au"
+%}
 
 {% include committee-member.html
    name="Maryam Fazel-Zarandi"
@@ -285,4 +332,12 @@ sidebar:
    site="https://www.maryamfazel.com"
    institution="Meta Research"
    email = "maryamfazel@fb.com"
+%}
+
+{% include committee-member.html
+   name="Nedjma Djouhra Ousidhoum"
+   picture="/assets/images/committee/nedjma_djouhra_ousidhoum.jpg"
+   site="https://nedjmaou.github.io"
+   institution="University of Cambridge"
+   email = "ndo24@cam.ac.uk"
 %}
