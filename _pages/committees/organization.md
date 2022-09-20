@@ -219,6 +219,14 @@ sidebar:
    email = "wangluxy@umich.edu"
 %}
 
+{% include committee-member.html
+   name="Ivan Vulić"
+   picture="/assets/images/committee/ivan_vulic.jpg"
+   site="https://sites.google.com/site/ivanvulic/"
+   institution="University of Cambridge"
+   email = "iv250@cam.ac.uk"
+%}
+
 
 <h2>Publication Chairs</h2>
 
