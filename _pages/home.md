@@ -20,7 +20,7 @@ More information will be announced soon.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2022-09-01 | The official ACL 2023 website is launched. |
+| 2022-09-21 | The official ACL 2023 website is launched. |
 {: .news-table}
 
 

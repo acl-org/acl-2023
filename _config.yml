@@ -17,11 +17,11 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "emnlp 2022"
+title                    : "ACL 2023"
 title_separator          : "-"
-name                     : "emnlp"
-description              : "Official website for the 2022 Conference on Empirical Methods in Natural Language Processing"
-url                      : "https://balhafni.github.io/EMNLP_2022/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "ACL"
+description              : "Official website for the 61st Annual Meeting of the Association for Computational Linguistics"
+url                      : "https://acl-org.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"naacl-org/naacl-2021-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -32,12 +32,12 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "emnlp2022"
+    shortname            : "ACL2023"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : _pages/home.md # blank (default) uses feed.xml
+  path                   : # blank (default) uses feed.xml
 search                   : false
 search_full_content      : # true, false (default)
 search_provider          : "google"
@@ -57,9 +57,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : emnlpmeeting
+  username               : ACL2023
 facebook:
-  username               : emnlp2022
+  username               : ACL2023
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -110,13 +110,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/emnlpmeeting
+      url: 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/emnlp2022
+      url: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/yxni98/EMNLP_2022
+      url: https://github.com/acl-org/acl-2023
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
