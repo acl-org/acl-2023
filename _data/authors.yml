@@ -8,7 +8,7 @@ program-chair:
 
 program-chairs:
   name        : "Program Chairs"
-  email       : ""
+  email       : "acl2023-pc@googlegroups.com"
   bio         : "Jordan Boyd-Graber, Naoaki Okazaki, Anna Rogers"
   avatar      : "assets/images/logos/acl-logo-square.jpg"
 
@@ -44,7 +44,6 @@ publicity-social-media-chairs:
 
 website-chairs:
   name        : "Website Chairs"
-  email       : ""
   bio         : "Jinho Choi, Zhongyu Wei"
   avatar      : "assets/images/logos/acl-logo-square.jpg"
 
