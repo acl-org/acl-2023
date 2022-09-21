@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "EMNLP 2022 organizing committee."
+excerpt: "ACL 2023 Organizing Committee."
 permalink: /organization/
 sidebar: 
     nav: "committees"
@@ -10,7 +10,7 @@ sidebar:
 <h2>General Chair</h2>
 {% include committee-member.html
    name="Yang Liu"
-   picture="/assets/images/committee/yang_liu.jpg"
+   picture="/acl-2023/assets/images/committee/yang_liu.jpg"
    site="https://www.amazon.science/author/yang-liu"
    institution="Amazon (USA)"
    email = "yangliud@amazon.com"
