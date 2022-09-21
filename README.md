@@ -157,3 +157,4 @@ SOFTWARE.
 `_data/`:
 
 * navigation.yml
+* authors.yml
