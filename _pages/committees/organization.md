@@ -20,7 +20,7 @@ sidebar:
 <h2>Program Chairs</h2>
 {% include committee-member.html
    name="Jordan Boyd-Graber"
-   picture="/assets/images/committee/jordan_boyd-graber.jpg"
+   picture="/acl-2023/assets/images/committee/jordan_boyd-graber.jpg"
    site="http://users.umiacs.umd.edu/~jbg/"
    institution="University of Maryland (USA)"
    email = "jbg@umiacs.umd.edu"
@@ -28,7 +28,7 @@ sidebar:
 
 {% include committee-member.html
    name="Naoaki Okazaki"
-   picture="/assets/images/committee/naoaki_okazaki.jpg"
+   picture="/acl-2023/assets/images/committee/naoaki_okazaki.jpg"
    site="http://www.chokkan.org"
    institution="Tokyo Institute of Technology (Japan)"
    email = "okazaki@c.titech.ac.jp"
@@ -36,7 +36,7 @@ sidebar:
 
 {% include committee-member.html
    name="Anna Rogers"
-   picture="/assets/images/committee/anna_rogers.jpg"
+   picture="/acl-2023/assets/images/committee/anna_rogers.jpg"
    site="https://annargrs.github.io"
    institution="University of Copenhagen (Denmark)"
    email = "arogers@sodas.ku.dk"
@@ -47,7 +47,7 @@ sidebar:
 
 {% include committee-member.html
    name="Eduardo Blanco"
-   picture="/assets/images/committee/eduardo_blanco.jpg"
+   picture="/acl-2023/assets/images/committee/eduardo_blanco.jpg"
    site="https://eduardoblanco.github.io"
    institution="University of Arizona (USA)"
    email = "eduardoblanco@arizona.edu"
@@ -55,7 +55,7 @@ sidebar:
 
 {% include committee-member.html
    name="Yang Feng"
-   picture="/assets/images/committee/yang_feng.jpg"
+   picture="/acl-2023/assets/images/committee/yang_feng.jpg"
    site="https://yangfengyf.github.io"
    institution="Chinese Academy of Sciences (China)"
    email = "fengyang@ict.ac.cn"
@@ -63,7 +63,7 @@ sidebar:
 
 {% include committee-member.html
    name="Annie Louis"
-   picture="/assets/images/committee/annie_louis.jpg"
+   picture="/acl-2023/assets/images/committee/annie_louis.jpg"
    site="https://research.google/people/106801/"
    institution="Google (UK)"
    email = "annielouis@google.com"
@@ -74,7 +74,7 @@ sidebar:
 
 {% include committee-member.html
    name="Yun-Nung (Vivian) Chen"
-   picture="/assets/images/committee/yun-nung_chen.jpg"
+   picture="/acl-2023/assets/images/committee/yun-nung_chen.jpg"
    site="https://www.csie.ntu.edu.tw/~yvchen/"
    institution="National Taiwan University (Taiwan)"
    email = "yvchen@csie.ntu.edu.tw"
@@ -82,7 +82,7 @@ sidebar:
 
 {% include committee-member.html
    name="Margot Mieskes"
-   picture="/assets/images/committee/margot_mieskes.jpg"
+   picture="/acl-2023/assets/images/committee/margot_mieskes.jpg"
    site="https://sis.h-da.de/personen/professor-innen-auf-einen-blick/prof-dr-margot-mieskes"
    institution="University of Applied Sciences, Darmstadt (Germany)"
    email = "margot.mieskes@h-da.de"
@@ -90,7 +90,7 @@ sidebar:
 
 {% include committee-member.html
    name="Siva Reddy"
-   picture="/assets/images/committee/siva_reddy.jpg"
+   picture="/acl-2023/assets/images/committee/siva_reddy.jpg"
    site="https://sivareddy.in"
    institution="McGill University (Canada)"
    email = "siva.reddy@mila.quebec"
@@ -101,7 +101,7 @@ sidebar:
 
 {% include committee-member.html
    name="Danushka Bollegala"
-   picture="/assets/images/committee/danushka_bollegala.jpg"
+   picture="/acl-2023/assets/images/committee/danushka_bollegala.jpg"
    site="https://danushka.net"
    institution="University of Liverpool (UK)"
    email = "danushka.bollegala@liverpool.ac.uk"
@@ -109,7 +109,7 @@ sidebar:
 
 {% include committee-member.html
    name="Ruihong Huang"
-   picture="/assets/images/committee/ruihong_huang.jpg"
+   picture="/acl-2023/assets/images/committee/ruihong_huang.jpg"
    site="https://people.engr.tamu.edu/huangrh/index.html"
    institution="Texas A&M University (USA)"
    email = "huangrh@cse.tamu.edu"
@@ -117,7 +117,7 @@ sidebar:
 
 {% include committee-member.html
    name="Alan Ritter"
-   picture="/assets/images/committee/alan_ritter.jpg"
+   picture="/acl-2023/assets/images/committee/alan_ritter.jpg"
    site="http://aritter.github.io"
    institution="Georgia Institute of Technology (USA)"
    email = "alan.ritter@cc.gatech.edu"
@@ -128,7 +128,7 @@ sidebar:
 
 {% include committee-member.html
    name=" Sunayana Sitaram"
-   picture="/assets/images/committee/sunayana_sitaram.jpg"
+   picture="/acl-2023/assets/images/committee/sunayana_sitaram.jpg"
    site="https://www.microsoft.com/en-us/research/people/susitara/"
    institution="Microsoft Research India (India)"
    email = "Sunayana.Sitaram@microsoft.com"
@@ -136,7 +136,7 @@ sidebar:
 
 {% include committee-member.html
    name=" Beata Beigman Klebanov"
-   picture="/assets/images/committee/beata_beigman_klebanov.jpg"
+   picture="/acl-2023/assets/images/committee/beata_beigman_klebanov.jpg"
    site="https://sites.google.com/site/beatabeigmanklebanov"
    institution="Educational Testing Service (USA)"
    email = "bbeigmanklebanov@ets.org"
@@ -147,7 +147,7 @@ sidebar:
 
 {% include committee-member.html
    name="Devamanyu Hazarika"
-   picture="/assets/images/committee/devamanyu_hazarika.jpg"
+   picture="/acl-2023/assets/images/committee/devamanyu_hazarika.jpg"
    site="https://www.devamanyu.com"
    institution="Amazon (USA)"
    email = "devamanyu@ieee.org"
@@ -155,7 +155,7 @@ sidebar:
 
 {% include committee-member.html
    name="Eva Vanmassenhove"
-   picture="/assets/images/committee/eva_vanmassenhove.jpg"
+   picture="/acl-2023/assets/images/committee/eva_vanmassenhove.jpg"
    site="https://www.tilburguniversity.edu/staff/e-o-j-vanmassenhove"
    institution="Tilburg University (Netherlands)"
    email = "E.O.J.Vanmassenhove@tilburguniversity.edu"
@@ -163,7 +163,7 @@ sidebar:
 
 {% include committee-member.html
    name="Tong Xu"
-   picture="/assets/images/committee/tong_xu.jpg"
+   picture="/acl-2023/assets/images/committee/tong_xu.jpg"
    site="http://staff.ustc.edu.cn/~tongxu/"
    institution="University of Science and Technology of China (China)"
    email = "wzaghouani@hbku.edu.qa"
@@ -174,7 +174,7 @@ sidebar:
 
 {% include committee-member.html
    name="Jinho Choi"
-   picture="/assets/images/committee/jinho_choi.jpg"
+   picture="/acl-2023/assets/images/committee/jinho_choi.jpg"
    site="https://www.emorynlp.org/faculty/jinho-choi"
    institution="Emory University (USA)"
    email = "jinho.choi@emory.edu"
@@ -182,7 +182,7 @@ sidebar:
 
 {% include committee-member.html
    name="Zhongyu Wei"
-   picture="/assets/images/committee/zhongyu_wei.jpg"
+   picture="/acl-2023/assets/images/committee/zhongyu_wei.jpg"
    site="http://www.sdspeople.fudan.edu.cn/zywei/"
    institution="Fudan University (China)"
    email = "zywei@fudan.edu.cn"
@@ -195,7 +195,7 @@ sidebar:
 
 {% include committee-member.html
    name="Yao Fu"
-   picture="/assets/images/committee/yao_fu.jpg"
+   picture="/acl-2023/assets/images/committee/yao_fu.jpg"
    site="https://franxyao.github.io"
    institution="University of Edinburgh (UK)"
    email = "yao.fu@ed.ac.uk"
@@ -203,7 +203,7 @@ sidebar:
 
 {% include committee-member.html
    name="Vishakh Padmakumar"
-   picture="/assets/images/committee/vishakh_padmakumar.jpg"
+   picture="/acl-2023/assets/images/committee/vishakh_padmakumar.jpg"
    site="https://vishakhpk.github.io"
    institution="New York University (USA)"
    email = "vishakh@nyu.edu"
@@ -211,7 +211,7 @@ sidebar:
 
 {% include committee-member.html
    name="Gisela Vallejo"
-   picture="/assets/images/committee/gisela_vallejo.jpg"
+   picture="/acl-2023/assets/images/committee/gisela_vallejo.jpg"
    site="http://gvallejo.co"
    institution="University of Melbourne (Australia)"
    email = "gvallejo@student.unimelb.edu.au"
@@ -222,7 +222,7 @@ sidebar:
 
 {% include committee-member.html
    name="Ivan Vulić"
-   picture="/assets/images/committee/ivan_vulic.jpg"
+   picture="/acl-2023/assets/images/committee/ivan_vulic.jpg"
    site="https://sites.google.com/site/ivanvulic/"
    institution="University of Cambridge (UK)"
    email = "iv250@cam.ac.uk"
@@ -230,7 +230,7 @@ sidebar:
 
 {% include committee-member.html
    name="Lu Wang"
-   picture="/assets/images/committee/lu_wang.jpg"
+   picture="/acl-2023/assets/images/committee/lu_wang.jpg"
    site="https://web.eecs.umich.edu/~wangluxy/"
    institution="University of Michigan (USA)"
    email = "wangluxy@umich.edu"
@@ -241,7 +241,7 @@ sidebar:
 
 {% include committee-member.html
    name="Ryan Cotterell"
-   picture="/assets/images/committee/ryan_cotterell.jpg"
+   picture="/acl-2023/assets/images/committee/ryan_cotterell.jpg"
    site="https://rycolab.io/authors/ryan/"
    institution="ETH Zürich (Switzerland)"
    email = "rcotterell@inf.ethz.ch"
@@ -249,7 +249,7 @@ sidebar:
 
 {% include committee-member.html
    name="Lifu Huang"
-   picture="/assets/images/committee/lifu_huang.jpg"
+   picture="/acl-2023/assets/images/committee/lifu_huang.jpg"
    site="https://wilburone.github.io"
    institution="Virginia Tech (USA)"
    email = "lifuh@vt.edu"
@@ -257,7 +257,7 @@ sidebar:
 
 {% include committee-member.html
    name="Jesse Thomason"
-   picture="/assets/images/committee/jesse_thomason.jpg"
+   picture="/acl-2023/assets/images/committee/jesse_thomason.jpg"
    site="https://jessethomason.com"
    institution="University of Southern California (USA)"
    email = "jessetho@usc.edu"
@@ -268,7 +268,7 @@ sidebar:
 
 {% include committee-member.html
    name="Tao Yu"
-   picture="/assets/images/committee/tao_yu.jpg"
+   picture="/acl-2023/assets/images/committee/tao_yu.jpg"
    site="https://taoyds.github.io"
    institution="University of Hong Kong (Hong Kong)"
    email = "tyu@cs.hku.hk"
@@ -279,7 +279,7 @@ sidebar:
 
 {% include committee-member.html
    name="Martín Villalba"
-   picture="/assets/images/committee/martin_villalba.jpg"
+   picture="/acl-2023/assets/images/committee/martin_villalba.jpg"
    site="https://7c0h.com"
    institution="Bayer AG (Germany)"
    email = "villalba@7c0h.com"
@@ -287,7 +287,7 @@ sidebar:
 
 {% include committee-member.html
    name="Jiacheng Xu"
-   picture="/assets/images/committee/jiacheng_xu.jpg"
+   picture="/acl-2023/assets/images/committee/jiacheng_xu.jpg"
    site="https://jiacheng-xu.github.io"
    institution="Salesforce (USA)"
    email = "jiacheng.xu@salesforce.com"
@@ -298,7 +298,7 @@ sidebar:
 
 {% include committee-member.html
    name="Dirk Hovy"
-   picture="/assets/images/committee/dirk_hovy.jpg"
+   picture="/acl-2023/assets/images/committee/dirk_hovy.jpg"
    site="http://www.dirkhovy.com"
    institution="Bocconi University (Italy)"
    email = "mail@dirkhovy.com"
@@ -309,7 +309,7 @@ sidebar:
 
 {% include committee-member.html
    name="Lei Li"
-   picture="/assets/images/committee/lei_li.jpg"
+   picture="/acl-2023/assets/images/committee/lei_li.jpg"
    site="https://sites.cs.ucsb.edu/~lilei/"
    institution="Univeristy of California Santa Barbara (USA)"
    email = "leili@cs.ucsb.edu"
@@ -317,7 +317,7 @@ sidebar:
 
 {% include committee-member.html
    name="Alla Rozovskaya"
-   picture="/assets/images/committee/alla_rozovskaya.jpg"
+   picture="/acl-2023/assets/images/committee/alla_rozovskaya.jpg"
    site="https://sites.google.com/site/allamrozovskaya/"
    institution="City University of New York (USA)"
    email = "arozovskaya@qc.cuny.edu"
@@ -328,7 +328,7 @@ sidebar:
 
 {% include committee-member.html
    name="Daniel Beck"
-   picture="/assets/images/committee/daniel_beck.jpg"
+   picture="/acl-2023/assets/images/committee/daniel_beck.jpg"
    site="https://beckdaniel.wordpress.com"
    institution="University of Melbourne (Australia)"
    email = "d.beck@unimelb.edu.au"
@@ -336,7 +336,7 @@ sidebar:
 
 {% include committee-member.html
    name="Maryam Fazel-Zarandi"
-   picture="/assets/images/committee/maryam_fazel-zarandi.jpg"
+   picture="/acl-2023/assets/images/committee/maryam_fazel-zarandi.jpg"
    site="https://www.maryamfazel.com"
    institution="Meta (USA)"
    email = "maryamfazel@fb.com"
@@ -344,7 +344,7 @@ sidebar:
 
 {% include committee-member.html
    name="Nedjma Djouhra Ousidhoum"
-   picture="/assets/images/committee/nedjma_djouhra_ousidhoum.jpg"
+   picture="/acl-2023/assets/images/committee/nedjma_djouhra_ousidhoum.jpg"
    site="https://nedjmaou.github.io"
    institution="University of Cambridge (UK)"
    email = "ndo24@cam.ac.uk"
