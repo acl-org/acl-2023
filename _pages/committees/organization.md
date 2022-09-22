@@ -31,7 +31,7 @@ sidebar:
    picture="/assets/images/committee/naoaki_okazaki.jpg"
    site="http://www.chokkan.org"
    institution="Tokyo Institute of Technology (Japan)"
-   email = "okazaki@c.titech.ac.jp"/acl-2023/assets/
+   email = "okazaki@c.titech.ac.jp"
 %}
 
 {% include committee-member.html
