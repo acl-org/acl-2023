@@ -127,7 +127,7 @@ sidebar:
 <h2>Industry Track Chairs</h2>
 
 {% include committee-member.html
-   name=" Sunayana Sitaram"
+   name="Sunayana Sitaram"
    picture="/assets/images/committee/sunayana_sitaram.jpg"
    site="https://www.microsoft.com/en-us/research/people/susitara/"
    institution="Microsoft Research India (India)"
@@ -135,11 +135,19 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name=" Beata Beigman Klebanov"
+   name="Beata Beigman Klebanov"
    picture="/assets/images/committee/beata_beigman_klebanov.jpg"
    site="https://sites.google.com/site/beatabeigmanklebanov"
    institution="Educational Testing Service (USA)"
    email = "bbeigmanklebanov@ets.org"
+%}
+
+{% include committee-member.html
+   name="Jason Williams"
+   picture="/assets/images/committee/jason_williams.jpg"
+   site="https://sites.google.com/view/jasondwilliams/"
+   institution="Apple (USA)"
+   email = "jasondwilliams@gmail.com"
 %}
 
 
@@ -295,6 +303,14 @@ sidebar:
 
 
 <h2>Ethics Chairs</h2>
+
+{% include committee-member.html
+   name="Yonatan Bisk"
+   picture="/assets/images/committee/yonatan_bisk.jpg"
+   site="https://yonatanbisk.com"
+   institution="Carnegie Mellon University (USA)"
+   email = "ybisk@cs.cmu.edu"
+%}
 
 {% include committee-member.html
    name="Dirk Hovy"
