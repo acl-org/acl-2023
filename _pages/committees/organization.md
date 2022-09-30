@@ -151,52 +151,6 @@ sidebar:
 %}
 
 
-<h2>Publicity and Social Media Chairs</h2>
-
-{% include committee-member.html
-   name="Devamanyu Hazarika"
-   picture="/assets/images/committee/devamanyu_hazarika.jpg"
-   site="https://www.devamanyu.com"
-   institution="Amazon (USA)"
-   email = "devamanyu@ieee.org"
-%}
-
-{% include committee-member.html
-   name="Eva Vanmassenhove"
-   picture="/assets/images/committee/eva_vanmassenhove.jpg"
-   site="https://www.tilburguniversity.edu/staff/e-o-j-vanmassenhove"
-   institution="Tilburg University (Netherlands)"
-   email = "E.O.J.Vanmassenhove@tilburguniversity.edu"
-%}
-
-{% include committee-member.html
-   name="Tong Xu"
-   picture="/assets/images/committee/tong_xu.jpg"
-   site="http://staff.ustc.edu.cn/~tongxu/"
-   institution="University of Science and Technology of China (China)"
-   email = "wzaghouani@hbku.edu.qa"
-%}
-
-
-<h2>Website Chairs</h2>
-
-{% include committee-member.html
-   name="Jinho Choi"
-   picture="/assets/images/committee/jinho_choi.jpg"
-   site="https://www.emorynlp.org/faculty/jinho-choi"
-   institution="Emory University (USA)"
-   email = "jinho.choi@emory.edu"
-%}
-
-{% include committee-member.html
-   name="Zhongyu Wei"
-   picture="/assets/images/committee/zhongyu_wei.jpg"
-   site="http://www.sdspeople.fudan.edu.cn/zywei/"
-   institution="Fudan University (China)"
-   email = "zywei@fudan.edu.cn"
-%}
-
-
 <h2>Student Research Workshop</h2>
 
 <h3>Chairs</h3>
@@ -245,6 +199,17 @@ sidebar:
 %}
 
 
+<h2>Student Volunteer Chairs</h2>
+
+{% include committee-member.html
+   name="Tao Yu"
+   picture="/assets/images/committee/tao_yu.jpg"
+   site="https://taoyds.github.io"
+   institution="University of Hong Kong (Hong Kong)"
+   email = "tyu@cs.hku.hk"
+%}
+
+
 <h2>Publication Chairs</h2>
 
 {% include committee-member.html
@@ -272,14 +237,41 @@ sidebar:
 %}
 
 
-<h2>Student Volunteer Chairs</h2>
+<h2>Ethics Chairs</h2>
 
 {% include committee-member.html
-   name="Tao Yu"
-   picture="/assets/images/committee/tao_yu.jpg"
-   site="https://taoyds.github.io"
-   institution="University of Hong Kong (Hong Kong)"
-   email = "tyu@cs.hku.hk"
+   name="Yonatan Bisk"
+   picture="/assets/images/committee/yonatan_bisk.jpg"
+   site="https://yonatanbisk.com"
+   institution="Carnegie Mellon University (USA)"
+   email = "ybisk@cs.cmu.edu"
+%}
+
+{% include committee-member.html
+   name="Dirk Hovy"
+   picture="/assets/images/committee/dirk_hovy.jpg"
+   site="http://www.dirkhovy.com"
+   institution="Bocconi University (Italy)"
+   email = "mail@dirkhovy.com"
+%}
+
+
+<h2>Website Chairs</h2>
+
+{% include committee-member.html
+   name="Jinho Choi"
+   picture="/assets/images/committee/jinho_choi.jpg"
+   site="https://www.emorynlp.org/faculty/jinho-choi"
+   institution="Emory University (USA)"
+   email = "jinho.choi@emory.edu"
+%}
+
+{% include committee-member.html
+   name="Zhongyu Wei"
+   picture="/assets/images/committee/zhongyu_wei.jpg"
+   site="http://www.sdspeople.fudan.edu.cn/zywei/"
+   institution="Fudan University (China)"
+   email = "zywei@fudan.edu.cn"
 %}
 
 
@@ -302,22 +294,30 @@ sidebar:
 %}
 
 
-<h2>Ethics Chairs</h2>
+<h2>Publicity and Social Media Chairs</h2>
 
 {% include committee-member.html
-   name="Yonatan Bisk"
-   picture="/assets/images/committee/yonatan_bisk.jpg"
-   site="https://yonatanbisk.com"
-   institution="Carnegie Mellon University (USA)"
-   email = "ybisk@cs.cmu.edu"
+   name="Devamanyu Hazarika"
+   picture="/assets/images/committee/devamanyu_hazarika.jpg"
+   site="https://www.devamanyu.com"
+   institution="Amazon (USA)"
+   email = "devamanyu@ieee.org"
 %}
 
 {% include committee-member.html
-   name="Dirk Hovy"
-   picture="/assets/images/committee/dirk_hovy.jpg"
-   site="http://www.dirkhovy.com"
-   institution="Bocconi University (Italy)"
-   email = "mail@dirkhovy.com"
+   name="Eva Vanmassenhove"
+   picture="/assets/images/committee/eva_vanmassenhove.jpg"
+   site="https://www.tilburguniversity.edu/staff/e-o-j-vanmassenhove"
+   institution="Tilburg University (Netherlands)"
+   email = "E.O.J.Vanmassenhove@tilburguniversity.edu"
+%}
+
+{% include committee-member.html
+   name="Tong Xu"
+   picture="/assets/images/committee/tong_xu.jpg"
+   site="http://staff.ustc.edu.cn/~tongxu/"
+   institution="University of Science and Technology of China (China)"
+   email = "wzaghouani@hbku.edu.qa"
 %}
 
 
