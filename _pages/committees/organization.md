@@ -209,6 +209,14 @@ sidebar:
    email = "tyu@cs.hku.hk"
 %}
 
+{% include committee-member.html
+   name="Ayah Zirikly"
+   picture="/assets/images/committee/ayah_zirikly.jpg"
+   site="https://ayahzirikly.wordpress.com"
+   institution="Johns Hopkins University (USA)"
+   email = "ayah.zirikly@gmail.com"
+%}
+
 
 <h2>Publication Chairs</h2>
 
