@@ -90,7 +90,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .dates-table del { color: #888; }
 </style>
 
-| Anonymity period begins | TBA | TBA |
+| Anonymity period begins | Tuesday | November 15, 2022 |
 | ARR submission deadline | TBA | TBA |
 | Direct submission deadline | TBA | TBA |
 | ARR commitment deadline| TBA | TBA |
