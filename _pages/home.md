@@ -19,7 +19,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-
+| 2022-10-07 | The [Call for Main Conference Papers](/calls/main_conference/) is posted. |
 | 2022-09-21 | The official ACL 2023 website is launched. |
 {: .news-table}
 
@@ -84,22 +84,26 @@ The [**Conference Program Schedule**](/program/) is now online.
 ## Important Dates
 
 <style>
-.dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 40%; }
+.dates-table { font-size: .8em; }
+.dates-table tr td:nth-child(1) { width: 60%; }
 .dates-table tr td:nth-child(2) { width: 30%; }
 .dates-table del { color: #888; }
 </style>
 
-| Anonymity period begins | Tuesday | November 15, 2022 |
-| ARR submission deadline | TBA | TBA |
-| Direct submission deadline | TBA | TBA |
-| ARR commitment deadline| TBA | TBA |
-| Author response period | TBA | TBA |
-| Acceptance notification | TBA | TBA |
-| Camera-ready deadline | TBA | TBA |
-| Tutorials | Sunday | July 9, 2023 |
-| Main Conference | Monday - Wednesday | July 10 - 12, 2023 |
-| Workshops | Thursday - Friday | July 13 - 14, 2023 |
+| Submission template available | November 1, 2022 |
+| Anonymity period for ARR papers | November 15, 2022 |
+| Submission deadline for papers submitted to ARR | December 15, 2022 |
+| Anonymity period for papers submitted through START | December 20, 2022 |
+| Abstract deadline for START direct submissions | January 13, 2023 |
+| Direct paper submission deadline | January 20, 2023 |
+| Commitment deadline for ARR papers | March 17, 2023 |
+| Author response period | March 17-24, 2023 |
+| Notification of acceptance | May 1, 2023 |
+| Withdrawal deadline | May 8, 2023 |
+| Camera-ready papers due | May 22, 2023 |
+| Tutorials | July 9, 2023 |
+| Conference | July 10-12, 2023 |
+| Workshops | July 13-14, 2023 |
 {: .dates-table}
 
 <!--

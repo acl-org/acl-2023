@@ -9,251 +9,189 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-To be announced.
 
-<!-- ## Important Notice
-[**ARR commission link**](https://softconf.com/emnlp2022/papers/) is now available.
-
-## Overview
-The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022) invites the submission of long and short papers on substantial, original, and unpublished research on empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals. 
-
-
-<hr color="#E1FFFF" /> 
-
-EMNLP 2022 will follow EMNLP 2021 and go with a **hybrid** format with respect to ARR. This means that while **EMNLP will accept ARR-reviewed papers**, it will **also accept submissions directly to EMNLP through the START system**.
-
-However, in order to keep the review load on the community as a whole manageable, we need to **ask authors to decide up-front if they want to be reviewed through ARR or EMNLP**.
-
-### Review Process:
-Papers submitted directly to EMNLP will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. ARR papers committed to EMNLP will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).
-
-### Cross Submission Policy with ARR
-
-- Any ARR-reviewed paper that got all of its reviews and meta-reviews available by the ARR-to-conference submission deadline (July 24, 2022), **can be committed to EMNLP 2022**.
-	- **Note:** submissions from ARR cannot be modified except that they can be associated with an author response.
-	- **Note:** While EMNLP will consider any ARR paper that has been fully reviewed by July 24, 2022, unlike in ACL and NAACL, ARR does **not** guarantee a date such that all papers submitted to ARR before the date are guaranteed to receive necessary reviews in time for the EMNLP deadline. Consequently, care must be taken in deciding whether a submission should be made to ARR or EMNLP directly if the work has not been submitted anywhere before the call. Plan accordingly.
-	- **Note:** The START system deadline for direct submission papers, namely non-ARR submission papers, is June 24, 2022.
-
-
-- Papers submitted to ARR before May 24, 2022, **can be withdrawn and submitted to EMNLP 2022**. 
-	- **Note**: In order for a paper to be submitted directly to EMNLP 2022, it must be inactive in the ARR system. This means that the submission must either be explicitly withdrawn by the authors, or the ARR reviews are finished and shared with the authors before May 24, and the paper was not re-submitted to ARR.
-	- **Note**: The authors can [withdraw](https://aclrollingreview.org/cfp) from ARR by May 24, 2022, regardless of how many reviews they have received.
-
-- Papers that are in the ARR system after May 24, 2022, either submitted after or submitted before and not withdrawn, **cannot be submitted to EMNLP 2022**.
-
-- Papers submitted to EMNLP 2022 **may not be submitted for review elsewhere** (including ARR) while being under review at EMNLP 2022.
-
-Major differences from “standard” recent conferences include:
-
-- Hybrid ARR + EMNLP models.
-- Mandatory discussion of limitations.	
-- Theme: "Open questions, major obstacles, and unresolved issues in NLP"
+ACL 2023 invites the submission of long and short papers featuring substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) and by the Computational Linguistics (CL) journals.
 
 
 ## Important Dates
 
-<table style="width: 100%; font-size: .9em;">
-  <tr>
-      <td>Anonymity period begins</td>
-      <td>May 24, 2022</td>
-  </tr>
-  <tr>
-      <td width="400">Abstract deadline<br/> for START direct submissions</td>
-      <td>June 17, 2022</td>
-  </tr>
-  <tr>
-      <td>Direct paper submission deadline<br/> (long & short papers)</td>
-      <td>June 24, 2022</td>
-  </tr>
-  <tr>
-    <td>Submission deadline for ARR papers</td>
-    <td>July 24, 2022</td>
-  </tr>
-  <tr>
-    <td>Author response period</td>
-    <td>Aug 23 – Aug 29, 2022</td>
-  </tr>
-  <tr>
-    <td>Notification of acceptance<br/> (long & short papers)</td>
-    <td>Oct 6, 2022</td>
-  </tr>
+All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
-  <tr>
-    <td>Camera-ready papers due<br/> (long & short papers)</td>
-    <td>Oct 21, 2022</td>
-  </tr>
+<style>
+.dates-table { font-size: .8em; }
+.dates-table tr td:nth-child(1) { width: 60%; }
+.dates-table tr td:nth-child(2) { width: 30%; }
+.dates-table del { color: #888; }
+</style>
 
-  <tr>
-    <td>Workshops & Tutorials</td>
-    <td>December 7-8, 2022</td>
-  </tr>
+| Submission template available | November 1, 2022 |
+| Anonymity period for ARR papers | November 15, 2022 |
+| Submission deadline for papers submitted to ARR | December 15, 2022 |
+| Anonymity period for papers submitted through START | December 20, 2022 |
+| Abstract deadline for START direct submissions | January 13, 2023 |
+| Direct paper submission deadline | January 20, 2023 |
+| Commitment deadline for ARR papers | March 17, 2023 |
+| Author response period | March 17-24, 2023 |
+| Notification of acceptance | May 1, 2023 |
+| Withdrawal deadline | May 8, 2023 |
+| Camera-ready papers due | May 22, 2023 |
+| Tutorials | July 9, 2023 |
+| Conference | July 10-12, 2023 |
+| Workshops | July 13-14, 2023 |
+{: .dates-table}
 
-   <tr>
-    <td>Conference</td>
-    <td>December 9-11, 2022</td>
-  </tr>
-</table>
+## Submission Topics
 
-<b>All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").</b>
+ACL 2023 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
 
-## Mandatory abstract submission
+<style>
+.bullets-font { font-size: .9em; }
+</style>
 
-The paper title, author names, contact details, and a brief abstract must be submitted electronically through the EMNLP 2022 paper submission site by the abstract submission deadline (June 17). It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration; 
+* Computational Social Science and Cultural Analytics
+* Dialogue and Interactive Systems
+* Discourse and Pragmatics
+* Ethics and NLP
+* Generation
+* Information Extraction
+* Information Retrieval and Text Mining
+* Interpretability and Analysis of Models for NLP
+* Language Grounding to Vision, Robotics and Beyond
+* Multilingualism and Language Contact: Code-switching, Representation Learning, Cross-lingual transfer
+* Linguistic Theories, Cognitive Modeling, and Psycholinguistics
+* Machine Learning for NLP
+* Machine Translation
+* NLP Applications
+* Phonology, Morphology, and Word Segmentation
+* Question Answering
+* Resources and Evaluation
+* Semantics: Lexical
+* Semantics: Sentence-level Semantics, Textual Inference, and Other Areas
+* Sentiment Analysis, Stylistic Analysis, and Argument Mining
+* Speech and Multimodality
+* Summarization
+* Syntax: Tagging, Chunking and Parsing
+* Theme Track (see below)
+{: .bullets-font}
 
-**Important**: if you miss the abstract submission deadline, then you cannot submit the full paper.
+## Theme Track: Reality Check 
 
+Following the success of the ACL 2020-2022 Theme tracks, we are happy to announce that ACL 2023 will have a new theme with the goal of reflecting and stimulating discussion about the current state of development of the field of NLP. While the current systems perform much better and fail more gracefully than their rule-based predecessors, there are growing piles of evidence of other kinds of brittleness, including out-of-domain generalization, adversarial attacks, spurious patterns (both linguistic and social), lack of sensitivity to basic linguistic perturbations such as negation, over-sensitivity to perturbations that should not matter (e.g. order and wording of prompts), etc.
 
-## Submissions
+The theme track invites empirical and theoretical research, as well position and survey papers reflecting on the ways in which reported performance improvements on NLP benchmarks are meaningful. The possible topics of discussion include (but are not limited to) the following:
 
-EMNLP 2022 has the goal of a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order): 
+* How reliably do the leaderboard scores translate to improvements in real-world use of the models?
+* How reliably do the leaderboard scores compare competing models?
+* While the current NLP systems are not brittle in the same way as their predecessors, they are still brittle in other ways. What tasks can we claim to have "solved", if any?
+* Have performance improvements been accompanied by commensurate growth in the scientific understanding (of language, cognition, or deep learning technology)? In what ways?
+* Given that the authors of engineering papers are incentivized to report only the most successful results, especially for the systems that are also commercial products, what can the NLP venues do to improve reporting?
 
+The theme track submissions can be either long or short. We anticipate having a special session for this theme at the conference and a Thematic Paper Award in addition to other categories of awards.
 
-- Computational Social Science and Cultural Analytics
-- Dialogue and Interactive Systems
-- Discourse and Pragmatics
-- Efficient Methods for NLP
-- Ethics
-- Natural Language Generation
-- Information Extraction
-- Information Retrieval and Text Mining
-- Interpretability, Interactivity and Analysis of Models for NLP
-- Linguistic Theories, Cognitive Modeling and Psycholinguistics
-- Machine Learning for NLP
-- Machine Translation
-- Multilinguality
-- NLP Applications
-- Phonology, Morphology and Word Segmentation
-- Question Answering
-- Resources and Evaluation
-- Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.
-- Sentiment Analysis, Stylistic Analysis, and Argument Mining
-- Speech, Vision, Robotics, Multimodal Grounding
-- Summarization
-- Syntax, Parsing and their Applications
-- Commonsense Reasoning
-- Language Modeling and Analysis of Language Models
-- Unsupervised and Weakly-Supervised Methods in NLP
-- Theme Track
+## ​Paper Types and Formats
 
-## Paper Submission Information
+Long papers must describe substantial, original, completed, and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Long papers may consist of up to eight (8) pages of content, plus unlimited pages of references. Final versions of long papers will be given one additional page of content (up to 9 pages), so that reviewers’ comments can be taken into account.
 
-### Paper Submission and Templates
-Submission is electronic, using the Softconf START conference management system. Both long and short papers must follow the EMNLP 2022 two-column format, using the supplied official style files. The templates can be downloaded in [Style Files and Formatting](/calls/style-and-formatting/).
- **Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.**
+Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead, short papers should have a small, focused contribution - a point that can be made in a few pages with sufficient level of detail. Short papers may consist of up to four (4) pages of content, plus unlimited pages of references. Final versions of short papers will be given one additional page of content (up to 5 pages), so that reviewers' comments can be taken into account.
 
-#### Verification
+Both short and long papers are submitted through the same process, but they will be reviewed using a different review form and criteria. Short and long papers will be distinguished in the proceedings, but the length of the paper does not correspond to either the final presentation format (poster or oral), or the type of contribution made in the paper. In particular, ACL 2023 welcomes the following kinds of contributions:
 
-To guarantee conformance to publication standards, we will be using the ACL Pubcheck tool (https://github.com/acl-org/aclpubcheck). The PDFs of camera-ready papers must be run through this tool prior to their final submission, and we recommend its use also at submission time.
+* Computationally-aided linguistic analysis
+* NLP engineering experiment 
+* Reproduction study
+* New data resources, particularly for low-resource languages
+* Approaches for data- and compute efficiency
+* Position papers
+* Surveys
+* Publicly available software and pre-trained models
 
-### Long Papers
+While there is no direct mapping between types of contributions and paper length, some kinds of papers naturally gravitate towards a certain length: e.g. surveys are more likely to be long rather than short papers. One paper can make more than one contribution of different types.
 
-Long paper submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Review forms will be made available prior to the deadlines. Long papers may consist of up to 8 pages of content, plus unlimited pages for references and appendix; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account.
+## Paper Submission Process
+ 
+Following EMNLP2022 and EACL 2023, ACL 2023 will continue to offer a hybrid submission format with respect to ACL Rolling Review (ARR): the submissions may come through ARR, but it will also be possible to submit directly to ACL through the START system. A given submission may only choose one of these two options, i.e. it is not possible to receive both direct and ARR reviews.
 
-### Short Papers
+The papers submitted directly to ACL will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. The START system deadline for direct submission papers is January 13, 2023.
 
-Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages.
+Papers submitted to ACL 2023, but not selected for the main conference, will also automatically be considered for publication in the [Findings](https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp) of the Association of Computational Linguistics. The notifications for the main track and Findings will come out simultaneously, and the authors of submissions accepted to Findings may opt to withdraw until May 8.
 
-Short papers may consist of up to 4 pages of content, plus unlimited references and appendix. Upon acceptance, short papers will be given 5 content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions.
+ARR papers committed to ACL will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).
 
-### Presentation Mode
+To be considered by ACL 2023, ARR papers need to be submitted to ARR and obtain all its reviews and meta-review by the commitment deadline of March 17. These papers cannot be modified except that they can be associated with an author response. They also cannot be revised and re-submitted to ARR for a new review cycle while they are considered by ACL 2023.
 
-Long and short papers will be presented orally or as posters as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between papers presented orally and as posters.
+Note: Generally, to receive reviews by the commitment deadline, the regular ARR timeline suggests that ARR suggestions should be made by December 15th. Note that the cycle length will [change](https://aclrollingreview.org/changes-based-on-the-ACL-reviewing-survey/) in December to 8 weeks.
 
-### Authorship
+ARR papers will also be considered by ACL 2023 if they were withdrawn from ARR before January 1st, 2023 and submitted directly to ACL 2023.
 
-The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to EMNLP 2022 will be notified of submissions, revisions and the final decision. No changes to the order or composition of authorship may be made to submissions to EMNLP 2022 after the abstract submission deadline.
+Papers submitted to ACL 2023 may not be submitted for review elsewhere (including ARR) while being under review at ACL 2023.
 
-### Citation and Comparison
+## Paper Submission Policies
 
-You are expected to cite all refereed publications relevant to your submission, but you may be excused for not knowing about all unpublished work (especially work that has been recently posted and/or is not widely cited). While not citing such unpublished works upon submission is not sufficient grounds for paper rejection, you are expected to cite such relevant work in camera ready, if notified about it by reviewers.
+All submissions to ACL 2023 must follow the following policies.
 
-In cases where a preprint has been superseded by a refereed publication, the refereed publication should be cited instead of the preprint version. Papers (whether refereed or not) appearing less than 3 months before the submission deadline are considered contemporaneous to your submission, and you are therefore not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis. However, you are expected to mention such works in your submission, and list their published results if they are directly relevant.
+**Anonymity Period**
 
-For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation).
+The direct submissions to ACL may not be made available online (e.g. via a preprint server) in a non-anonymized form after December 20 11:59PM UTC-12:00 (for arXiv, note that this refers to [publication time](https://arxiv.org/help/availability), not submission time). The respective deadline for ARR is November 15th. Non-anonymous preprints that were published before the start of the anonymity period may not be updated until ACL notifications come out. The only exception is for the purpose of correcting names, in which case the PC chairs should be notified per [ACL policy](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation). The existence of non-anonymous preprints must be disclosed in the submission form. 
 
-### Multiple Submission Policy
+ACL does not prohibit giving talks about work under review in small groups, but we ask you not to advertise the preprint (or such talks) on social media, blog about this work, or have it covered in the media during the anonymity period. Anonymous preprints (e.g. on ARR) can be posted after the start of the anonymity period, but likewise should not be advertised by their authors or their close colleagues, as that can compromise the review process.
 
-EMNLP 2022 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the EMNLP 2022 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, ACL workshops), as well as ARR. In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to EMNLP 2022 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
+**Anonymization for Double-blind Review**
 
-EMNLP 2022 will also accept submissions of ARR-reviewed papers, provided that the ARR reviews and meta-reviews are available by the ARR-to-conference submission deadline. However, EMNLP 2022 will not accept direct submissions that are actively under review in ARR, or that overlap significantly (>25%) with such submissions.
+The submissions to ACL and any supplementary materials must not include authors’ names and affiliations, or the acknowledgements section. Self-references that reveal the authors’ identities must be avoided. For example, instead of “We previously showed (Smith, 1991) …” or even “We previously showed (Anonymous, 1991)... " please use “Smith previously showed (Smith, 1991) …”. 
 
-### Mandatory Discussion of Limitations
+The submissions should avoid links to non-anonymized repositories: the code should be either submitted as supplementary material, or as a link to an anonymized repository (e.g., [Anonymous GitHub](https://anonymous.4open.science/) or [Anonym Share](https://anonymshare.com/)). Please avoid any links to storage services like Dropbox (which may track the reviewers downloading the resources). Papers that do not conform to these requirements will be rejected without review.
 
-We believe that it is also important to discuss the limitations of your work, in addition to its strengths. **EMNLP 2022 requires all papers to have a clear discussion of limitations, in a dedicated section titled “Limitations”.** This section will appear at the end of the paper, after the discussion/conclusions section and before the references, and will not count towards the page limit. **Papers without a limitation section will be automatically rejected without review.**
+**Citation and Comparison**
 
-ARR-reviewed paper that did not include “**Limitations**” section in their prior submission, should submit a PDF with such a section together with their EMNLP 2022 submission.
+See the [ACL guidelines](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation).
 
-While we are open to different types of limitations, just mentioning that a set of results have been shown for English only probably does not reflect what we expect. Mentioning that the method works mostly for languages with limited morphology, like English, is a much better alternative. In addition, limitations such as low scalability to long text, the requirement of large GPU resources, or other things that inspire crucial further investigation are welcome.
+**Authorship**
 
-### EMNLP 2022 Theme Track
+The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. The list of the authors (including the order) may not be changed after submission.
 
-**“Open questions, major obstacles, and unresolved issues in NLP”**
+**Optional Supplementary Materials (Appendices, Software, Data)**
 
-Following the success of previous major NLP conferences Theme tracks, we are happy to announce that EMNLP 2022 will have a new theme with the goal of reflecting and stimulating discussion about the state of the field, with a forward looking focus of exposing what is yet to be done, and how to get there:  “Open questions, major obstacles, and unresolved issues in NLP.”  While we believe this theme naturally invites position papers, we especially encourage thought-provoking contributions that support their arguments with empirical evidence, in the tradition of EMNLP.
+See the policy in the [ARR CFP](https://aclrollingreview.org/cfp). Papers should not refer for further detail, to documents that are not available to the reviewers. If important citations are not available to reviewers (e.g., awaiting publication), these paper/s should be anonymised and included in the appendix. They can then be referenced from the submission without compromising anonymity.
 
-### Ethics Policy
+**Paper Formatting**
 
-Authors are required to honor the ethical code set out in the ACL [Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work.
+The templates will be soon available at the conference website. Submissions with style violations will be desk-rejected. We recommend using the [ACL Pubcheck tool](https://github.com/acl-org/aclpubcheck) to confirm that your submission conforms to the standards prior to submission, so as to avoid desk rejections.
 
-Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. The EMNLP review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [ethics FAQ](https://2021.emnlp.org/call-for-papers/ethics-faq) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
+**Required Sections**
 
+ACL 2023 submissions will be expected to contain a Limitations section, and also a supplement with the [Responsible NLP checklist](https://aclrollingreview.org/responsibleNLPresearch/) that covers reproducibility and ethics considerations. It may also optionally include an ethics/broader impact section. These will not count towards the page limit. We encourage the authors to have a look at the Responsible NLP checklist as early as possible in the cycle of their project, to make sure that any necessary IRB permissions are obtained, experiment parameters saved, and energy expenditure is estimated.
 
+**Multiple Submission Policy**
 
-### Optional Supplementary Materials
-**Appendices, Software and Data**
+In principle, papers submitted directly to ACL must not be under review for any other archival venue at any time during the ACL review process. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. However, considering the overlap of the paper submission due and the notification of acceptance of EACL 2023, we allow an exception for the multiple submission policy; a work under review for EACL 2023 can be submitted to ACL, but must be declared at submission time and withdrawn from ACL no later than January 31 if the work is accepted to EACL 2023.
 
-Each EMNLP 2022 submission can be accompanied by an appendix, which will appear in the main paper’s PDF, after the bibliography. A submission may also be accompanied by one .tgz or .zip archive containing software, and one .tgz or .zip archive containing data. EMNLP 2022 encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. For example, anonymised related work (see above), preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into the appendix. However, the paper submissions need to remain fully self-contained, as these supplementary materials are completely optional, and reviewers are not even asked to review or download them. If the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in the appendix. Supplementary materials need to be fully anonymized to preserve the double-blind reviewing policy.
+**Optional: Sticky Reviews**
 
-## Anonymity Period
-The following rules and guidelines are meant to protect the integrity of double-blind review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity period, which runs from 1 month before the submission deadline (starting May 24, 2022) up to the date when your paper is accepted or rejected (Oct 6, 2022). Papers that are withdrawn during this period will no longer be subject to these rules.
+The papers previously reviewed at other *ACL venues (but not through ARR) have the option to submit the paper together with the link to the previous softconf submission, from which the track chairs will be able to access the old reviews. They will also be able to submit a short explanation of how the paper was changed in response to the old reviews. This option could be beneficial for the authors who have addressed the problems identified before, and can argue strongly for how the paper has been improved. The prior reviews will not be seen by the new reviewers, but they may be used by the area chairs and program chairs in review quality control, resolving disagreements between reviewers, and in deciding borderline papers.
 
-- You **may not** make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period. Versions of the paper include papers having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length.
-- If you have posted a non-anonymized version of your paper online before the start of the anonymity period, you may submit an anonymized version to the conference. The submitted version must not refer to the non-anonymized version, and you must inform the programme chairs that a non-anonymized version exists.
-- You may not update the non-anonymized version during the anonymity period, and we ask you not to advertise it on social media or take other actions that would further compromise double-blind reviewing during the anonymity period.
-- You may make an anonymized version of your paper available (for example, on OpenReview), even during the anonymity period.
-- For arXiv submissions, May 24, 2022 11:59pm UTC-12h (anywhere on earth) is the latest time the paper can be uploaded.
+**Cross-submissions with ACL Workshops**
 
-## Instructions For Double-Blind Review
+The papers submitted for reviewing directly to ACL 2023 and not selected by the main conference will be able to submit to ACL 2023 workshops after the ACL notifications, with the reviews and meta-reviews they received at ACL. Papers accepted to Findings can also apply for presentation at participating workshops. The deadlines for direct submission to be reviewed by the workshops will be determined by the individual workshops. 
 
-As reviewing will be double blind, papers must not include authors’ names and affiliations. Furthermore, self-references or links (such as github) that reveal the author’s identity, e.g., “We previously showed (Smith, 1991) …” must be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …” Papers that do not conform to these requirements will be rejected without review. Papers should not refer, for further detail, to documents that are not available to the reviewers. For example, do not omit or redact important citation information to preserve anonymity. Instead, use third person or named reference to this work, as described above (“Smith showed” rather than “we showed”). If important citations are not available to reviewers (e.g., awaiting publication), these paper/s should be anonymised and included in the appendix. They can then be referenced from the submission without compromising anonymity. Papers may be accompanied by a resource (software and/or data) described in the paper, but these resources should also be anonymized.
+## Ethics Policy
 
-## Reproducibility Criteria
+Authors are required to honor the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). 
 
-Reviewers will be asked to assess the reproducibility of the work as part of their reviews.
-The following are the criteria that reviews will take under consideration. 
+As mentioned above, ACL 2023 will incorporate the [Responsible NLP Research](https://aclrollingreview.org/responsibleNLPresearch/) checklist into the reviewing process. It should accompany all submissions, and its goal is to present structured information about the ethics and reproducibility aspects of the study. It will be available for the reviewers, as well as any future readers of the paper. Especially for the junior authors, we strongly suggest that they consider the checklist at the early stages of their project, rather than treating such questions as an afterthought.
 
-For all reported experimental results:
- - A clear description of the mathematical setting, algorithm, and/or model
- - Submission of a zip file containing source code, with specification of all dependencies, including external libraries, or a link to such resources (while still anonymized)
-Description of computing infrastructure used
- - The average runtime for each model or algorithm (e.g., training, inference, etc.), or estimated energy cost
- - Number of parameters in each model
- - Corresponding validation performance for each reported test result
- - Explanation of evaluation metrics used, with links to code
+Should the reviewers still have concerns about the ethical aspects of a given submission, it may be passed on to the ACL ethics committee for extra ethics review. ACL reserves the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work.
 
-For all experiments with hyperparameter search:
+## Presentation Requirement
 
- - The exact number of training and evaluation runs
- - Bounds for each hyperparameter
- - Hyperparameter configurations for best-performing models
- - Number of hyperparameter search trials
- - The method of choosing hyperparameter values (e.g., uniform sampling, manual tuning, etc.) and the criterion used to select among them (e.g., accuracy)
- - Summary statistics of the results (e.g., mean, variance, error bars, etc.)
+All papers accepted to the main conference track must be presented at the conference to appear in the proceedings, and at least one author must register for ACL 2023. All papers accepted to the main track or Findings will be required to submit a presentation video. The conference will be hybrid, with an emphasis on encouraging interaction between the online and in-person modalities, and thus presentations can be either on-site or virtual. 
 
-For all datasets used:
+## Contact Information
 
- - Relevant details such as languages, and number of examples and label distributions
- - Details of train/validation/test splits
- - Explanation of any data that were excluded, and all pre-processing steps
- - A zip file containing data or link to a downloadable version of the data
- - For new data collected, a complete description of the data collection process, such as instructions to annotators and methods for quality control.
+Program Chairs:
 
-This list is based on Dodge et al, 2019 and Joelle Pineau's reproducibility checklist.
+* Jordan Lee Boyd-Graber, University of Maryland (USA)
+* Naoaki Okazaki, Tokyo Institute of Technology (Japan)
+* Anna Rogers, University of Copenhagen (Denmark)
 
-##  Presentation Requirement
+Email: acl2023-pc@googlegroups.com
 
-All accepted papers must be presented at the conference—either on-line or in-person—in order to appear in the proceedings. Authors of papers accepted for presentation at EMNLP 2022 must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper.
-
-At least one author of each accepted paper must register for EMNLP 2022 by the early registration deadline.
-
-More information can be found in the Committee blog. If you have questions that are not answered there, please email the program co-chairs at emnlp2022pcs@gmail.com. -->

@@ -11,9 +11,6 @@ main:
   #- title: "Virtual Conference Website"
   #  url: "https://underline.io/events/122/reception"
 
-  - title: "Program"
-    url: /program/
-
   # - title: "Registration"
   #   url: /not_available
 
@@ -29,6 +26,9 @@ main:
   - title: "Sponsors"
     url: /sponsors/
   
+  - title: "Program"
+    url: /program/
+
   # - title: "Contact"
   #   url: /contact 
     
