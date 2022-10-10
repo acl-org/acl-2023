@@ -325,7 +325,7 @@ sidebar:
    picture="/assets/images/committee/tong_xu.jpg"
    site="http://staff.ustc.edu.cn/~tongxu/"
    institution="University of Science and Technology of China (China)"
-   email = "wzaghouani@hbku.edu.qa"
+   email = "tongxu@ustc.edu.cn"
 %}
 
 
