@@ -83,6 +83,8 @@ The [**Conference Program Schedule**](/program/) is now online.
 
 ## Important Dates
 
+All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
+
 <style>
 .dates-table { font-size: .8em; }
 .dates-table tr td:nth-child(1) { width: 60%; }
