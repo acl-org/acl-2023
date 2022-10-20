@@ -44,10 +44,6 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 ACL 2023 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
 
-<style>
-.bullets-font { font-size: .9em; }
-</style>
-
 * Computational Social Science and Cultural Analytics
 * Dialogue and Interactive Systems
 * Discourse and Pragmatics
@@ -72,7 +68,6 @@ ACL 2023 aims to have a broad technical program. Relevant topics for the confere
 * Summarization
 * Syntax: Tagging, Chunking and Parsing
 * Theme Track (see below)
-{: .bullets-font}
 
 ## Theme Track: Reality Check 
 
@@ -187,11 +182,8 @@ All papers accepted to the main conference track must be presented at the confer
 
 ## Contact Information
 
-Program Chairs:
+Program Chairs: [acl2023-pc@googlegroups.com](mailto:acl2023-pc@googlegroups.com)
 
 * Jordan Lee Boyd-Graber, University of Maryland (USA)
 * Naoaki Okazaki, Tokyo Institute of Technology (Japan)
 * Anna Rogers, University of Copenhagen (Denmark)
-
-Email: acl2023-pc@googlegroups.com
-

@@ -70,20 +70,26 @@ program:
 #         url: /program/careerspanel/
 
 calls:
-  - title: "Call for"
+  - title: "Call for Papers"
     children:
       - title: "Main Conference"
         url: /calls/main_conference/
-      - title: "Industry Track"
-        url: /calls/industry_track/
-      - title: "System Demonstration"
-        url: /calls/system_demonstration/
-      - title: "Student Research Workshop"
-        url: /calls/student_research_workshop/
-      - title: "Style Files and Formatting"
-        url: /calls/style_and_formatting/
-#       - title: "Volunteers"
-#         url: /calls/volunteers/
+      # - title: "Industry Track"
+      #   url: /calls/industry_track/
+      # - title: "System Demonstration"
+      #   url: /calls/system_demonstration/
+      # - title: "Student Research Workshop"
+      #   url: /calls/student_research_workshop/
+      # - title: "Style Files and Formatting"
+      #   url: /calls/style_and_formatting/
+      # - title: "Volunteers"
+      #   url: /calls/volunteers/
+  - title: "Call for Proposals"
+    children:
+      - title: "Workshops"
+        url: /calls/workshops/
+      - title: "Tutorials"
+        url: /calls/tutorials/
 
 committees:
   - title: Committees
