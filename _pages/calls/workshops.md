@@ -14,7 +14,7 @@ The Association for Computational Linguistics invites proposals for workshops to
 Workshops will be held at one of the following conference venues:
 
 * [EACL 2023](https://2023.eacl.org) (The 17th Conference of the European Chapter of the Association for Computational Linguistics) will be a hybrid conference, and physically held in Dubrovnik, Croatia from May 2-6, 2023.
-* [ACL 2023](https://2023.aclweb.org) (The 60th Annual Meeting of the Association for Computational Linguistics) will be a hybrid conference, and physically held in Toronto, Canada from July 9-14, 2023.
+* [ACL 2023](https://2023.aclweb.org) (The 61st Annual Meeting of the Association for Computational Linguistics) will be a hybrid conference, and physically held in Toronto, Canada from July 9-14, 2023.
 * EMNLP 2023 (The 2023 Conference on Empirical Methods in Natural Language Processing) TBA
 
 The workshop co-chairs will work together to assign workshops to the three conferences. They will take into account location preferences and technical constraints provided by the workshop proposers.
