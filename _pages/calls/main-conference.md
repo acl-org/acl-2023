@@ -182,7 +182,7 @@ All papers accepted to the main conference track must be presented at the confer
 
 ## Program Chairs
 
-Email: [acl2023-pc@googlegroups.com](mailto:acl2023-pc@googlegroups.com)
+Contact: [acl2023-pc@googlegroups.com](mailto:acl2023-pc@googlegroups.com)
 
 * Jordan Lee Boyd-Graber, University of Maryland (USA)
 * Naoaki Okazaki, Tokyo Institute of Technology (Japan)
