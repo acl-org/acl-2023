@@ -91,7 +91,7 @@ Accepted tutorial presenters will be notified by February 3rd, 2023. They must t
   
 ##  Tutorial Chairs
 
-Contact: [cl23-tutorial-chairs@googlegroups.com](mailto:cl23-tutorial-chairs@googlegroups.com)
+Email: [cl23-tutorial-chairs@googlegroups.com](mailto:cl23-tutorial-chairs@googlegroups.com)
 
 **EACL**
 
@@ -100,9 +100,9 @@ Contact: [cl23-tutorial-chairs@googlegroups.com](mailto:cl23-tutorial-chairs@goo
 
 **ACL**
 
-* Siva Reddy,  McGill University and Mila
-* Yun-Nung (Vivian) Chen, National Taiwan University 
-* Margot Mieskes, University of Applied Sciences, Darmstadt
+* Yun-Nung (Vivian) Chen, National Taiwan University (Taiwan)
+* Margot Mieskes, University of Applied Sciences, Darmstadt (Germany)
+* Siva Reddy,  McGill University and Mila (Canada)
  
 **EMNLP**
 

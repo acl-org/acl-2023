@@ -123,7 +123,7 @@ The ACL has a set of policies on workshops. You can find the ACL’s general pol
 TBA
 
 
-## Workshop Co-Chairs
+## Workshop Chairs
 
 **EACL**
 
@@ -132,9 +132,9 @@ TBA
 
 **ACL**
 
-* Eduardo Blanco, University of Arizona
-* Yang Feng, Chinese Academy of Sciences
-* Annie Louis, Google Research
+* Eduardo Blanco, University of Arizona (USA)
+* Yang Feng, Chinese Academy of Sciences (China)
+* Annie Louis, Google (UK)
 
 **EMNLP**
 

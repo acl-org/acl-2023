@@ -19,6 +19,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2022-10-28 | The [Call for System Demonstration Papers](/calls/system_demonstration/) is posted. |
 | 2022-10-20 | The [Call for Tutorial Proposals](/calls/tutorials/) is posted. |
 | 2022-10-20 | The [Call for Workshop Proposals](/calls/workshops/) is posted. |
 | 2022-10-07 | The [Call for Main Conference Papers](/calls/main_conference/) is posted. |

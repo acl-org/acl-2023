@@ -180,9 +180,9 @@ Should the reviewers still have concerns about the ethical aspects of a given su
 
 All papers accepted to the main conference track must be presented at the conference to appear in the proceedings, and at least one author must register for ACL 2023. All papers accepted to the main track or Findings will be required to submit a presentation video. The conference will be hybrid, with an emphasis on encouraging interaction between the online and in-person modalities, and thus presentations can be either on-site or virtual. 
 
-## Contact Information
+## Program Chairs
 
-Program Chairs: [acl2023-pc@googlegroups.com](mailto:acl2023-pc@googlegroups.com)
+Email: [acl2023-pc@googlegroups.com](mailto:acl2023-pc@googlegroups.com)
 
 * Jordan Lee Boyd-Graber, University of Maryland (USA)
 * Naoaki Okazaki, Tokyo Institute of Technology (Japan)

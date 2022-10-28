@@ -92,7 +92,7 @@ sidebar:
    name="Siva Reddy"
    picture="/assets/images/committee/siva_reddy.jpg"
    site="https://sivareddy.in"
-   institution="McGill University (Canada)"
+   institution="McGill University and Mila (Canada)"
    email = "siva.reddy@mila.quebec"
 %}
 
