@@ -150,7 +150,7 @@ See the policy in the [ARR CFP](https://aclrollingreview.org/cfp). Papers should
 
 **Paper Formatting**
 
-The templates will be soon available at the conference website. Submissions with style violations will be desk-rejected. We recommend using the [ACL Pubcheck tool](https://github.com/acl-org/aclpubcheck) to confirm that your submission conforms to the standards prior to submission, so as to avoid desk rejections.
+Both long and short papers must follow the ACL 2023 two-column format, using the supplied official style files. The templates can be downloaded in [Style Files and Formatting](/calls/style_and_formatting/). Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. We recommend using the [ACL Pubcheck tool](https://github.com/acl-org/aclpubcheck) to confirm that your submission conforms to the standards prior to submission, so as to avoid desk rejections.
 
 **Required Sections**
 

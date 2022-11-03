@@ -80,10 +80,10 @@ calls:
       #   url: /calls/industry_track/
       # - title: "Student Research Workshop"
       #   url: /calls/student_research_workshop/
-      # - title: "Style Files and Formatting"
-      #   url: /calls/style_and_formatting/
       # - title: "Volunteers"
       #   url: /calls/volunteers/
+      - title: "Style Files and Formatting"
+        url: /calls/style_and_formatting/
   - title: "Call for Proposals"
     children:
       - title: "Workshops"

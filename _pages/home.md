@@ -19,10 +19,11 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| 2022-10-28 | The [Call for System Demonstration Papers](/calls/system_demonstration/) is posted. |
-| 2022-10-20 | The [Call for Tutorial Proposals](/calls/tutorials/) is posted. |
-| 2022-10-20 | The [Call for Workshop Proposals](/calls/workshops/) is posted. |
-| 2022-10-07 | The [Call for Main Conference Papers](/calls/main_conference/) is posted. |
+| 2022-11-03 | [Style Files and Formatting](/calls/style_and_formatting/) is posted. |
+| 2022-10-28 | [Call for System Demonstration Papers](/calls/system_demonstration/) is posted. |
+| 2022-10-20 | [Call for Tutorial Proposals](/calls/tutorials/) is posted. |
+| 2022-10-20 | [Call for Workshop Proposals](/calls/workshops/) is posted. |
+| 2022-10-07 | [Call for Main Conference Papers](/calls/main_conference/) is posted. |
 | 2022-09-21 | The official ACL 2023 website is launched. |
 {: .news-table}
 
@@ -95,7 +96,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 .dates-table del { color: #888; }
 </style>
 
-| Submission template available | November 1, 2022 |
+| Submission template available | ~~November 1, 2022~~ |
 | Anonymity period for ARR papers | November 15, 2022 |
 | Submission deadline for papers submitted to ARR | December 15, 2022 |
 | Anonymity period for papers submitted through START | December 20, 2022 |
