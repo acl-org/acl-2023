@@ -13,7 +13,7 @@ Please use the following templates for paper submissions:
 
 * [LaTex](/downloads/acl2023.zip)
 * [Word](/downloads/acl2023.docx)
-* Overleaf (available soon)
+* [Overleaf](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp)
 
 ## Formatting
 
