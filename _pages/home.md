@@ -97,7 +97,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 </style>
 
 | Submission template available | ~~November 1, 2022~~ |
-| Anonymity period for ARR papers | November 15, 2022 |
+| Anonymity period for ARR papers | ~~November 15, 2022~~ |
 | Submission deadline for papers submitted to ARR | December 15, 2022 |
 | Anonymity period for papers submitted through START | December 20, 2022 |
 | Abstract deadline for START direct submissions | January 13, 2023 |
