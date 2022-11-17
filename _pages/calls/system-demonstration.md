@@ -32,7 +32,6 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | Paper submission deadline | February 24, 2023 |
 | Notification of acceptance | May 8, 2023 |
 | Camera-ready submission | May 26, 2023 |
-| Final notification for papers requiring ethics re-review | June 5, 2023 |
 {: .dates-table}
 
 
