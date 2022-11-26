@@ -104,7 +104,7 @@ While there is no direct mapping between types of contributions and paper length
 
 ## Paper Submission Process
  
-Following EMNLP2022 and EACL 2023, ACL 2023 will continue to offer a hybrid submission format with respect to ACL Rolling Review (ARR): the submissions may come through ARR, but it will also be possible to submit directly to ACL through the START system. A given submission may only choose one of these two options, i.e. it is not possible to receive both direct and ARR reviews.
+Following EMNLP2022 and EACL 2023, ACL 2023 will continue to offer a hybrid submission format with respect to [ACL Rolling Review](https://aclrollingreview.org) (ARR): the submissions may come through ARR, but it will also be possible to submit directly to ACL through the START system. A given submission may only choose one of these two options, i.e. it is not possible to receive both direct and ARR reviews.
 
 The papers submitted directly to ACL will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. The START system deadline for direct submission papers is January 13, 2023.
 
