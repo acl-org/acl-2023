@@ -19,6 +19,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2022-11-26 | [Call for Industry Track Papers](/calls/industry_track/) is posted. |
 | 2022-11-03 | [Style Files and Formatting](/calls/style_and_formatting/) is posted. |
 | 2022-10-28 | [Call for System Demonstration Papers](/calls/system_demonstration/) is posted. |
 | 2022-10-20 | [Call for Tutorial Proposals](/calls/tutorials/) is posted. |

@@ -74,10 +74,10 @@ calls:
     children:
       - title: "Main Conference"
         url: /calls/main_conference/
+      - title: "Industry Track"
+        url: /calls/industry_track/
       - title: "System Demonstration"
         url: /calls/system_demonstration/
-      # - title: "Industry Track"
-      #   url: /calls/industry_track/
       # - title: "Student Research Workshop"
       #   url: /calls/student_research_workshop/
       # - title: "Volunteers"

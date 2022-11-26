@@ -127,19 +127,19 @@ sidebar:
 <h2>Industry Track Chairs</h2>
 
 {% include committee-member.html
-   name="Sunayana Sitaram"
-   picture="/assets/images/committee/sunayana_sitaram.jpg"
-   site="https://www.microsoft.com/en-us/research/people/susitara/"
-   institution="Microsoft Research India (India)"
-   email = "Sunayana.Sitaram@microsoft.com"
-%}
-
-{% include committee-member.html
    name="Beata Beigman Klebanov"
    picture="/assets/images/committee/beata_beigman_klebanov.jpg"
    site="https://sites.google.com/site/beatabeigmanklebanov"
    institution="Educational Testing Service (USA)"
    email = "bbeigmanklebanov@ets.org"
+%}
+
+{% include committee-member.html
+   name="Sunayana Sitaram"
+   picture="/assets/images/committee/sunayana_sitaram.jpg"
+   site="https://www.microsoft.com/en-us/research/people/susitara/"
+   institution="Microsoft Research India (India)"
+   email = "Sunayana.Sitaram@microsoft.com"
 %}
 
 {% include committee-member.html
