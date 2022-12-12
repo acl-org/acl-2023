@@ -16,10 +16,13 @@ main:
 
   - title: "Calls"
     url: /calls/main_conference/
-    
+
   - title: "Blog"
     url: /blog/
       
+  - title: "FAQ"
+    url: /faq/
+
   - title: "Committees"
     url: /organization
   
@@ -44,8 +47,6 @@ main:
   - title: "Participants Info"
     url: /participants/anti_harassment/
 
-  - title: "FAQ"
-    url: /faq/
  
   # - title: "Ethics"
   #   url: /ethics/faq/

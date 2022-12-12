@@ -8,7 +8,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-To be announced.
+## Paper Related
 
 <!-- Q: I just finished my work and want to consider submiting it to EMNLP. Shall I submit it to ARR in the Jun cycle or directly to the conference?
 {: .question}
