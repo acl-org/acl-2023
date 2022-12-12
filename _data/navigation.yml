@@ -79,8 +79,8 @@ calls:
         url: /calls/industry_track/
       - title: "System Demonstration"
         url: /calls/system_demonstration/
-      # - title: "Student Research Workshop"
-      #   url: /calls/student_research_workshop/
+      - title: "Student Research Workshop"
+        url: /calls/student_research_workshop/
       # - title: "Volunteers"
       #   url: /calls/volunteers/
       - title: "Style Files and Formatting"
