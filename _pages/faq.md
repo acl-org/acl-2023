@@ -10,11 +10,6 @@ toc_icon: "cog"
 
 ## ARR and Softconf
 
-Q: I just finished my work and want to consider submiting it to EMNLP. Shall I submit it to ARR in the Dec cycle or directly to the conference?
-{: .question}
-A: You can choose either mode. However, if you choose to submit to ARR, and cannot get meta review by Jul 24th, then you might risk not being able to commit to EMNLP. However, given that there is more than 2months before the deadline, it is likely that you will get your reviews by then!
-{: .answer}
-
 Q: Can I submit my paper back to ARR after being rejected from this conference?
 {: .question}
 A: A paper may not be simultaneously under review through ARR and
@@ -90,7 +85,7 @@ A: Kindly contact your senior area chairs for taking necessary actions.
 
 Q: I am very sorry that we missed the deadline, because of something that we could not foresee. 
 {: .question}
-A: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
+A: We have decdied not to allow late submissions in order to be fair for those who did not write to us. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
 {: .answer}
 
 
@@ -105,7 +100,7 @@ of double submission is acceptable.  No other double submissions are allowed.
 
 ## Anonymity/Non-Archival
 
-Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
+Is it OK to withdraw my paper from ICLR 2023 and submit to NAACL?
 {: .question}
 If a non-anonymous version of the paper was made publicly available
 before the ACL 2023 anonymity period, it is OK to withdraw from ICLR and submit to ACL. However, if de-anonymization on withdrawal results in the paper being de-anonymized for the first time,  the paper would violate the ACL anonymity policies.
