@@ -8,56 +8,44 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## Paper Related
+## ARR and Softconf
 
-<!-- Q: I just finished my work and want to consider submiting it to EMNLP. Shall I submit it to ARR in the Jun cycle or directly to the conference?
+Q: I just finished my work and want to consider submiting it to EMNLP. Shall I submit it to ARR in the Dec cycle or directly to the conference?
 {: .question}
 A: You can choose either mode. However, if you choose to submit to ARR, and cannot get meta review by Jul 24th, then you might risk not being able to commit to EMNLP. However, given that there is more than 2months before the deadline, it is likely that you will get your reviews by then!
 {: .answer}
 
-Q: Can I submit my paper back to ARR after being rejected from EMNLP?
+Q: Can I submit my paper back to ARR after being rejected from this conference?
 {: .question}
-A: A paper may not be simultaneously under review through ARR and EMNLP 2022. In addition, a paper that has received reviews through ARR and then separately receives reviews from EMNLP will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers).
+A: A paper may not be simultaneously under review through ARR and
+an ACL conference. In addition, a paper that has received reviews through ARR and then separately receives reviews from ACL will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers).
 {: .answer}
 
-Q: I intend to commit from ARR by July 24. Can my submission be put to arXiv by June 24?
+Q: My paper was reviewed by ARR but I want to submit it directly to
+this conference.  Is that allowed?
 {: .question}
-A: Yes you can do that. Due to several similar inquries we decided to allow two separate anonimity deadlines for direct submission and for ARR comissions, respectively, both for one month.
+A: In order for a paper to be submitted directly to ACL 2023, it
+must be inactive in the ARR system. This means that the submission
+must either be explicitly withdrawn by the authors, or the ARR reviews
+are finished and shared with the authors before the submission deadline, and the paper
+was not re-submitted to ARR.
 {: .answer}
 
-Q: Do I have to submit my abstract to SOFTCONF if I commit from ARR?
+Q:My paper has been reviewed by ARR and I intend to commit to this conference; can
+I post it to ArXiv?
 {: .question}
-A: No you do not have to. Just commit directly after Jun 25 through the same SOFTCONF system. We will make the submission page ready after the direct submission deadline.
+A: Yes, the anon period does not apply to papers that have been
+through ARR (so long as they obeyed the anon policy before the ARR reviewing).
 {: .answer}
 
-Q: Why does my draft not pass the formality test by using the standard conference template and ACL Pubcheck?
+Q: Do I have to submit to SOFTCONF if I commit from ARR?
 {: .question}
-A: For using the verification script, one should *not* use the review mode.
+A: No you do not have to. Just commit directly through the same SOFTCONF system. We will make the submission page ready after the direct submission deadline.
 {: .answer}
 
-Q: If I commit from ARR, what is the page limit of my rebuttal file?
+Q: I want to commit my ARR submission and cannot find the submission link.
 {: .question}
-A: We require that the rebuttal file does not exceed one page using the standard template.
-{: .answer}
-
-Q: I am a reviewer and I want to reduce my review load / change my assigned submissions/ tell my unavailability dates.
-{: .question}
-A: Kindly contact your senior area chairs for taking necessary actions.
-{: .answer}
-
-Q: I forgot to add Limitations to my submission, can you add this?
-{: .question}
-A: Sorry we have decided that all submissions without Limitations will be desk rejected
-{: .answer}
-
-Q: I want to commit my ARR submission to EMNLP, and cannot find the submission link.
-{: .question}
-A: You can submit using the same SOFTCONF link as direct submissions. See [CFP url](https://softconf.com/emnlp2022/papers/).
-{: .answer}
-
-Q: I am very sorry that we missed the deadline, because of something that we could not foresee. 
-{: .question}
-A: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
+A: You can submit using the same SOFTCONF link as direct submissions. See [CFP url](https://softconf.com/acl2023/papers/).
 {: .answer}
 
 Q: Can I upload a modified version of our ARR submission?
@@ -65,24 +53,83 @@ Q: Can I upload a modified version of our ARR submission?
 A: No -- we will use the original version and original reviews, since there will be no separate reviewing process for ARR comissions.
 {: .answer}
 
-Q: The PDF file for ARR commission should contain the full paper or just the limiation and rebuttal sections?
+Q: The PDF file for ARR committment should contain the full paper or just the limiation and rebuttal sections?
 {: .question}
 A: It should only contain the limitation and rebuttal sections.
 {: .answer}
 
-Q: Policies of Venue Selection for EMNLP
+
+## Paper Formatting
+
+Q: Why does my draft not pass the formatting test by using the standard conference template and ACL Pubcheck?
 {: .question}
-A: The primary objective of ACL SIGDAT is to organize conferences to promote research and development of theories and technologies in computational linguistics and natural language processing, as defined in its constitution (https://sigdat.org/constitution). The SIGDAT committee, consisting of the president, vice-president, vice-president-elect, and secretary-treasurer, selects conference venues to fulfill its duty.  
- 
-The SIGDAT committee selects a conference venue aiming to make the conference productive, safe, affordable, accessible, and enjoyable for the attendees.  They also take inclusion and diversity very seriously, often reaching out to encourage bids from countries and regions where the conference has not been held, following the ACL constitution. https://aclweb.org/adminwiki/index.php?title=ACL_Constitution
- 
-The selection process generally consists of the following steps.
- 
-1. The committee creates and distributes a "call for bids", ideally two years before the conference. For example, this is the call-for-bids for EMNLP 2023: https://www.aclweb.org/portal/content/call-bids-host-emnlp-2023. 
-2. After receiving bids, the committee evaluates them and ranks them based on the criteria stated above.
-3. The committee sends the bids to the ACL treasurer and ACL business manager for review.
-4. The committee, ACL treasurer, and business manager have discussions on the selection. They also communicate with the bidders when necessary, gathering as much information as is needed to make a decision.
+A: For using the verification script, one should *not* use the review
+mode.  More concretely, the validation script checks to make sure that
+there's nothing in the margins.  The extra numbers to aid reviewing
+violates the checker.
 {: .answer}
+
+Q: If I commit from ARR, what is the page limit of my rebuttal file?
+{: .question}
+A: We require that the rebuttal file does not exceed one page using the standard template.
+{: .answer}
+
+Q: I forgot to add Limitations to my submission, can you add this?
+{: .question}
+A: Sorry we have decided that all submissions without Limitations will be desk rejected
+{: .answer}
+
+## Reviewing
+
+Q: I am a reviewer and I want to reduce my review load / change my assigned submissions/ tell my unavailability dates.
+{: .question}
+A: Kindly contact your senior area chairs for taking necessary actions.
+{: .answer}
+
+## Deadline
+
+Q: I am very sorry that we missed the deadline, because of something that we could not foresee. 
+{: .question}
+A: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
+{: .answer}
+
+
+## Dual Submissions
+
+Can I submit my work to another conference or submit work that is currently under review elsewhere (e.g. at EACL)?
+{: .question}
+EACL's notification deadline is right after ACL's submission
+deadline.  If you withdraw your paper within 24 hours of the other
+conference's notification (assuming it is accepted), this brief period
+of double submission is acceptable.  No other double submissions are allowed.
+
+## Anonymity/Non-Archival
+
+Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
+{: .question}
+If a non-anonymous version of the paper was made publicly available
+before the ACL 2023 anonymity period, it is OK to withdraw from ICLR and submit to ACL. However, if de-anonymization on withdrawal results in the paper being de-anonymized for the first time,  the paper would violate the ACL anonymity policies.
+{: .answer}
+
+Is it OK to talk about my work (e.g. at a workshop) during the anonymity period?
+{: .question}
+Yes, you can talk in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
+{: .answer}
+
+My paper is no longer under review at ARR but I plan to commit it to
+this conference, can I post it to ArXiv?
+{: .question}
+As long as it is a month before the commit deadline, you may post
+a non-anonymous copy on the web.
+{: .answer}
+
+## Virtual Attendance
+
+Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
+{: .question}
+Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
+{: .answer}
+
 
 <!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
 
