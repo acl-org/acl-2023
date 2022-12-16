@@ -10,9 +10,9 @@ toc_icon: "cog"
 
 ## ARR and Softconf
 
-Q: I just finished my work and want to consider submiting it to EMNLP. Shall I submit it to ARR in the Dec cycle or directly to the conference?
+Q: I just finished my work and want to consider submiting it to this conference. Shall I submit it to ARR in the Dec cycle or directly to the conference?
 {: .question}
-A: You can choose either mode. However, if you choose to submit to ARR, and cannot get meta review by Jul 24th, then you might risk not being able to commit to EMNLP. However, given that there is more than 2months before the deadline, it is likely that you will get your reviews by then!
+A: There are two ways to submit to ACL: through ACL Rolling Review, which is more like a journal submission (with the ability to revise and resubmit to the same authors and to "commit" to multiple venues beyond ACL, but with the cost of requiring more time) or directly submitting to the ACL program committee, which is faster but does not have the option to resubmit or to offer your work for consideration at other venues.
 {: .answer}
 
 Q: Can I submit my paper back to ARR after being rejected from this conference?
@@ -34,8 +34,7 @@ was not re-submitted to ARR.
 Q:My paper has been reviewed by ARR and I intend to commit to this conference; can
 I post it to ArXiv?
 {: .question}
-A: Yes, the anon period does not apply to papers that have been
-through ARR (so long as they obeyed the anon policy before the ARR reviewing).
+A: In this case there are two anon periods: one starting a month before the ARR deadline until the reviews are received and one starting from a month before the ACL commit deadline.  As long as you are outside these two periods (e.g., you have ARR reviews and are before the commit deadline), you can post a preprint.
 {: .answer}
 
 Q: Do I have to submit to SOFTCONF if I commit from ARR?
