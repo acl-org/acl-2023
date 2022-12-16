@@ -100,7 +100,7 @@ Can I submit my work to another conference or submit work that is currently unde
 EACL's notification deadline is right after ACL's submission
 deadline.  If you withdraw your paper within 24 hours of the other
 conference's notification (assuming it is accepted), this brief period
-of double submission is acceptable.  No other double submissions are allowed.
+of double submission is acceptable.  No other double submissions are allowed. {: .answer}
 
 ## Anonymity/Non-Archival
 
