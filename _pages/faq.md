@@ -95,38 +95,43 @@ A: We have decdied not to allow late submissions in order to be fair for those w
 
 ## Dual Submissions
 
-Can I submit my work to another conference or submit work that is currently under review elsewhere (e.g. at EACL)?
+Q: Can I submit my work to another conference or submit work that is currently under review elsewhere (e.g. at EACL)?
 {: .question}
-EACL's notification deadline is right after ACL's submission
+A: EACL's notification deadline is right after ACL's submission
 deadline.  If you withdraw your paper within 24 hours of the other
 conference's notification (assuming it is accepted), this brief period
 of double submission is acceptable.  No other double submissions are allowed. {: .answer}
 
 ## Anonymity/Non-Archival
 
-Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
+Q: Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
 {: .question}
-If a non-anonymous version of the paper was made publicly available
-before the ACL 2023 anonymity period, it is OK to withdraw from ICLR and submit to ACL. However, if de-anonymization on withdrawal results in the paper being de-anonymized for the first time,  the paper would violate the ACL anonymity policies.
+A: If a non-anonymous version of the paper was made publicly available
+before the ACL 2023 anonymity period, it is OK to withdraw from ICLR
+and submit to ACL. However, if de-anonymization on withdrawal results
+in the paper being de-anonymized for the first time,  the paper would
+violate the ACL anonymity policies.  As all submitted papers (accepted
+or rejected) will be deanonymized after the notification, this applies
+even if the paper was rejected from ICLR.
 {: .answer}
 
-Is it OK to talk about my work (e.g. at a workshop) during the anonymity period?
+Q: Is it OK to talk about my work (e.g. at a workshop) during the anonymity period?
 {: .question}
-Yes, you can talk in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
+A: Yes, you can talk in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
 {: .answer}
 
-My paper is no longer under review at ARR but I plan to commit it to
+Q: My paper is no longer under review at ARR but I plan to commit it to
 this conference, can I post it to ArXiv?
 {: .question}
-As long as it is a month before the commit deadline, you may post
+A: As long as it is a month before the commit deadline, you may post
 a non-anonymous copy on the web.
 {: .answer}
 
 ## Virtual Attendance
 
-Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
+Q: Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
 {: .question}
-Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
+A: Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
 {: .answer}
 
 
