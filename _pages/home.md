@@ -19,6 +19,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2022-12-20 | [2nd Call for Main Conference Papers](/calls/main_conference/) is posted. |
 | 2022-12-12 | [Call for Student Research Workshop Papers](/calls/student_research_workshop/) is posted. |
 | 2022-11-26 | [Call for Industry Track Papers](/calls/industry_track/) is posted. |
 | 2022-11-03 | [Style Files and Formatting](/calls/style_and_formatting/) is posted. |
@@ -98,12 +99,13 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 .dates-table del { color: #888; }
 </style>
 
-| Submission template available | ~~November 1, 2022~~ |
-| Anonymity period for ARR papers | ~~November 15, 2022~~ |
+| Submission template available | November 1, 2022 |
+| Anonymity period for ARR papers | November 15, 2022 |
 | Submission deadline for papers submitted to ARR | December 15, 2022 |
-| Anonymity period for papers submitted through START | December 20, 2022 |
-| Abstract deadline for START direct submissions | January 13, 2023 |
+| Anonymity period for papers submitted through Softconf START | December 20, 2022 |
+| Abstract deadline for Softconf START direct submissions | January 13, 2023 |
 | Direct paper submission deadline | January 20, 2023 |
+| Anonymity period for ARR papers to be committed to ACL 2023 | Februrary 17, 2023 |
 | Commitment deadline for ARR papers | March 17, 2023 |
 | Author response period | March 17-24, 2023 |
 | Notification of acceptance | May 1, 2023 |
