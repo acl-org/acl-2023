@@ -10,106 +10,128 @@ toc_icon: "cog"
 
 ## ARR and Softconf
 
-Q: I just finished my work and want to consider submiting it to this conference. Shall I submit it to ARR in the Dec cycle or directly to the conference?
+**Q**: I just finished my work and want to consider submiting it to this conference. Shall I submit it to ARR in the Dec cycle or directly to the conference?
 {: .question}
-A: There are two ways to submit to ACL: through ACL Rolling Review, which is more like a journal submission (with the ability to revise and resubmit to the same authors and to "commit" to multiple venues beyond ACL, but with the cost of requiring more time) or directly submitting to the ACL program committee, which is faster but does not have the option to resubmit or to offer your work for consideration at other venues.
+**A**: There are two ways to submit to ACL: through ACL Rolling Review, which is more like a journal submission (with the ability to revise and resubmit to the same authors and to "commit" to multiple venues beyond ACL, but with the cost of requiring more time) or directly submitting to the ACL program committee, which is faster but does not have the option to resubmit or to offer your work for consideration at other venues.
 {: .answer}
 
-Q: Can I submit my paper back to ARR after being rejected from this conference?
+---
+
+**Q**: Can I submit my paper back to ARR after being rejected from this conference?
 {: .question}
-A: A paper may not be simultaneously under review through ARR and
+**A**: A paper may not be simultaneously under review through ARR and
 an ACL conference. In addition, a paper that has received reviews through ARR and then separately receives reviews from ACL will not be eligible for resubmission to ARR, per [ARR's rules](https://aclrollingreview.org/organizers).
 {: .answer}
 
-Q: My paper was reviewed by ARR but I want to submit it directly to
+---
+
+**Q**: My paper was reviewed by ARR but I want to submit it directly to
 this conference.  Is that allowed?
 {: .question}
-A: In order for a paper to be submitted directly to ACL 2023, it
+**A**: In order for a paper to be submitted directly to ACL 2023, it
 must be inactive in the ARR system. This means that the submission
 must either be explicitly withdrawn by the authors, or the ARR reviews
 are finished and shared with the authors before the submission deadline, and the paper
 was not re-submitted to ARR.
 {: .answer}
 
-Q:My paper has been reviewed by ARR and I intend to commit to this conference; can
+---
+
+**Q**: My paper has been reviewed by ARR and I intend to commit to this conference; can
 I post it to ArXiv?
 {: .question}
-A: In this case there are two anon periods: one starting a month before the ARR deadline until the reviews are received and one starting from a month before the ACL commit deadline.  As long as you are outside these two periods (e.g., you have ARR reviews and are before the commit deadline), you can post a preprint.
+**A**: In this case there are two anon periods: one starting a month before the ARR deadline until the reviews are received and one starting from a month before the ACL commit deadline.  As long as you are outside these two periods (e.g., you have ARR reviews and are before the commit deadline), you can post a preprint.
 {: .answer}
 
-Q: Do I have to submit to SOFTCONF if I commit from ARR?
+---
+
+**Q**: Do I have to submit to SOFTCONF if I commit from ARR?
 {: .question}
-A: No you do not have to. Just commit directly through the same SOFTCONF system. We will make the submission page ready after the direct submission deadline.
+**A**: No you do not have to. Just commit directly through the same SOFTCONF system. We will make the submission page ready after the direct submission deadline.
 {: .answer}
 
-Q: I want to commit my ARR submission and cannot find the submission link.
+---
+
+**Q**: I want to commit my ARR submission and cannot find the submission link.
 {: .question}
-A: You can submit using the same SOFTCONF link as direct submissions. See [CFP url](https://softconf.com/acl2023/papers/).
+**A**: You can submit using the same SOFTCONF link as direct submissions. See [CFP url](https://softconf.com/acl2023/papers/).
 {: .answer}
 
-Q: Can I upload a modified version of our ARR submission?
+---
+
+**Q**: Can I upload a modified version of our ARR submission?
 {: .question}
-A: No -- we will use the original version and original reviews, since there will be no separate reviewing process for ARR comissions.
+**A**: No -- we will use the original version and original reviews, since there will be no separate reviewing process for ARR comissions.
 {: .answer}
 
-Q: The PDF file for ARR committment should contain the full paper or just the limiation and rebuttal sections?
+---
+
+**Q**: The PDF file for ARR committment should contain the full paper or just the limiation and rebuttal sections?
 {: .question}
-A: It should only contain the limitation and rebuttal sections.
+**A**: It should only contain the limitation and rebuttal sections.
 {: .answer}
 
 
 ## Paper Formatting
 
-Q: Why does my draft not pass the formatting test by using the standard conference template and ACL Pubcheck?
+**Q**: Why does my draft not pass the formatting test by using the standard conference template and ACL Pubcheck?
 {: .question}
-A: For using the verification script, one should *not* use the review
+**A**: For using the verification script, one should *not* use the review
 mode.  More concretely, the validation script checks to make sure that
 there's nothing in the margins.  The extra numbers to aid reviewing
 violates the checker.
 {: .answer}
 
-Q: If I commit from ARR, what is the page limit of my rebuttal file?
+---
+
+**Q**: If I commit from ARR, what is the page limit of my rebuttal file?
 {: .question}
-A: We require that the rebuttal file does not exceed one page using the standard template.
+**A**: We require that the rebuttal file does not exceed one page using the standard template.
 {: .answer}
 
-Q: I forgot to add Limitations to my submission, can you add this?
+---
+
+**Q**: I forgot to add Limitations to my submission, can you add this?
 {: .question}
-A: Sorry we have decided that all submissions without Limitations will be desk rejected
+**A**: Sorry we have decided that all submissions without Limitations will be desk rejected
 {: .answer}
 
 ## Reviewing
 
-Q: I am a reviewer and I want to reduce my review load / change my assigned submissions/ tell my unavailability dates.
+**Q**: I am a reviewer and I want to reduce my review load / change my assigned submissions/ tell my unavailability dates.
 {: .question}
-A: Kindly contact your senior area chairs for taking necessary actions.
+**A**: Kindly contact your senior area chairs for taking necessary actions.
 {: .answer}
 
 ## Deadline
 
-Q: I am very sorry that we missed the deadline, because of something that we could not foresee. 
+**Q**: I am very sorry that we missed the deadline, because of something that we could not foresee. 
 {: .question}
-A: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
+**A**: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
 {: .answer}
 
 
 ## Dual Submissions
 
-Q: Can I submit my work to another conference or submit work that is currently under review elsewhere (e.g. at EACL)?
+**Q**: Can I submit my work to another conference or submit work that is currently under review elsewhere (e.g. at EACL)?
 {: .question}
-A: EACL's notification deadline is right after ACL's submission
+**A**: EACL's notification deadline is right after ACL's submission
 deadline.  If you withdraw your paper within 24 hours of the other
 conference's notification (assuming it is accepted), this brief period
 of double submission is acceptable.  No other double submissions are allowed. {: .answer}
 
-Q: Can dual I submit my work to a non-archival workshop?{: .question}
-A: Yes, however, make sure that this does not violate the anonymity policy by making a new revision of your paper available online. {: .answer}
+---
+
+**Q**: Can dual I submit my work to a non-archival workshop?{: .question}
+
+**A**: Yes, however, make sure that this does not violate the anonymity policy by making a new revision of your paper available online. {: .answer}
 
 ## Anonymity/Non-Archival
 
-Q: Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
+**Q**: Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
 {: .question}
-A: If a non-anonymous version of the paper was made publicly available
+
+**A**: If a non-anonymous version of the paper was made publicly available
 before the ACL 2023 anonymity period, it is OK to withdraw from ICLR
 and submit to ACL. However, if de-anonymization on withdrawal results
 in the paper being de-anonymized for the first time,  the paper would
@@ -118,23 +140,30 @@ or rejected) will be deanonymized after the notification, this applies
 even if the paper was rejected from ICLR.
 {: .answer}
 
-Q: Is it OK to talk about my work (e.g. at a workshop) during the anonymity period?
+---
+
+**Q**: Is it OK to talk about my work (e.g. at a workshop) during the anonymity period?
 {: .question}
-A: Yes, you can talk in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
+
+**A**: Yes, you can talk in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
 {: .answer}
 
-Q: My paper is no longer under review at ARR but I plan to commit it to
+---
+
+**Q**: My paper is no longer under review at ARR but I plan to commit it to
 this conference, can I post it to ArXiv?
 {: .question}
-A: As long as it is a month before the commit deadline, you may post
+
+**A**: As long as it is a month before the commit deadline, you may post
 a non-anonymous copy on the web.
 {: .answer}
 
 ## Virtual Attendance
 
-Q: Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
+**Q**: Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
 {: .question}
-A: Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
+
+**A**: Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
 {: .answer}
 
 
