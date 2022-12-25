@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-_The 2nd-CFP: December 20, 2022_
+_The 2nd Call: December 20, 2022_
 
 ACL 2023 invites the submission of long and short papers featuring substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) and by the Computational Linguistics (CL) journals.
 
@@ -152,7 +152,7 @@ All submissions to ACL 2023 must follow the following policies.
 
 **Anonymity Period**
 
-The direct submissions to ACL may not be made available online (e.g. via a preprint server) in a non-anonymized form after December 20 11:59PM UTC-12:00 (for arXiv, note that this refers to [publication time](https://arxiv.org/help/availability), not submission time). The respective deadline for ARR is November 15th. Non-anonymous preprints that were published before the start of the anonymity period may not be updated until ACL notifications come out. The only exception is for the purpose of correcting names, in which case the PC chairs should be notified per [ACL policy](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation). The existence of non-anonymous preprints must be disclosed in the submission form. 
+The direct submissions to ACL may not be made available online (e.g. via a preprint server) in a non-anonymized form after December 20 11:59PM UTC-12:00 (for arXiv, note that this refers to ~~[publication time](https://arxiv.org/help/availability), not~~ submission time). The respective deadline for ARR is November 15th. Non-anonymous preprints that were published before the start of the anonymity period may not be updated until ACL notifications come out. The only exception is for the purpose of correcting names, in which case the PC chairs should be notified per [ACL policy](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation). The existence of non-anonymous preprints must be disclosed in the submission form. 
 
 ACL does not prohibit giving talks about work under review in small groups, but we ask you not to advertise the preprint (or such talks) on social media, blog about this work, or have it covered in the media during the anonymity period. Anonymous preprints (e.g. on ARR) can be posted after the start of the anonymity period, but likewise should not be advertised by their authors or their close colleagues, as that can compromise the review process.
 
