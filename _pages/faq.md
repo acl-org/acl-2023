@@ -102,6 +102,9 @@ deadline.  If you withdraw your paper within 24 hours of the other
 conference's notification (assuming it is accepted), this brief period
 of double submission is acceptable.  No other double submissions are allowed. {: .answer}
 
+Q: Can dual I submit my work to a non-archival workshop?{: .question}
+A: Yes, however, make sure that this does not violate the anonymity policy by making a new revision of your paper available online. {: .answer}
+
 ## Anonymity/Non-Archival
 
 Q: Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
