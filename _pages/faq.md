@@ -102,7 +102,28 @@ violates the checker.
 
 **Q**: I forgot to add Limitations to my submission, can you add this?
 {: .question}
-**A**: Sorry we have decided that all submissions without Limitations will be desk rejected
+**A**: Sorry, we have decided that all submissions without Limitations will be desk rejected
+{: .answer}
+
+---
+
+**Q**: I got the error: ~The page size of this PDF is different from A4, which is not allowed by the submission guidelines.~
+{: .question}
+**A**: First, make sure you are using the official submission templates.  If
+you are not, this problem is typically the result of using "Print to PDF"
+(e.g., from the Word template) and
+specifying a different page size other than A4.
+{: .answer}
+
+---
+
+**Q**: Can you look over my submission to make sure it's okay?
+{: .question}
+**A**: Sorry, as unpaid volunteers we do not have the bandwidth to
+individually check all presubmission files for compliance, and it would be unfair
+to do this for some submissions but not others.  Please carefully follow the
+directions, check the FAQs, and ask your colleagues for advice.  We will
+update this FAQ as we get new questions about submission.
 {: .answer}
 
 ## Reviewing
