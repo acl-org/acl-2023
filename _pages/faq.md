@@ -52,6 +52,15 @@ I post it to ArXiv?
 
 ---
 
+**Q**: Do all of the authors need to have SOFTCONF profiles?  Why?
+{: .question}
+**A**: Yes.  We use the SOFTCONF profiles to help identify conflicts,
+so every author (not just the corresponding author) needs to have a
+SOFTCONF profile.
+{: .answer}
+
+---
+
 **Q**: I want to commit my ARR submission and cannot find the submission link.
 {: .question}
 **A**: You can submit using the same SOFTCONF link as direct submissions. See [CFP url](https://softconf.com/acl2023/papers/).
@@ -93,7 +102,28 @@ violates the checker.
 
 **Q**: I forgot to add Limitations to my submission, can you add this?
 {: .question}
-**A**: Sorry we have decided that all submissions without Limitations will be desk rejected
+**A**: Sorry, we have decided that all submissions without Limitations will be desk rejected
+{: .answer}
+
+---
+
+**Q**: I got the error: ~The page size of this PDF is different from A4, which is not allowed by the submission guidelines.~
+{: .question}
+**A**: First, make sure you are using the official submission templates.  If
+you are not, this problem is typically the result of using "Print to PDF"
+(e.g., from the Word template) and
+specifying a different page size other than A4.
+{: .answer}
+
+---
+
+**Q**: Can you look over my submission to make sure it's okay?
+{: .question}
+**A**: Sorry, as unpaid volunteers we do not have the bandwidth to
+individually check all presubmission files for compliance, and it would be unfair
+to do this for some submissions but not others.  Please carefully follow the
+directions, check the FAQs, and ask your colleagues for advice.  We will
+update this FAQ as we get new questions about submission.
 {: .answer}
 
 ## Reviewing
@@ -118,13 +148,19 @@ violates the checker.
 **A**: EACL's notification deadline is right after ACL's submission
 deadline.  If you withdraw your paper within 24 hours of the other
 conference's notification (assuming it is accepted), this brief period
-of double submission is acceptable.  No other double submissions are allowed. {: .answer}
+of double submission is acceptable.  No other double submissions are
+allowed. 
+{: .answer}
 
 ---
 
-**Q**: Can dual I submit my work to a non-archival workshop?{: .question}
+**Q**: Can dual I submit my work to a non-archival workshop?
+{: .question}
 
-**A**: Yes, however, make sure that this does not violate the anonymity policy by making a new revision of your paper available online. {: .answer}
+**A**: Yes, however, make sure that this does not violate the
+anonymity policy by making a new revision of your paper available
+online. 
+{: .answer}
 
 ## Anonymity/Non-Archival
 
