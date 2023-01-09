@@ -30,6 +30,45 @@ More information will be announced soon.
 | 2022-09-21 | The official ACL 2023 website is launched. |
 {: .news-table}
 
+## Important Dates
+
+All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
+
+<style>
+.dates-table { font-size: .8em; }
+.dates-table tr td:nth-child(1) { width: 60%; }
+.dates-table tr td:nth-child(2) { width: 30%; }
+.dates-table del { color: #888; }
+</style>
+
+### Main Conference Papers
+
+| Submission template available | ~~November 1, 2022~~ |
+| Anonymity period for ARR papers | ~~November 15, 2022~~ |
+| Submission deadline for papers submitted to ARR | ~~December 15, 2022~~ |
+| Anonymity period for papers submitted through Softconf START | ~~December 20, 2022~~ |
+| Abstract deadline for Softconf START direct submissions | January 13, 2023 |
+| Direct paper submission deadline | January 20, 2023 |
+| Anonymity period for ARR papers to be committed to ACL 2023 | Februrary 17, 2023 |
+| Commitment deadline for ARR papers | March 17, 2023 |
+| Author response period | March 17-24, 2023 |
+| Notification of acceptance | May 1, 2023 |
+| Withdrawal deadline | May 8, 2023 |
+| Camera-ready papers due | May 22, 2023 |
+| Tutorials | July 9, 2023 |
+| Conference | July 10-12, 2023 |
+| Workshops | July 13-14, 2023 |
+
+### Industry Track Papers
+
+| Anonymity period begins | January 17, 2023 |
+| Paper submission deadline | February 17, 2023 |
+| Notification of acceptance | May 1, 2023 |
+| Camera-ready version of papers due | May 22, 2023 |
+| Main conference, including industry track | July 10-12, 2023 |
+{: .dates-table}
+
+
 
 <!-- [Older News](/archive/){: .btn .btn--info}
 {: .text-center} -->
@@ -86,37 +125,3 @@ The [**Conference Program Schedule**](/program/) is now online.
 | June 1, 2021 | Added the list of [Keynote Speakers](/program/keynotes/).
 | May 31, 2021 | Event annoucements by D&I chairs: [Mexican Cultural Events](/blog/mexican-event), [Intersectionality in NLP](/blog/intersectionality-panel), [Inclusivity in Conferences](/blog/inclusivity-panel), [Getting into NLP research and grad school applications](/blog/grad-school-panel/)
 {: .news-table} -->
-
-
-## Important Dates
-
-All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
-
-<style>
-.dates-table { font-size: .8em; }
-.dates-table tr td:nth-child(1) { width: 60%; }
-.dates-table tr td:nth-child(2) { width: 30%; }
-.dates-table del { color: #888; }
-</style>
-
-| Submission template available | November 1, 2022 |
-| Anonymity period for ARR papers | November 15, 2022 |
-| Submission deadline for papers submitted to ARR | December 15, 2022 |
-| Anonymity period for papers submitted through Softconf START | December 20, 2022 |
-| Abstract deadline for Softconf START direct submissions | January 13, 2023 |
-| Direct paper submission deadline | January 20, 2023 |
-| Anonymity period for ARR papers to be committed to ACL 2023 | Februrary 17, 2023 |
-| Commitment deadline for ARR papers | March 17, 2023 |
-| Author response period | March 17-24, 2023 |
-| Notification of acceptance | May 1, 2023 |
-| Withdrawal deadline | May 8, 2023 |
-| Camera-ready papers due | May 22, 2023 |
-| Tutorials | July 9, 2023 |
-| Conference | July 10-12, 2023 |
-| Workshops | July 13-14, 2023 |
-{: .dates-table}
-
-<!--
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
-!-->
-

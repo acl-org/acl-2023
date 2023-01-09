@@ -122,7 +122,7 @@ Authors will be allowed extra space after the 6th page for an optional broader i
 
 ## Industry Track Chairs
 
-Contact: [acl2023-industry-track@googlegroups.com](mailto:acl2023-industry-track@googlegroups.com)
+Contact: [acl-2023-industry-track-pcs@googlegroups.com](mailto:acl-2023-industry-track-pcs@googlegroups.com)
 
 * Beata Beigman Klebanov, Educational Testing Service (USA)
 * Sunayana Sitaram, Microsoft Research (India)
