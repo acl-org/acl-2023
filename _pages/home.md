@@ -16,9 +16,10 @@ More information will be announced soon.
 ## News
 
 <style>
-.news-table { font-size: .9em; table-layout: fixed; }
+.news-table { font-size: .8em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+
 | 2022-12-20 | [2nd Call for Main Conference Papers](/calls/main_conference/) is posted. |
 | 2022-12-12 | [Call for Student Research Workshop Papers](/calls/student_research_workshop/) is posted. |
 | 2022-11-26 | [Call for Industry Track Papers](/calls/industry_track/) is posted. |
@@ -28,6 +29,12 @@ More information will be announced soon.
 | 2022-10-20 | [Call for Workshop Proposals](/calls/workshops/) is posted. |
 | 2022-10-07 | [Call for Main Conference Papers](/calls/main_conference/) is posted. |
 | 2022-09-21 | The official ACL 2023 website is launched. |
+{: .news-table}
+
+## Blog Posts
+
+| 2023-01-10 | [ACL 2023 Policy on AI Writing Assistance](/blog/ACL-2023-policy/) |
+| 2022-08-31 | [ACL 2023 Blog](/blog/ACL-2023-blog/) |
 {: .news-table}
 
 ## Important Dates
