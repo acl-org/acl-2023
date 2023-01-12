@@ -10,6 +10,23 @@ toc_icon: "cog"
 
 ## ARR and Softconf
 
+---
+
+**Q**: Do all of the authors need to have SOFTCONF profiles?  Why?
+{: .question}
+**A**: Yes.  We use the SOFTCONF profiles to help identify conflicts,
+so every author (not just the corresponding author) needs to have a
+SOFTCONF profile.
+{: .answer}
+
+---
+
+**Q**: How big can my submission be?  Why isn't it larger?
+{: .question}
+**A**: For the paper PDF, 10MB; for the software, 50MB; for the data, 50MB.  Reviewers need to download the papers, and not everyone has a strong internet connection at all times.  If you need more than this, consider using compression or lower resolution on images in your paper (for raster images) and removing polygons (for vector images).  You can also reencode your PDF.
+{: .answer}
+
+
 **Q**: I just finished my work and want to consider submiting it to this conference. Shall I submit it to ARR in the Dec cycle or directly to the conference?
 {: .question}
 **A**: There are two ways to submit to ACL: through ACL Rolling Review, which is more like a journal submission (with the ability to revise and resubmit to the same authors and to "commit" to multiple venues beyond ACL, but with the cost of requiring more time) or directly submitting to the ACL program committee, which is faster but does not have the option to resubmit or to offer your work for consideration at other venues.
@@ -52,18 +69,9 @@ I post it to ArXiv?
 
 ---
 
-**Q**: Do all of the authors need to have SOFTCONF profiles?  Why?
-{: .question}
-**A**: Yes.  We use the SOFTCONF profiles to help identify conflicts,
-so every author (not just the corresponding author) needs to have a
-SOFTCONF profile.
-{: .answer}
-
----
-
 **Q**: I want to commit my ARR submission and cannot find the submission link.
 {: .question}
-**A**: You can submit using the same SOFTCONF link as direct submissions. See [CFP url](https://softconf.com/acl2023/papers/).
+**A**: You can submit using the same SOFTCONF link as direct submissions but only after the normal deadline. See [CFP url](https://softconf.com/acl2023/papers/).
 {: .answer}
 
 ---
