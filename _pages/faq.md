@@ -194,6 +194,20 @@ this conference, can I post it to ArXiv?
 a non-anonymous copy on the web.
 {: .answer}
 
+---
+
+**Q**: Can I dual-submit my work to a conference/workshop where the work will be included in non-refereed proceedings volumes?
+{: .question}
+
+**A**: Yes. However, make sure that you do not post a preprint by
+yourself. In addition, you are asked not to advertise a non-anonymous
+preprint on social media or take other actions that would further
+compromise double-blind reviewing during the anonymity period. See the
+"Submission" section of [ACL Policies for Submission, Review and
+Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) 
+{: .answer}
+
+
 ## Virtual Attendance
 
 **Q**: Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
