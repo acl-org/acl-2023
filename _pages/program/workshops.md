@@ -3,7 +3,7 @@ title: Workshops
 layout: single
 excerpt: "ACL 2023 Workshops."
 permalink: /program/workshops/
-toc: false
+toc: true
 sidebar: 
     nav: program
 ---
@@ -12,7 +12,30 @@ sidebar:
 
 Please refer to each individual event's website for more details.
 
-## July 13 (Thursday)
+* [The 17th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2023/) (SemEval)
+* The 12th Joint Conference on Lexical and Computational Semantics (*SEM)
+* The 8th Workshop on Representation Learning for NLP (RepL4NLP)
+* The 1st Workshop on Social Influence in Conversations (SICon)
+* The 4th Workshop on Simple and Efficient Natural Language Processing (SustaiNLP)
+* The 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA)
+* The 7th Workshop on Online Abuse and Harms
+* The 3rd Workshop on Document-grounded Dialogue and Conversational Question Answering (DialDoc)
+* The 1st Workshop on Matching From Unstructured and Structured Data
+* The 17th Workshop on Linguistic Annotation (LAW)
+* [The 20th International Conference on Spoken Language Translation](https://iwslt.org) (IWSLT)
+* [The 22nd Workshop on Biomedical Natural Language Processing](https://aclweb.org/aclwiki/BioNLP_Workshop) (BioNLP)
+* The 5th Workshop on NLP for Conversational AI
+* The 3rd Workshop on Trustworthy NLP
+* The 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA)
+* The 5th Clinical Natural Language Processing Workshop (Clinical NLP)
+* The 4th Workshop on Computational Approaches to Discourse (CODI)
+* The 1st Workshop on Computation and Written Language (CAWL)
+* The 3rd Workshop on NLP for Indigenous Languages of the Americas
+* The 5th Workshop on Narrative Understanding
+* The 20th Workshop on Computational Morphology and Phonology (SIGMORPHON)
+* The 1st Workshop on Natural Language Reasoning and Structured Explanations
+
+<!-- ## July 13 (Thursday)
 
 To be announced.
 
@@ -20,36 +43,17 @@ To be announced.
 
 To be announced.
 
-## Both Days: July 13 - 14 (Thursday - Friday)
+## Both Days: July 13 - 14 (Thursday - Friday) -->
 
-To be announced.
 
-<!-- ### W2: [GEM: Natural Language Generation, Evaluation, and Metrics](https://gem-benchmark.com/workshop)
-Antoine Bosselut, Khyathi Chandu, Kaustubh Dhole, Varun Gangal, Sebastian Gehrmann, Yacine Jernite, Jekaterina Novikova and Laura Perez-Beltrachini
 
-### W3: [WiNLP: The Sixth Widening NLP Workshop](http://www.winlp.org/)
-Shaily Bhatt, Sunipa Dev, Bonaventure Dossou, Tirthankar Ghosal, Hatem Haddad, Haley M. Lepp, Fatemehsadat Mireshghallah, Surangika Ranathunga, Xanda Schofield, Isidora Tourni and Weijia Xu
-
-### W4: [NLP4PI: Second Workshop on NLP for Positive Impact](https://sites.google.com/view/nlp4positiveimpact)
-Laura Biester, Dora Demszky, Zhijing Jin, Mrinmaya Sachan, Flavio Schneider, Joel Tetreault, Steven Wilson, Lu Xiao and Jieyu Zhao
-
-### W5: [SustaiNLP: The Third Workshop on Simple and Efficient Natural Language Processing](https://sites.google.com/view/sustainlp2022/home)
-Maha Elbayad, Angela Fan, Iryna Gurevych, Yufang Hou, Zornitsa Kozareva, Sasha Luccioni, Nafise Sadat Moosavi and Sujith Ravi
-
-### W6: [SereTOD: Towards Semi-Supervised and Reinforced Task-Oriented Dialog Systems](http://seretod.org/)
-Zhijian Ou, Junlan Feng and Juanzi Li
-
-### W7: [UM-IoS: Unimodal and Multimodal Induction of Linguistic Structures](https://induction-of-structure.github.io/emnlp2022/)
-Wenjuan Han, Zilong Zheng, Zhouhan Lin, Lifeng Jin, Yikang Shen, Yoon Kim, Kewei Tu and Joyce Y. Chai
-
-### W8: [EvoNLP: The First Workshop on Ever Evolving NLP](https://sites.google.com/view/evonlp/)
-Francesco Barbieri, Jose Camacho-Collados, Bhuwan Dhingra, Luis Espinosa-Anke, Elena Gribovskaya, Angeliki Lazaridou, Daniel Loureiro and Leonardo Neves
-
-### W9: [LOUHI: 13th International Workshop on Health Text Mining and Information Analysis](https://louhi2022.fbk.eu/)
-Alberto Lavelli, Eben Holderness, Antonio Jimeno Yepes, Anne-Lyse Minard, James Pustejovsky and Fabio Rinaldi
-
-### W10: [NLP_CSS: NLP and Computational Social Science](https://sites.google.com/site/nlpandcss/)
-Svitlana Volkova, David Jurgens, David Bamman, Dirk Hovy and Brendan O'Connor
-
-### W11: [MMNLU: Massively Multilingual Natural Language Understanding](https://mmnlu-22.github.io/)
+<!-- ### W11: [MMNLU: Massively Multilingual Natural Language Understanding](https://mmnlu-22.github.io/)
 Jack FitzGerald, Kay Rottmann, Julia Hirschberg, Mohit Bansal, Anna Rumshisky and Charith Peris -->
+
+
+
+## Workshop Chairs
+
+* Eduardo Blanco, University of Arizona (USA)
+* Yang Feng, Chinese Academy of Sciences (China)
+* Annie Louis, Google (UK)

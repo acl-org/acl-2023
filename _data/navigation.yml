@@ -23,15 +23,15 @@ main:
   - title: "FAQ"
     url: /faq/
 
+  - title: "Program"
+    url: /program/
+
   - title: "Committees"
     url: /organization
   
   - title: "Sponsors"
     url: /sponsors/
   
-  - title: "Program"
-    url: /program/
-
   # - title: "Contact"
   #   url: /contact 
     
