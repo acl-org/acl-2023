@@ -164,7 +164,7 @@ online.
 
 ## Anonymity/Non-Archival
 
-**Q**: Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
+**Q**: Is it OK to withdraw my paper from ICLR and submit to this conference?
 {: .question}
 
 **A**: If a non-anonymous version of the paper was made publicly available
