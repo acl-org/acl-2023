@@ -19,6 +19,14 @@ SOFTCONF profile.
 
 ---
 
+**Q**: Why do I have to fill out the COI field?
+{: .question}
+**A**: While some conflicts are generated automatically (from your e-mail domain and coauthors on papers), not all of these relationships are known.  It is your responsibility to list potential conflicts that might not be discovered by the system (the following is not meant to be a complete list): internships, joint research projects, journal editing, personal relationships, or new collaborations that have not yet resulted in a publication.
+{: .answer}
+
+---
+
+
 **Q**: How big can my submission be?  Why isn't it larger?
 {: .question}
 **A**: For the paper PDF, 10MB; for the software, 50MB; for the data, 50MB.  Reviewers need to download the papers, and not everyone has a strong internet connection at all times.  If you need more than this, consider using compression or lower resolution on images in your paper (for raster images) and removing polygons (for vector images).  You can also reencode your PDF.
@@ -123,7 +131,7 @@ violates the checker.
 
 ---
 
-**Q**: I got the error: ~The page size of this PDF is different from A4, which is not allowed by the submission guidelines.~
+**Q**: I got the error: *The page size of this PDF is different from A4, which is not allowed by the submission guidelines.~
 {: .question}
 **A**: First, make sure you are using the official submission templates.  If
 you are not, this problem is typically the result of using "Print to PDF"
@@ -169,6 +177,37 @@ allowed.
 {: .answer}
 
 ---
+
+**Q**: What about papers rejected from AISTATS?  Its notification
+deadline is before the submission deadline?
+{: .question}
+**A**: We do not count this as a dual submission, as the notification
+is before the deadline.  However, if the paper is accepted to AISTATS,
+you must of course withdraw the submission from this conference?
+{: .answer}
+
+---
+
+
+**Q**: What about papers rejected from AISTATS?  Its notification deadline is Jan 19?
+{: .question}
+**A**: We do not count this as a dual submission, as the notification is before the deadline.
+{: .answer}
+
+---
+
+**Q**: What about WWW?  It has a similar deadline as EACL.
+{: .question}
+**A**: We made a special exception for the EACL withdrawal deadline to
+be later after extensive negotiations because of the very large
+overlap in community and because we have access to information.  We
+cannot have special cases for all conferences.  If you withdraw your
+paper before the ACL deadline, however, then it of course does not
+count as a dual submission.
+{: .answer}
+
+---
+
 
 **Q**: Can dual I submit my work to a non-archival workshop?
 {: .question}
@@ -232,81 +271,3 @@ Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission
 **A**: Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
 {: .answer}
 
-
-<!-- _This FAQ is coming soon and will be frequently updated. Please check back often!_ -->
-
-<!--<style>
-p.question { margin: 1.3em 0 0.5em; font-weight: bold; }
-p.answer { margin: 0 0 1.8em; border-left: 4px solid #ccc; padding-left: .8em; }
-</style>
-
-## Dual Submissions
-
-Can I submit my work to another conference or submit work that is currently under review elsewhere (e.g. at EACL)?
-{: .question}
-NAACL-HLT 2021 will not consider any paper that is under review in a journal or another conference at the time of submission. This policy covers all refereed and archival conferences and workshops (including ACL workshops). For example, a paper under review at an EACL workshop cannot be dual-submitted to NAACL-HLT 2021. In addition, we will not consider any paper that overlaps significantly (>25%) in content or results with papers that will be (or have been) published elsewhere. Papers may not be submitted elsewhere during the NAACL-HLT 2021 review period. Authors submitting more than one paper to NAACL-HLT 2021 must ensure that the submissions do not overlap significantly (>25%) with each other in content or results.
-{: .answer}
-
-Can I submit papers that have appeared in non-archival workshops?
-{: .question}
-Yes, you can submit as long as the paper has not previously appeared in print.
-{: .answer}
-
-## Anonymity/Non-Archival
-
-Is it OK to withdraw my paper from ICLR 2021 and submit to NAACL?
-{: .question}
-If a non-anonymous version of the paper was made publicly available before the NAACL 2021 anonymity period (on or before Oct 23), it is OK to withdraw from ICLR and submit to NAACL. However, if de-anonymization on withdrawal results in the paper being de-anonymized for the first time,  the paper would violate the NAACL 2021 anonymity policies.
-{: .answer}
-
-Is it OK to talk about my work (e.g. at a workshop) during the anonymity period?
-{: .question}
-Yes, you can talk in small venues about your work, but be careful not to publish a non-anonymized draft of the work and please do not publicize it widely (e.g. on social media).
-{: .answer}
-
-## Tracks
-
-If I want to submit a paper related to the peer review process or some other "meta" topic, what is the correct track? For ACL 2020 there was the "theme track", but we need a consistent space for reflections, not limited to conference themes.
-{: .question}
-We've added a special theme track titled New Challenges in NLP: Tasks, Methods, Positions. If your paper fits this theme, please consider submitting there.
-{: .answer}
-
-## Reviewing
-
-Is there a requirement that authors should also review for the conference?
-{: .question}
-Although it is much appreciated, it is not a requirement for authors to serve as reviewers for NAACL 2021. Regardless of that, you should still fill out your Softconf profile (with semantic scholar info) in order to allow us to properly handle conflicts of interest (COIs).
-{: .answer}
-
-How to handle papers for which you have seen the de-anonymized preprint and thus know who the authors are?
-{: .question}
-Try to be as unbiased as you can, but please continue with the review. This is allowed within the anonymity rules, as long as the paper was posted online one month in advance of the deadline. 
-{: .answer}
-
-## Template/Formatting
-
-It says "authors will get extra space after the 8th page (4th page for short papers) for an ethics/broader impact statement." Does this mean that it's not counted in the total page limit?
-{: .question}
-No, the ethics/broader impact statement is not counted in the total page limit. Softconf initially had a bug that prevented lengthier submissions, but this has been fixed. Note that, due to this change, softconf no longer has automated checks for paper length, so be careful that the main content doesn’t go beyond the allowed pages count! 
-{: .answer}
-
-Which LaTeX template should be used?
-{: .question}
-[The style files are available here](https://2021.naacl.org/calls/style-and-formatting/).
-{: .answer}
-
-## Ethics Committee
-
-See also: [Ethics FAQ](/ethics/faq/)
-
-Could you provide more information on how the committee members would be chosen so that the committee will reflect diversity of ethical viewpoints (both geographical and cultural)?
-{: .question}
-We are recruiting people we know have engaged with these issues in their work and asking for recommendations for areas of the world not yet well represented on the committee. If you have suggestions, please email [Emily Bender](http://faculty.washington.edu/ebender/contacting-me.html).
-{: .answer}
-
-## Virtual Attendance
-
-Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
-{: .question}
-Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
-{: .answer}!-->
