@@ -157,12 +157,6 @@ update this FAQ as we get new questions about submission.
 **A**: Kindly contact your senior area chairs for taking necessary actions.
 {: .answer}
 
-## Deadline
-
-**Q**: I am very sorry that we missed the deadline, because of something that we could not foresee. 
-{: .question}
-**A**: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
-{: .answer}
 
 
 ## Dual Submissions
@@ -271,3 +265,14 @@ Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission
 **A**: Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
 {: .answer}
 
+<!---------
+
+
+## Deadline
+
+**Q**: I am very sorry that we missed the deadline, because of something that we could not foresee. 
+{: .question}
+**A**: We have decdied not to allow late submissions in order to be fair for those who did not write to us. Close to the deadline there was a system breakdown at SOFTCONF which caused slow traffic. We contacted the SOFTCONF team and extended the submission time by several hours after the system was restored. We are sorry if you miss the deadline but wish that you plan early and submit to a next conference!
+{: .answer}
+
+------------>
