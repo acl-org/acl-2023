@@ -10,8 +10,6 @@ toc_icon: "cog"
 
 ## ARR and Softconf
 
----
-
 **Q**: Do all of the authors need to have SOFTCONF profiles?  Why?
 {: .question}
 **A**: Yes.  We use the SOFTCONF profiles to help identify conflicts,
@@ -26,6 +24,7 @@ SOFTCONF profile.
 **A**: For the paper PDF, 10MB; for the software, 50MB; for the data, 50MB.  Reviewers need to download the papers, and not everyone has a strong internet connection at all times.  If you need more than this, consider using compression or lower resolution on images in your paper (for raster images) and removing polygons (for vector images).  You can also reencode your PDF.
 {: .answer}
 
+---
 
 **Q**: I just finished my work and want to consider submiting it to this conference. Shall I submit it to ARR in the Dec cycle or directly to the conference?
 {: .question}
@@ -76,6 +75,14 @@ I post it to ArXiv?
 
 ---
 
+**Q**: Do I need to submit an abstract if I'm committing from ARR.
+{: .question}
+**A**: No, that is only for new, direct submissions.
+{: .answer}
+
+
+---
+
 **Q**: Can I upload a modified version of our ARR submission?
 {: .question}
 **A**: No -- we will use the original version and original reviews, since there will be no separate reviewing process for ARR comissions.
@@ -90,6 +97,7 @@ I post it to ArXiv?
 
 
 ## Paper Formatting
+
 
 **Q**: Why does my draft not pass the formatting test by using the standard conference template and ACL Pubcheck?
 {: .question}
