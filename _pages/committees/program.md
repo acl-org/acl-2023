@@ -10,7 +10,7 @@ sidebar:
 ### Computational Social Science and Cultural Analytics
 {% include committee-member.html
    name="Daniel Preotiuc-Pietro"
-   picture="/assets/images/committee/Daniel_Preotiuc-Pietro.jpg"
+   picture="/assets/images/senior_program/Daniel_Preotiuc-Pietro.jpg"
    site="https://www.preotiuc.ro/"
    institution="Bloomberg, USA"
 %}
@@ -25,7 +25,7 @@ sidebar:
 ### Dialogue and Interactive Systems
 {% include committee-member.html
    name="Minlie Huang"
-   picture="/assets/images/committee/Minlie_Huang.jpg"
+   picture="/assets/images/senior_program/Minlie_Huang.jpg"
    site="http://coai.cs.tsinghua.edu.cn/hml"
    institution="Tsinghua University, China"
 %}
@@ -47,7 +47,7 @@ sidebar:
 ### Discourse and Pragmatics
 {% include committee-member.html
    name="Jey Han Lau"
-   picture="/assets/images/committee/Jey_Han_Lau.jpg"
+   picture="/assets/images/senior_program/Jey_Han_Lau.jpg"
    site="https://jeyhan.my/"
    institution="University of Melbourne, Australia"
 %}
@@ -62,7 +62,7 @@ sidebar:
 ### Ethics and NLP
 {% include committee-member.html
    name="Vinodkumar Prabhakaran"
-   picture="/assets/images/committee/Vinodkumar_Prabhakaran.jpg"
+   picture="/assets/images/senior_program/Vinodkumar_Prabhakaran.jpg"
    site="https://www.cs.stanford.edu/~vinod/"
    institution="Google, USA"
 %}
@@ -77,7 +77,7 @@ sidebar:
 ### Generation
 {% include committee-member.html
    name="Mohit Iyyer"
-   picture="/assets/images/committee/Mohit_Iyyer.jpg"
+   picture="/assets/images/senior_program/Mohit_Iyyer.jpg"
    site="https://people.cs.umass.edu/~miyyer/"
    institution="UMass Amherst, USA"
 %}
@@ -92,7 +92,7 @@ sidebar:
 ### Information Extraction
 {% include committee-member.html
    name="Lifu Huang"
-   picture="/assets/images/committee/Lifu_Huang.jpg"
+   picture="/assets/images/senior_program/Lifu_Huang.jpg"
    site="https://wilburone.github.io/"
    institution="Virginia Tech, USA"
 %}
@@ -114,7 +114,7 @@ sidebar:
 ### Information Retrieval and Text Mining
 {% include committee-member.html
    name="Jing Jiang"
-   picture="/assets/images/committee/Jing_Jiang.jpg"
+   picture="/assets/images/senior_program/Jing_Jiang.jpg"
    site="http://www.mysmu.edu/faculty/jingjiang/"
    institution="Singapore Management University, Singapore"
 %}
@@ -136,7 +136,7 @@ sidebar:
 ### Interpretability and Analysis of Models for NLP
 {% include committee-member.html
    name="Chenhao Tan"
-   picture="/assets/images/committee/Chenhao_Tan.jpg"
+   picture="/assets/images/senior_program/Chenhao_Tan.jpg"
    site="https://chenhaot.com/"
    institution="University of Chicago, USA"
 %}
@@ -151,7 +151,7 @@ sidebar:
 ### Language Grounding to Vision, Robotics and Beyond
 {% include committee-member.html
    name="Mark Yatskar"
-   picture="/assets/images/committee/Mark_Yatskar.jpg"
+   picture="/assets/images/senior_program/Mark_Yatskar.jpg"
    site="https://www.cis.upenn.edu/~myatskar/"
    institution="University of Pennsylvania, USA"
 %}
@@ -166,7 +166,7 @@ sidebar:
 ### Large Language Models
 {% include committee-member.html
    name="Bhuwan Dhingra"
-   picture="/assets/images/committee/Bhuwan_Dhingra.jpg"
+   picture="/assets/images/senior_program/Bhuwan_Dhingra.jpg"
    site="https://users.cs.duke.edu/~bdhingra/"
    institution="Duke University, USA"
 %}
@@ -181,7 +181,7 @@ sidebar:
 ### Linguistic Diversity
 {% include committee-member.html
    name="Emily Prud'hommeaux"
-   picture="/assets/images/committee/Emily_Prud'hommeaux.jpg"
+   picture="/assets/images/senior_program/Emily_Prud'hommeaux.jpg"
    site="http://cs.bc.edu/~prudhome/"
    institution="Boston College, USA"
 %}
@@ -196,7 +196,7 @@ sidebar:
 ### Linguistic Theories, Cognitive Modeling, and Psycholinguistics
 {% include committee-member.html
    name="Afra Alishahi"
-   picture="/assets/images/committee/Afra_Alishahi.jpg"
+   picture="/assets/images/senior_program/Afra_Alishahi.jpg"
    site="http://afra.alishahi.name/"
    institution="Tilburg University, Netherlands"
 %}
@@ -218,7 +218,7 @@ sidebar:
 ### Machine Learning for NLP
 {% include committee-member.html
    name="Anna Rumshisky"
-   picture="/assets/images/committee/Anna Rumshisky.jpg"
+   picture="/assets/images/senior_program/Anna Rumshisky.jpg"
    site="http://www.cs.uml.edu/~arum/"
    institution="UMass Lowell, USA"
 %}
@@ -240,7 +240,7 @@ sidebar:
 ### Machine Translation
 {% include committee-member.html
    name="Lei Li"
-   picture="/assets/images/committee/leili.jpg"
+   picture="/assets/images/senior_program/leili.jpg"
    site="https://www.cs.ucsb.edu/~leili"
    institution="University of California Santa Barbara, USA"
 %}
@@ -262,7 +262,7 @@ sidebar:
 ### Multilingualism and Cross-Lingual NLP
 {% include committee-member.html
    name="A. Seza Doğruöz"
-   picture="/assets/images/committee/image_none.jpg"
+   picture="/assets/images/senior_program/image_none.jpg"
    site="http://www.asezadogruoz.com/"
    institution="Ghent University, Belgium"
 %}
@@ -277,7 +277,7 @@ sidebar:
 ### NLP Applications
 {% include committee-member.html
    name="Sophia Ananiadou"
-   picture="/assets/images/committee/Sophia Ananiadou.jpg"
+   picture="/assets/images/senior_program/Sophia Ananiadou.jpg"
    site="https://research.manchester.ac.uk/en/persons/sophia.ananiadou"
    institution="University of Mahcnester, UK"
 %}
@@ -299,7 +299,7 @@ sidebar:
 ### Phonology, Morphology, and Word Segmentation
 {% include committee-member.html
    name="Miikka Silfverberg"
-   picture="/assets/images/committee/Miikka_Silfverberg.jpg"
+   picture="/assets/images/senior_program/Miikka_Silfverberg.jpg"
    site="https://mpsilfve.github.io/"
    institution="University of British Columnbia, Canada"
 %}
@@ -314,7 +314,7 @@ sidebar:
 ### Question Answering
 {% include committee-member.html
    name="Mrinmaya Sachan"
-   picture="/assets/images/committee/Mrinmaya_Sachan.jpg"
+   picture="/assets/images/senior_program/Mrinmaya_Sachan.jpg"
    site="https://www.mrinmaya.io/"
    institution="ETH Zurich, Zurich"
 %}
@@ -329,7 +329,7 @@ sidebar:
 ### Resources and Evaluation
 {% include committee-member.html
    name="Karin Verspoor"
-   picture="/assets/images/committee/image_none.jpg"
+   picture="/assets/images/senior_program/image_none.jpg"
    site="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/v/verspoor-professor-karin"
    institution="RMIT University, Australia"
 %}
@@ -344,7 +344,7 @@ sidebar:
 ### Semantics: Lexical
 {% include committee-member.html
    name="Marianna Apidianaki"
-   picture="/assets/images/committee/Marianna Apidianaki.jpg"
+   picture="/assets/images/senior_program/Marianna Apidianaki.jpg"
    site="https://mariannaapi.github.io/"
    institution="University of Pennsylvania, USA"
 %}
@@ -359,7 +359,7 @@ sidebar:
 ### Semantics: Sentence-level Semantics, Textual Inference, and Other Areas
 {% include committee-member.html
    name="Yuki Arase"
-   picture="/assets/images/committee/Yuki Arase.jpg"
+   picture="/assets/images/senior_program/Yuki Arase.jpg"
    site="https://yukiar.github.io/"
    institution="Osaka University, Japan"
 %}
@@ -381,7 +381,7 @@ sidebar:
 ### Sentiment Analysis, Stylistic Analysis, and Argument Mining
 {% include committee-member.html
    name="Henning Wachsmuth"
-   picture="/assets/images/committee/Henning Wachsmuth.jpg"
+   picture="/assets/images/senior_program/Henning Wachsmuth.jpg"
    site="https://www.ai.uni-hannover.de/de/institut/team/henning-wachsmuth"
    institution="Leibniz University Hannover, Germany"
 %}
@@ -396,7 +396,7 @@ sidebar:
 ### Speech and Multimodality
 {% include committee-member.html
    name="Grzegorz Chrupała"
-   picture="/assets/images/committee/Grzegorz.jpg"
+   picture="/assets/images/senior_program/Grzegorz.jpg"
    site="https://grzegorz.chrupala.me/"
    institution="Tilburg University, Netherlands"
 %}
@@ -411,7 +411,7 @@ sidebar:
 ### Summarization
 {% include committee-member.html
    name="Chenghua Lin"
-   picture="/assets/images/committee/chenghua_lin.jpg"
+   picture="/assets/images/senior_program/chenghua_lin.jpg"
    site="https://chenghualin.wordpress.com/"
    institution="University of Sheffield, UK"
 %}
@@ -426,7 +426,7 @@ sidebar:
 ### Syntax: Tagging, Chunking and Parsing
 {% include committee-member.html
    name="Wanxiang Che"
-   picture="/assets/images/committee/Wanxiang Che.jpg"
+   picture="/assets/images/senior_program/Wanxiang Che.jpg"
    site="http://ir.hit.edu.cn/~car/"
    institution="Harbin Institute of Technology, China"
 %}
@@ -448,7 +448,7 @@ sidebar:
 ### Theme: Reality Check
 {% include committee-member.html
    name="Xiang Ren"
-   picture="/assets/images/committee/Xiang_Ren.jpg"
+   picture="/assets/images/senior_program/Xiang_Ren.jpg"
    site="https://shanzhenren.github.io/"
    institution="University of Southern California, USA"
 %}
@@ -463,7 +463,7 @@ sidebar:
 ### COI
 {% include committee-member.html
    name="Yusuke Miyao"
-   picture="/assets/images/committee/Yusuke_Miyao.jpg"
+   picture="/assets/images/senior_program/Yusuke_Miyao.jpg"
    site="https://researchmap.jp/yusuke/?lang=english"
    institution="University of Tokyo, Japan"
 %}
