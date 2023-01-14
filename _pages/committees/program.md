@@ -396,7 +396,7 @@ sidebar:
 ### Speech and Multimodality
 {% include committee-member.html
    name="Grzegorz Chrupała"
-   picture="/assets/images/committee/Grzegorz Chrupała.jpg"
+   picture="/assets/images/committee/Grzegorz.jpg"
    site="https://grzegorz.chrupala.me/"
    institution="Tilburg University, Netherlands"
 %}
