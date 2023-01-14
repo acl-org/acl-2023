@@ -166,7 +166,7 @@ sidebar:
 ### Large Language Models
 {% include committee-member.html
    name="Bhuwan Dhingra"
-   picture="/assets/images/committee/Bhuwan_Dhingra.jpg"
+   picture="/assets/images/committee/1.jpg"
    site="https://users.cs.duke.edu/~bdhingra/"
    institution="Duke University, USA"
 %}
