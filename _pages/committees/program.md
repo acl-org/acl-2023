@@ -579,7 +579,7 @@ sidebar:
    email="msurdeanu@arizona.edu"
 %}
 
-### Theme Track: Reality Check
+### Theme Track: Reality Check Test
 {% include committee-member.html
    name="Kenji Sagae"
    picture="/assets/images/committee/sac/Kenji_Sagae.jpg"
