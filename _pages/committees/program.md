@@ -54,7 +54,7 @@ sidebar:
 
 {% include committee-member.html
    name="Christian Hardmeier"
-   picture="/assets/images/senior_program/image_none.jpg"
+   picture="/assets/images/senior_program/Christian_Hardmeier.jpg"
    site="https://christianhardmeier.rax.ch/"
    institution="IT University of Copenhagen, Denmark"
 %}
@@ -173,7 +173,7 @@ sidebar:
 
 {% include committee-member.html
    name="Mike Lewis"
-   picture="/assets/images/senior_program/image_none.jpg"
+   picture="/assets/images/senior_program/Mike_Lewis.jpg"
    site="https://ai.facebook.com/people/mike-lewis/"
    institution="Meta AI Research, USA"
 %}
@@ -247,7 +247,7 @@ sidebar:
 
 {% include committee-member.html
    name="Markus Freitag"
-   picture="/assets/images/senior_program/image_none.jpg"
+   picture="/assets/images/senior_program/Markus_Freitag.jpg"
    site="https://research.google/people/MarkusFreitag/"
    institution="Google, USA"
 %}
@@ -329,7 +329,7 @@ sidebar:
 ### Resources and Evaluation
 {% include committee-member.html
    name="Karin Verspoor"
-   picture="/assets/images/senior_program/image_none.jpg"
+   picture="/assets/images/senior_program/Karin_Verspoor.jpg"
    site="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/v/verspoor-professor-karin"
    institution="RMIT University, Australia"
 %}
@@ -433,7 +433,7 @@ sidebar:
 
 {% include committee-member.html
    name="Djamé Seddah"
-   picture="/assets/images/senior_program/image_none.jpg"
+   picture="/assets/images/senior_program/Djamé_Seddah.jpg"
    site="http://pauillac.inria.fr/~seddah/"
    institution="Inria (Almanach) & Université Paris Sorbonne, France"
 %}
