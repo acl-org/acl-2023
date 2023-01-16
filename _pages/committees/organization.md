@@ -2,7 +2,7 @@
 title: Organizing Committee
 layout: single
 excerpt: "ACL 2023 Organizing Committee."
-permalink: /organization/
+permalink: /committees/organization/
 sidebar: 
     nav: "committees"
 ---

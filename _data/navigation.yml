@@ -27,7 +27,7 @@ main:
     url: /program/
 
   - title: "Committees"
-    url: /organization
+    url: /committees/organization
   
   - title: "Sponsors"
     url: /sponsors/
@@ -96,7 +96,7 @@ committees:
   - title: Committees
     children:
       - title: "Organizing Committee"
-        url: /organization/
+        url: /committees/organization/
       - title: "Program Committee"
         url: /committees/program/
       #- title: "Ethics Committee"

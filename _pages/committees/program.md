@@ -160,7 +160,7 @@ sidebar:
 
 {% include committee-member.html
    name="Zhongyu Wei"
-   picture="/assets/images/committee/Zhongyu_Wei.jpg"
+   picture="/assets/images/committee/zhongyu_wei.jpg"
    site="http://www.sdspeople.fudan.edu.cn/zywei/"
    institution="Fudan University, China"
 %}
