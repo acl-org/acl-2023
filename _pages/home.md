@@ -20,6 +20,7 @@ More information will be announced soon.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2023-01-16 | [Senior Area Chairs](/committees/program/) is posted under the committees. |
 | 2023-01-12 | [List of Workshops](/program/workshops/) is posted under the program. |
 | 2022-12-20 | [2nd Call for Main Conference Papers](/calls/main_conference/) is posted. |
 | 2022-12-12 | [Call for Student Research Workshop Papers](/calls/student_research_workshop/) is posted. |
