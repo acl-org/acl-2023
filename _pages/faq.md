@@ -25,7 +25,22 @@ SOFTCONF profile.
 {: .answer}
 
 ---
+**Q**: Does every author need to have a Semantic Scholar profile?
+{: .question}
+**A**: Generally, yes, any author that has any publications should
+have a Semantic Scholar profile.  If an author does not have such a
+profile because they do not have any publications yet (not even arXiv
+preprints) it is okay to put "n/a" in the semantic scholar profile field.
+{: .answer}
+---
+**Q**: I submitted an abstract with some authors without a Softconf
+profile or missing information in their profiles.  Can this be edited?
+{: .question}
+**A**: Yes, this can now be updated.  Please do this as soon as
+possible so that we can match reviewers to authors.
+{: .answer}
 
+---
 
 **Q**: How big can my submission be?  Why isn't it larger?
 {: .question}
