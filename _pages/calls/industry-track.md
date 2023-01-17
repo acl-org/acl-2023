@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 Following on previous successful Industry Tracks at NAACL HLT and EMNLP, we are happy to announce the first Industry Track at ACL in 2023.
 
-**Direct submission site**: [https://softconf.com/acl2023/industry/](https://softconf.com/acl2023/industry/)
+**Direct submission**: [https://softconf.com/acl2023/industry/](https://softconf.com/acl2023/industry/)
 
 Language technologies and their applications are an integral and critical part of our daily lives. The development of many of these technologies trace their roots to academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected the performance of these algorithms to provide plausible solutions to real-world applications. While a controlled laboratory setting is vital for a deeper scientific understanding of the problems underlying language technologies and the impact of algorithmic design choices on the performance of a technology, transitioning the technology to real-world industrial-strength applications raises a different and challenging set of technical issues.
 
