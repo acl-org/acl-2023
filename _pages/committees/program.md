@@ -358,7 +358,7 @@ sidebar:
    institution="University of Stuttgart, Germany"
 %}
 
-### Semantics: Sentence-level Semantics, Textual Inference, and Other Areas
+### Semantics: Sentence-level Semantics, Textual Inference, etc.
 {% include committee-member.html
    name="Yuki Arase"
    picture="/assets/images/committee/yuki_arase.jpg"
@@ -462,7 +462,7 @@ sidebar:
    institution="University of Aberdeen (UK)"
 %}
 
-### COI
+### Conflict of Interest
 {% include committee-member.html
    name="Yusuke Miyao"
    picture="/assets/images/committee/yusuke_miyao.jpg"
