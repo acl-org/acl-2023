@@ -276,6 +276,23 @@ even if the paper was rejected from ICLR.
 
 ---
 
+**Q**: Does submitting to a leaderboard violate anonymity?  Can I link
+to the leaderboard?
+{: .question}
+
+**A**: It depends on how you name your leaderboard entry and what
+information the leaderboard makes public.  If your leaderboard shows
+your institution, e-mail, or real-life name, then pointing to the
+leaderboard would violate anonymity (you can still report the score in
+the paper, though).  If the leaderboard just has the name of the model
+(which is independent of your institution), then there is no problem.
+
+However, model names should be "new"; if you previously published the
+model FizzBuzz, the leaderboard entry should not be FizzBuzz 2.0.
+{: .answer}
+
+---
+
 **Q**: My paper is no longer under review at ARR but I plan to commit it to
 this conference, can I post it to ArXiv?
 {: .question}

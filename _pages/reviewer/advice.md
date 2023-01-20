@@ -1,5 +1,5 @@
 ---
-title: Reviewing Advice for NAACL-HLT
+title: Reviewing Advice forACL 2023
 layout: single
 permalink: /reviewer/advice/
 sidebar: 
@@ -7,20 +7,23 @@ sidebar:
 toc: false
 ---
 
-We are re-posting the [reviewing advice from EMNLP 2020](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews). 
+We are re-posting the [reviewing advice from EMNLP 2020](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews) with slight modifications/additions. 
 
 The intention for this page is to provide some advice to reviewers, such that we can identify the best research to be presented in the conference, and provide constructive feedback in order for authors to further improve their papers. We recognize and appreciate the amount of efforts reviewers have contributed, and hope to make that more beneficial. We want all the authors to feel the delight when they read the peer reviews for their papers.
-
-This is not the first attempt to educate reviewers. Many major conferences have included advice to reviewers, in NLP and in other fields, and there’s also plentiful advice relating to journal reviewing. Within the field of NLP, we would highlight:
-
-*   [Discursive advice](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/) in ACL 2017 from leading lights in the field: Mirella Lapata, Marco Baroni, Yoav Artzi, Emily Bender, Joel Tetreault, Ani Nenkova, and Tim Baldwin
-*   [Two example good reviews](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/) from NAACL 2018 presented in their reviewing form
-*   [A podcast by Noah Smith](https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith) about peer reviews
 
 Please take the time to look through these excellent resources.
 
 We hope reiterating some dos and don'ts here can help reviewers as well as authors.
 
+## Who Reads the Review?
+
+A review is a document, and in writing a document, it is useful to think about who is going to read the document.  Let's quickly go through them: 
+* The authors: This is probably the reader that you'll think about the most, and that's good (you want to be respectful and thorough ... they are your colleagues, so you should give the review you would like to receive).  One thing to check is whether, after reading the review, the authors have a clear path forward on how to improve the paper: "not enough experiments" is far less actionable than "the results would be stronger with validation on the LDC NYT dataset".  Unlike all of the other readers we mention here, the authors will not see the discussion that happens on Softconf.  While not everything from the discussion period should go into the review, but the authors will see nothing of what happens in the discussion period, so if something new comes to light, make sure to modify your review so that the authors have all of the relevant information.
+* Other reviewers: You'll be able to read, compare, and contrast the reviews from the 3-4 other reviewers of the paper.  You will have all read the document closely.  One of the goals of your review is to spark discussion with the other reviewers, so it is okay to open a door for conversation on a particular topic either directly in your review or in the discussion period.  Not all of the reviews need to be consistent, but they can and should interact.  You can say things specifically like (unlike Reviewer 2, I ...).
+* The area chair (AC): The area chair is going to have to write a metareview of this paper.  They won't have time to read the paper as carefully as you, the reviewer, will.  So to make their life easier, make your review as self-contained as possible.  If you can explain something very briefly (either with a standalone sentence or with a reference to the current literature ``decoding a la Smith and Eisner''), do that rather than just putting a line reference to the paper. 
+* The senior area chair (SAC): Will have to calibrate the metareview of the AC against all the other papers in the area.  They may not have read the paper, so the reviews need to be self-contained to know how this paper fits into the rest of the pool.
+
+## What goes into the Review?
 
 **First, evaluate the paper’s contributions.** This is where you will use your NLP domain knowledge. We advise that you should not accept papers just because their reported results are better, or that they appear to be mathematically sophisticated. These are not sufficient or necessary to constitute contributions. And we advise that you should not reject papers just because their results are not better than state-of-the-art. In the previous \*ACL conferences, some reviewers placed too much emphasis on SOTA performance, giving low scores to any systems that failed to reach that. While we aim to publish the very best work, a more constructive question to ask is "**state of which art?**". As discussed in [this blog post](https://hackingsemantics.xyz/2020/reviewing-models/), a paper could offer a step forward in terms of efficiency, generalizability, interpretability, and many other criteria. A convincing contribution of any kind should not be rejected only for not topping the leaderboards.
 
@@ -45,7 +48,7 @@ Regarding different kinds of contributions, here’s what Prof. Philip Resnik at
 
 *   Check what the paper’s claims are, and how the content of the paper supports that claim. If the paper claims X and there is a performance increase, is that really because of X?
 
-*   Be specific in your comments. For example, if you think the authors have neglected to cite key papers, then provide these references in your review. It might be obvious to you, but it’s often less clear to the authors. Being specific will help the authors to formulate a cogent response to the review, and to fix these problems in their paper. And it is worth noting that the authors are **not** obliged to cite or draw comparisons with contemporaneous work (i.e. appearing within 3 months of submission), especially if it is not published in a peer-reviewed venue.
+*   Be specific in your comments. For example, if you think the authors have neglected to cite key papers, then provide these references in your review. It might be obvious to you, but it’s often less clear to the authors. Being specific will help the authors to formulate a cogent response to the review, and to fix these problems in their paper. However, authors are **not** obliged to cite or draw comparisons with contemporaneous work (i.e. appearing within 3 months of submission), especially if it is not published in a peer-reviewed venue.
 
 *   Be constructive in your advice. Stating that some aspect of the paper is done badly can be helpful in the gatekeeping aspect of review (providing grounds for rejection), but it tends to be less helpful to the authors. Some suggestions of how the authors might improve these problematic aspects can allow them to develop the work into something considerably better.
 
@@ -74,8 +77,27 @@ Please refrain from using the reasons above as primary grounds for rejection whe
 
 We hope these tips are helpful to reviewers, and hope there will be more authors that appreciate the insightful feedback they get from the reviews, and fewer frustrating authors that complain about review quality.
 
+## Numbers
+
+The most important part of the review is your thorough comments.  However, what many people focus on are numbers.  Thus, it would remis for advice to overlook this part of the process.  ACL 2023 is trying something new this year.  We are splitting this decision into two parts: how sound the paper is and how novel/exciting the paper is.
+
+Soundness goes to how well the paper backs up its claims with evidence and argumentation.  We want all papers to clear a minimum bar for presenting solid, thorough, technically sound research where the claims are well supported by the evidence/arguments.  We suspect that this will have lower variance than novelty.
+
+Novelty captures the more subjective evaluations of the novelty/significance of the contributions, and their potential einteresting-ness to the community. 
+
+Because not everyone will calibrate their scores the same way (this certainly depends on the batch of papers you get too), make sure that your scores are justified in the text of the review.  The AC should be able to understand your justification of the scores to create a consensus score from all of the reviews.
+
+## Best Paper
+
+The review will also ask you to nominate papers for a best paper award.  Reviewers are often a little too conservative in their nominations.  After all, you just spent hours looking for all of the flaws in the paper.  And they think about all of the best papers they've seen in the past (after they've gone through the review process).  Rather than thinking about the question as "is this a best paper", consider the question more of "how could you argue that this will be best paper".  It is okay if this paper is unique in topic or technique, that could be what makes it a best paper.
 
 ## Additional Resources
+
+Additional discussions of reviewing in the NLP context:
+*   [Discursive advice](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/) in ACL 2017 from leading lights in the field: Mirella Lapata, Marco Baroni, Yoav Artzi, Emily Bender, Joel Tetreault, Ani Nenkova, and Tim Baldwin
+*   [Two example good reviews](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/) from NAACL 2018 presented in their reviewing form
+*   [A podcast by Noah Smith](https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith) about peer reviews
+
 
 To read more about the general advice on reviewing, we recommend the following resources:
 

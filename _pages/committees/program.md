@@ -210,13 +210,6 @@ sidebar:
    institution="Boston University (USA)"
 %}
 
-{% include committee-member.html
-   name="Gemma Boleda"
-   picture="/assets/images/committee/gemma_boleda.jpg"
-   site="https://gboleda.github.io/"
-   institution="Universitat Pompeu Fabra & ICREA, Spain"
-%}
-
 ### Machine Learning for NLP
 {% include committee-member.html
    name="Anna Rumshisky"

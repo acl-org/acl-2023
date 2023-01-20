@@ -1,5 +1,5 @@
 ---
-title: NAACL-HLT 2021 Instructions for Reviewers
+title: ACL 2023 Instructions for Reviewers
 layout: single
 permalink: /reviewer/instructions/
 sidebar: 
@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-Thank you for reviewing for NAACL-HLT 2021! 
+Thank you for reviewing for ACL 2023! 
 
 In order to ensure the quality of reviews, we would like to share with you the following instructions for reviewing papers. Please read these instructions carefully before you start working on your reviews.
 
@@ -18,7 +18,7 @@ Reviewers were assigned 3-4 papers on average. Since we had a joint long and sho
 
 ## Confidentiality
 
-Please note that the content of any submission to the NAACL-HLT 2021 conference,  any discussion of such submissions as well as the names of participants in such discussions are **confidential**.
+Please note that the content of any submission to the ACL 2023 conference,  any discussion of such submissions as well as the names of participants in such discussions are **confidential**.
 
 
 ## The Review Form
@@ -55,7 +55,7 @@ We adapted the review form from [ACL 2020](https://acl2020.org/reviewers/) and [
 
 *   **Reviewer confidence:** This section should be used to inform the committee and authors how confident you are about your recommendation, taking into account your own expertise and familiarity with this area and the paper's contents.
 
-*   **Recommendations for awards:** This part is for nominating papers for the best paper award. NAACL-HLT 2021 will have best paper awards in the following categories: Best Long Paper, Best Short Paper, and Best Theme Paper. Please be open minded and feel free to nominate good quality papers even though they may not be the typical types. These can be a survey paper, an opinion paper, a paper about resources and datasets, a paper for low resource language, an analysis paper, etc. A committee will evaluate best paper candidates, and we would like to have a wide variety of paper types in the candidate pool, not just vanilla empirical research papers. In addition to the best long paper award and best short paper award, we will give several outstanding paper awards. Note that unlike in previous conferences, if you recommend a paper for an award, the authors will see your comments.
+*   **Recommendations for awards:** This part is for nominating papers for the best paper award. ACL 2023 will have best paper awards in the following categories: Best Long Paper, Best Short Paper, and Best Theme Paper. Please be open minded and feel free to nominate good quality papers even though they may not be the typical types. These can be a survey paper, an opinion paper, a paper about resources and datasets, a paper for low resource language, an analysis paper, etc. A committee will evaluate best paper candidates, and we would like to have a wide variety of paper types in the candidate pool, not just vanilla empirical research papers. In addition to the best long paper award and best short paper award, we will give several outstanding paper awards. Note that unlike in previous conferences, if you recommend a paper for an award, the authors will see your comments.
 
 **4. Confidential Information:** Your answers to questions in this section will not be shared with the authors. Here we ask you about confidential comments to the area chairs and/or PC chairs.
 
