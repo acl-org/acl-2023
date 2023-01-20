@@ -172,12 +172,20 @@ violates the checker.
 
 ---
 
-**Q**: I got the error: *The page size of this PDF is different from A4, which is not allowed by the submission guidelines.~
+**Q**: I got the error: The page size of this PDF is different from A4, which is not allowed by the submission guidelines.
 {: .question}
 **A**: First, make sure you are using the official submission templates.  If
 you are not, this problem is typically the result of using "Print to PDF"
 (e.g., from the Word template) and
 specifying a different page size other than A4.
+{: .answer}
+
+---
+
+**Q**: Can I use LaTeX package "foobar"?
+{: .question}
+**A**: We have no specific guidelines beyond those in the formatting
+instructions, and there are no disallowed packages per se.  However, do not do anything that circumvents the spirit of the formatting guidelines by changing line spacing, font size, font family, etc. to unfairly fit text into a submission.  Such submissions can be rejected.
 {: .answer}
 
 ---
@@ -198,6 +206,13 @@ update this FAQ as we get new questions about submission.
 **A**: Kindly contact your senior area chairs for taking necessary actions.
 {: .answer}
 
+---
+
+**Q**: Some of our authors are ACs, but the submission form asks to
+confirm that at least one of the authors is a reviewer.
+{: .question}
+**A**: Serving as an AC (or SAC) counts as reviewing activity.
+{: .answer}
 
 
 ## Dual Submissions
