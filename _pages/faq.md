@@ -13,7 +13,7 @@ toc_icon: "cog"
 **Q**: Do all of the authors need to have SOFTCONF profiles?  Why?
 {: .question}
 **A**: Yes.  We use the SOFTCONF profiles to help identify conflicts,
-so every author (not just the corresponding author) needs to have a
+so every author (not just the submitting author) needs to have a
 SOFTCONF profile.
 {: .answer}
 
@@ -52,6 +52,32 @@ possible so that we can match reviewers to authors.
 **Q**: I just finished my work and want to consider submiting it to this conference. Shall I submit it to ARR in the Dec cycle or directly to the conference?
 {: .question}
 **A**: There are two ways to submit to ACL: through ACL Rolling Review, which is more like a journal submission (with the ability to revise and resubmit to the same authors and to "commit" to multiple venues beyond ACL, but with the cost of requiring more time) or directly submitting to the ACL program committee, which is faster but does not have the option to resubmit or to offer your work for consideration at other venues.
+{: .answer}
+
+---
+
+**Q**: I uploaded a file (e.g., previous submission) and I can't delete it.  What do I do?
+{: .question}
+**A**: Due to a limitation of SoftConf, it's easiest to just upload a PDF that just says "no previous submissions".  Sorry for the hassle.
+{: .answer}
+
+---
+
+**Q**: You told me to fill out a Semantic Scholar profile, but there's something wrong with it!  I had to reach out to them to fix it, and they said that it takes four to six days.
+{: .question}
+**A**: You can always update your Semantic Scholar on the global Softconf profile.  Please just put the best Semantic Scholar you can for you in as soon as you can.  Not having that information will make reviewer matching harder, but we'll do our best.
+{: .answer}
+---
+
+**Q**: How do I set a corresponding author?  Can I change the author order?
+{: .question}
+**A**: These distinctions are meaningless at review time as we treat the authors as a set.  This only comes into play at publication time.
+{: .answer}
+---
+
+**Q**: My research is unexpectedly awesome.  Can I upgrade from a short paper to a long paper after the abstract deadline?  What about the other way?
+{: .question}
+**A**: This is fine.  We need the abstracts to make sure we have enough reviewers, but changing the submission type doesn't affect the number or type of reviewers, so change away!
 {: .answer}
 
 ---
