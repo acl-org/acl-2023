@@ -237,6 +237,22 @@ sidebar:
 %}
 
 {% include committee-member.html
+   name="Chenghua Lin"
+   picture="/assets/images/committee/chenghua_lin.jpg"
+   site="https://chenghualin.wordpress.com"
+   institution="University of Sheffield (UK)"
+   email = "c.lin@sheffield.ac.uk"
+%}
+
+{% include committee-member.html
+   name="Lei Shu"
+   picture="/assets/images/committee/lei_shu.jpg"
+   site="https://leishu02.github.io"
+   institution="Google (USA)"
+   email = "shulindt@gmail.com"
+%}
+
+{% include committee-member.html
    name="Jesse Thomason"
    picture="/assets/images/committee/jesse_thomason.jpg"
    site="https://jessethomason.com"

@@ -20,6 +20,7 @@ More information will be announced soon.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2023-01-30 | [Conference Venue](/venue) is posted under the _Venue_. |
 | 2023-01-24 | [Invitation to Sponsors](/downloads/Sponsorship_Brochure-ACL2023.pdf) is posted under the _Sponsors_. |
 | 2023-01-16 | [Senior Area Chairs](/committees/program/) is posted under the _Committees_. |
 | 2023-01-12 | [List of Workshops](/program/workshops/) is posted under _Program_. |
