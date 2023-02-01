@@ -58,8 +58,8 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | Anonymity period for ARR papers | ~~November 15, 2022~~ |
 | Submission deadline for papers submitted to ARR | ~~December 15, 2022~~ |
 | Anonymity period for papers submitted through Softconf START | ~~December 20, 2022~~ |
-| Abstract deadline for Softconf START direct submissions | January 13, 2023 |
-| Direct paper submission deadline | January 20, 2023 |
+| Abstract deadline for Softconf START direct submissions | ~~January 13, 2023~~ |
+| Direct paper submission deadline | ~~January 20, 2023~~ |
 | Anonymity period for ARR papers to be committed to ACL 2023 | Februrary 17, 2023 |
 | Commitment deadline for ARR papers | March 17, 2023 |
 | Author response period | March 17-24, 2023 |
@@ -72,7 +72,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 ### Industry Track Papers
 
-| Anonymity period begins | January 17, 2023 |
+| Anonymity period begins | ~~January 17, 2023~~ |
 | Paper submission deadline | February 17, 2023 |
 | Notification of acceptance | May 1, 2023 |
 | Camera-ready version of papers due | May 22, 2023 |
