@@ -97,7 +97,7 @@ Authors are required to honor the ethical code set out in the [**ACM Code of Eth
 
 Authors will be allowed extra space after the 6th page for a broader impact statement or other discussion of ethics. The ACL demonstration review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the ethics FAQ (shared with the main conference) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
 
-## Demonstration Chairs
+## System Demonstration Chairs
 
 Contact: [acl2023demochairs@gmail.com](mailto:acl2023demochairs@gmail.com)
 
