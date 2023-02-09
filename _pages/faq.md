@@ -150,11 +150,28 @@ I post it to ArXiv?
 
 **Q**: Why does my draft not pass the formatting test by using the standard conference template and ACL Pubcheck?
 {: .question}
+
 **A**: For using the verification script, one should *not* use the review
 mode.  More concretely, the validation script checks to make sure that
 there's nothing in the margins.  The extra numbers to aid reviewing
-violates the checker.
+violates the checker.  After you pass the check, make sure you turn it back to the review mode.  Otherwise, your paper will be desk rejected.
 {: .answer}
+
+**Q**: I uploaded a paper not using the review mode, here's a version
+with review mode on.  Can you upload that for me? 
+{: .question}
+
+**A**: Unfortunately, we can't easily verify that the two PDFs have the same content.  And it certainly would not be viable to for the unpaid volunteers to allow uploads for all five thousand submissions.  
+{: .answer}
+
+**Q**: Do reviewers actually need the review mode? 
+{: .question}
+
+**A**: Yes, it makes the review process smoother to be able to
+directly refer to specific positions in the paper.  Thus, it is a
+required part of the submission process.
+{: .answer}
+
 
 ---
 
@@ -196,7 +213,8 @@ instructions, and there are no disallowed packages per se.  However, do not do a
 individually check all presubmission files for compliance, and it would be unfair
 to do this for some submissions but not others.  Please carefully follow the
 directions, check the FAQs, and ask your colleagues for advice.  We will
-update this FAQ as we get new questions about submission.
+update this FAQ as we get new questions about submission.  You can
+check your submitted files by logging into Softconf.
 {: .answer}
 
 ## Reviewing
@@ -282,6 +300,14 @@ even if the paper was rejected from ICLR.
 {: .answer}
 
 ---
+
+**Q**: Is this consistent with previous ACL policy on ICLR
+anonymization? 
+
+**A**: We are following the policy set forth by (ACL
+2021)[https://2021.aclweb.org/blog/paper-submission-faqs/], which
+allowed de-anonymization within the ACL anonymity period so long as it
+was previously released outside the period.
 
 **Q**: Is it OK to talk about my work (e.g. at a workshop) during the anonymity period?
 {: .question}
