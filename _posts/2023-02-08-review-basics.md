@@ -21,7 +21,7 @@ Why does this happen? Here are a few possible culprits:
 * Differences in understanding the **key evaluation criteria**. What counts as a "weakness" - a fundamental flaw or a lack of clarification experiment? What exactly does "overall recommendation" mean - the personal interest in the topic or how solid the research is? Just how much should different weaknesses "cost" the authors?
 * Implicit **biases** that we all have due to our social and academic backgrounds. The same approach may receive different evaluation if it is tested on a popular or a niche task, on English or any other language, with focus on engineering or linguistic aspects, and if it had been preprinted by a well-known lab and received much attention.
 
-This tutorial is part of an effort to improve the overall quality of reviews at ACL'23 conferences, aiming to address the above issues. Part I provides a general overview of the typical peer review process for the novice reviewers and authors; if you are familiar with this, feel free to skip this part. **We are asking all reviewers and authors to read [Part II](2023-02-08-review-acl23.md)**, since it outlines the policies and review forms specific to ACL23. The reviewers need to adhere to the conference policies. The authors will be able to point to violations thereof in the author response, and the meta-reviewers will take that into account.
+This tutorial is part of an effort to improve the overall quality of reviews at ACL'23 conferences, aiming to address the above issues. Part I provides a general overview of the typical peer review process for the novice reviewers and authors; if you are familiar with this, feel free to skip this part. **We are asking all reviewers and authors to read [Part II](2023-02-09-review-acl23.md)**, since it outlines the policies and review forms specific to ACL23. The reviewers need to adhere to the conference policies. The authors will be able to point to violations thereof in the author response, and the meta-reviewers will take that into account.
 
 In this tutorial:
 
@@ -33,7 +33,7 @@ In this tutorial:
 4. [How to read for review](#4-how-to-read-for-review)
 5. [Who are you writing to?](#5-who-are-you-writing-to)
 6. [Author response](#6-author-response)
-7. [Discussion period](#7-discussion-period)
+7. [Discussion period](#7-discussion-period)<br/>
 [Resources](#resources)
 
 ## 1. Before the paper assignment 
