@@ -10,7 +10,23 @@ sidebar:
     nav: program
 ---
 
-## Tutorial Schedule
+* Generating Text from Language Models
+* Indirectly Supervised Natural Language Processing
+* Retrieval-based Language Models and Applications
+* Complex Reasoning in Natural Language
+* Agent's Consciousness in Conversational Systems: Proactivity, Non-collaborativity, and Beyond
+* Everything you need to know about Multilingual LLMs: Towards fair, performant and reliable models for languages of the world
+
+
+
+## Workshop Chairs
+
+* Yun-Nung (Vivian) Chen, National Taiwan University (Taiwan)
+* Margot Mieskes, University of Applied Sciences, Darmstadt (Germany)
+* Siva Reddy, McGill University and Mila (Canada)
+
+
+<!-- ## Tutorial Schedule
 
 **Date:** July 9, 2023 (all times PDT, UTC-7)
 
@@ -110,4 +126,4 @@ A significant subset of natural language data includes documents that span thous
 
 **LIVE**
 
-In this introductory tutorial, we present a portion of our six-year-long unique industry experience in efficient natural language data annotation via Crowdsourcing. We will make an introduction to data labeling via public crowdsourcing marketplaces, and will present the key components of efficient label collection that includes task design and decomposition, quality control, and annotator selection. This will be followed by a practical session, where participants address a real-world language resource production task, experiment with selecting settings for the labeling process, and launch their label collection project on one of the largest crowdsourcing marketplaces. The projects will be run on real crowds within the tutorial session. We will present useful mathematical foundations, quality control techniques and tricks, and provide the attendees with an opportunity to discuss their own annotation ideas.
+In this introductory tutorial, we present a portion of our six-year-long unique industry experience in efficient natural language data annotation via Crowdsourcing. We will make an introduction to data labeling via public crowdsourcing marketplaces, and will present the key components of efficient label collection that includes task design and decomposition, quality control, and annotator selection. This will be followed by a practical session, where participants address a real-world language resource production task, experiment with selecting settings for the labeling process, and launch their label collection project on one of the largest crowdsourcing marketplaces. The projects will be run on real crowds within the tutorial session. We will present useful mathematical foundations, quality control techniques and tricks, and provide the attendees with an opportunity to discuss their own annotation ideas. -->

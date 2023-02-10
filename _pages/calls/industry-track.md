@@ -122,15 +122,6 @@ Authors are required to honor the ethical code set out in the [ACL Code of Ethic
 Authors will be allowed extra space after the 6th page for an optional broader impact statement or other discussion of ethics. The ACL review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers or Senior Area Chairs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [Ethics FAQ](https://2021.emnlp.org/call-for-papers/ethics-faq) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
 
 
-## Industry Track Chairs
-
-Contact: [acl-2023-industry-track-pcs@googlegroups.com](mailto:acl-2023-industry-track-pcs@googlegroups.com)
-
-* Beata Beigman Klebanov, Educational Testing Service (USA)
-* Sunayana Sitaram, Microsoft Research (India)
-* Jason Williams, Apple (USA)
-
-
 ## Frequently Asked Questions
 
 **Is the industry track only for participants from industry?**
@@ -160,3 +151,12 @@ Papers describing key lessons learned and challenges pertaining to real-world de
 **When should I submit to the Industry Track vs. the NLP Applications Track in the Research Track?**
 
 The NLP Applications area of the Research Track is a potential alternative venue to publish applied NLP research. Consider the following questions when deciding where to submit: (1) Does the paper include experiments *only* on proprietary data?  If so, the Industry Track might be a better fit.  (2) Is the main contribution of the paper related to a deployment aspect of the application, such as considerations of speed, robustness, usability, or some problem that was discovered during deployment that your results begin to address but more research effort would be required to solve more comprehensively? If so, the Industry Track might be a better fit.  (3) Does the paper report new state-of-the-art on a task that is likely to be feasible and interesting outside of your specific setting?  If so, the NLP Applications Track might be a better fit. (4) Is your system evaluated only on usability subjects?  If so, the NLP Applications Track might be a better fit.
+
+
+## Industry Track Chairs
+
+Contact: [acl-2023-industry-track-pcs@googlegroups.com](mailto:acl-2023-industry-track-pcs@googlegroups.com)
+
+* Beata Beigman Klebanov, Educational Testing Service (USA)
+* Sunayana Sitaram, Microsoft Research (India)
+* Jason Williams, Apple (USA)
