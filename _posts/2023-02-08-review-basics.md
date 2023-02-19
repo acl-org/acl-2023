@@ -127,21 +127,15 @@ EACL 2021 tutorial on peer review, pt. II - The Actual Review (Karën Fort): [sl
 
 **General advice and reviewing philosophy**
 
-
-
-* Advice on peer review from Mirella Lapata, Marco Baroni, Yoav Artzi, Emily M.Bender, Joel Tetreault, Ani Nenkova, Tim Baldwin: [https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/ ](https://aclrollingreview.org/mentorship/ACL%202017%20leaders%20view%20on%20reviewing)
-* A podcast interview with Noah Smith: [https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith](https://aclrollingreview.org/mentorship/A%20podcast%20by%20Noah%20Smith%20about%20peer%20reviews)
+* Advice on peer review from Mirella Lapata, Marco Baroni, Yoav Artzi, Emily M.Bender, Joel Tetreault, Ani Nenkova, Tim Baldwin: [https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/ ](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
+* A podcast interview with Noah Smith: [https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith](https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith)
 * Rebekah Baglini and Christine Parsons on how to avoid harsh language in peer review: [https://www.nature.com/articles/d41586-020-03394-y](https://www.nature.com/articles/d41586-020-03394-y) 
 
 **Examples of good reviews**
 
-
-
-* Two examples of peer review from NAACL 2018: [https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/ ](https://aclrollingreview.org/mentorship/Two%20example%20good%20reviews%20from%20NAACL%202018%20presented%20in%20their%20reviewing%20form)
+* Two examples of peer review from NAACL 2018: [https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/)
 
 **Reviewing specific aspects of papers**
-
-
 
 * Jesse Dodge and Noah Smith on the reproducibility checklist: [https://2020.emnlp.org/blog/2020-05-20-reproducibility/](https://2020.emnlp.org/blog/2020-05-20-reproducibility/) 
 * EACL 2021 tutorial on peer review, pt. III - Reviewing Results Section (Kevin Cohen): [slideslive](https://slideslive.com/38955745), [slides](https://github.com/reviewingNLP/EACL2021T5/blob/main/EACL_2021_pt3_resultsSection.pdf)
@@ -149,23 +143,17 @@ EACL 2021 tutorial on peer review, pt. II - The Actual Review (Karën Fort): [sl
 
 **Reviewing different types of papers**
 
-
-
 * COLING 2018 review form for different paper types has great questions to ask yourself when reviewing engineering, resource, reproduction, survey and computational linguistics papers: [http://coling2018.org/paper-types/](http://coling2018.org/paper-types/) 
-* Anna Rogers. Peer review in NLP: reject-if-not-SOTA [https://hackingsemantics.xyz/2020/reviewing-models/](https://aclrollingreview.org/mentorship/Reject%20if%20not%20SOTA?)
+* Anna Rogers. Peer review in NLP: reject-if-not-SOTA [https://hackingsemantics.xyz/2020/reviewing-models/](https://hackingsemantics.xyz/2020/reviewing-models/)
 * Anna Rogers. Peer review in NLP: resource papers [https://hackingsemantics.xyz/2020/reviewing-data/](https://hackingsemantics.xyz/2020/reviewing-data/) 
 
 **Cognitive and social biases in peer review**
-
-
 
 * Anna Rogers, Isabelle Augenstein. What can we do to improve peer review in NLP? [https://aclanthology.org/2020.findings-emnlp.112/](https://aclanthology.org/2020.findings-emnlp.112/) 
 * EACL 2021 tutorial on peer review, pt. V: Reviewer Biases (Anna Rogers): [slideslive](https://slideslive.com/38955745), [slides](https://github.com/reviewingNLP/EACL2021T5/blob/main/EACL_2021_pt5_biases.pdf)
 * EACL 2021 tutorial on peer review, pt. VI:  Anonymity in Peer Review (Anna Rogers): [slideslive](https://slideslive.com/38955746), [slides](https://github.com/reviewingNLP/EACL2021T5/blob/main/EACL_2021_pt6_anonymity.pdf)
 
 **Ethics **
-
-
 
 * NAACL 2021 Ethics FAQ: [https://2021.naacl.org/ethics/faq/](https://2021.naacl.org/ethics/faq/) 
 * EACL 2021 tutorial on peer review, pt. VII - Ethics and Reviewing (Aurélie Névéol): [slideslive](https://slideslive.com/38955747), [slides](https://github.com/reviewingNLP/EACL2021T5/blob/main/EACL_2021_pt7_ethics.pdf)
