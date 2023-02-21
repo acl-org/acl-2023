@@ -25,14 +25,14 @@ Please refer to each individual event's website for more details.
 * [The 20th International Conference on Spoken Language Translation](https://iwslt.org/2023/) (IWSLT)
 * [The 22nd Workshop on Biomedical Natural Language Processing and Shared Tasks](https://aclweb.org/aclwiki/BioNLP_Workshop) (BioNLP-ST)
 * [The 5th Workshop on NLP for Conversational AI](https://sites.google.com/view/5thnlp4convai/)
-* The 3rd Workshop on Trustworthy NLP
+* [The 3rd Workshop on Trustworthy NLP](https://trustnlpworkshop.github.io/)
 * [The 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis](https://wassa-workshop.github.io/) (WASSA)
-* The 5th Clinical Natural Language Processing Workshop (Clinical NLP)
+* [The 5th Clinical Natural Language Processing Workshop](https://clinical-nlp.github.io/2023/) (Clinical NLP)
 * [The 4th Workshop on Computational Approaches to Discourse](https://sites.google.com/view/codi-2023/) (CODI)
 * [The 1st Workshop on Computation and Written Language](https://cawl.wellformedness.com/) (CAWL)
-* The 3rd Workshop on NLP for Indigenous Languages of the Americas
+* [The 3rd Workshop on NLP for Indigenous Languages of the Americas](https://turing.iimas.unam.mx/americasnlp/)
 * [The 5th Workshop on Narrative Understanding](https://sites.google.com/umass.edu/wnu2023)
-* The 20th Workshop on Computational Morphology and Phonology (SIGMORPHON)
+* [The 20th Workshop on Computational Morphology and Phonology](https://sigmorphon.github.io/workshops/2023/) (SIGMORPHON)
 * [The 1st Workshop on Natural Language Reasoning and Structured Explanations](https://nl-reasoning-workshop.github.io/)
 
 <!-- ## July 13 (Thursday)
