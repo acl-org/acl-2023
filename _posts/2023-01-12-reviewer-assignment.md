@@ -4,6 +4,7 @@ author: program-chairs
 author_profile: true
 tags:
   announcement
+  peer-review
 categories:
   blog
 ---
