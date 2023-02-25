@@ -10,6 +10,26 @@ categories:
 
 Please read [the detailed explanation](https://2023.aclweb.org/blog/review-acl23/) of the form before entering your review.
 
+- [1. In-Depth Review](#1-in-depth-review)
+    + [What is this paper about and what contributions does it make?](#what-is-this-paper-about-and-what-contributions-does-it-make)
+    + [Reasons to accept](#reasons-to-accept)
+    + [Reasons to reject](#reasons-to-reject)
+- [2. Questions and Additional Feedback for the Author(s)](#2-questions-and-additional-feedback-for-the-authors)
+    + [Questions for the Author(s)](#questions-for-the-authors)
+    + [Missing References](#missing-references)
+    + [Typos, Grammar, Style, and Presentation Improvements](#typos-grammar-style-and-presentation-improvements)
+- [3. Reproducibility, Ethics Review, Anonymity Requirement and Overall Recommendation](#3-reproducibility-ethics-review-anonymity-requirement-and-overall-recommendation)
+    + [Overall Recommendation](#overall-recommendation)
+    + [Reviewer Confidence](#reviewer-confidence)
+    + [Recommendation for Best Paper Award](#recommendation-for-best-paper-award)
+    + [Reproducibility and Ethics](#reproducibility-and-ethics)
+- [4. Changes after the Rebuttal Period](#4-changes-after-the-rebuttal-period)
+- [5. Suitability for Media Dissemination](#5-suitability-for-media-dissemination)
+- [6. Confidential Information](#6-confidential-information)
+    + [Confidential Comments to the Area Chair and Peer Reviewers](#confidential-comments-to-the-area-chair-and-peer-reviewers)
+    + [Confidential Comments to Senior Area Chairs and PC Chairs](#confidential-comments-to-senior-area-chairs-and-pc-chairs)
+<!-- TOC end -->
+
 # 1. In-Depth Review
 
 The answers to the following questions are mandatory, and will be shared with both the committee and the authors.
@@ -73,7 +93,7 @@ The answers to the following questions, except for the overall recommendation, w
 
 ### Overall Recommendation
 
-#### Soundness
+**Soundness**
 
 Should this paper be accepted to any of the venues associated with ACL 2023? For this question, **do not consider novelty/excitement** (we will ask you about this more subjective issue separately.)
 
@@ -93,7 +113,7 @@ Please adhere to the following score definitions. If you believe that the paper 
 -   _2 = **Borderline**: Some of the main claims/arguments are not sufficiently supported, there are major technical/methodological problems._
 -   _1 = **Poor**: This study is not yet sufficiently thorough to warrant publication or is not relevant to ACL._
 
-#### Excitement (Long paper)
+**Excitement (Long paper)**
 
 How excited/enthusiastic are you for this paper to be accepted to ACL 2023? Excitement is a more subjective category than soundness, and it could come from one or more sources, including:
 
@@ -113,7 +133,7 @@ Please adhere to the score definitions below when scoring papers.
 -   _1.5 = **Weak**: I am pretty confident that it should be rejected._
 -   _1 = **Poor**: I cannot identify the contributions of this paper, or I believe the claims are not sufficiently backed up by evidence. I would fight to have it rejected._
 
-#### Excitement (Short Paper)
+**Excitement (Short Paper)**
 
 How excited/enthusiastic are you for this paper to be accepted to ACL 2023? Excitement is a more subjective category than soundness, and it could come from one or more sources, including:
 
@@ -193,9 +213,10 @@ We have a small ethics committee that can specially review very challenging pape
 Do you know the identity of some authors of this paper?
 - _5 = Yes, I have seen a non-anonymized version of the paper (including the case where only the title and authors are posted), posted online by authors or others after December 20, 2022._
 - _4 = Yes. I have seen a non-anonymized version of the paper, posted online on or before December 20, 2022._
-- _3 = Yes. I know the authors' identities via other means (e.g., being a senior area chair of another conference to which the paper was submitted)
-- 2 = Not sure but I have a good guess. While I have not seen a non-anonymized version of the paper online, I have a pretty guess of the authors based on the paper content._
+- _3 = Yes. I know the authors' identities via other means (e.g., being a senior area chair of another conference to which the paper was submitted)_
+- _2 = Not sure but I have a good guess. While I have not seen a non-anonymized version of the paper online, I have a pretty guess of the authors based on the paper content._
 - _1 = No. I don't know who the authors are._
+
 Notice that only option 5 may be in violation of the anonymity policy. The reviewer should provide a detailed review regardless of the answer to this question. Note that for ICLR submissions, if they were deanonymized upon acceptance/rejection, this does not count as a violation if there was another publicly accessible version. For papers withdrawn from ICLR before December 20, this also does not count as an anonymity violation.
 
 If you choose 3, 4, or 5 for the Author Identify question, please provide more details (e.g., the URL of the version posted online).
