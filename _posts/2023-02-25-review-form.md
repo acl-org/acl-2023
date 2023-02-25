@@ -155,7 +155,7 @@ Please adhere to the score definitions below when scoring papers.
 -   _1.5 = **Weak**: I am pretty confident that it should be rejected._
 -   _1 = **Poor**: I cannot identify the contributions of this paper, or I believe the claims are not sufficiently backed up by evidence. I would fight to have it rejected._
 
-#### Reviewer Confidence
+### Reviewer Confidence
 
 How confident are you in your assessment of this paper?
 
@@ -166,7 +166,7 @@ How confident are you in your assessment of this paper?
 -   _1 = Not my area, or paper was hard for me to understand. My evaluation is just an educated guess._
 
 
-#### **Recommendation for Best Paper Award**
+### **Recommendation for Best Paper Award**
 
 Do you think this paper should be considered for a Best Paper Award? There will be separate Best Paper Awards for long and for short papers. In addition, we will have several Outstanding Paper Awards.
 
