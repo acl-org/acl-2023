@@ -13,7 +13,7 @@ _The 2nd Call: December 20, 2022_
 
 ACL 2023 invites the submission of long and short papers featuring substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) and by the Computational Linguistics (CL) journals.
 
-**Direct submission and ARR commitment**: [https://softconf.com/acl2023/papers/](https://softconf.com/acl2023/papers/)
+**ARR commitment and Direct submission**: [https://softconf.com/acl2023/papers/](https://softconf.com/acl2023/papers/)
 
 Major differences from “standard” recent conferences include:
 
