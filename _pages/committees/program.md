@@ -500,13 +500,6 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Daisuke Kawahara"
-   picture="/assets/images/committee/daisuke_kawahara.jpg"
-   site="https://w-rdb.waseda.jp/html/100001978_en.html#"
-   institution="Waseda University (Japan)"
-%}
-
-{% include committee-member.html
    name="Djamé Seddah"
    picture="/assets/images/committee/djame_seddah.jpg"
    site="http://pauillac.inria.fr/~seddah/"
@@ -541,8 +534,8 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Yusuke Miyao"
-   picture="/assets/images/committee/yusuke_miyao.jpg"
-   site="https://researchmap.jp/yusuke/?lang=english"
-   institution="University of Tokyo (Japan)"
+   name="Daisuke Kawahara"
+   picture="/assets/images/committee/daisuke_kawahara.jpg"
+   site="https://w-rdb.waseda.jp/html/100001978_en.html"
+   institution="Waseda University (Japan)"
 %}
