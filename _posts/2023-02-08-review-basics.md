@@ -107,7 +107,7 @@ The primary purpose of the author response period is to make sure that the revie
 
 If the reviewers ask to reframe the research questions or claims, or make some other changes that would be easy to do in the camera-ready version, please state how you will address that. Unfortunately, conferences are not well equipped to handle revisions, and it is up to the reviewers and chairs to be convinced or not.
 
-If the reviewers are asking for experimental results that were not a part of the original submission, but that have been performed since the submission - you may report these, but the submission will be evaluated for acceptance in its submission version. In your response, consider whether these results are necessary to back up the claims of your paper, or this is something nice to have but not a part of the central claim. In the former case such missing results are a weakness, in the latter - a suggestion/recommendation.
+If the reviewers are asking for experimental results that were not a part of the original submission, but that have been performed since the submission - this depends on a particular conference's policy. ACL'23 disallows this. In some venues you may report such results, but the submission will still be evaluated for acceptance in its submission version. In your response, consider whether these results are necessary to back up the claims of your paper, or this is something nice to have but not a part of the central claim. In the former case such missing results are a weakness, in the latter - a suggestion/recommendation.
 
 We highly encourage you to read part 2 of this review tutorial, especially the conference policy part. If you received a review that violates these policies, please flag this in the rebuttal form. 
 
