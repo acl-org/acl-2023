@@ -3,7 +3,6 @@ title: "ACL'23 Peer Review Process"
 author: program-chairs
 author_profile: true
 tags:
-  announcement
   peer-review
 categories:
   blog
