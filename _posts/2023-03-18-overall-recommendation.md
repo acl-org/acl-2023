@@ -35,3 +35,18 @@ We recognize that this is new and different.  It’s an experiment. Thus, to hel
 
 ![](/assets/images/blog/scores.png)
 <div align = "center">Overall distribution for 'soundness' and 'excitement' scores at ACL 2023 (pre-rebuttal) </div>
+
+# FAQ
+
+**Q:** The "soundness" score less granular than "excitement", could we add .5 increments?<br/>
+**A:** That's a good idea to improve the system in the future, but at this point it is too late to change the scale, because we cannot guarantee that all reviewers will revisit their scores.
+
+**Q:** Some people may have misinterpreted "soundness" and/or "excitement" as something else, and rate based on that interpretation.<br/>
+**A:** This absolutely is possible (in particular, soundness may be evinced through concepts like clarity and comprehensiveness). But this is also the fundamental problem with the usual "overall recommendation", which everybody also interprets in very different ways. We hope that our questions are still an improvement in concreteness over the single-score questions, and can be further improved on.
+
+**Q:** The "soundness" scale skewed: 2 is "borderline", and "good" is 3, but its description is perhaps more fitting for 4? <br/> 
+**A:** If the whole scale is skewed, all papers are affected the same, it's just that the average score will be lower than usual. But this gives us more granularity at the positive end of the spectrum, where we hope that the bulk of the papers would be.
+
+**Q:** Since it can be challenging to fully assess the correctness and soundness of complex techniques, the "soundness" scores may be biased towards technically lighter papers.<br/>
+**A:** This is a possibility, and we will need to do some analysis of low-scoring papers to see if that is the case. But one more relevant aspect here is clarity: if the paper is technically more complex, but manages to explain their method more clearly than other complex papers, "soundness" metric will reward that - and that is arguably a good thing, since it likely correlates with potential impact.
+
