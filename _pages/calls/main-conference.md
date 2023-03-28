@@ -43,6 +43,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | Anonymity period for ARR papers to be committed to ACL 2023 | Februrary 17, 2023 |
 | Commitment deadline for ARR papers | March 17, 2023 |
 | Author response period | March 17-24, 2023 |
+| Discussion period | March 25-April 7, 2023 |
 | Notification of acceptance | May 1, 2023 |
 | Withdrawal deadline | May 8, 2023 |
 | Camera-ready papers due | May 22, 2023 |

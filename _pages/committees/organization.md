@@ -38,8 +38,8 @@ sidebar:
    name="Anna Rogers"
    picture="/assets/images/committee/anna_rogers.jpg"
    site="https://annargrs.github.io"
-   institution="University of Copenhagen (Denmark)"
-   email = "arogers@sodas.ku.dk"
+   institution="IT University of Copenhagen (Denmark)"
+   email = "arog@itu.dk"
 %}
 
 
