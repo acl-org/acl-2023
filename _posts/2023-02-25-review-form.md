@@ -240,13 +240,17 @@ Have you read the author response?
 
 **Review Update**
 
-After reading the author response and having discussions with other reviewers, have you changed your overall recommendation score?
+Review Update
 
-- _5 = N/A: this is before the rebuttal period._
-- _4 = N/A, as the authors did not provide response during the rebuttal period._
-- _3 = Yes, the new score is higher than the original score._
-- _2 = Yes, the new score is lower than the original score._
-- _1 = No, I keep the score unchanged._
+After reading the author response and having discussions with other reviewers, have you changed your scores?<br/>
+We are aware that there was some confusion about what the scores meant, please see our [clarification](https://2023.aclweb.org/blog/overall-recommendation/). If you changed your scores because you now interpret them differently and not due to response or discussion, please choose "No, I didn't change my mind".
+
+- 6 = N/A: this is before the rebuttal period.
+- 5 = N/A, as the authors did not provide response during the rebuttal period.
+- 4 = Yes, the response/discussion changed my mind on 'soundness'.
+- 3 = Yes, the response/discussion changed my mind on 'excitement'.
+- 2 = Yes, the response/discussion changed my mind on both.
+- 1 = No, I didn't change my mind.
 
 ---
 
