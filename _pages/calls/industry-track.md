@@ -31,7 +31,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | Anonymity period begins | January 17, 2023 |
 | Paper submission deadline | February 17, 2023 |
 | Notification of acceptance | May 8, 2023 |
-| Camera-ready version of papers due | May 29, 2023 |
+| Camera-ready version of papers due | May 29, 2023  |
 | Main conference, including industry track | July 10-12, 2023 |
 {: .dates-table}
 
