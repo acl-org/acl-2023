@@ -51,6 +51,15 @@ main:
   # - title: "Ethics"
   #   url: /ethics/faq/
 
+  - title: Accessibility
+    url: "#"
+    icon: fa-universal-access
+    dropdown:
+      - title: Adjust Text Size
+        widget: Text Size
+      - title: High Contrast Mode
+        widget: High Contrast
+
 
 program:
   - title: Program Details
