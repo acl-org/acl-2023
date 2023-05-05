@@ -126,7 +126,7 @@ di_champion:
 ACL 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
 
 If your organization would like to sponsor ACL or other conferences in the ACL family,
-please refer to our [**Invitation to Sponsors**](/downloads/Sponsorship_Brochure-ACL2023.pdf)
+please refer to our [**Invitation to Sponsors**](/downloads/Sponsorship_Brochure-ACL2023-20230505.pdf)
 for information about sponsorship rates and benefits.
 
 <style>
