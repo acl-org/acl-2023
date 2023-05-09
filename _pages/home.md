@@ -20,6 +20,7 @@ More information will be announced soon.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2023-05-09 | [Application form for an invitation letter](/participants/invitation_letter/) is posted under the *Participants Info*.
 | 2023-05-03 | The accessibility widget is added to the top menu.
 | 2023-02-28 | [ARR Commitment for the Main Conference](/calls/main_conference/) is posted under the *Calls*.
 | 2023-02-09 | [List of Tutorials](/program/tutorials/) is posted under _Program_. |
