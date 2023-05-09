@@ -149,8 +149,10 @@ reviewer:
 participants:
   - title: "Information for Participants"
     children:
-      - title: "Anti-harassment"
+      - title: "Anti-Harassment"
         url: /participants/anti_harassment/
+      - title: "Invitation Letter"
+        url: /participants/invitation_letter/
      # - title: "COVID-19 Safety at EMNLP 2022"
      #   url: /participants/covid_19_safety/
      # - title: "Instructions for Paper Presenters"

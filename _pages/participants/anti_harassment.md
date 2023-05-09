@@ -1,5 +1,5 @@
 ---
-title: Anti-harassment 
+title: Anti-Harassment 
 layout: single
 permalink: /participants/anti_harassment/
 sidebar:

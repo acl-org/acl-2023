@@ -67,7 +67,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | Commitment deadline for ARR papers | ~~March 17, 2023~~ |
 | Author response period | ~~March 17-24, 2023~~ |
 | Notification of acceptance | ~~May 1, 2023~~ |
-| Withdrawal deadline | May 8, 2023 |
+| Withdrawal deadline | ~~May 8, 2023~~ |
 | Camera-ready papers due | May 22, 2023 |
 | Tutorials | July 9, 2023 |
 | Conference | July 10-12, 2023 |
@@ -77,7 +77,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 | Anonymity period begins | ~~January 17, 2023~~ |
 | Paper submission deadline | ~~February 17, 2023~~ |
-| Notification of acceptance | May 8, 2023 |
+| Notification of acceptance | ~~May 8, 2023~~ |
 | Camera-ready version of papers due | May 29, 2023 |
 | Main conference, including industry track | July 10-12, 2023 |
 {: .dates-table}
