@@ -80,10 +80,12 @@ calls:
         url: /calls/system_demonstration/
       - title: "Student Research Workshop"
         url: /calls/student_research_workshop/
-      # - title: "Volunteers"
-      #   url: /calls/volunteers/
       - title: "Style Files and Formatting"
         url: /calls/style_and_formatting/
+  - title: "Call for Volunteers"
+    children:
+      - title: "Student Volunteer Program"
+        url: /calls/volunteers/
   - title: "Call for Proposals"
     children:
       - title: "Workshops"

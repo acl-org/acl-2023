@@ -18,6 +18,9 @@ sidebar:
 
 
 <h2>Program Chairs</h2>
+
+Contact: acl2023-pc@googlegroups.com
+
 {% include committee-member.html
    name="Jordan Boyd-Graber"
    picture="/assets/images/committee/jordan_boyd-graber.jpg"
@@ -99,6 +102,8 @@ sidebar:
 
 <h2>Demonstration Chairs</h2>
 
+Contact: acl2023demochairs@gmail.com
+
 {% include committee-member.html
    name="Danushka Bollegala"
    picture="/assets/images/committee/danushka_bollegala.jpg"
@@ -125,6 +130,8 @@ sidebar:
 
 
 <h2>Industry Track Chairs</h2>
+
+Contact: acl-2023-industry-track-pcs@googlegroups.com
 
 {% include committee-member.html
    name="Beata Beigman Klebanov"
@@ -154,6 +161,8 @@ sidebar:
 <h2>Student Research Workshop</h2>
 
 <h3>Chairs</h3>
+
+Contact: acl2023.srw@gmail.com
 
 {% include committee-member.html
    name="Yao Fu"
@@ -365,6 +374,8 @@ sidebar:
 
 
 <h2>Diversity and Inclusion Chairs</h2>
+
+Contact: acl2023-dei@outlook.com
 
 {% include committee-member.html
    name="Daniel Beck"
