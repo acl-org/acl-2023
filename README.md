@@ -146,7 +146,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# To be upated
+# Website Chair
 
 `_config.yml`
 
@@ -159,6 +159,6 @@ SOFTWARE.
 * navigation.yml
 * authors.yml
 
-`_includes/home.html`
+`_includes/head.html`
 
-* Underway script
+* Userway accessibility widget
