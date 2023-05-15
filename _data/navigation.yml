@@ -86,6 +86,10 @@ calls:
     children:
       - title: "Student Volunteer Program"
         url: /calls/volunteers/
+  - title: "Call for Subsidies"
+    children:
+      - title: "Diversity & Inclusion Program"
+        url: /calls/subsidies/
   - title: "Call for Proposals"
     children:
       - title: "Workshops"

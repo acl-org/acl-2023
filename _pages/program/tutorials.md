@@ -19,7 +19,7 @@ sidebar:
 
 
 
-## Workshop Chairs
+## Tutorial Chairs
 
 * Yun-Nung (Vivian) Chen, National Taiwan University (Taiwan)
 * Margot Mieskes, University of Applied Sciences, Darmstadt (Germany)

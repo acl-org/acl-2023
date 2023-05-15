@@ -375,7 +375,7 @@ Contact: acl2023.srw@gmail.com
 
 <h2>Diversity and Inclusion Chairs</h2>
 
-Contact: acl2023-dei@outlook.com
+Contact: acl2023dei@googlegroups.com
 
 {% include committee-member.html
    name="Daniel Beck"
