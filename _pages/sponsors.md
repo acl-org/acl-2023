@@ -7,10 +7,6 @@ toc: false
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 diamond:
-  - url: https://www.lg.com
-    image_path: /assets/images/sponsors/lg.jpg
-    alt: LG
-    title: LG
   - url: https://www.liveperson.com
     image_path: /assets/images/sponsors/liveperson.jpg
     alt: LivePerson

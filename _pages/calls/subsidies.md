@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-ACL 2023 is providing D&I funds for registration, caregiving, bandwidth, travel, VPN subsidies and volunteer opportunities (see https://2023.aclweb.org/calls/volunteers/). We strongly encourage researchers from developing countries and marginalised communities, students, and researchers with financial hurdles to apply for both subsidies and volunteering opportunities to maximise their chances of getting their registration fees waived.
+ACL 2023 is providing D&I funds for registration, caregiving, bandwidth, travel, VPN subsidies and [volunteer](https://2023.aclweb.org/calls/volunteers/) opportunities. We strongly encourage researchers from developing countries and marginalised communities, students, and researchers with financial hurdles to apply for both subsidies and volunteering opportunities to maximise their chances of getting their registration fees waived.
 
 Please apply for subsidies before the **31st of May** using [this link](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAVnuQ09UNEQ2RTJPU0MzTVUwWk9aUzZGQ0VRR1M3Ri4u). 
 

@@ -138,4 +138,6 @@ TBA
 
 **EMNLP**
 
-TBA
+* Hao Fei, National University of Singapore (Singapore)
+* Sujian Li, Peking University (China)
+* Alex Marin, Microsoft (USA)
