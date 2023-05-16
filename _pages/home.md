@@ -13,6 +13,10 @@ excerpt: "Toronto, Canada<br>July 9-14, 2023"
 The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23) will take place in **Toronto, Canada** from **July 9th to July 14th, 2023**.
 More information will be announced soon.
 
+Group Block Valid until June 21, 2023 or Sold Out.<br>
+Secure Best Rate at the Host Hotel Now! [CLICK HERE](https://book.passkey.com/e/50488246)
+{: .text-center .notice--info}
+
 ## News
 
 <style>

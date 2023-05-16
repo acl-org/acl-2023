@@ -10,12 +10,12 @@ main:
     url: /program/
   - title: "Registration"
     url: /registration/
+  - title: "Venue"
+    url: /venue/
   - title: "Committees"
     url: /committees/organization/
   - title: "Sponsors"
     url: /sponsors/
-  - title: "Venue"
-    url: /venue/
   - title: "Participants Info"
     url: /participants/anti_harassment/
 
