@@ -1,7 +1,7 @@
 ---
 title: Venue
 layout: single
-permalink: /venue
+permalink: /venue/
 toc: true
 toc_sticky: true
 toc_icon: "cog"
