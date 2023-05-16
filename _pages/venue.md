@@ -7,6 +7,12 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+## About Toronto
+
+A multicultural metropolis on the shores of Lake Ontario, Toronto is Canada’s centre for arts, food, business and fun – all under the watchful gaze of the iconic CN Tower.
+Please visit [here](https://theculturetrip.com/north-america/canada/toronto/) for more details.
+
+
 ## Conference Venue
 
 ACL 2023 will take place in the Westin Harbour Castle, Toronto:
