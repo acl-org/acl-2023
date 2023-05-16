@@ -24,6 +24,8 @@ Secure Best Rate at the Host Hotel Now! [CLICK HERE](https://book.passkey.com/e/
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2023-05-16 | [ACL Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants Information*.
+| 2023-05-16 | [Conference Venue](/venue/) is posted under the *Venue*.
 | 2023-05-15 | [Call for Diversity and Inclusion Subsidies](/calls/subsidies/) is posted under the *Calls*.
 | 2023-05-15 | [List of Sponsors](/sponsors/) is posted under the *Sponsors*.
 | 2023-05-11 | [Call for Student Volunteers](/calls/volunteers/) is posted under the *Calls*.
