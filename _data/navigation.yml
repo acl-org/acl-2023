@@ -1,6 +1,24 @@
-# main links
-#in masthead.html
+# main links in masthead.html
 main:
+  - title: "Calls"
+    url: /calls/main_conference/
+  - title: "Blog"
+    url: /blog/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Program"
+    url: /program/
+  - title: "Registration"
+    url: /registration/
+  - title: "Committees"
+    url: /committees/organization/
+  - title: "Sponsors"
+    url: /sponsors/
+  - title: "Venue"
+    url: /venue/
+  - title: "Participants Info"
+    url: /participants/anti_harassment/
+
 
   #- title: "Schedule"
   #  url: /schedule/
@@ -11,42 +29,11 @@ main:
   #- title: "Virtual Conference Website"
   #  url: "https://underline.io/events/122/reception"
 
-  # - title: "Registration"
-  #   url: /not_available
-
-  - title: "Calls"
-    url: /calls/main_conference/
-
-  - title: "Blog"
-    url: /blog/
-      
-  - title: "FAQ"
-    url: /faq/
-
-  - title: "Program"
-    url: /program/
-
-  - title: "Committees"
-    url: /committees/organization
-  
-  - title: "Sponsors"
-    url: /sponsors/
-  
-  # - title: "Contact"
-  #   url: /contact 
-    
-  # - title: "Volunteers"
-  #   url: /volunteers 
-  
-  - title: "Venue"
-    url: /venue
-
   #- title: "Reviewer"
   #  url: /not_available
 
-  - title: "Participants Info"
-    url: /participants/anti_harassment/
-
+  # - title: "Contact"
+  #   url: /contact     
  
   # - title: "Ethics"
   #   url: /ethics/faq/

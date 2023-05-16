@@ -3,7 +3,7 @@ title: Sponsors
 layout: single
 permalink: /sponsors/
 sidebar: false
-toc: false
+toc: true
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 diamond:
@@ -166,8 +166,7 @@ di_ally:
   # - url: https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html
   #   image_path: /assets/images/logos/cair-logo.jpg
   #   alt: CAIR
-  #   title: CAIR   
-
+  #   title: CAIR
 ---
 
 ACL 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
