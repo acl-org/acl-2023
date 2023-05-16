@@ -56,12 +56,12 @@ program:
     children:
       - title: "Conference Program"
         url: /program/
+      - title: "Keynote Speakers"
+        url: /program/keynotes/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
-#      - title: "Keynote Speakers"
-#        url: /program/keynotes/
 #      - title: "Accepted Papers"
 #        url: /program/accepted/
 #      - title: "Social Programs"
