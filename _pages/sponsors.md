@@ -19,7 +19,7 @@ diamond:
     image_path: /assets/images/sponsors/bloomberg.jpg
     alt: Bloomberg
     title: Bloomberg
-  - url: https://www.ibm.com
+  - url: https://research.ibm.com
     image_path: /assets/images/sponsors/ibm.jpg
     alt: IBM
     title: IBM
