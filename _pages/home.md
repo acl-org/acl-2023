@@ -42,12 +42,6 @@ More information will be announced soon.
 | 2022-09-21 | The official ACL 2023 website is launched. |
 {: .news-table}
 
-## Blog Posts
-
-| 2023-01-10 | [ACL 2023 Policy on AI Writing Assistance](/blog/ACL-2023-policy/) |
-| 2022-08-31 | [ACL 2023 Blog](/blog/ACL-2023-blog/) |
-{: .news-table}
-
 ## Important Dates
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
