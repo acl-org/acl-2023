@@ -98,6 +98,9 @@ participants:
         url: /participants/about_acl/
       - title: "Invitation Letter"
         url: /participants/invitation_letter/
+      - title: "ACL Cancellation Policy"
+        url: /participants/cancellation_policy/
+
      # - title: "COVID-19 Safety at EMNLP 2022"
      #   url: /participants/covid_19_safety/
      # - title: "Instructions for Paper Presenters"
