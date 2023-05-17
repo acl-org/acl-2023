@@ -27,12 +27,12 @@ diamond:
     image_path: /assets/images/sponsors/meta.jpg
     alt: Meta
     title: Meta
-  - url: https://www.microsoft.com
+  - url: https://www.microsoft.com/en-us/research/
     image_path: /assets/images/sponsors/microsoft.jpg
     alt: Microsoft
     title: Microsoft
 platinum:
-  - url: https://www.grammarly.com
+  - url: https://www.grammarly.com/jobs?utm_source=website&utm_medium=conference_rm&utm_campaign=acl2023_website
     image_path: /assets/images/sponsors/grammarly.jpg
     alt: Grammarly
     title: Grammarly
@@ -48,7 +48,7 @@ platinum:
     image_path: /assets/images/sponsors/baidu.jpg
     alt: Baidu
     title: Baidu
-  - url: https://www.bytedance.com
+  - url: https://www.bytedance.com/en
     image_path: /assets/images/sponsors/bytedance.jpg
     alt: ByteDance
     title: ByteDance
@@ -60,7 +60,7 @@ platinum:
     image_path: /assets/images/sponsors/deepmind.jpg
     alt: DeepMind
     title: DeepMind
-  - url: https://www.huawei.com
+  - url: https://www.huawei.com/en/
     image_path: /assets/images/sponsors/huawei.jpg
     alt: Huawei
     title: Huawei
@@ -85,7 +85,7 @@ gold:
     image_path: /assets/images/sponsors/antgroup.jpg
     alt: Ant Group
     title: Ant Group
-  - url: https://www.comcast.com
+  - url: https://careers.tencent.com/en-us/
     image_path: /assets/images/sponsors/comcast.jpg
     alt: Comcast
     title: Comcast
@@ -98,7 +98,7 @@ silver:
     image_path: /assets/images/sponsors/alibaba.jpg
     alt: Alibaba
     title: Alibaba
-  - url: https://research.duolingo.com
+  - url: https://jobs.duolingo.com
     image_path: /assets/images/sponsors/duolingo.jpg
     alt: Duolingo
     title: Duolingo
@@ -115,7 +115,7 @@ silver:
     alt: Bosch
     title: Bosch
 bronze:
-  - url: https://careers.servicenow.com
+  - url: https://www.servicenow.com/research/
     image_path: /assets/images/sponsors/servicenow.jpg
     alt: ServiceNow
     title: ServiceNow
