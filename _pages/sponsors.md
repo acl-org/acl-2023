@@ -77,7 +77,7 @@ gold:
     image_path: /assets/images/sponsors/jpmorgan.jpg
     alt: J.P. Morgan
     title: J.P. Morgan
-  - url: https://www.nec.com
+  - url: https://www.neclab.eu
     image_path: /assets/images/sponsors/nec.jpg
     alt: NEC
     title: NEC
