@@ -162,3 +162,7 @@ SOFTWARE.
 `_includes/head.html`
 
 * Userway accessibility widget
+
+`_includes/masthead.html`
+
+* Take off "Registration" to make the menu color gray.
