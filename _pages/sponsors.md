@@ -25,8 +25,8 @@ diamond:
     title: IBM
   - url: https://ai.facebook.com
     image_path: /assets/images/sponsors/meta.jpg
-    alt: Meta
-    title: Meta
+    alt: Meta AI
+    title: Meta AI
   - url: https://www.microsoft.com/en-us/research/
     image_path: /assets/images/sponsors/microsoft.jpg
     alt: Microsoft
