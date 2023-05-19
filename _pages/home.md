@@ -72,7 +72,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | Author response period | ~~March 17-24, 2023~~ |
 | Notification of acceptance | ~~May 1, 2023~~ |
 | Withdrawal deadline | ~~May 8, 2023~~ |
-| Camera-ready papers due | May 22, 2023 |
+| Camera-ready papers due | May 25, 2023 |
 | Tutorials | July 9, 2023 |
 | Conference | July 10-12, 2023 |
 | Workshops | July 13-14, 2023 |
