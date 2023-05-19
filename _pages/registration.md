@@ -11,4 +11,4 @@ toc_icon: "cog"
 <!-- **Registration is now closed.**
 {: .notice .notice--info .text-center} -->
 
-Registration will open the week of May 15, 2023.
+Registration will open soon.
