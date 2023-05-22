@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 diamond:
-  - url: https://www.liveperson.com
+  - url: https://www.liveperson.com/data-science/
     image_path: /assets/images/sponsors/liveperson.jpg
     alt: LivePerson
     title: LivePerson
@@ -128,7 +128,7 @@ bronze:
     alt: Babelscape
     title: Babelscape
 di_champion:
-  - url: https://www.liveperson.com
+  - url: https://www.liveperson.com/data-science/
     image_path: /assets/images/sponsors/liveperson.jpg
     alt: LivePerson
     title: LivePerson
