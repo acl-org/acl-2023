@@ -21,9 +21,7 @@ Tasks may include assisting at the registration desk, filling delegate packs, ma
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 <style>
-.dates-table { font-size: .8em; }
-.dates-table tr td:nth-child(1) { width: 60%; }
-.dates-table tr td:nth-child(2) { width: 30%; }
+.dates-table { font-size: .9em; }
 .dates-table del { color: #888; }
 </style>
 

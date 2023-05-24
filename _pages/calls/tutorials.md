@@ -30,8 +30,6 @@ EACL/ACL/EMNLP 2023 shared dates:
 
 <style>
 .dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 60%; }
-.dates-table tr td:nth-child(2) { width: 30%; }
 .dates-table del { color: #888; }
 </style>
 

@@ -24,6 +24,7 @@ Secure Best Rate at the Host Hotel Now! [CLICK HERE](https://book.passkey.com/e/
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2023-05-24 | [Registration](/registration/) is posted under the *Registration*.
 | 2023-05-16 | [ACL Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants Information*.
 | 2023-05-16 | [Conference Venue](/venue/) is posted under the *Venue*.
 | 2023-05-15 | [Call for Diversity and Inclusion Subsidies](/calls/subsidies/) is posted under the *Calls*.
@@ -54,8 +55,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 <style>
 .dates-table { font-size: .8em; }
-.dates-table tr td:nth-child(1) { width: 60%; }
-.dates-table tr td:nth-child(2) { width: 30%; }
+.dates-table tr td:nth-child(1) { width: 35em; }
 .dates-table del { color: #888; }
 </style>
 
@@ -76,6 +76,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | Tutorials | July 9, 2023 |
 | Conference | July 10-12, 2023 |
 | Workshops | July 13-14, 2023 |
+{: .dates-table}
 
 ### Industry Track Papers
 

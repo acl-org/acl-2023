@@ -18,9 +18,7 @@ Please apply for subsidies before the **31st of May** using [this link](https://
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 <style>
-.dates-table { font-size: .8em; }
-.dates-table tr td:nth-child(1) { width: 60%; }
-.dates-table tr td:nth-child(2) { width: 30%; }
+.dates-table { font-size: .9em; }
 .dates-table del { color: #888; }
 </style>
 
