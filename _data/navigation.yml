@@ -32,7 +32,7 @@ main:
   #   url: /ethics/faq/
 
 program:
-  - title: Program Details
+  - title: "Program Details"
     children:
       - title: "Conference Program"
         url: /program/
@@ -80,7 +80,7 @@ calls:
         url: /calls/tutorials/
 
 committees:
-  - title: Committees
+  - title: "Committees"
     children:
       - title: "Organizing Committee"
         url: /committees/organization/
@@ -111,6 +111,14 @@ participants:
      #    url: /participants/accommodation/
      #  - title: "Social Event"
      #    url: /participants/social/
+
+registration:
+  - title: "Registration Details"
+    children:
+      - title: "Registration"
+        url: /registration/
+      - title: "Discounted Virtual Registration"
+        url: /registration/discounted_virtual_registration/
 
 
 
