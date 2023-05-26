@@ -68,7 +68,7 @@ platinum:
     image_path: /assets/images/sponsors/speechocean.jpg
     alt: Speechocean
     title: Speechocean
-  - url: https://www.kaust.edu.sa
+  - url: https://cemse.kaust.edu.sa/ai
     image_path: /assets/images/sponsors/kaust.jpg
     alt: Kaust
     title: Kaust
