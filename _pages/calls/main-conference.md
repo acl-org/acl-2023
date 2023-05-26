@@ -215,7 +215,7 @@ Should the reviewers still have concerns about the ethical aspects of a given su
 
 ## Presentation Requirement
 
-All papers accepted to the main conference track must be presented at the conference to appear in the proceedings, and at least one author must register for ACL 2023. All papers accepted to the main track or Findings will be required to submit a presentation video. The conference will be hybrid, with an emphasis on encouraging interaction between the online and in-person modalities, and thus presentations can be either on-site or virtual. 
+All papers accepted to the main conference track must be presented at the conference to appear in the proceedings, and at least one author must register for ACL 2023. All papers accepted to the main track will be required to submit a presentation video. Findings papers may present a virtual poster, a short in-person spotlight, and upload a video (although they are not required to do so).  The conference will be hybrid, with an emphasis on encouraging interaction between the online and in-person modalities, and thus presentations can be either on-site or virtual. 
 
 ## Program Chairs
 
