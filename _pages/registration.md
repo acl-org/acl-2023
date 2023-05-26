@@ -126,5 +126,5 @@ Exceptions: Cancellation due to governmental travel restrictions, failure to obt
 For questions about your registration and/or payment, please contact:
 
 * Yes Events
-* Email: [ACLinfo@yes events](mailto:ACLinfo@yes events)
+* Email: [ACLinfo@yesevents.com](mailto:ACLinfo@yesevents.com)
 * Toll Free: 800-937-872
