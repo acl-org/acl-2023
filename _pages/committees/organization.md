@@ -311,6 +311,14 @@ Contact: acl2023.srw@gmail.com
 <h2>Virtual Infrastructure Chairs</h2>
 
 {% include committee-member.html
+   name="Pedro Rodriguez"
+   picture="/assets/images/committee/pedro_rodriguez.jpg"
+   site="https://www.pedro.ai"
+   institution="Meta (USA)"
+   email = "me@pedro.ai"
+%}
+
+{% include committee-member.html
    name="Martín Villalba"
    picture="/assets/images/committee/martin_villalba.jpg"
    site="https://7c0h.com"
