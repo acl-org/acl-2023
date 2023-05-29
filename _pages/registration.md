@@ -44,6 +44,9 @@ Findings papers have optional virtual presentations and optional in-person
 spotlights.  If you elect to take advantage of these presentation
 opportunities, at least one author of the Findings paper must register.
 
+If you are presenting at a workshop, you do not need to register for the main
+conference, but you must register for the appropriate workshop.
+
 <style>
 .dates-table { font-size: .8em; }
 .dates-table tr td:nth-child(1) { width: 25em; }
