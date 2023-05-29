@@ -74,7 +74,7 @@ student-volunteer-chairs:
 virtual-infrastructure-chairs:
   name        : "Virtual Infrastructure Chairs"
   email       : ""
-  bio         : "Martín Villalba, Jiacheng Xu"
+  bio         : "Martín Villalba, Jiacheng Xu, Pedro Rodriguez"
   avatar      : "assets/images/logos/acl-logo-square.jpg"
 
 ethics-chairs:
