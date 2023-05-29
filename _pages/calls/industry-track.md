@@ -86,7 +86,7 @@ Accepted papers will be given one additional page of content (up to 7 pages; eth
 
 The final version should remove anonymization in text, citation, and figures. For example, the final version may include the name of the authors' institutions, trade names, and screenshots of identifiable products.
 
-In addition to the final version of the paper, all papers accepted to the Industry Track will be required to submit a presentation video.
+In addition to the final version of the paper, authors of all papers accepted to the Industry Track will be given an option to submit a presentation video, slides, and/or a pdf of their poster.
 
 **Presentation Requirement for Accepted Papers**
 
