@@ -85,11 +85,11 @@ gold:
     image_path: /assets/images/sponsors/antgroup.jpg
     alt: Ant Group
     title: Ant Group
-  - url: https://careers.tencent.com/en-us/
+  - url: https://jobs.comcast.com/ml-ai-team-page
     image_path: /assets/images/sponsors/comcast.jpg
     alt: Comcast
     title: Comcast
-  - url: https://www.tencent.com
+  - url: https://careers.tencent.com/en-us/
     image_path: /assets/images/sponsors/tencent.jpg
     alt: Tencent
     title: Tencent
