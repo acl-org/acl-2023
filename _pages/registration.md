@@ -38,7 +38,14 @@ sidebar:
 
 ## In- Person Pricing 
 
-Each paper must have at least one author who has registered at the Full Conference Regular rate. If this is prohibitive, please contact the D&I committee.
+Each main conference paper must have at least one registered author (either in
+person or virtual). If this is prohibitive, please contact the D&I committee.
+Findings papers have optional virtual presentations and optional in-person
+spotlights.  If you elect to take advantage of these presentation
+opportunities, at least one author of the Findings paper must register.
+
+If you are presenting at a workshop, you do not need to register for the main
+conference, but you must register for the appropriate workshop.
 
 <style>
 .dates-table { font-size: .8em; }
