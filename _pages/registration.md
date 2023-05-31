@@ -88,7 +88,10 @@ Register Here: [https://acl.swoogo.com/ACL2023](https://acl.swoogo.com/ACL2023)
 
 For a Discounted/sliding scale Virtual Registration Subsidy ($0-100), apply [here](discounted_virtual_registration).
 
-Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author who has registered at a minimum at the full conference virtual regular rate of $300, or at the higher appropriate in-person rates if attending in person. If this is prohibitive, please contact the D&I committee.
+Given the large real costs of all conference paper presentations
+(whether virtual or in-person), all papers in the program (oral or
+poster) must have at least one author who has registered. If this is
+prohibitive, please contact the D&I committee.
 
 | Registrations:                             | Virtual  |
 |--------------------------------------------|---------:|
