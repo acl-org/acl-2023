@@ -27,8 +27,8 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | Pre-submission feedback | April 26, 2023 |
 | Paper submission deadline | May 5, 2023 |
 | Review deadline | May 20, 2023 |
-| Acceptance notifications | May 30 2023 |
-| Camera-ready deadline | June 6, 2023 |
+| Acceptance notifications | June 6, 2023 |
+| Camera-ready deadline | June 17, 2023 |
 | ACL 2023 conference dates | July 10-12, 2023 |
 {: .dates-table}
 
