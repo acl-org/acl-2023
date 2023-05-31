@@ -24,6 +24,7 @@ Please revisit the [venue page](/venue/) for more details.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2023-05-31 | [Keynote Speakers](/program/keynotes/) is posted under the *Program*.
 | 2023-05-24 | [Registration](/registration/) is posted under the *Registration*.
 | 2023-05-16 | [ACL Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants Information*.
 | 2023-05-16 | [Conference Venue](/venue/) is posted under the *Venue*.

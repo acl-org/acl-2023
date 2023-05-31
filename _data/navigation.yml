@@ -42,7 +42,7 @@ program:
         url: /program/tutorials/
   - title: Events
     children:
-      - title: "Keynote Speakers"
+      - title: "Keynotes"
         url: /program/keynotes/
       - title: "Social Programs"
         url: /program/social/
