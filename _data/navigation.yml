@@ -1,23 +1,23 @@
 # main links in masthead.html
 main:
-  - title: "Calls"
-    url: /calls/main_conference/
   - title: "Blog"
     url: /blog/
-  - title: "FAQ"
-    url: /faq/
+  - title: "Calls"
+    url: /calls/main_conference/
   - title: "Program"
     url: /program/
   - title: "Registration"
     url: /registration/
   - title: "Venue"
     url: /venue/
-  - title: "Participants Info"
+  - title: "Participants"
     url: /participants/about_acl/
   - title: "Committees"
     url: /committees/organization/
   - title: "Sponsors"
     url: /sponsors/
+  - title: "FAQ"
+    url: /faq/
   #- title: "Schedule"
   #  url: /schedule/
   #- title: "LiveCaptions"
@@ -32,9 +32,9 @@ main:
   #   url: /ethics/faq/
 
 program:
-  - title: "Program Details"
+  - title: "Programs"
     children:
-      - title: "Conference Program"
+      - title: "Conference Overview"
         url: /program/
       - title: "Workshops"
         url: /program/workshops/
@@ -113,7 +113,7 @@ participants:
      #    url: /participants/social/
 
 registration:
-  - title: "Registration Details"
+  - title: "Registration"
     children:
       - title: "Registration"
         url: /registration/

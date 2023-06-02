@@ -1,5 +1,5 @@
 ---
-title: Conference Blog
+title: ACL 2023 Blog
 layout: archive
 permalink: /blog/
 author_profile: false

@@ -1,7 +1,7 @@
 ---
-title: Conference Program
+title: Conference Overview
 layout: single
-excerpt: "ACL 2023 Conference Program."
+excerpt: "ACL 2023 Conference Overview."
 permalink: /program/
 toc: false
 sidebar:
@@ -29,7 +29,7 @@ sidebar:
 | 18:30 | 21:00 | Welcome Receptions  |
 
 * Registration: 07:30 - 18:30, Westin Lobby
-* Welcome Receptions: Name badge is required to access
+* Welcome Receptions: name badge is required to access
 {: .notes}
 
 ## Monday, July 10th 
@@ -68,7 +68,7 @@ sidebar:
 | 18:30 | 22:00 | Social Event ([Steam Whistle Brewing / Canada’s Premium Beer](https://steamwhistle.ca)) |
 
 * Registration: 07:30 - 17:30, Harbour Foyer
-* Social Event: Name badge required to access
+* Social Event: name badge required to access
 {: .notes}
 
 ## Wednesday, July 12th 

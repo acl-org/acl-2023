@@ -21,6 +21,10 @@ ACL 2023 will take place in the Westin Harbour Castle, Toronto:
 * Address: 1 Harbour Square, Toronto, ON M5J 1A6, Canada
 * Phone: +1 416-869-1600
 
+Please use the [direct hotel link](https://www.marriott.com/en-us/hotels/yyzwi-the-westin-harbour-castle-toronto/overview/) to see if they have availability or search [Bookings.com](https://www.booking.com) for other accommodations. We recommend you not hold off on booking as the Downtown area has a lot of events taking place the week of the ACL Conference. 
+
+
+<!-- 
 Group Block Valid until June 21, 2023 or Sold Out.<br>
 Secure Best Rate at the Host Hotel Now! [CLICK HERE](https://book.passkey.com/e/50488246)
 {: .text-center .notice--info}
@@ -31,6 +35,4 @@ We are sorry to say the hotel is on the verge of a sell out and we are unable to
 * Monday, July 10
 * Tuesday, July 11
 * Thursday, July 13
-
-We recommend using the [direct hotel link](https://www.marriott.com/en-us/hotels/yyzwi-the-westin-harbour-castle-toronto/overview/) to see if they have availability outside the ACL block or search [Bookings.com](https://www.booking.com) for other accommodations. We recommend you not hold off on booking as the Downtown area has a lot of events taking place the week of the ACL Conference. 
-
+ -->

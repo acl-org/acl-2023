@@ -13,10 +13,6 @@ excerpt: "Toronto, Canada<br>July 9-14, 2023"
 The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23) will take place in **Toronto, Canada** from **July 9th to July 14th, 2023**.
 More information will be announced soon.
 
-Group Block Valid until June 21, 2023 or Sold Out.<br>
-Please revisit the [venue page](/venue/) for more details.
-{: .text-center .notice--info}
-
 ## News
 
 <style>
@@ -26,7 +22,7 @@ Please revisit the [venue page](/venue/) for more details.
 | 2023-06-02 | [Conference Program](/program/) is posted under the *Program*.
 | 2023-05-31 | [Keynotes](/program/keynotes/) are posted under the *Program*.
 | 2023-05-24 | [Registration](/registration/) is posted under the *Registration*.
-| 2023-05-16 | [ACL Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants Information*.
+| 2023-05-16 | [ACL Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants*.
 | 2023-05-16 | [Conference Venue](/venue/) is posted under the *Venue*.
 | 2023-05-15 | [Call for Diversity and Inclusion Subsidies](/calls/subsidies/) is posted under the *Calls*.
 | 2023-05-15 | [List of Sponsors](/sponsors/) is posted under the *Sponsors*.
@@ -50,98 +46,16 @@ Please revisit the [venue page](/venue/) for more details.
 | 2022-09-21 | The official ACL 2023 website is launched. |
 {: .news-table}
 
-## Important Dates
-
-All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
+## Conference Schedule
 
 <style>
 .dates-table { font-size: .8em; }
-.dates-table tr td:nth-child(1) { width: 35em; }
+.dates-table tr td:nth-child(1) { width: 10em; }
 .dates-table del { color: #888; }
 </style>
 
-### Main Conference Papers
-
-| Submission template available | ~~November 1, 2022~~ |
-| Anonymity period for ARR papers | ~~November 15, 2022~~ |
-| Submission deadline for papers submitted to ARR | ~~December 15, 2022~~ |
-| Anonymity period for papers submitted through Softconf START | ~~December 20, 2022~~ |
-| Abstract deadline for Softconf START direct submissions | ~~January 13, 2023~~ |
-| Direct paper submission deadline | ~~January 20, 2023~~ |
-| Anonymity period for ARR papers to be committed to ACL 2023 | ~~Februrary 17, 2023~~ |
-| Commitment deadline for ARR papers | ~~March 17, 2023~~ |
-| Author response period | ~~March 17-24, 2023~~ |
-| Notification of acceptance | ~~May 1, 2023~~ |
-| Withdrawal deadline | ~~May 8, 2023~~ |
-| Camera-ready papers due | May 25, 2023 |
+| Early Registration | June 18, 2023 |
 | Tutorials | July 9, 2023 |
 | Conference | July 10-12, 2023 |
 | Workshops | July 13-14, 2023 |
 {: .dates-table}
-
-### Industry Track Papers
-
-| Anonymity period begins | ~~January 17, 2023~~ |
-| Paper submission deadline | ~~February 17, 2023~~ |
-| Notification of acceptance | ~~May 8, 2023~~ |
-| Camera-ready version of papers due | May 29, 2023 |
-| Main conference, including industry track | July 10-12, 2023 |
-{: .dates-table}
-
-
-
-<!-- [Older News](/archive/){: .btn .btn--info}
-{: .text-center} -->
-
-
-<!--
-<div class="text-center notice--danger">
-<p>
-  <a href="https://softconf.com/emnlp2022/industry-track"><strong>Industry Track submission link</strong></a> is now available.
-</p>
-</div>
-
-[**Main Conference Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available.
-{: .text-center .notice--info}
--->
-
-<!-- <div class="text-center notice--danger">
-<p>Please fill out the short <a href="https://forms.office.com/r/Ww583kAMf7"><strong>post-conference survey</strong></a> to help us better organize future conferences.</p>
-<p style="font-size: 80%">The survey takes ~4 minutes to complete. Note that there will be no email receipt once you hit submit, and please only submit once.
-Aggregate statistics for non-text answers may be made publicly available. Answers to this survey will remain anonymous.
-Any questions or direct feedback can be sent to <a href="mailto:naacl-contact@aclweb.org">naacl-contact@aclweb.org</a>.
-</p>
-</div>
-
-NAACL D&I videos are now available on our [**Youtube channel**](https://www.youtube.com/channel/UCbdq7M48OgNoPIa9Uj_IBCw).
-{: .text-center .notice--info}
-
-The [**Virtual Conference Website**](https://underline.io/events/122/reception)
-([walkthrough video](https://screencast-o-matic.com/watch/crhwbGVh3vx))
-is still available for registered participants.
-A subset of the content will be made available without registration in mid July,
-and the pre-recorded talks for authors who opted in will be uploaded to the ACL anthology.<br>
-<img src="/assets/images/logos/underline.png" style="max-height: 5em;">
-{: .text-center .notice--info}
-
-The [**Conference Program Schedule**](/program/) is now online.
-{: .text-center .notice--info} -->
-
-<!-- <style>
-.news-table { font-size: .9em; table-layout: fixed; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
-</style>
-
-| June 18, 2021 | Blogpost by D&I chairs: [Increasing Financial Accessibility in NAACL](/blog/dni-subsidies).
-| June 8, 2021 | Congratulations to the winners of the [Best Demo Award](/blog/best-demo-award)!
-| June 8, 2021 | Congratulations to the winners of the [Best Industry Paper Award](/blog/best-industry-paper)!
-| June 3, 2021 | Added details about the [Careers in NLP](/blog/careers-in-nlp) industry panel.
-| June 4, 2021 | Added [instructions for presenters](/participants/presenters/) and [Zoom rooms instructions](/participants/zoom-rooms/)
-| June 3, 2021 | Details about the [Startups in NLP](/blog/startups-in-nlp) industry panel.
-| June 3, 2021 | Updates from the program chairs on the [paper review process](/blog/paper-review-process) and [ethics-review-process](/blog/ethics-review-process).
-| June 2, 2021 | Congratulations to the winners of the [Best Paper Awards](/blog/best-paper-awards)!
-| June 2, 2021 | Blogpost by D&I chairs: [NAACL Mentoring Sessions](/blog/mentoring/)
-| June 1, 2021 | The [Conference Structure](/blog/conference-structure/) is now available.
-| June 1, 2021 | Added the list of [Keynote Speakers](/program/keynotes/).
-| May 31, 2021 | Event annoucements by D&I chairs: [Mexican Cultural Events](/blog/mexican-event), [Intersectionality in NLP](/blog/intersectionality-panel), [Inclusivity in Conferences](/blog/inclusivity-panel), [Getting into NLP research and grad school applications](/blog/grad-school-panel/)
-{: .news-table} -->
