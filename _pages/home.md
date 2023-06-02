@@ -23,8 +23,8 @@ Please revisit the [venue page](/venue/) for more details.
 .news-table { font-size: .8em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-
-| 2023-05-31 | [Keynote Speakers](/program/keynotes/) is posted under the *Program*.
+| 2023-06-02 | [Conference Program](/program/) is posted under the *Program*.
+| 2023-05-31 | [Keynotes](/program/keynotes/) are posted under the *Program*.
 | 2023-05-24 | [Registration](/registration/) is posted under the *Registration*.
 | 2023-05-16 | [ACL Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants Information*.
 | 2023-05-16 | [Conference Venue](/venue/) is posted under the *Venue*.
@@ -37,7 +37,7 @@ Please revisit the [venue page](/venue/) for more details.
 | 2023-02-09 | [List of Tutorials](/program/tutorials/) is posted under _Program_. |
 | 2023-01-30 | [Conference Venue](/venue) is posted under the _Venue_. |
 | 2023-01-24 | [Invitation to Sponsors](/downloads/Sponsorship_Brochure-ACL2023.pdf) is posted under the _Sponsors_. |
-| 2023-01-16 | [Senior Area Chairs](/committees/program/) is posted under the _Committees_. |
+| 2023-01-16 | [Senior Area Chairs](/committees/program/) are posted under the _Committees_. |
 | 2023-01-12 | [List of Workshops](/program/workshops/) is posted under _Program_. |
 | 2022-12-20 | [2nd Call for Main Conference Papers](/calls/main_conference/) is posted. |
 | 2022-12-12 | [Call for Student Research Workshop Papers](/calls/student_research_workshop/) is posted. |
