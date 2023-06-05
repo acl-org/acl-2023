@@ -111,7 +111,7 @@ silver:
     image_path: /assets/images/sponsors/aixplain.jpg
     alt: aiXplain
     title: aiXplain
-  - url: https://translated.com
+  - url: https://imminent.translated.com/apply-for-your-grants
     image_path: /assets/images/sponsors/translated.jpg
     alt: Translated
     title: Translated
