@@ -12,6 +12,7 @@ sidebar:
 
 Please refer to each individual event's website for more details.
 
+* [Queer in AI](https://www.queerinai.com/acl-2023)
 * [The 17th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2023/) (SemEval)
 * [The 12th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2023) (*SEM)
 * [The 8th Workshop on Representation Learning for NLP](https://sites.google.com/view/repl4nlp2023) (RepL4NLP)
