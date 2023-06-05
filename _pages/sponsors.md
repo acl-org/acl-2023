@@ -175,7 +175,7 @@ for information about sponsorship rates and benefits.
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-## Welcome
+## Diamond-Level Welcome Event
 
 {% include sponsors-list id="welcome" layout="third" %}
 
