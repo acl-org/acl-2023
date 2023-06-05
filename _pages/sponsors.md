@@ -6,6 +6,11 @@ sidebar: false
 toc: true
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
+welcome:
+  - url: https://cohere.com
+    image_path: /assets/images/sponsors/cohere.jpg
+    alt: Cohere
+    title: Cohere
 diamond:
   - url: https://www.liveperson.com/data-science/
     image_path: /assets/images/sponsors/liveperson.jpg
@@ -141,32 +146,6 @@ di_ally:
     image_path: /assets/images/sponsors/amazon.jpg
     alt: Amazon
     title: Amazon
-
-  # partner:
-  # - url: https://visitabudhabi.ae/en/abu-dhabi-convention-and-exhibition-bureau
-  #   image_path: /assets/images/logos/adceb.png
-  #   alt: Abu Dhabi Convention and Exhibition Bureau
-  #   title: Abu Dhabi Convention and Exhibition Bureau
-  # - url: https://cohere.com/
-  #   image_path: /assets/images/logos/cohere-logo.png
-  #   alt: Cohere.ai
-  #   title: Cohere.ai
-  # - url: https://www.beyond.ai/
-  #   image_path: /assets/images/logos/beyond-limits-logo.png
-  #   alt: Beyond Limits
-  #   title: Beyond Limits
-  # - url: https://www.navercorp.com/en/
-  #   image_path: /assets/images/logos/naver-logo.png
-  #   alt: Naver Labs
-  #   title: Naver Labs
-  # - url: https://hltcoe.jhu.edu/opportunities/research-scientists/
-  #   image_path: /assets/images/logos/hlt-logo.png
-  #   alt: Human Language Technology Center of Excellence (HLTCOE)
-  #   title: Human Language Technology Center of Excellence (HLTCOE)
-  # - url: https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html
-  #   image_path: /assets/images/logos/cair-logo.jpg
-  #   alt: CAIR
-  #   title: CAIR
 ---
 
 ACL 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
@@ -196,9 +175,9 @@ for information about sponsorship rates and benefits.
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-<!-- ## Supporting Partner
+## Welcome
 
-{% include sponsors-list id="partner" layout="third" %} -->
+{% include sponsors-list id="welcome" layout="third" %}
 
 ## Diamond
 
