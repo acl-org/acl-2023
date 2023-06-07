@@ -12,6 +12,8 @@ sidebar:
 <!-- **Registration is now closed.**
 {: .notice .notice--info .text-center} -->
 
+Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author who has registered at a minimum at the full conference virtual regular rate of $300, or at the higher appropriate in-person rates if attending in person. Students may present any paper (oral or poster), but if a paper has no other authors registering at the full conference regular virtual rate (or higher), then the student presenter (or another author) should register at a minimum at the full conference virtual regular (non-student) rate of $300, or at the higher appropriate in-person rates if attending in person. If this is prohibitive, please contact the D&I committee.
+
 **The Full Conference In-person Registration Fee Includes:**
 
 * Admission to all in-person Meeting sessions and the exhibition as well as the entire virtual program
