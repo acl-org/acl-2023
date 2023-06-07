@@ -36,6 +36,10 @@ diamond:
     image_path: /assets/images/sponsors/microsoft.jpg
     alt: Microsoft
     title: Microsoft
+  - url: https://research.google/
+    image_path: /assets/images/sponsors/google.jpg
+    alt: Google
+    title: Google
 platinum:
   - url: https://www.grammarly.com/jobs?utm_source=website&utm_medium=conference_rm&utm_campaign=acl2023_website
     image_path: /assets/images/sponsors/grammarly.jpg

@@ -1,5 +1,5 @@
 ---
-title: ACL Cancellation Policy
+title: Cancellation Policy
 layout: single
 permalink: /participants/cancellation_policy/
 sidebar:
