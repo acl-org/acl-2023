@@ -23,12 +23,10 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 </style>
 
 | Application Deadline | May 31, 2023 |
+| Notification of Acceptance | June 11, 2023 |
 {: .dates-table}
 
-* Notification of acceptance: 1 week before the early registration deadline.
-* We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can and no matter what the response is.
-
-
+We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can and no matter what the response is.
 
 ## Registration and ACL Membership Subsidies
 
