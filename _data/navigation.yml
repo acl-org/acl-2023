@@ -90,10 +90,10 @@ participants:
     children:
       - title: "About ACL"
         url: /participants/about_acl/
-      - title: "Anti-Harassment"
-        url: /participants/anti_harassment/
       - title: "Invitation Letter"
         url: /participants/invitation_letter/
+      - title: "Ethical Policies"
+        url: /participants/ethical_policies/
       - title: "Cancellation Policy"
         url: /participants/cancellation_policy/
      # - title: "Instructions for Paper Presenters"

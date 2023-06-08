@@ -1,7 +1,7 @@
 ---
-title: Anti-Harassment 
+title: Ethical Policies 
 layout: single
-permalink: /participants/anti_harassment/
+permalink: /participants/ethical_policies/
 sidebar:
     nav: participants
 toc: false
