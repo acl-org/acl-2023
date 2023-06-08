@@ -14,18 +14,22 @@ toc_icon: "cog"
 conference?
 
 **A**: Yes, as in previous years, you must have one author
-registered.  Unlike previous years, one author of each paper must register and pay
-at least $300 for the conference.
+registered. 
+<!--- Unlike previous years, one author of each paper must register and pay
+at least $300 for the conference. --->
 
 **Q**: I have a Findings paper.  Do I need to register for the
 conference?
 
 **A**: No.  If you do not register, the paper will appear in the
-proceedings.  However, if you wish to upload a video, you must register for the
-conference in some way (there is no minimum ammount).  If you wish to
+proceedings. 
+<!---  However, if you wish to upload a video, you must register for the
+conference in some way (there is no minimum amount). --->
+If you wish to
 present the paper in any way (either an in-person spotlight or virtual
-poster) one author must register and pay at least $300.
+poster) one author must register<!--- and pay at least $300--->.
 
+<!----
 **Q**: How can I check if a coauthor has registered at the full rate?
 
 **A**: Due to privacy concerns, we cannot provide this information.
@@ -36,7 +40,7 @@ Please coordinate with your coauthors.
 **A**:  There is no limit.
 
 **Q**: I have not paid $300 for my registration because I have a D&I
-grant or because I am a voulenteer.  Do I need to change my
+grant or because I am a volunteer.  Do I need to change my
 registration type?
 
 **A**: No, this counts as full registration.
@@ -46,6 +50,7 @@ paper that I am not a coauthor on with my full registration.
 
 **A**:  This is not allowed.  Only a coauthor's registration counts
 toward a paper's requirement.
+--->
 
 **Q**: I have a Findings paper.  Is it okay to only present at the
 Spotlight session?
