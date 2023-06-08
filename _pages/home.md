@@ -19,15 +19,16 @@ More information will be announced soon.
 .news-table { font-size: .8em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-06-08 | [Anti-Harassment](/participants/anti_harassment/) is posted under the *Participants*.
 | 2023-06-02 | [Conference Program](/program/) is posted under the *Program*.
 | 2023-05-31 | [Keynotes](/program/keynotes/) are posted under the *Program*.
 | 2023-05-24 | [Registration](/registration/) is posted under the *Registration*.
-| 2023-05-16 | [ACL Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants*.
+| 2023-05-16 | [Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants*.
 | 2023-05-16 | [Conference Venue](/venue/) is posted under the *Venue*.
 | 2023-05-15 | [Call for Diversity and Inclusion Subsidies](/calls/subsidies/) is posted under the *Calls*.
 | 2023-05-15 | [List of Sponsors](/sponsors/) is posted under the *Sponsors*.
 | 2023-05-11 | [Call for Student Volunteers](/calls/volunteers/) is posted under the *Calls*.
-| 2023-05-09 | [Application form for an invitation letter](/participants/invitation_letter/) is posted under the *Participants Info*.
+| 2023-05-09 | [Application form for an invitation letter](/participants/invitation_letter/) is posted under the *Participants*.
 | 2023-05-03 | The accessibility widget is added to the top menu.
 | 2023-02-28 | [ARR Commitment for the Main Conference](/calls/main_conference/) is posted under the *Calls*.
 | 2023-02-09 | [List of Tutorials](/program/tutorials/) is posted under _Program_. |

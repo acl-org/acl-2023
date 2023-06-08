@@ -48,8 +48,6 @@ program:
         url: /program/social/
 #      - title: "Accepted Papers"
 #        url: /program/accepted/
-#       - title: "Careers in NLP Panel"
-#         url: /program/careerspanel/
 
 calls:
   - title: "Call for Papers"
@@ -86,23 +84,18 @@ committees:
         url: /committees/organization/
       - title: "Program Committee"
         url: /committees/program/
-      #- title: "Ethics Committee"
-      #  url: /ethics/committee/
-      #- title: "Diversity & Inclusion Committee"
-      #  url: /committees/diversity-inclusion/
 
 participants:
   - title: "Participants Information"
     children:
       - title: "About ACL"
         url: /participants/about_acl/
+      - title: "Anti-Harassment"
+        url: /participants/anti_harassment/
       - title: "Invitation Letter"
         url: /participants/invitation_letter/
       - title: "Cancellation Policy"
         url: /participants/cancellation_policy/
-
-     # - title: "COVID-19 Safety at EMNLP 2022"
-     #   url: /participants/covid_19_safety/
      # - title: "Instructions for Paper Presenters"
      #   url: /participants/presenters/
      # - title: "Instructions for Zoom Rooms"
