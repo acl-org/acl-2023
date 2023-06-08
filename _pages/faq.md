@@ -8,6 +8,65 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+## Registration and Presentation
+
+**Q**: I have a main conference paper.  Do I need to register for the
+conference?
+
+**A**: Yes, as in previous years, you must have one author
+registered.  Unlike previous years, one author of each paper must register and pay
+at least $300 for the conference.
+
+**Q**: I have a Findings paper.  Do I need to register for the
+conference?
+
+**A**: No.  If you do not register, the paper will appear in the
+proceedings.  However, if you wish to upload a video, you must register for the
+conference in some way (there is no minimum ammount).  If you wish to
+present the paper in any way (either an in-person spotlight or virtual
+poster) one author must register and pay at least $300.
+
+**Q**: How can I check if a coauthor has registered at the full rate?
+
+**A**: Due to privacy concerns, we cannot provide this information.
+Please coordinate with your coauthors.
+
+**Q**: How many papers can an author "cover" with their full registration?
+
+**A**:  There is no limit.
+
+**Q**: I have not paid $300 for my registration because I have a D&I
+grant or because I am a voulenteer.  Do I need to change my
+registration type?
+
+**A**: No, this counts as full registration.
+
+**Q**: I have a full registration and want to cover my student on a
+paper that I am not a coauthor on with my full registration.
+
+**A**:  This is not allowed.  Only a coauthor's registration counts
+toward a paper's requirement.
+
+**Q**: I have a Findings paper.  Is it okay to only present at the
+Spotlight session?
+
+**A**: We’re asking participants presenting a poster in-person to also
+prepare a poster for Underline because we currently don’t have a good
+solution (both in terms of a physical space with the right acoustic
+properties and the right technology) to allow virtual participants to
+view in-person posters.  Having this available on Underline allows
+remote participants to also view the questions and then ask questions
+on RocketChat.
+
+Due to the limitations of the venue, we can only offer a short
+spotlight presentation to authors in person, but the virtual poster
+session will allow for synchronous Q&A from all ACL 2023 participants.
+You may, of course, choose not to present and not upload a poster.
+
+**Q**: I need an extension uploading my video/slides.
+
+**A**: This is handled by Underline.  Please contact them directly at acl2023@underline.io.
+
 ## ARR and Softconf
 
 **Q**: Do all of the authors need to have SOFTCONF profiles?  Why?
