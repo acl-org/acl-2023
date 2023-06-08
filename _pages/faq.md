@@ -13,21 +13,22 @@ toc_icon: "cog"
 **Q**: I have a main conference paper.  Do I need to register for the
 conference?
 
-**A**: Yes, as in previous years, you must have one author
-registered. 
+**A**: Yes, as in previous years, you must have at least one author
+registered per paper for the paper to appear in the proceedings. 
 <!--- Unlike previous years, one author of each paper must register and pay
 at least $300 for the conference. --->
 
 **Q**: I have a Findings paper.  Do I need to register for the
 conference?
 
-**A**: No.  If you do not register, the paper will appear in the
+**A**: No.  Even if you do not register, the paper will appear in the
 proceedings. 
 <!---  However, if you wish to upload a video, you must register for the
 conference in some way (there is no minimum amount). --->
 If you wish to
-present the paper in any way (either an in-person spotlight or virtual
-poster) one author must register<!--- and pay at least $300--->.
+present the paper in any way (either via a pre-recorded video, in-person spotlight, or virtual
+poster) one author must register for the conference<!--- and pay at -->
+<!--least $300--->.   Findings papers presented at workshops need to register, at a minimum, at the appropriate workshop-only rate.
 
 <!----
 **Q**: How can I check if a coauthor has registered at the full rate?
