@@ -4,6 +4,8 @@ main:
     url: /blog/
   - title: "Calls"
     url: /calls/main_conference/
+  - title: "FAQ"
+    url: /faq/
   - title: "Program"
     url: /program/
   - title: "Registration"
@@ -16,8 +18,6 @@ main:
     url: /committees/organization/
   - title: "Sponsors"
     url: /sponsors/
-  - title: "FAQ"
-    url: /faq/
   #- title: "Schedule"
   #  url: /schedule/
   #- title: "LiveCaptions"
