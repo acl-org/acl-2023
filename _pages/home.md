@@ -19,9 +19,11 @@ More information will be announced soon.
 .news-table { font-size: .8em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-06-12 | [Tutorial Schedule](/program/tutorials) is posted under the *Program*.
+| 2023-06-12 | [Workshop Schedule](/program/workshops) is posted under the *Program*.
 | 2023-06-09 | [Accepted Papers](/program/accepted/) is posted under the *Program*.
 | 2023-06-08 | [Ethical Policies](/participants/ethical_policies/) is posted under the *Participants*.
-| 2023-06-02 | [Conference Program](/program/) is posted under the *Program*.
+| 2023-06-02 | [Conference Schedule](/program/) is posted under the *Program*.
 | 2023-05-31 | [Keynotes](/program/keynotes/) are posted under the *Program*.
 | 2023-05-24 | [Registration](/registration/) is posted under the *Registration*.
 | 2023-05-16 | [Cancellation Policy](/participants/cancellation_policy/) is posted under the *Participants*.
