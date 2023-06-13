@@ -1070,7 +1070,7 @@ Findings
 
 **Using Domain Knowledge to Guide Dialog Structure Induction via Neural Probabilistic Soft Logic**<br>_Connor Pryor, Quan Yuan, Jeremiah Liu, Mehran Kazemi, Deepak Ramachandran, Tania Bedrax-Weiss and Lise Getoor_
 
-**Conjunct Lengths in English, Dependency Length Minimization, and Dependency Structure of Coordination**<br>_Adam Przepirkowski and Micha Woniak_
+**Conjunct Lengths in English, Dependency Length Minimization, and Dependency Structure of Coordination**<br>_Adam Przepiórkowski and Michał Woźniak_
 
 **Incorporating Distributions of Discourse Structure for Long Document Abstractive Summarization**<br>_Dongqi Pu, Yifan Wang and Vera Demberg_
 
@@ -1256,7 +1256,7 @@ Findings
 
 **IDRISI-RA: The First Arabic Location Mention Recognition Dataset of Disaster Tweets**<br>_Reem Suwaileh, Muhammad Imran and Tamer Elsayed_
 
-**Why Aren&#x27;t We NER Yet? Artifacts of ASR Errors in Named Entity Recognition in Spontaneous Speech Transcripts**<br>_Piotr Szymaski, Lukasz Augustyniak, Mikolaj Morzy, Adrian Szymczak, Krzysztof Surdyk and Piotr elasko_
+**Why Aren't We NER Yet? Artifacts of ASR Errors in Named Entity Recognition in Spontaneous Speech Transcripts**<br>_Piotr Szymaski, Lukasz Augustyniak, Michał Woźniak, Adrian Szymczak, Krzysztof Surdyk and Piotr elasko_
 
 **Towards Benchmarking and Improving the Temporal Reasoning Capability of Large Language Models**<br>_Qingyu Tan, Hwee Tou Ng and Lidong Bing_
 
