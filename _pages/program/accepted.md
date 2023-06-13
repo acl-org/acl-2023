@@ -17,7 +17,7 @@ Main Conference
 
 Findings
 
-* Long papers: 713
+* Long papers: 712
 * Short papers: 189
 
 
@@ -2979,8 +2979,6 @@ Findings
 **HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language**<br>_Shantipriya Parida, Idris Abdulmumin, Shamsuddeen Hassan Muhammad, Aneesh Bose, Guneet Kohli, Ibrahim Said Ahmad, Ketan Kotwal, Sayan Deb Sarkar, Ondej Bojar and Habeebah Kakudi_
 
 **DEnsity: Open-domain Dialogue Evaluation Metric using Density Estimation**<br>_ChaeHun Park, Seungil Lee, Daniel Rim and Jaegul Choo_
-
-**Supervised Contrastive Learning with Data Maps for Text Classification**<br>_Seo Yeon Park and Cornelia Caragea_
 
 **Cross-task Knowledge Transfer for Extremely Weakly Supervised Text Classification**<br>_Seongmin Park, kyungho kim and Jihwa Lee_
 
