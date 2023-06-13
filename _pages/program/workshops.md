@@ -61,7 +61,7 @@ Please refer to each individual event's website for more details.
 * Location: Pier 4
 * _Peter Clark, Ellie Pavlick, Denny Zhou, Noah Goodman, Sarah Wiegreffe, Felix Hill_
 
-**W9: [The 7th Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/)**
+**W9: [The 7th Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/)**
 
 * Location: Pier 7 & 8
 * _Yi-Ling Chung, Aida Mostafazadeh Davani, Debora Nozza, Paul Röttger, Zeerak Talat_
@@ -71,7 +71,7 @@ Please refer to each individual event's website for more details.
 * Location: Dockside 2
 * _Roee Aharoni, Nouha Dziri, Song Feng, Yongbin Li, Yu Li, Hui Wan_
 
-**W11: [The 1st Workshop on Matching From Unstructured and Structured Data](https://megagon.ai/matching-2023/)**
+**W11: [The 1st Workshop on Matching From Unstructured and Structured Data (MATCHING)](https://megagon.ai/matching-2023/)**
 
 * Location: Dockside 3
 * _Dunia Mladenić, Estevam Hruschka, Marko Grobelnik, Sajjadur Rahman, Tom Mitchell_
@@ -94,7 +94,7 @@ Please refer to each individual event's website for more details.
 * Location: Harbour B
 * _Abhinav Rastogi, Georgios Spithourakis, Yun-Nung (Vivian) Chen, Bing Liu, Yu Li, Elnaz Nouri, Alon Albalak, Alexandros Papangelis_
 
-**W15: [The 3rd Workshop on Trustworthy NLP](https://trustnlpworkshop.github.io/)**
+**W15: [The 3rd Workshop on Trustworthy NLP (TrustNLP)](https://trustnlpworkshop.github.io/)**
 
 * Location: Pier 4
 * _Yada Pruksachatkun, Ninareh Mehrabi, Kai-Wei Chang, Aram Galystan, Jwala Dhamala, Anaelia Ovalle, Apurv Verma, Yang Trista Cao, Anoop Kumar, Rahul Gupta_
@@ -119,12 +119,13 @@ Please refer to each individual event's website for more details.
 * Location: Pier 2
 * _Kyle Gorman, Brian Roark, Richard Sproat_
 
-**W20: [The 3rd Workshop on NLP for Indigenous Languages of the Americas](https://turing.iimas.unam.mx/americasnlp/)**
+**W20: [The 3rd Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](https://turing.iimas.unam.mx/americasnlp/)**
 
 * Location: Pier 3 
 * _Manuel Mager, Arturo Oncevay, Enora Rice, Abteen Ebrahimi, Shruti Rijhwani, Alexis Palmer, Katharina Kann_
 
-**W21: [The 5th Workshop on Narrative Understanding](https://sites.google.com/umass.edu/wnu2023)**
+
+**W21: [The 5th Workshop on Narrative Understanding (WNU)](https://sites.google.com/umass.edu/wnu2023)**
 
 * Location: Dockside 2
 * _Nader Akoury, Faeze Brahman, Khyathi Chandu, Snigdha Chaturvedi, Elizabeth Clark, Mohit Iyyer_
