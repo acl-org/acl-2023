@@ -19,9 +19,11 @@ More information will be announced soon.
 .news-table { font-size: .8em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-06-15 | [Accepted Papers for System Demonstration](/program/accepted_system_demonstration/) is posted under the *Program*.
 | 2023-06-15 | [Call for D&I Socials and BoF Sessions Organizers](/calls/bof/) is posted under the *Calls*.
 | 2023-06-12 | [Tutorial Schedule](/program/tutorials) is posted under the *Program*.
 | 2023-06-12 | [Workshop Schedule](/program/workshops) is posted under the *Program*.
+| 2023-06-09 | [Accepted Papers for Findings](/program/accepted_findings/) is posted under the *Program*.
 | 2023-06-09 | [Accepted Papers for Main Conference](/program/accepted_main_conference/) is posted under the *Program*.
 | 2023-06-08 | [Ethical Policies](/participants/ethical_policies/) is posted under the *Participants*.
 | 2023-06-02 | [Conference Schedule](/program/) is posted under the *Program*.
