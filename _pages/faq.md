@@ -53,6 +53,13 @@ paper that I am not a coauthor on with my full registration.
 toward a paper's requirement.
 --->
 
+**Q**: One of the authors is registered on-site.  Can I use their registration to present virtually?
+
+**A**: Unfortunately not.  We require presenters to be registered
+  (both to support the costs of running a conference and to prevent
+  Zoombombings).  However, you can register as a virtual student,
+  which is quite cheap.
+
 **Q**: I have a Findings paper.  Is it okay to only present at the
 Spotlight session?
 
