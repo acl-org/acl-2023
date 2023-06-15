@@ -26,13 +26,13 @@ Findings
 ### <span style="font-size:larger;">Long Papers</span>
 ---
 
-**The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research**<br>_Mohamed Abdalla, Jan Philip Wahle, Terry Lima Ruas, Aurlie Nvol, Fanny Ducel, Saif Mohammad and Karen Fort_
+**The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research**<br>_Mohamed Abdalla, Jan Philip Wahle, Terry Lima Ruas, Aurélie Névéol, Fanny Ducel, Saif Mohammad and Karen Fort_
 
-**How About Kind of Generating Hedges using End-to-End Neural Models?**<br>_Alafate Abulimiti, Chlo Clavel and Justine Cassell_
+**How About Kind of Generating Hedges using End-to-End Neural Models?**<br>_Alafate Abulimiti, Chloé Clavel and Justine Cassell_
 
-**What are the Desired Characteristics of Calibration Sets? Identifying Correlates on Long Form Scientific Summarization**<br>_Griffin Adams, Bichlien Nguyen, Jake Smith, Yingce Xia, Shufang Xie, Anna Ostropolets, Budhaditya Deb, Yuan-Jyue Chen, Tristan Naumann and Nomie Elhadad_
+**What are the Desired Characteristics of Calibration Sets? Identifying Correlates on Long Form Scientific Summarization**<br>_Griffin Adams, Bichlien Nguyen, Jake Smith, Yingce Xia, Shufang Xie, Anna Ostropolets, Budhaditya Deb, Yuan-Jyue Chen, Tristan Naumann and Noémie Elhadad_
 
-**Generating EDU Extracts for Plan-Guided Summary Re-Ranking**<br>_Griffin Adams, Alex Fabbri, Faisal Ladhak, Nomie Elhadad and Kathleen McKeown_
+**Generating EDU Extracts for Plan-Guided Summary Re-Ranking**<br>_Griffin Adams, Alex Fabbri, Faisal Ladhak, Noémie Elhadad and Kathleen McKeown_
 
 **The CRINGE Loss: Learning what language not to model**<br>_Leonard Adolphs, Tianyu Gao, Jing Xu, Kurt Shuster, Sainbayar Sukhbaatar and Jason Weston_
 
@@ -48,7 +48,7 @@ Findings
 
 **Prompter: Zero-shot Adaptive Prefixes for Dialogue State Tracking Domain Adaptation**<br>_Ibrahim Taha Aksu, Min-Yen Kan and Nancy Chen_
 
-**{RL4F}: {G}enerating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**<br>_Afra Feyza Akyurek, Ekin Akyurek, Ashwin Kalyan, Peter Clark, Derry Tanti Wijaya and Niket Tandon_
+**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**<br>_Afra Feyza Akyurek, Ekin Akyurek, Ashwin Kalyan, Peter Clark, Derry Tanti Wijaya and Niket Tandon_
 
 **LexSym: Compositionality as Lexical Symmetry**<br>_Ekin Akyurek and Jacob Andreas_
 
@@ -56,7 +56,7 @@ Findings
 
 **Query Refinement Prompts for Closed-Book Long-Form QA**<br>_Reinald Kim Amplayo, Kellie Webster, Michael Collins, Dipanjan Das and Shashi Narayan_
 
-**Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model**<br>_Chantal Amrhein, Florian Schottmann, Rico Sennrich and Samuel Lubli_
+**Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model**<br>_Chantal Amrhein, Florian Schottmann, Rico Sennrich and Samuel Läubli_
 
 **How Do In-Context Examples Affect Compositional Generalization?**<br>_Shengnan An, Zeqi Lin, Qiang Fu, Bei Chen, Nanning Zheng, Jian-Guang LOU and Dongmei Zhang_
 
@@ -66,13 +66,13 @@ Findings
 
 **Unbalanced Optimal Transport for Unbalanced Word Alignment**<br>_Yuki Arase, Han Bao and Sho Yokoi_
 
-**The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources**<br>_Akshatha Arodi, Martin Pmsl, Kaheer Suleman, Adam Trischler, Alexandra Olteanu and Jackie Chi Kit Cheung_
+**The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources**<br>_Akshatha Arodi, Martin Pömsl, Kaheer Suleman, Adam Trischler, Alexandra Olteanu and Jackie Chi Kit Cheung_
 
 **Direct Fact Retrieval from Knowledge Graphs without Entity Linking**<br>_Jinheon Baek, Alham Fikri Aji, Jens Lehmann and Sung Ju Hwang_
 
 **Wukong-Reader: Multi-modal Pre-training for Fine-grained Visual Document Understanding**<br>_Haoli Bai, Zhiguang Liu, Xiaojun Meng, li wentao, Shuang Liu, Yifeng LUO, nian xie, Rongfu Zheng, Liangwei Wang, Lu Hou, Jiansheng Wei, Xin Jiang and Qun Liu_
 
-**Syntax and Geometry of Information**<br>_Raphal Bailly, Laurent Leblond and Kata Gbor_
+**Syntax and Geometry of Information**<br>_Raphaël Bailly, Laurent Leblond and Kata Gábor_
 
 **Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale**<br>_Hritik Bansal, Karthik Gopalakrishnan, Saket Dingliwal, Sravan Bodapati, Katrin Kirchhoff and Dan Roth_
 
@@ -90,7 +90,7 @@ Findings
 
 **NEUROSTRUCTURAL DECODING: Neural Text Generation with Structural Constraints**<br>_Mohaddeseh Bastan, Mihai Surdeanu and Niranjan Balasubramanian_
 
-**Span-Selective Linear Attention Transformers for Effective and Robust Schema-Guided Dialogue State Tracking**<br>_Bjrn Bebensee and Haejun Lee_
+**Span-Selective Linear Attention Transformers for Effective and Robust Schema-Guided Dialogue State Tracking**<br>_Björn Bebensee and Haejun Lee_
 
 **ELQA: A Corpus of Metalinguistic Questions and Answers about English**<br>_Shabnam Behzad, Keisuke Sakaguchi, Nathan Schneider and Amir Zeldes_
 
@@ -110,9 +110,9 @@ Findings
 
 **WikiHowQA: A Comprehensive Benchmark for Multi-Document Non-Factoid Question Answering**<br>_Valeriia Bolotova-Baranova, Vladislav Blinov, Sofya Filippova, Falk Scholer and Mark Sanderson_
 
-**Multilingual Event Extraction from Historical Newspaper Adverts**<br>_Nadav Borenstein, Natlia da Silva Perez and Isabelle Augenstein_
+**Multilingual Event Extraction from Historical Newspaper Adverts**<br>_Nadav Borenstein, Natália da Silva Perez and Isabelle Augenstein_
 
-**Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM&#x27;s Translation Capability**<br>_Eleftheria Briakou, Colin Cherry and George Foster_
+**Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability**<br>_Eleftheria Briakou, Colin Cherry and George Foster_
 
 **Measuring Progress in Fine-grained Vision-and-Language Understanding**<br>_Emanuele Bugliarello, Laurent Sartran, Aishwarya Agrawal, Lisa Anne Hendricks and Aida Nematzadeh_
 
@@ -138,9 +138,9 @@ Findings
 
 **Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts**<br>_Mohna Chakraborty, Adithya Kulkarni and Qi Li_
 
-**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**<br>_Ilias Chalkidis, Nicolas Garneau, Catalina Goanta, Daniel Katz and Anders Sgaard_
+**LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development**<br>_Ilias Chalkidis, Nicolas Garneau, Catalina Goanta, Daniel Katz and Anders Søgaard_
 
-**Few-shot Adaptation Works with UnpredicTable Data**<br>_Jun Shern Chan, Michael Pieler, Jonathan Jao, Jrmy Scheurer and Ethan Perez_
+**Few-shot Adaptation Works with UnpredicTable Data**<br>_Jun Shern Chan, Michael Pieler, Jonathan Jao, Jérémy Scheurer and Ethan Perez_
 
 **Composition-contrastive Learning for Sentence Embeddings**<br>_Sachin Chanchani and Ruihong Huang_
 
@@ -152,7 +152,7 @@ Findings
 
 **Learning Symbolic Rules over Abstract Meaning Representations for Textual Reinforcement Learning**<br>_Subhajit Chaudhury, Sarathkrishna Swaminathan, Daiki Kimura, Prithviraj Sen, Keerthiram Murugesan, Rosario Uceda-Sosa, Michiaki Tatsubori, Achille Fokoue, Pavan Kapanipathi, Asim Munawar and Alexander Gray_
 
-**Ideology Prediction from Scarce and Biased Supervision: Learn to Disregard the &quot;What and Focus on the &quot;How!**<br>_Chen Chen, Dylan Walker and Venkatesh Saligrama_
+**Ideology Prediction from Scarce and Biased Supervision: Learn to Disregard the &quot;What” and Focus on the &quot;How”!**<br>_Chen Chen, Dylan Walker and Venkatesh Saligrama_
 
 **Weakly Supervised Vision-and-Language Pre-training with Relative Representations**<br>_Chi Chen, Peng Li, Maosong Sun and Yang Liu_
 
@@ -236,7 +236,7 @@ Findings
 
 **Adaptive and Personalized Exercise Generation for Online Language Learning**<br>_Peng Cui and Mrinmaya Sachan_
 
-**What does the Failure to Reason with &quot;Respectively&#x27;&#x27; in Zero/Few-Shot Settings Tell Us about Language Models?**<br>_Ruixiang Cui, Seolhwa Lee, Daniel Hershcovich and Anders Sgaard_
+**What does the Failure to Reason with &quot;Respectively'' in Zero/Few-Shot Settings Tell Us about Language Models?**<br>_Ruixiang Cui, Seolhwa Lee, Daniel Hershcovich and Anders Søgaard_
 
 **Free Lunch for Efficient Textual Commonsense Integration in Language Models**<br>_Wanyun Cui and Xingran Chen_
 
@@ -244,7 +244,7 @@ Findings
 
 **Long-Tailed Question Answering in an Open World**<br>_Yi Dai, Hao Lang, Yinhe Zheng, Fei Huang and Yongbin Li_
 
-**Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better**<br>_David Dale, Elena Voita, Loic Barrault and Marta R. Costa-juss_
+**Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better**<br>_David Dale, Elena Voita, Loic Barrault and Marta R. Costa-jussà_
 
 **Analyzing Transformers in Embedding Space**<br>_Guy Dar, Mor Geva, Ankit Gupta and Jonathan Berant_
 
@@ -266,11 +266,11 @@ Findings
 
 **Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis**<br>_Yue Deng, Wenxuan Zhang, Sinno Jialin Pan and Lidong Bing_
 
-**Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models&#x27; Memories**<br>_Shizhe Diao, Tianyang Xu, Ruijia Xu, Jiawei Wang and Tong Zhang_
+**Mixture-of-Domain-Adapters: Decoupling and Injecting Domain Knowledge to Pre-trained Language Models' Memories**<br>_Shizhe Diao, Tianyang Xu, Ruijia Xu, Jiawei Wang and Tong Zhang_
 
 **Is GPT-3 a Good Data Annotator?**<br>_BOSHENG DING, Chengwei Qin, Linlin Liu, Yew Ken Chia, Boyang Li, Shafiq Joty and Lidong Bing_
 
-**MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African languages**<br>_Cheikh M. Bamba Dione, David Adelani, Peter Nabende, Jesujoba Alabi, Thapelo Sindane, Happy Buzaaba, Shamsuddeen Hassan Muhammad, Chris Chinenye Emezue, Perez Ogayo, Anuoluwapo Aremu, Catherine Gitau, Derguene Mbaye, Jonathan Mukiibi, Blessing Sibanda, Bonaventure F. P. Dossou, Andiswa Bukula, Rooweither Mabuya, Allahsera Auguste Tapo, Edwin Munkoh-Buabeng, victoire Memdjokam Koagne, Fatoumata Ouoba Kabore, Amelia Taylor, Godson KALIPE, Tebogo Macucwa, Vukosi Marivate, Tajuddeen Gwadabe, Mboning Tchiaze Elvis, Ikechukwu Onyenwe, Gratien Atindogbe, Tolulope Adelani, Idris Akinade, Olanrewaju Samuel, Marien NAHIMANA, Thogne MUSABEYEZU, Emile Niyomutabazi, Ester Chimhenga, Kudzai Gotosa, Patrick Mizha, Apelete AGBOLO, SEYDOU TRAORE, Chinedu Uchechukwu, Aliyu Yusuf, Muhammad Abdullahi and Dietrich Klakow_
+**MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African languages**<br>_Cheikh M. Bamba Dione, David Ifeoluwa Adelani, Peter Nabende, Jesujoba Alabi, Thapelo Sindane, Happy Buzaaba, Shamsuddeen Hassan Muhammad, Chris Chinenye Emezue, Perez Ogayo, Anuoluwapo Aremu, Catherine Gitau, Derguene Mbaye, Jonathan Mukiibi, Blessing Sibanda, Bonaventure F. P. Dossou, Andiswa Bukula, Rooweither Mabuya, Allahsera Auguste Tapo, Edwin Munkoh-Buabeng, victoire Memdjokam Koagne, Fatoumata Ouoba Kabore, Amelia Taylor, Godson KALIPE, Tebogo Macucwa, Vukosi Marivate, Tajuddeen Gwadabe, Mboning Tchiaze Elvis, Ikechukwu Onyenwe, Gratien Atindogbe, Tolulope Adelani, Idris Akinade, Olanrewaju Samuel, Marien NAHIMANA, Théogène MUSABEYEZU, Emile Niyomutabazi, Ester Chimhenga, Kudzai Gotosa, Patrick Mizha, Apelete AGBOLO, SEYDOU TRAORE, Chinedu Uchechukwu, Aliyu Yusuf, Muhammad Abdullahi and Dietrich Klakow_
 
 **Unsupervised Open-domain Keyphrase Generation**<br>_Lam Do, Pritom Saha Akash and Kevin Chen-Chuan Chang_
 
@@ -294,9 +294,9 @@ Findings
 
 **MAD-TSC: A Multilingual Aligned News Dataset for Target-dependent Sentiment Classification**<br>_Evan Dufraisse, Adrian Popescu, Julien Tourille, Armelle Brun and Jerome Deshayes_
 
-**SpeechMatrix: A Large-Scale Mined Corpus of Multilingual Speech-to-Speech Translations**<br>_Paul-Ambroise Duquenne, Hongyu Gong, Ning Dong, Jingfei Du, Ann Lee, Vedanuj Goswami, Changhan Wang, Juan Pino, Benot Sagot and Holger Schwenk_
+**SpeechMatrix: A Large-Scale Mined Corpus of Multilingual Speech-to-Speech Translations**<br>_Paul-Ambroise Duquenne, Hongyu Gong, Ning Dong, Jingfei Du, Ann Lee, Vedanuj Goswami, Changhan Wang, Juan Pino, Benoît Sagot and Holger Schwenk_
 
-**Automatic Annotation of Direct Speech in Written French Narratives**<br>_No Durandard, Viet Anh TRAN, Gaspard Michel and Elena Epure_
+**Automatic Annotation of Direct Speech in Written French Narratives**<br>_Noé Durandard, Viet Anh TRAN, Gaspard Michel and Elena Epure_
 
 **NLPeer: A Unified Resource for the Computational Study of Peer Review**<br>_Nils Dycke, Ilia Kuznetsov and Iryna Gurevych_
 
@@ -340,15 +340,15 @@ Findings
 
 **DuNST: Dual Noisy Self Training for Semi-Supervised Controllable Text Generation**<br>_Yuxi Feng, Xiaoyuan Yi, Xiting Wang, Laks Lakshmanan, V.S. and Xing Xie_
 
-**When Does Translation Require Context? A Data-driven, Multilingual Exploration**<br>_Patrick Fernandes, Kayo Yin, Emmy Liu, Andr Martins and Graham Neubig_
+**When Does Translation Require Context? A Data-driven, Multilingual Exploration**<br>_Patrick Fernandes, Kayo Yin, Emmy Liu, André Martins and Graham Neubig_
 
-**Explaining How Transformers Use Context to Build Predictions**<br>_Javier Ferrando, Gerard I. Gllego, Ioannis Tsiamas and Marta R. Costa-juss_
+**Explaining How Transformers Use Context to Build Predictions**<br>_Javier Ferrando, Gerard I. Gállego, Ioannis Tsiamas and Marta R. Costa-jussà_
 
-**Don&#x27;t Forget Your ABC&#x27;s: Evaluating the State-of-the-Art in Chat-Oriented Dialogue Systems**<br>_Sarah E. Finch, James D. Finch and Jinho D. Choi_
+**Don't Forget Your ABC's: Evaluating the State-of-the-Art in Chat-Oriented Dialogue Systems**<br>_Sarah E. Finch, James D. Finch and Jinho D. Choi_
 
 **MASSIVE: A 1M-Example Multilingual Natural Language Understanding Dataset with 51 Typologically-Diverse Languages**<br>_Jack FitzGerald, Christopher Hench, Charith Peris, Scott Mackie, Kay Rottmann, Ana Sanchez, Aaron Nash, Liam Urbach, Vishesh Kakarala, Richa Singh, Swetha Ranganath, Laurie Crist, Misha Britan, Wouter Leeuwis, Gokhan Tur and Prem Natarajan_
 
-**FairPrism: Evaluating Fairness-Related Harms in Text Generation**<br>_Eve Fleisig, Aubrie Amstutz, Chad Atalla, Su Lin Blodgett, Hal Daum III, Alexandra Olteanu, Emily Sheng, Dan Vann and Hanna Wallach_
+**FairPrism: Evaluating Fairness-Related Harms in Text Generation**<br>_Eve Fleisig, Aubrie Amstutz, Chad Atalla, Su Lin Blodgett, Hal Daumé III, Alexandra Olteanu, Emily Sheng, Dan Vann and Hanna Wallach_
 
 **Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models**<br>_Myles Foley, Ambrish Rawat, Taesung Lee, Yufang Hou, Gabriele Picco and Giulio Zizzo_
 
@@ -358,7 +358,7 @@ Findings
 
 **On the Compositional Generalization in Versatile Open-domain Dialogue**<br>_Tingchen Fu, Xueliang Zhao, Lemao Liu and Rui Yan_
 
-**Tackling Ambiguity with Images: Improved Multimodal Machine Translation and Contrastive Evaluation**<br>_Matthieu Futeral, Cordelia Schmid, Ivan Laptev, Benot Sagot and Rachel Bawden_
+**Tackling Ambiguity with Images: Improved Multimodal Machine Translation and Contrastive Evaluation**<br>_Matthieu Futeral, Cordelia Schmid, Ivan Laptev, Benoît Sagot and Rachel Bawden_
 
 **Learning Answer Generation using Supervision from Automatic Question Answering Evaluators**<br>_Matteo Gabburo, Siddhant Garg, Rik Koncel-Kedziorski and Alessandro Moschitti_
 
@@ -400,9 +400,9 @@ Findings
 
 **MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction**<br>_Zhibin Gou, qingyan guo and Yujiu Yang_
 
-**Factual or Contextual? Disentangling Error Types in Entity Description Generation**<br>_Navita Goyal, Ani Nenkova and Hal Daum III_
+**Factual or Contextual? Disentangling Error Types in Entity Description Generation**<br>_Navita Goyal, Ani Nenkova and Hal Daumé III_
 
-**Massively Multilingual Lexical Specialization of Multilingual Transformers**<br>_Tommaso Green, Simone Paolo Ponzetto and Goran Glava_
+**Massively Multilingual Lexical Specialization of Multilingual Transformers**<br>_Tommaso Green, Simone Paolo Ponzetto and Goran Glavaš_
 
 **Rogue Scores**<br>_Max Grusky_
 
@@ -410,7 +410,7 @@ Findings
 
 **A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning**<br>_Naibin Gu, Peng Fu, Xiyu Liu, Zhengxiao Liu, Zheng Lin and Weiping Wang_
 
-**Don&#x27;t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments**<br>_Yu Gu, Xiang Deng and Yu Su_
+**Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments**<br>_Yu Gu, Xiang Deng and Yu Su_
 
 **Do language models have coherent mental models of everyday things?**<br>_Yuling Gu, Bhavana Dalvi Mishra and Peter Clark_
 
@@ -420,7 +420,7 @@ Findings
 
 **On the Evaluation of Neural Selective Prediction Methods for Natural Language Processing**<br>_Zhengyao Gu and Mark Hopkins_
 
-**Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation**<br>_Nuno M. Guerreiro, Pierre Colombo, Pablo Piantanida and Andr Martins_
+**Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation**<br>_Nuno M. Guerreiro, Pierre Colombo, Pablo Piantanida and André Martins_
 
 **HiFi: High-Information Attention Heads Hold for Parameter-Efficient Model Adaptation**<br>_Anchun Gui and Han Xiao_
 
@@ -438,17 +438,17 @@ Findings
 
 **Bi-Phone: Modeling Inter Language Phonetic Influences in Text**<br>_Abhirut Gupta, Ananya B. Sai, Richard Sproat, Yuri Vasilevski, James Ren, Ambarish Jash, Sukhdeep Sodhi and Aravindan Raghuveer_
 
-**Don&#x27;t Retrain, Just Rewrite: Countering Adversarial Perturbations by Rewriting Text**<br>_Ashim Gupta, Carter Blum, Temma Choji, Yingjie Fei, Shalin Shah, Alakananda Vempala and Vivek Srikumar_
+**Don't Retrain, Just Rewrite: Countering Adversarial Perturbations by Rewriting Text**<br>_Ashim Gupta, Carter Blum, Temma Choji, Yingjie Fei, Shalin Shah, Alakananda Vempala and Vivek Srikumar_
 
 **Counterspeeches up my sleeve! Intent Distribution Learning and Persistent Fusion for Intent-Conditioned Counterspeech Generation**<br>_Rishabh Gupta, Shaily Desai, Manvi Goel, Anil Bandhakavi, Tanmoy Chakraborty and Md. Shad Akhtar_
 
 **DiSCoMaT: Distantly Supervised Composition Extraction from Tables in Materials Science Articles**<br>_Tanishq Gupta, Mohd Zaki, Devanshi Khatsuriya, Kausik Hira, N M Anoop Krishnan and Mausam_
 
-**Linguistic representations for fewer-shot relation extraction across domains**<br>_Sireesh Gururaja, Ritam Dutt, Tinglong Liao and Carolyn Ros_
+**Linguistic representations for fewer-shot relation extraction across domains**<br>_Sireesh Gururaja, Ritam Dutt, Tinglong Liao and Carolyn Rosé_
 
 **Hybrid Knowledge Transfer for Improved Cross-Lingual Event Detection via Hierarchical Sample Selection**<br>_Luis Guzman Nateras, Franck Dernoncourt and Thien Nguyen_
 
-**Improving the Detection of Multilingual Online Attacks with Rich Social Media Data from Singapore**<br>_Janosch Haber, Bertie Vidgen, Matthew Chapman, Vibhor Agarwal, Roy Ka-Wei Lee, Yong Keong Yap and Paul Rttger_
+**Improving the Detection of Multilingual Online Attacks with Rich Social Media Data from Singapore**<br>_Janosch Haber, Bertie Vidgen, Matthew Chapman, Vibhor Agarwal, Roy Ka-Wei Lee, Yong Keong Yap and Paul Röttger_
 
 **Text Style Transfer with Contrastive Transfer Pattern Mining**<br>_Jingxuan Han, Quan Wang, Licheng Zhang, Weidong Chen, Yan Song and Zhendong Mao_
 
@@ -484,7 +484,7 @@ Findings
 
 **DAMP: Doubly Aligned Multilingual Parser for Task-Oriented Dialogue**<br>_William Held, Christopher Hidey, Fei Liu, Eric Zhu, Rahul Goel, Diyi Yang and Rushin Shah_
 
-**MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset**<br>_Leonhard Hennig, Philippe Thomas and Sebastian Mller_
+**MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset**<br>_Leonhard Hennig, Philippe Thomas and Sebastian Möller_
 
 **Comparative evaluation of boundary-relaxed annotation for Entity Linking performance**<br>_Gabriel Herman Bernardim Andrade, Shuntaro Yada and Eiji ARAMAKI_
 
@@ -524,7 +524,7 @@ Findings
 
 **A fine-grained comparison of pragmatic language understanding in humans and language models**<br>_Jennifer Hu, Sammy Floyd, Olessia Jouravlev, Evelina Fedorenko and Edward Gibson_
 
-**Won&#x27;t Get Fooled Again: Answering Questions with False Premises**<br>_Shengding Hu, Yifan Luo, Huadong Wang, Xingyi Cheng, Zhiyuan Liu and Maosong Sun_
+**Won't Get Fooled Again: Answering Questions with False Premises**<br>_Shengding Hu, Yifan Luo, Huadong Wang, Xingyi Cheng, Zhiyuan Liu and Maosong Sun_
 
 **In-Context Analogical Reasoning with Pre-Trained Language Models**<br>_Xiaoyang Hu, Shane Storks, Richard Lewis and Joyce Chai_
 
@@ -542,7 +542,7 @@ Findings
 
 **ParaAMR: A Large-Scale Syntactically Diverse Paraphrase Dataset by AMR Back-Translation**<br>_Kuan-Hao Huang, Varun Iyer, I-Hung Hsu, Anoop Kumar, Kai-Wei Chang and Aram Galstyan_
 
-**Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation**<br>_Kung-Hsiang Huang, Kathleen McKeown, Preslav Nakov, Yejin Choi and Heng Ji_
+**Faking Fake News for Real Fake News Detection: Propaganda-Loaded Training Data Generation**<br>_Kung-Hsiang Huang, Kathleen McKeown, Preslav Nakov, Yejin Choi and Heng Ji_
 
 **Zero-shot Faithful Factual Error Correction**<br>_Kung-Hsiang Huang, Hou Pong Chan and Heng Ji_
 
@@ -556,13 +556,13 @@ Findings
 
 **MVP-Tuning: Multi-View Knowledge Retrieval with Prompt Tuning for Commonsense Reasoning**<br>_Yongfeng Huang, Yanyang Li, Yichong Xu, Lin Zhang, ruyi gan, Jiaxing Zhang and Liwei Wang_
 
-**RED&lt;sup&gt;FM&lt;/sup&gt;: a Filtered and Multilingual Relation Extraction Dataset**<br>_Pere-Llus Huguet Cabot, Simone Tedeschi, Axel-Cyrille Ngonga Ngomo and Roberto Navigli_
+**RED&lt;sup&gt;FM&lt;/sup&gt;: a Filtered and Multilingual Relation Extraction Dataset**<br>_‪Pere-Lluís Huguet Cabot, Simone Tedeschi, Axel-Cyrille Ngonga Ngomo and Roberto Navigli_
 
-**Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages**<br>_Ayyoob ImaniGooghari, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masoud Jalili Sabet, Nora Kassner, Chunlan Ma, Helmut Schmid, Andr Martins, Franois Yvon and Hinrich Schtze_
+**Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages**<br>_Ayyoob ImaniGooghari, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masoud Jalili Sabet, Nora Kassner, Chunlan Ma, Helmut Schmid, André Martins, François Yvon and Hinrich Schütze_
 
 **UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units**<br>_Hirofumi Inaguma, Sravya Popuri, Ilia Kulikov, Peng-Jen Chen, Changhan Wang, Yu-An Chung, Yun Tang, Ann Lee, Shinji Watanabe and Juan Pino_
 
-**Byte-Level Grammatical Error Correction Using Synthetic and Curated Corpora**<br>_Svanhvt Lilja Inglfsdttir, Petur Ragnarsson, Haukur Jnsson, Haukur Simonarson, Vilhjalmur Thorsteinsson and Vsteinn Snbjarnarson_
+**Byte-Level Grammatical Error Correction Using Synthetic and Curated Corpora**<br>_Svanhvít Lilja Ingólfsdóttir, Petur Ragnarsson, Haukur Jónsson, Haukur Simonarson, Vilhjalmur Thorsteinsson and Vésteinn Snæbjarnarson_
 
 **DARE: Towards Robust Text Explanations in Biomedical and Healthcare Applications**<br>_Adam Ivankay, Mattia Rigotti and Pascal Frossard_
 
@@ -590,7 +590,7 @@ Findings
 
 **Pruning Pre-trained Language Models Without Fine-Tuning**<br>_Ting Jiang, deqing wang, Fuzhen Zhuang, Ruobing Xie and Feng Xia_
 
-**Discourse-Centric Evaluation of Machine Translation with a Densely Annotated Parallel Corpus**<br>_Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Mrinmaya Sachan and Ryan Cotterell_
+**Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels**<br>_Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Mrinmaya Sachan and Ryan Cotterell_
 
 **Improving Domain Generalization for Prompt-Aware Essay Scoring via Disentangled Representation Learning**<br>_Zhiwei Jiang, Tianyi Gao, Yafeng Yin, Meng Liu, Hua Yu, Zifeng Cheng and Qing Gu_
 
@@ -602,7 +602,7 @@ Findings
 
 **MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction**<br>_Wang Jing, Aixin Sun, Hao Zhang and Xiaoli Li_
 
-**Breeding Machine Translations: Evolutionary approach to survive and thrive in the world of automated evaluation**<br>_Josef Jon and Ondej Bojar_
+**Breeding Machine Translations: Evolutionary approach to survive and thrive in the world of automated evaluation**<br>_Josef Jon and Ondřej Bojar_
 
 **U-CREAT: Unsupervised Case Retrieval using Events extrAcTion**<br>_Abhinav Joshi, Akshat Sharma, Sai Kiran Tanikella and Ashutosh Modi_
 
@@ -668,7 +668,7 @@ Findings
 
 **SWiPE: A Dataset for Document-Level Simplification of Wikipedia Pages**<br>_Philippe Laban, Jesse Vig, Wojciech Kryscinski, Shafiq Joty, Caiming Xiong and Chien-Sheng Wu_
 
-**DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains**<br>_Yanis Labrak, Adrien Bazoge, Richard Dufour, Mickael Rouvier, Emmanuel Morin, Batrice Daille and Pierre-Antoine Gourraud_
+**DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains**<br>_Yanis Labrak, Adrien Bazoge, Richard Dufour, Mickael Rouvier, Emmanuel Morin, Béatrice Daille and Pierre-Antoine Gourraud_
 
 **Contrastive Error Attribution for Finetuned Language Models**<br>_Faisal Ladhak, Esin Durmus and Tatsunori Hashimoto_
 
@@ -702,7 +702,7 @@ Findings
 
 **Toward Interactive Dictation**<br>_Belinda Z. Li, Jason Eisner, Adam Pauls and Sam Thomson_
 
-**Python Code Generation by Asking Clarification Questions**<br>_Haau-Sing (Xiaocheng) Li, Mohsen Mesgar, Andr Martins and Iryna Gurevych_
+**Python Code Generation by Asking Clarification Questions**<br>_Haau-Sing (Xiaocheng) Li, Mohsen Mesgar, André Martins and Iryna Gurevych_
 
 **Do You Hear The People Sing? Key Point Analysis via Iterative Clustering and Abstractive Summarisation**<br>_Hao Li, Viktor Schlegel, Riza Batista-Navarro and Goran Nenadic_
 
@@ -746,7 +746,7 @@ Findings
 
 **Multi-target Backdoor Attacks for Code Pre-trained Models**<br>_Yanzhou Li, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang and Yang Liu_
 
-**Translation-Enhanced Multilingual Text-to-Image Generation**<br>_Yaoyiran Li, Ching-Yun Chang, Stephen Rawls, Ivan Vuli and Anna Korhonen_
+**Translation-Enhanced Multilingual Text-to-Image Generation**<br>_Yaoyiran Li, Ching-Yun Chang, Stephen Rawls, Ivan Vulić and Anna Korhonen_
 
 **Making Language Models Better Reasoners with Step-Aware Verifier**<br>_Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang LOU and Weizhu Chen_
 
@@ -846,13 +846,13 @@ Findings
 
 **Towards Better Entity Linking with Multi-View Enhanced Distillation**<br>_Yi Liu, Yuan Tian, Jianxun Lian, xinlong wang, Yanan Cao, Fang Fang, Wen Zhang, Haizhen Huang, Weiwei Deng and Qi Zhang_
 
-**A Crosslingual Investigation of Conceptualization in 1335 Languages**<br>_Yihong Liu, Haotian Ye, Leonie Weissweiler, Philipp Wicke, Renhao Pei, Robert Zangenfeind and Hinrich Schtze_
+**A Crosslingual Investigation of Conceptualization in 1335 Languages**<br>_Yihong Liu, Haotian Ye, Leonie Weissweiler, Philipp Wicke, Renhao Pei, Robert Zangenfeind and Hinrich Schütze_
 
 **Revisiting the Gold Standard: Grounding Summarization Evaluation with Robust Human Evaluation**<br>_Yixin Liu, Alex Fabbri, Pengfei Liu, Yilun Zhao, Linyong Nan, Ruilin Han, Simeng Han, Shafiq Joty, Chien-Sheng Wu, Caiming Xiong and Dragomir Radev_
 
 **On Improving Summarization Factual Consistency from Natural Language Feedback**<br>_Yixin Liu, Budhaditya Deb, Milagro Teruel, Aaron Halfaker, Dragomir Radev and Ahmed Hassan Awadallah_
 
-**PVGRU: Generating Diverse and Relevant Dialogue Responses via Pseudo-Variational Mechanism**<br>_Yongkang Liu, Shi Feng, Daling Wang, Yifei Zhang and Hinrich Schtze_
+**PVGRU: Generating Diverse and Relevant Dialogue Responses via Pseudo-Variational Mechanism**<br>_Yongkang Liu, Shi Feng, Daling Wang, Yifei Zhang and Hinrich Schütze_
 
 **Binary and Ternary Natural Language Generation**<br>_Zechun Liu, Barlas Oguz, Aasish Pappu, Yangyang Shi and Raghuraman Krishnamoorthi_
 
@@ -892,7 +892,7 @@ Findings
 
 **Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations**<br>_Xinxi Lyu, Sewon Min, Iz Beltagy, Luke Zettlemoyer and Hannaneh Hajishirzi_
 
-**Cross-lingual Continual Learning**<br>_Meryem M&#x27;hamdi, Xiang Ren and Jonathan May_
+**Cross-lingual Continual Learning**<br>_Meryem M'hamdi, Xiang Ren and Jonathan May_
 
 **AMR-based Network for Aspect-based Sentiment Analysis**<br>_Fukun Ma, Xuming Hu, Aiwei Liu, Yawen Yang, Shuang Li, Philip S. Yu and Lijie Wen_
 
@@ -904,7 +904,7 @@ Findings
 
 **Learning &quot;O&quot; Helps for Learning More: Handling the Unlabeled Entity Problem for Class-incremental NER**<br>_Ruotian Ma, xuanting chen, zhang lin, Xin Zhou, Junzhe Wang, Tao Gui, Qi Zhang, Xiang Gao and Yun Wen Chen_
 
-**CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition**<br>_Tingting Ma, Qianhui Wu, Huiqiang Jiang, Brje Karlsson, Tiejun Zhao and Chin-Yew Lin_
+**CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition**<br>_Tingting Ma, Qianhui Wu, Huiqiang Jiang, Börje Karlsson, Tiejun Zhao and Chin-Yew Lin_
 
 **Few-shot Event Detection: An Empirical Study and a Unified View**<br>_Yubo Ma, Zehao Wang, Yixin Cao and Aixin Sun_
 
@@ -946,7 +946,7 @@ Findings
 
 **Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction**<br>_Changrong Min, Ximing Li, Liang Yang, Zhilin Wang, Bo Xu and Hongfei LIN_
 
-**Where&#x27;s the Point? Self-Supervised Multilingual Punctuation-Agnostic Sentence Segmentation**<br>_Benjamin Minixhofer, Jonas Pfeiffer and Ivan Vuli_
+**Where's the Point? Self-Supervised Multilingual Punctuation-Agnostic Sentence Segmentation**<br>_Benjamin Minixhofer, Jonas Pfeiffer and Ivan Vulić_
 
 **Privacy-Preserving Domain Adaptation of Semantic Parsers**<br>_Fatemehsadat Mireshghallah, Yu Su, Tatsunori Hashimoto, Jason Eisner and Richard Shin_
 
@@ -990,7 +990,7 @@ Findings
 
 **On &quot;Scientific Debt&quot; in NLP: A Case for More Rigour in Language Model Pre-Training Research**<br>_Made Nindyatama Nityasya, Haryo Wibowo, Alham Fikri Aji, Genta Winata, Radityo Eko Prasojo, Phil Blunsom and Adhiguna Kuncoro_
 
-**Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasoning**<br>_Armineh Nourbakhsh, Sameena Shah and Carolyn Ros_
+**Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasoning**<br>_Armineh Nourbakhsh, Sameena Shah and Carolyn Rosé_
 
 **Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions**<br>_Byung-Doh Oh and William Schuler_
 
@@ -1112,7 +1112,7 @@ Findings
 
 **Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation**<br>_Yubing Ren, Yanan Cao, Ping Guo, Fang Fang, Wei Ma and Zheng Lin_
 
-**Tailoring Instructions to Student&#x27;s Learning Levels Boosts Knowledge Distillation**<br>_Yuxin Ren, Zihan Zhong, Xingjian Shi, Yi Zhu, Chun Yuan and Mu Li_
+**Tailoring Instructions to Student's Learning Levels Boosts Knowledge Distillation**<br>_Yuxin Ren, Zihan Zhong, Xingjian Shi, Yi Zhu, Chun Yuan and Mu Li_
 
 **Exploring Large Language Models for Classical Philology**<br>_Frederick Riemenschneider and Anette Frank_
 
@@ -1146,9 +1146,9 @@ Findings
 
 **Tree-Based Representation and Generation of Natural and Mathematical Language**<br>_Alexander Scarlatos and Andrew Lan_
 
-**Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging**<br>_Fabian Schmidt, Ivan Vuli and Goran Glava_
+**Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging**<br>_Fabian Schmidt, Ivan Vulić and Goran Glavaš_
 
-**Minding Language Models&#x27; (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker**<br>_Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi and Yulia Tsvetkov_
+**Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker**<br>_Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi and Yulia Tsvetkov_
 
 **Ranking-Enhanced Unsupervised Sentence Representation Learning**<br>_Yeon Seonwoo, Guoyin Wang, Changmin Seo, Sajal Choudhary, Jiwei Li, Xiang Li, Puyang Xu, Sunghyun Park and Alice Oh_
 
@@ -1158,7 +1158,7 @@ Findings
 
 **Causes and Cures for Interference in Multilingual Translation**<br>_Uri Shaham, Maha Elbayad, Vedanuj Goswami, Omer Levy and Shruti Bhosale_
 
-**On Second Thought, Let&#x27;s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**<br>_Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein and Diyi Yang_
+**On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning**<br>_Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein and Diyi Yang_
 
 **Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction**<br>_Ashish Sharma, Kevin Rushton, Inna Lin, David Wadden, Khendra Lucas, Adam Miner, Theresa Nguyen and Tim Althoff_
 
@@ -1256,7 +1256,7 @@ Findings
 
 **IDRISI-RA: The First Arabic Location Mention Recognition Dataset of Disaster Tweets**<br>_Reem Suwaileh, Muhammad Imran and Tamer Elsayed_
 
-**Why Aren't We NER Yet? Artifacts of ASR Errors in Named Entity Recognition in Spontaneous Speech Transcripts**<br>_Piotr Szymaski, Lukasz Augustyniak, Michał Woźniak, Adrian Szymczak, Krzysztof Surdyk and Piotr elasko_
+**Why Aren't We NER Yet? Artifacts of ASR Errors in Named Entity Recognition in Spontaneous Speech Transcripts**<br>_Piotr Szymański, Lukasz Augustyniak, Mikolaj Morzy, Adrian Szymczak, Krzysztof Surdyk and Piotr Żelasko_
 
 **Towards Benchmarking and Improving the Temporal Reasoning Capability of Large Language Models**<br>_Qingyu Tan, Hwee Tou Ng and Lidong Bing_
 
@@ -1284,25 +1284,23 @@ Findings
 
 **UniEvent: Unified Generative Model with Multi-Dimensional Prefix for Zero-Shot Event-Relational Reasoning**<br>_Zhengwei Tao, Zhi Jin, Haiyan Zhao, Chengfeng Dou, yongqiang zhao, Tao Shen and Chongyang Tao_
 
-**What&#x27;s the Meaning of Superhuman Performance in Today&#x27;s NLU?**<br>_Simone Tedeschi, Johan Bos, Thierry Declerck, Jan Haji, Daniel Hershcovich, Eduard Hovy, Alexander Koller, Simon Krek, Steven Schockaert, Rico Sennrich, Ekaterina Shutova and Roberto Navigli_
-
-**Soft Alignment Objectives for Robust Adaptation of Language Generation**<br>_Michal tefnik, Marek Kadlcik and Petr Sojka_
+**What's the Meaning of Superhuman Performance in Today's NLU?**<br>_Simone Tedeschi, Johan Bos, Thierry Declerck, Jan Hajič, Daniel Hershcovich, Eduard Hovy, Alexander Koller, Simon Krek, Steven Schockaert, Rico Sennrich, Ekaterina Shutova and Roberto Navigli_
 
 **We Understand Elliptical Sentences, and Language Models should Too: A New Dataset for Studying Ellipsis and its Interaction with Thematic Fit**<br>_Davide Testa, Emmanuele Chersoni and Alessandro Lenci_
 
-**Being Right for Whose Right Reasons?**<br>_Terne Sasha Thorn Jakobsen, Laura Cabello and Anders Sgaard_
+**Being Right for Whose Right Reasons?**<br>_Terne Sasha Thorn Jakobsen, Laura Cabello and Anders Søgaard_
 
 **Dynamic Routing Transformer Network for Multimodal Sarcasm Detection**<br>_Yuan Tian, Nan Xu, Ruike Zhang and Wenji Mao_
 
 **Unsupervised Melody-to-Lyrics Generation**<br>_Yufei Tian, Anjali Narayan-Chen, Shereen Oraby, Alessandra Cervone, Gunnar Sigurdsson, Chenyang Tao, Wenbo Zhao, Tagyoung Chung, Jing Huang and Nanyun Peng_
 
-**A New Aligned Simple German Corpus**<br>_Vanessa Toborek, Moritz Busch, Malte Boert, Christian Bauckhage and Pascal Welke_
+**A New Aligned Simple German Corpus**<br>_Vanessa Toborek, Moritz Busch, Malte Boßert, Christian Bauckhage and Pascal Welke_
 
-**Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children&#x27;s Fairy Tales**<br>_Paulina Toro Isaza, Guangxuan Xu, Toye Oloko, Yufang Hou, Nanyun Peng and Dakuo Wang_
+**Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children's Fairy Tales**<br>_Paulina Toro Isaza, Guangxuan Xu, Toye Oloko, Yufang Hou, Nanyun Peng and Dakuo Wang_
 
 **Model-Based Simulation for Optimising Smart Reply**<br>_Benjamin Towle and Ke Zhou_
 
-**CREST: A Joint Framework for Rationalization and Counterfactual Text Generation**<br>_Marcos Treviso, Alexis Ross, Nuno M. Guerreiro and Andr Martins_
+**CREST: A Joint Framework for Rationalization and Counterfactual Text Generation**<br>_Marcos Treviso, Alexis Ross, Nuno M. Guerreiro and André Martins_
 
 **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**<br>_Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot and Ashish Sabharwal_
 
@@ -1422,7 +1420,7 @@ Findings
 
 **WebIE: Faithful and Robust Information Extraction on the Web**<br>_Chenxi Whitehouse, Clara Vania, Alham Fikri Aji, Christos Christodoulopoulos and Andrea Pierleoni_
 
-**Trigger Warning Assignment as a Multi-Label Document Classification Problem**<br>_Matti Wiegmann, Magdalena Wolska, Christopher Schrder, Ole Borchardt, Benno Stein and Martin Potthast_
+**Trigger Warning Assignment as a Multi-Label Document Classification Problem**<br>_Matti Wiegmann, Magdalena Wolska, Christopher Schröder, Ole Borchardt, Benno Stein and Martin Potthast_
 
 **Beyond Contrastive Learning: A Variational Generative Model for Multilingual Retrieval**<br>_John Wieting, Jonathan Clark, William Cohen, Graham Neubig and Taylor Berg-Kirkpatrick_
 
@@ -1434,7 +1432,7 @@ Findings
 
 **Connective Prediction for Implicit Discourse Relation Recognition via Knowledge Distillation**<br>_Hongyi Wu, Hao Zhou, Man Lan, Yuanbin Wu and Yadong Zhang_
 
-**Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text**<br>_Qianhui Wu, Huiqiang Jiang, Haonan Yin, Brje Karlsson and Chin-Yew Lin_
+**Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text**<br>_Qianhui Wu, Huiqiang Jiang, Haonan Yin, Börje Karlsson and Chin-Yew Lin_
 
 **WSPAlign: Word Alignment Pre-training via Large-Scale Weakly Supervised Span Prediction**<br>_Qiyu Wu, Masaaki Nagata and Yoshimasa Tsuruoka_
 
@@ -1470,7 +1468,7 @@ Findings
 
 **Plug-and-Play Document Modules for Pre-trained Models**<br>_Chaojun Xiao, Zhengyan Zhang, Xu Han, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, xiangyang li, Zhonghua Li, Zhao Cao and Maosong Sun_
 
-**CFSumA Coarse-to-Fine Contribution Network for Multimodal Summarization**<br>_Min Xiao, Junnan Zhu, Haitao Lin, Yu Zhou and Chengqing Zong_
+**CFSum：A Coarse-to-Fine Contribution Network for Multimodal Summarization**<br>_Min Xiao, Junnan Zhu, Haitao Lin, Yu Zhou and Chengqing Zong_
 
 **An Empirical Analysis of Parameter-Efficient Methods for Debiasing Pre-Trained Language Models**<br>_Zhongbin Xie and Thomas Lukasiewicz_
 
@@ -1510,7 +1508,7 @@ Findings
 
 **SESCORE2: Learning Text Generation Evaluation via Synthesizing Realistic Mistakes**<br>_Wenda Xu, Xian Qian, Mingxuan Wang, Lei Li and William Yang Wang_
 
-**ManagerTower: Aggregating the Insights of Uni-Modal Experts for Vision-Language Representation Learning**<br>_Xiao Xu, Bei Li, Chenfei Wu, Shao-Yen Tseng, Anahita Bhiwandiwalla, Shachar Rosenman, Vasudev Lal, Wanxiang Che and Nan Duan_
+**ManagerTower: Aggregating the Insights of Uni-Modal Experts for Vision-Language Representation Learning**<br>_Xiao Xu, Bei Li, Chenfei Wu, Shao-Yen Tseng, Anahita Bhiwandiwalla, ‫Shachar Rosenman, Vasudev Lal, Wanxiang Che and Nan Duan_
 
 **KILM: Knowledge Injection into Encoder-Decoder Language Models**<br>_Yan Xu, Mahdi Namazifar, Devamanyu Hazarika, Aishwarya Padmakumar, Yang Liu and Dilek Hakkani-Tur_
 
@@ -1568,7 +1566,7 @@ Findings
 
 **Unsupervised Discontinuous Constituency Parsing with Mildly Context-Sensitive Grammars**<br>_Songlin Yang, Roger Levy and Yoon Kim_
 
-**Don&#x27;t Parse, Choose Spans! Continuous and Discontinuous Constituency Parsing via Autoregressive Span Selection**<br>_Songlin Yang and Kewei Tu_
+**Don't Parse, Choose Spans! Continuous and Discontinuous Constituency Parsing via Autoregressive Span Selection**<br>_Songlin Yang and Kewei Tu_
 
 **HistRED: A Historical Document-Level Relation Extraction Dataset**<br>_Soyoung Yang, Minseok Choi, Youngwoo Cho and Jaegul Choo_
 
@@ -1602,7 +1600,7 @@ Findings
 
 **Consistency Regularization Training for Compositional Generalization**<br>_Yongjing Yin, Jiali Zeng, Yafu Li, Fandong Meng, Jie Zhou and Yue Zhang_
 
-**BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting**<br>_Zheng Xin Yong, Hailey Schoelkopf, Niklas Muennighoff, Alham Fikri Aji, David Adelani, KHALID ALMUBARAK, M Saiful Bari, Lintang Sutawika, Jungo Kasai, Ahmed Baruwa, Genta Winata, Stella Biderman, Edward Raff, Dragomir Radev and Vassilina Nikoulina_
+**BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting**<br>_Zheng Xin Yong, Hailey Schoelkopf, Niklas Muennighoff, Alham Fikri Aji, David Ifeoluwa Adelani, KHALID ALMUBARAK, M Saiful Bari, Lintang Sutawika, Jungo Kasai, Ahmed Baruwa, Genta Winata, Stella Biderman, Edward Raff, Dragomir Radev and Vassilina Nikoulina_
 
 **Rethinking Annotation: Can Language Learners Contribute?**<br>_Haneul Yoo, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang and Alice Oh_
 
@@ -1686,7 +1684,7 @@ Findings
 
 **FC-KBQA: A Fine-to-Coarse Composition Framework for Knowledge Base Question Answering**<br>_Lingxi Zhang, Jing Zhang, Yanling Wang, Shulin Cao, Xinmei Huang, Cuiping Li, Hong Chen and Juanzi Li_
 
-**A Needle in a Haystack: An Analysis of High-Agreement Workers on MTurk for Summarization**<br>_Lining Zhang, Simon Mille, Yufang Hou, Daniel Deutsch, Elizabeth Clark, Yixin Liu, Saad Mahamood, Sebastian Gehrmann, Miruna Clinciu, Khyathi Raghavi Chandu and Joo Sedoc_
+**A Needle in a Haystack: An Analysis of High-Agreement Workers on MTurk for Summarization**<br>_Lining Zhang, Simon Mille, Yufang Hou, Daniel Deutsch, Elizabeth Clark, Yixin Liu, Saad Mahamood, Sebastian Gehrmann, Miruna Clinciu, Khyathi Raghavi Chandu and João Sedoc_
 
 **Span-level Aspect-based Sentiment Analysis via Table Filling**<br>_Mao Zhang, Yongxin Zhu, Zhen Liu, Zhimin Bao, Yunfei Wu, Xing Sun and Linli Xu_
 
@@ -1768,9 +1766,9 @@ Findings
 
 **Preserving Commonsense Knowledge from Pre-trained Language Models via Causal Inference**<br>_Junhao Zheng, Qianli Ma, Shengjie Qiu, Yue Wu, Peitian Ma, Junlong Liu, Huawen Feng, Xichen Shang and Haibin Chen_
 
-**IM-TQA: A Chinese Table Question Answering Dataset with Implicit and Multi-type Table Structures**<br>_Ming yu Zheng, Yang Hao, Wenbin Jiang, Zheng Lin, Yajuan Lyu, QiaoQiao She and Weiping Wang_
-
 **Generating Structured Pseudo Labels for Noise-resistant Zero-shot Video Sentence Localization**<br>_Minghang Zheng, Shaogang Gong, Hailin Jin, Yuxin Peng and Yang Liu_
+
+**IM-TQA: A Chinese Table Question Answering Dataset with Implicit and Multi-type Table Structures**<br>_Mingyu Zheng, Yang Hao, Wenbin Jiang, Zheng Lin, Yajuan Lyu, QiaoQiao She and Weiping Wang_
 
 **Contextual Knowledge Learning for Dialogue Generation**<br>_Wen Zheng, Natasa Milic-Frayling and Ke Zhou_
 
@@ -1780,7 +1778,7 @@ Findings
 
 **Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation**<br>_yandan zheng, Anran Hao and Anh Tuan Luu_
 
-**NatLogAttack: A Framework for Attacking Natural Language Inference Models with Natural Logic**<br>_Zi&#x27;ou Zheng and Xiaodan Zhu_
+**NatLogAttack: A Framework for Attacking Natural Language Inference Models with Natural Logic**<br>_Zi'ou Zheng and Xiaodan Zhu_
 
 **Revisiting Token Dropping Strategy in Efficient BERT Pretraining**<br>_Qihuang Zhong, Liang Ding, Juhua Liu, Xuebo Liu, Min Zhang, Bo Du and Dacheng Tao_
 
@@ -1844,7 +1842,9 @@ Findings
 
 **Towards Understanding Omission in Dialogue Summarization**<br>_Yicheng Zou, Kaitao Song, Xu Tan, Zhongkai Fu, Qi Zhang, Dongsheng Li and Tao Gui_
 
-**Tokenization and the Noiseless Channel**<br>_Vilm Zouhar, Clara Meister, Juan Gastaldi, Li Du, Mrinmaya Sachan and Ryan Cotterell_
+**Tokenization and the Noiseless Channel**<br>_Vilém Zouhar, Clara Meister, Juan Gastaldi, Li Du, Mrinmaya Sachan and Ryan Cotterell_
+
+**Soft Alignment Objectives for Robust Adaptation of Language Generation**<br>_Michal Štefánik, Marek Kadlcik and Petr Sojka_
 
 
 ### <span style="font-size:larger;">Short Papers</span>
@@ -1878,7 +1878,7 @@ Findings
 
 **An Open Dataset and Model for Language Identification**<br>_Laurie Burchell, Alexandra Birch, Nikolay Bogoychev and Kenneth Heafield_
 
-**Evaluating Zero-Shot Event Structures: Recommendations for Automatic Content Extraction (ACE) Annotations**<br>_Erica Cai and Brendan O&#x27;Connor_
+**Evaluating Zero-Shot Event Structures: Recommendations for Automatic Content Extraction (ACE) Annotations**<br>_Erica Cai and Brendan O'Connor_
 
 **Graph Propagation based Data Augmentation for Named Entity Recognition**<br>_Jiong Cai, Shen Huang, Yong Jiang, Zeqi Tan, Pengjun Xie and Kewei Tu_
 
@@ -1886,11 +1886,9 @@ Findings
 
 **XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE**<br>_Pierluigi Cassotti, Lucia Siciliani, Marco DeGemmis, Giovanni Semeraro and Pierpaolo Basile_
 
-**Black-box language model explanation by context length probing**<br>_Ondej Cfka and Antoine Liutkus_
-
 **Controllable Mixed-Initiative Dialogue Generation through Prompting**<br>_Maximillian Chen, Xiao Yu, Weiyan Shi, Urvi Awasthi and Zhou Yu_
 
-**xSIM++: An Improved Proxy to Bitext Mining Performance for Low-Resource Languages**<br>_Mingda Chen, Kevin Heffernan, Onur elebi, Alexandre Mourachko and Holger Schwenk_
+**xSIM++: An Improved Proxy to Bitext Mining Performance for Low-Resource Languages**<br>_Mingda Chen, Kevin Heffernan, Onur Çelebi, Alexandre Mourachko and Holger Schwenk_
 
 **Toward Expanding the Scope of Radiology Report Summarization to Multiple Anatomies and Modalities**<br>_Zhihong Chen, Maya Varma, Xiang Wan, Curtis Langlotz and Jean-Benoit Delbrouck_
 
@@ -1902,9 +1900,11 @@ Findings
 
 **Latent Positional Information is in the Self-Attention Variance of Transformer Language Models Without Positional Embeddings**<br>_Ta-Chung Chi, Ting-Han Fan, Li-Wei Chen, alexander rudnicky and Peter Ramadge_
 
-**Should you marginalize over possible tokenizations?**<br>_Nadezhda Chirkova, Germn Kruszewski, Jos Rozen and Marc Dymetman_
+**Should you marginalize over possible tokenizations?**<br>_Nadezhda Chirkova, Germán Kruszewski, Jos Rozen and Marc Dymetman_
 
 **Leveraging Prefix Transfer for Multi-Intent Text Revision**<br>_Ruining Chong, Cunliang Kong, Liu Wu, Zhenghao Liu, Ziye Jin, Liner Yang, Yange Fan, Hanghang Fan and Erhong Yang_
+
+**Black-box language model explanation by context length probing**<br>_Ondřej Cífka and Antoine Liutkus_
 
 **Scaling in Cognitive Modelling: a Multilingual Approach to Human Reading Times**<br>_Andrea Gregor de Varda and Marco Marelli_
 
@@ -1950,7 +1950,7 @@ Findings
 
 **KNOW How to Make Up Your Mind! Adversarially Detecting and Alleviating Inconsistencies in Natural Language Explanations**<br>_Myeongjun Jang, Bodhisattwa Prasad Majumder, Julian McAuley, Thomas Lukasiewicz and Oana-Maria Camburu_
 
-**An (unhelpful) guide to selecting the best ASR architecture for your under-resourced language**<br>_Robert Jimerson, Zoey Liu and Emily Prud&#x27;hommeaux_
+**An (unhelpful) guide to selecting the best ASR architecture for your under-resourced language**<br>_Robert Jimerson, Zoey Liu and Emily Prud'hommeaux_
 
 **Discourse-Level Representations can Improve Prediction of Degree of Anxiety**<br>_Swanie Juhng, Matthew Matero, Vasudha Varadarajan, Johannes C. Eichstaedt, Adithya V Ganesan and H. Andrew Schwartz_
 
@@ -1958,7 +1958,7 @@ Findings
 
 **Table and Image Generation for Investigating Knowledge of Entities in Pre-trained Vision and Language Models**<br>_Hidetaka Kamigaito, Katsuhiko Hayashi and Taro Watanabe_
 
-**Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages**<br>_Yasmine Karoui, Rmi Lebret, Negar Foroutan Eghlidi and Karl Aberer_
+**Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages**<br>_Yasmine Karoui, Rémi Lebret, Negar Foroutan Eghlidi and Karl Aberer_
 
 **A Better Way to Do Masked Language Model Scoring**<br>_Carina Kauf and Anna Ivanova_
 
@@ -1978,7 +1978,7 @@ Findings
 
 **How Well Apply Simple MLP to Incomplete Utterance Rewriting?**<br>_Jiang Li, Xiangdong Su, Xinlan Ma and Guanglai Gao_
 
-**Counterfactual reasoning: Testing language models&#x27; understanding of hypothetical scenarios**<br>_Jiaxuan Li, Lang Yu and Allyson Ettinger_
+**Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios**<br>_Jiaxuan Li, Lang Yu and Allyson Ettinger_
 
 **Prefix Propagation: Parameter-Efficient Tuning for Long Sequences**<br>_Jonathan Li, Will Aitken, Rohan Bhambhoria and Xiaodan Zhu_
 
@@ -2024,7 +2024,7 @@ Findings
 
 **Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation**<br>_Zhuoyuan Mao, Raj Dabre, Qianying Liu, Haiyue Song, Chenhui Chu and Sadao Kurohashi_
 
-**AMRs Assemble! Learning to Ensemble with Autoregressive Models for AMR Parsing**<br>_Abelardo Carlos Martnez Lorenzo, Pere-Llus Huguet Cabot and Roberto Navigli_
+**AMRs Assemble! Learning to Ensemble with Autoregressive Models for AMR Parsing**<br>_Abelardo Carlos Martínez Lorenzo, ‪Pere-Lluís Huguet Cabot and Roberto Navigli_
 
 **Theory-Grounded Computational Text Analysis**<br>_Arya D. McCarthy and Giovanna Maria Dora Dore_
 
@@ -2036,13 +2036,13 @@ Findings
 
 **mOKB6: A Multilingual Open Knowledge Base Completion Benchmark**<br>_Shubham Mittal, Keshav Kolluru, Soumen Chakrabarti and Mausam_
 
-**Considerations for meaningful sign language machine translation based on glosses**<br>_Mathias Mller, Zifan Jiang, Amit Moryossef, Annette Rios and Sarah Ebling_
-
 **MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models**<br>_Masoud Monajatipoor, Liunian Harold Li, Mozhdeh Rouhsedaghat, Lin Yang and Kai-Wei Chang_
 
 **Enhancing Event Causality Identification with Counterfactual Reasoning**<br>_Feiteng Mu and Wenjie Li_
 
 **Grokking of Hierarchical Structure in Vanilla Transformers**<br>_Shikhar Murty, Pratyusha Sharma, Jacob Andreas and Christopher Manning_
+
+**Considerations for meaningful sign language machine translation based on glosses**<br>_Mathias Müller, Zifan Jiang, Amit Moryossef, Annette Rios and Sarah Ebling_
 
 **Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**<br>_Ananjan Nandi, Navdeep Kaur, Parag Singla and Mausam_
 
@@ -2050,9 +2050,9 @@ Findings
 
 **A Fast Algorithm for Computing Prefix Probabilities**<br>_Franz Nowak and Ryan Cotterell_
 
-**Self-Distilled Quantization: Achieving High Compression Rates in Transformer-Based Language Models**<br>_James O&#x27;Neill and Sourav Dutta_
+**Self-Distilled Quantization: Achieving High Compression Rates in Transformer-Based Language Models**<br>_James O'Neill and Sourav Dutta_
 
-**The Ecological Fallacy in Annotation: Modeling Human Label Variation goes beyond Sociodemographics**<br>_Matthias Orlikowski, Paul Rttger, Philipp Cimiano and Dirk Hovy_
+**The Ecological Fallacy in Annotation: Modeling Human Label Variation goes beyond Sociodemographics**<br>_Matthias Orlikowski, Paul Röttger, Philipp Cimiano and Dirk Hovy_
 
 **Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning**<br>_Mustafa Ozdayi, Charith Peris, Jack FitzGerald, Christophe Dupuy, Jimit Majmudar, Haidar Khan, Rahil Parikh and Rahul Gupta_
 
@@ -2060,7 +2060,7 @@ Findings
 
 **Credible without Credit: Domain Experts Assess Generative Language Models**<br>_Denis Peskoff and Brandon Stewart_
 
-**STT4SG-350: A Speech Corpus for All Swiss German Dialect Regions**<br>_Michel Plss, Jan Deriu, Yanick Schraner, Claudio Paonessa, Julia Hartmann, Larissa Schmidt, Christian Scheller, Manuela Hrlimann, Tanja Samardi, Manfred Vogel and Mark Cieliebak_
+**STT4SG-350: A Speech Corpus for All Swiss German Dialect Regions**<br>_Michel Plüss, Jan Deriu, Yanick Schraner, Claudio Paonessa, Julia Hartmann, Larissa Schmidt, Christian Scheller, Manuela Hürlimann, Tanja Samardžić, Manfred Vogel and Mark Cieliebak_
 
 **Unsupervised Subtitle Segmentation with Masked Language Models**<br>_David Ponce, Thierry Etchegoyhen and Victor Ruiz_
 
@@ -2074,9 +2074,9 @@ Findings
 
 **MIReAD: Simple Method for Learning High-quality Representations from Scientific Documents**<br>_Anastasiia Razdaibiedina and Aleksandr Brechalov_
 
-**The Inside Story: Towards Better Understanding of Machine Translation Neural Evaluation Metrics**<br>_Ricardo Rei, Nuno M. Guerreiro, Marcos Treviso, Luisa Coheur, Alon Lavie and Andr Martins_
+**The Inside Story: Towards Better Understanding of Machine Translation Neural Evaluation Metrics**<br>_Ricardo Rei, Nuno M. Guerreiro, Marcos Treviso, Luisa Coheur, Alon Lavie and André Martins_
 
-**Randomized Positional Encodings Boost Length Generalization of Transformers**<br>_Anian Ruoss, Grgoire Deltang, Tim Genewein, Jordi Grau-Moya, Rbert Csords, Mehdi Bennani, Shane Legg and Joel Veness_
+**Randomized Positional Encodings Boost Length Generalization of Transformers**<br>_Anian Ruoss, Grégoire Delétang, Tim Genewein, Jordi Grau-Moya, Róbert Csordás, Mehdi Bennani, Shane Legg and Joel Veness_
 
 **RAMP: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation**<br>_Gabriele Sarti, Phu Mon Htut, Xing Niu, Benjamin Hsu, Anna Currey, Georgiana Dinu and Maria Nadejde_
 
@@ -2090,7 +2090,7 @@ Findings
 
 **ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning**<br>_Jingyuan S. She, Christopher Potts, Samuel R. Bowman and Atticus Geiger_
 
-**NollySenti: Leveraging Transfer Learning and Machine Translation for Nigerian Movie Sentiment Classification**<br>_Iyanuoluwa Shode, David Adelani, JIng Peng and Anna Feldman_
+**NollySenti: Leveraging Transfer Learning and Machine Translation for Nigerian Movie Sentiment Classification**<br>_Iyanuoluwa Shode, David Ifeoluwa Adelani, JIng Peng and Anna Feldman_
 
 **Detecting Contradictory COVID-19 Drug Efficacy Claims from Biomedical Literature**<br>_Daniel Sosa, Malavika Suresh, Christopher Potts and Russ Altman_
 
@@ -2120,7 +2120,7 @@ Findings
 
 **Evaluating pragmatic abilities of image captioners on A3DS**<br>_Polina Tsvilodub and Michael Franke_
 
-**On the Interpretability and Significance of Bias Metrics in Texts: a PMI-based Approach**<br>_Francisco Valentini, Germn Rosati, Damin Blasi, Diego Fernandez Slezak and Edgar Altszyler_
+**On the Interpretability and Significance of Bias Metrics in Texts: a PMI-based Approach**<br>_Francisco Valentini, Germán Rosati, Damián Blasi, Diego Fernandez Slezak and Edgar Altszyler_
 
 **Abstractive Summarizers are Excellent Extractive Summarizers**<br>_Daniel Varab and Yumo Xu_
 
@@ -2138,7 +2138,7 @@ Findings
 
 **Learning Multi-Step Reasoning by Solving Arithmetic Tasks**<br>_Tianduo Wang and Wei Lu_
 
-**How to Distill your BERT: An Empirical Study on the Impact of Weight Initialisation and Distillation Objectives**<br>_Xinpeng Wang, Leonie Weissweiler, Hinrich Schtze and Barbara Plank_
+**How to Distill your BERT: An Empirical Study on the Impact of Weight Initialisation and Distillation Objectives**<br>_Xinpeng Wang, Leonie Weissweiler, Hinrich Schütze and Barbara Plank_
 
 **Zero-Shot and Few-Shot Stance Detection on Varied Topics via Conditional Generation**<br>_Haoyang Wen and Alexander Hauptmann_
 
@@ -2200,9 +2200,9 @@ Findings
 
 **Impact of Adversarial Training on Robustness and Generalizability of Language Models**<br>_Enes Altinisik, Hassan Sajjad, Husrev Sencar, Safa Messaoud and Sanjay Chawla_
 
-**Language Models for German Text Simplification: Overcoming Parallel Data Scarcity through Style-specific Pre-training**<br>_Miriam Anschtz, Joshua Oehms, Thomas Wimmer, Bartomiej Jezierski and Georg Groh_
+**Language Models for German Text Simplification: Overcoming Parallel Data Scarcity through Style-specific Pre-training**<br>_Miriam Anschütz, Joshua Oehms, Thomas Wimmer, Bartłomiej Jezierski and Georg Groh_
 
-**Distilling Efficient Language-Specific Models for Cross-Lingual Transfer**<br>_Alan Ansell, Edoardo Maria Ponti, Anna Korhonen and Ivan Vuli_
+**Distilling Efficient Language-Specific Models for Cross-Lingual Transfer**<br>_Alan Ansell, Edoardo Maria Ponti, Anna Korhonen and Ivan Vulić_
 
 **Varta: A Large-Scale Headline-Generation Dataset for Indic Languages**<br>_Rahul Aralikatte, Ziling Cheng, Sumanth Doddapaneni and Jackie Chi Kit Cheung_
 
@@ -2226,17 +2226,17 @@ Findings
 
 **Automated Refugee Case Analysis: A NLP Pipeline for Supporting Legal Practitioners**<br>_Claire Barale, Michael Rovatsos and Nehal Bhuta_
 
-**DMLM: Descriptive Masked Language Modeling**<br>_Edoardo Barba, Niccol Campolungo and Roberto Navigli_
+**DMLM: Descriptive Masked Language Modeling**<br>_Edoardo Barba, Niccolò Campolungo and Roberto Navigli_
 
 **Character Coreference Resolution in Movie Screenplays**<br>_Sabyasachee Baruah and Shrikanth Narayanan_
 
-**Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree**<br>_Connor Baumler, Anna Sotnikova and Hal Daum III_
+**Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree**<br>_Connor Baumler, Anna Sotnikova and Hal Daumé III_
 
 **An Investigation of Evaluation Methods in Automatic Medical Note Generation**<br>_Asma Ben Abacha, Wen-wai Yim, George Michalopoulos and Thomas Lin_
 
-**Masked Latent Semantic Modeling: an Efficient Pre-training Alternative to Masked Language Modeling**<br>_Gbor Berend_
+**Masked Latent Semantic Modeling: an Efficient Pre-training Alternative to Masked Language Modeling**<br>_Gábor Berend_
 
-**So many design choices: Improving and interpreting neural agent communication in signaling games**<br>_Timothe Bernard and Timothee Mickus_
+**So many design choices: Improving and interpreting neural agent communication in signaling games**<br>_Timothée Bernard and Timothee Mickus_
 
 **Similarity-Based Content Scoring - A more Classroom-Suitable Alternative to Instance-Based Scoring?**<br>_Marie Bexte, Andrea Horbach and Torsten Zesch_
 
@@ -2244,13 +2244,13 @@ Findings
 
 **Prompted Opinion Summarization with GPT-3.5**<br>_Adithya Bhaskar, Alex Fabbri and Greg Durrett_
 
-**Measuring Intersectional Biases in Historical Documents**<br>_Nadav Borenstein, Karolina Stanczak, Thea Rolskov, Natacha Klein Kfer, Natlia da Silva Perez and Isabelle Augenstein_
+**Measuring Intersectional Biases in Historical Documents**<br>_Nadav Borenstein, Karolina Stanczak, Thea Rolskov, Natacha Klein Käfer, Natália da Silva Perez and Isabelle Augenstein_
 
-**Model Interpretability and Rationale Extraction by Input Mask Optimization**<br>_Marc Brinner and Sina Zarrie_
+**Model Interpretability and Rationale Extraction by Input Mask Optimization**<br>_Marc Brinner and Sina Zarrieß_
 
 **Segment-Level and Category-Oriented Network for Knowledge-Based Referring Expression Comprehension**<br>_Yuqi Bu, Xin Wu, Liuwu Li, Yi Cai, Qiong Liu and Qingbao Huang_
 
-**Towards Distribution-shift Robust Text Classification of Emotional Content**<br>_Luana Bulla, Aldo Gangemi and Misael Mongiovi&#x27;_
+**Towards Distribution-shift Robust Text Classification of Emotional Content**<br>_Luana Bulla, Aldo Gangemi and Misael Mongiovi'_
 
 **NusaCrowd: Open Source Initiative for Indonesian NLP Resources**<br>_Samuel Cahyawijaya, Holy Lovenia, Alham Fikri Aji, Genta Winata, Bryan Wilie, Fajri Koto, Rahmad Mahendra, Christian Wibisono, Ade Romadhony, Karissa Vincentio, Jennifer Santoso, David Moeljadi, Cahya Wirawan, Frederikus Hudi, Muhammad Satrio Wicaksono, Ivan Parmonangan, Ika Alfina, Ilham Firdausi Putra, Samsul Rahmadani, Yulianti Oenang, Ali Septiandri, James Jaya, Kaustubh Dhole, Arie Suryani, Rifki Afina Putri, Dan Su, Keith Stevens, Made Nindyatama Nityasya, Muhammad Adilazuarda, Ryan Hadiwijaya, Ryandito Diandaru, Tiezheng Yu, Vito Ghifari, Wenliang Dai, Yan Xu, Dyah Damapuspita, Haryo Wibowo, Cuk Tho, Ichwanul Karo Karo, Tirana Fatyanosa, Ziwei Ji, Graham Neubig, Timothy Baldwin, Sebastian Ruder, Pascale Fung, Herry Sujaini, Sakriani Sakti and Ayu Purwarianti_
 
@@ -2262,7 +2262,7 @@ Findings
 
 **Pay More Attention to Relation Exploration for Knowledge Base Question Answering**<br>_Yong Cao, Xianzhi Li, huiwen liu, Wen Dai, shuai chen, Bin Wang, Min Chen and Daniel Hershcovich_
 
-**Additive manifesto decomposition: A policy domain aware method for understanding party positioning**<br>_Tanise Ceron, Dmitry Nikolaev and Sebastian Pad_
+**Additive manifesto decomposition: A policy domain aware method for understanding party positioning**<br>_Tanise Ceron, Dmitry Nikolaev and Sebastian Padó_
 
 **ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages**<br>_Yekun Chai, Shuohuan Wang, Chao Pang, Yu Sun, Hao Tian and Hua Wu_
 
@@ -2354,7 +2354,7 @@ Findings
 
 **Reinforcement Learning for Topic Models**<br>_Jeremy Costello and Marek Reformat_
 
-**Context-Aware Document Simplification**<br>_Liam Cripwell, Jol Legrand and Claire Gardent_
+**Context-Aware Document Simplification**<br>_Liam Cripwell, Joël Legrand and Claire Gardent_
 
 **Explanation Graph Generation via Generative Pre-training over Synthetic Graphs**<br>_Han Cui, Shangzhan Li, Yu Zhang and Qi Shi_
 
@@ -2372,13 +2372,13 @@ Findings
 
 **Clustering-Aware Negative Sampling for Unsupervised Sentence Representation**<br>_Jinghao Deng, Fanqi Wan, Tao Yang, Xiaojun Quan and Rui Wang_
 
-**A Multi-task Learning Framework for Quality Estimation**<br>_Sourabh Deoghare, Paramveer Choudhary, Diptesh Kanojia, Tharindu Ranasinghe, Pushpak Bhattacharyya and Constantin Orsan_
+**A Multi-task Learning Framework for Quality Estimation**<br>_Sourabh Deoghare, Paramveer Choudhary, Diptesh Kanojia, Tharindu Ranasinghe, Pushpak Bhattacharyya and Constantin Orăsan_
 
-**Correction of Errors in Preference Ratings from Automated Metrics for Text Generation**<br>_Jan Deriu, Pius von Dniken, Don Tuggener and Mark Cieliebak_
+**Correction of Errors in Preference Ratings from Automated Metrics for Text Generation**<br>_Jan Deriu, Pius von Däniken, Don Tuggener and Mark Cieliebak_
 
 **Honey, I Shrunk the Language: Language Model Behavior at Reduced Scale.**<br>_Vijeta Deshpande, Dan Pechi, Shree Thatte, Vladislav Lialin and Anna Rumshisky_
 
-**An Integrated Approach for Political Bias Prediction and Explanation Based on Discursive Structure**<br>_Nicolas Devatine, Philippe Muller and Chloe Braud_
+**An Integrated Approach for Political Bias Prediction and Explanation Based on Discursive Structure**<br>_Nicolas Devatine, Philippe Muller and Chloé Braud_
 
 **Aligning Offline Metrics and Human Judgments of Value for Code Generation Models**<br>_Victor Dibia, Adam Fourney, Gagan Bansal, Forough Poursabzi-Sangdeh, Han Liu and Saleema Amershi_
 
@@ -2416,7 +2416,7 @@ Findings
 
 **Scale-Invariant Infinite Hierarchical Topic Model**<br>_Shusei Eshima and Daichi Mochihashi_
 
-**Language acquisition: do children and language models follow similar learning stages?**<br>_Linnea Evanson, Yair Lakretz and Jean Rmi king_
+**Language acquisition: do children and language models follow similar learning stages?**<br>_Linnea Evanson, Yair Lakretz and Jean Rémi king_
 
 **Claim-Dissector: An Interpretable Fact-Checking System with Joint Re-ranking and Veracity Prediction**<br>_Martin Fajcik, Petr Motlicek and Pavel Smrz_
 
@@ -2504,9 +2504,9 @@ Findings
 
 **Risks and NLP Design:  A Case Study on Procedural Document QA**<br>_Nikita Haduong, Alice Gao and Noah A. Smith_
 
-**Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity**<br>_Katharina Haemmerl, Alina Fastowski, Jindich Libovick and Alexander Fraser_
+**Exploring Anisotropy and Outliers in Multilingual Language Models for Cross-Lingual Semantic Sentence Similarity**<br>_Katharina Haemmerl, Alina Fastowski, Jindřich Libovický and Alexander Fraser_
 
-**Speaking Multiple Languages Affects the Moral Bias of Language Models**<br>_Katharina Haemmerl, Bjoern Deiseroth, Patrick Schramowski, Jindich Libovick, Constantin Rothkopf, Alexander Fraser and Kristian Kersting_
+**Speaking Multiple Languages Affects the Moral Bias of Language Models**<br>_Katharina Haemmerl, Bjoern Deiseroth, Patrick Schramowski, Jindřich Libovický, Constantin Rothkopf, Alexander Fraser and Kristian Kersting_
 
 **Images in Language Space: Exploring the Suitability of Large Language Models for Vision &amp; Language Tasks**<br>_Sherzod Hakimov and David Schlangen_
 
@@ -2516,7 +2516,7 @@ Findings
 
 **RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering**<br>_Rujun Han, Peng Qi, Yuhao Zhang, Lan Liu, Juliette Burger, William Yang Wang, zhiheng huang, Bing Xiang and Dan Roth_
 
-**ECOLA: Enhancing Temporal Knowledge Embeddings with Contextualized Language Representations**<br>_Zhen Han, Ruotong Liao, Jindong Gu, Yao Zhang, Zifeng Ding, Yujia Gu, Heinz Koeppl, Hinrich Schtze and Volker Tresp_
+**ECOLA: Enhancing Temporal Knowledge Embeddings with Contextualized Language Representations**<br>_Zhen Han, Ruotong Liao, Jindong Gu, Yao Zhang, Zifeng Ding, Yujia Gu, Heinz Koeppl, Hinrich Schütze and Volker Tresp_
 
 **Rethinking Translation Memory Augmented Neural Machine Translation**<br>_Hongkun Hao, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi and Rui Wang_
 
@@ -2584,7 +2584,7 @@ Findings
 
 **Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs**<br>_Zijie Huang, Daheng Wang, Binxuan Huang, Chenwei Zhang, Jingbo Shang, Yan Liang, Zhengyang Wang, Xian Li, Christos Faloutsos, Yizhou Sun and Wei Wang_
 
-**TADA: Efficient Task-Agnostic Domain Adaptation for Transformers**<br>_Chia-Chien Hung, Lukas Lange and Jannik Strtgen_
+**TADA: Efficient Task-Agnostic Domain Adaptation for Transformers**<br>_Chia-Chien Hung, Lukas Lange and Jannik Strötgen_
 
 **EmbedTextNet: Dimension Reduction with Weighted Reconstruction and Correlation Losses for Efficient Text Embedding**<br>_Dae Yon Hwang, Bilal Taha and Yaroslav Nechaev_
 
@@ -2610,7 +2610,7 @@ Findings
 
 **Early Exit with Disentangled Representation and Equiangular Tight Frame**<br>_Yixin Ji, Jikai Wang, Juntao Li, Qiang Chen, Wenliang Chen and Min Zhang_
 
-**RHO (): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding**<br>_Ziwei Ji, Zihan Liu, Nayeon Lee, Tiezheng Yu, Bryan Wilie, Min Zeng and Pascale Fung_
+**RHO (ρ): Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding**<br>_Ziwei Ji, Zihan Liu, Nayeon Lee, Tiezheng Yu, Bryan Wilie, Min Zeng and Pascale Fung_
 
 **Reducing Sensitivity on Speaker Names for Text Generation from Dialogues**<br>_Qi Jia, Haifeng Tang and Kenny Zhu_
 
@@ -2634,13 +2634,13 @@ Findings
 
 **A Self-Supervised Integration Method of Pretrained Language Models and Word Definitions**<br>_Hwiyeol Jo_
 
-**NewsMet : A &#x27;do it all&#x27; Dataset of Contemporary Metaphors in News Headlines**<br>_Rohan Joseph, Timothy Liu, Aik Beng Ng, Simon See and Sunny Rai_
+**NewsMet : A 'do it all' Dataset of Contemporary Metaphors in News Headlines**<br>_Rohan Joseph, Timothy Liu, Aik Beng Ng, Simon See and Sunny Rai_
 
 **COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP**<br>_Fanny Jourdan, Agustin Picard, Thomas Fel, Laurent Risser, Jean-Michel Loubes and Nicholas Asher_
 
 **Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts**<br>_Tianjie Ju, Yubin Zheng, Hanyi Wang, Haodong Zhao and Gongshen Liu_
 
-**Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**<br>_Josip Juki, Martin Tutek and Jan Snajder_
+**Easy to Decide, Hard to Agree: Reducing Disagreements Between Saliency Methods**<br>_Josip Jukić, Martin Tutek and Jan Snajder_
 
 **Feature Interactions Reveal Linguistic Structure in Language Models**<br>_Jaap Jumelet and Willem Zuidema_
 
@@ -2658,7 +2658,7 @@ Findings
 
 **BigVideo: A Large-scale Video Subtitle Translation Dataset for Multimodal Machine Translation**<br>_Liyan Kang, Luyang Huang, Ningxin Peng, Peihao Zhu, Zewei Sun, Shanbo Cheng, Mingxuan Wang, Degen Huang and Jinsong Su_
 
-**Mapping Brains with Language Models: A Survey**<br>_Antonia Karamolegkou, Mostafa Abdou and Anders Sgaard_
+**Mapping Brains with Language Models: A Survey**<br>_Antonia Karamolegkou, Mostafa Abdou and Anders Søgaard_
 
 **Neural Networks Against (and For) Self-Training: Classification with Small Labeled and Large Unlabeled Sets**<br>_Payam Karisani_
 
@@ -2714,7 +2714,7 @@ Findings
 
 **When to Read Documents or QA History: On Unified and Selective Open-domain QA**<br>_Kyungjae Lee, Sang-eun Han, Seung-won Hwang and Moontae Lee_
 
-**Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**<br>_Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, Rubing Li, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang and Joo Sedoc_
+**Common Law Annotations: Investigating the Stability of Dialog System Output Annotations**<br>_Seunggun Lee, Alexandra DeLucia, Nikita Nangia, Praneeth Ganedi, Ryan Guan, Rubing Li, Britney Ngaw, Aditya Singhal, Shalaka Vaidya, Zijun Yuan, Lining Zhang and João Sedoc_
 
 **A Comparative Analysis of the Effectiveness of Rare Tokens on Creative Expression using ramBERT**<br>_Youbin Lee, Deokgi Kim, Byung-Won On and Ingyu Lee_
 
@@ -2796,7 +2796,7 @@ Findings
 
 **Attend, Select and Eliminate: Accelerating Multi-turn Response Selection with Dual-attention-based Content Elimination**<br>_Jianxin Liang, Chang Liu, Chongyang Tao, Jiazhan Feng and Dongyan Zhao_
 
-**Tokenization Impacts Multilingual Language Modeling: Assessing Vocabulary Allocation and Overlap Across Languages**<br>_Tomasz Limisiewicz, Ji Balhar and David Mareek_
+**Tokenization Impacts Multilingual Language Modeling: Assessing Vocabulary Allocation and Overlap Across Languages**<br>_Tomasz Limisiewicz, Jiří Balhar and David Mareček_
 
 **An Effective Deployment of Contrastive Learning in Multi-label Text Classification**<br>_Nankai Lin, Guanqiu Qin, Gang Wang, Dong Zhou and Aimin Yang_
 
@@ -2876,7 +2876,7 @@ Findings
 
 **A Semi-Autoregressive Graph Generative Model for Dependency Graph Parsing**<br>_Ye Ma, Mingming Sun and Ping Li_
 
-**Robustness of Multi-Source MT to Transcription Errors**<br>_Dominik Machek, Peter Polak, Ondej Bojar and Raj Dabre_
+**Robustness of Multi-Source MT to Transcription Errors**<br>_Dominik Macháček, Peter Polak, Ondřej Bojar and Raj Dabre_
 
 **CFL: Causally Fair Language Models Through Token-level Attribute Controlled Generation**<br>_Rahul Madhavan, Rishabh Garg, Kahini Wadhawan and Sameep Mehta_
 
@@ -2888,7 +2888,7 @@ Findings
 
 **On the Limitations of Simulating Active Learning**<br>_Katerina Margatina and Nikolaos Aletras_
 
-**Cross-lingual AMR Aligner: Paying Attention to Cross-Attention**<br>_Abelardo Carlos Martnez Lorenzo, Pere-Llus Huguet Cabot and Roberto Navigli_
+**Cross-lingual AMR Aligner: Paying Attention to Cross-Attention**<br>_Abelardo Carlos Martínez Lorenzo, ‪Pere-Lluís Huguet Cabot and Roberto Navigli_
 
 **Membership Inference Attacks against Language Models via Neighbourhood Comparison**<br>_Justus Mattern, Fatemehsadat Mireshghallah, Zhijing Jin, Bernhard Schoelkopf, Mrinmaya Sachan and Taylor Berg-Kirkpatrick_
 
@@ -2912,7 +2912,7 @@ Findings
 
 **Dynamic Structured Neural Topic Model with Self-Attention Mechanism**<br>_Nozomu Miyamoto, Masaru Isonuma, Sho Takase, Junichiro Mori and Ichiro Sakata_
 
-**Multi3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue**<br>_Nikita Moghe, Evgeniia Razumovskaia, Liane Guillou, Ivan Vuli, Anna Korhonen and Alexandra Birch_
+**Multi3NLU++: A Multilingual, Multi-Intent, Multi-Domain Dataset for Natural Language Understanding in Task-Oriented Dialogue**<br>_Nikita Moghe, Evgeniia Razumovskaia, Liane Guillou, Ivan Vulić, Anna Korhonen and Alexandra Birch_
 
 **RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question**<br>_Alireza Mohammadshahi, Thomas Scialom, Majid Yazdani, Pouya Yanki, Angela Fan, James Henderson and Marzieh Saeidi_
 
@@ -2936,7 +2936,7 @@ Findings
 
 **AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese**<br>_Abhijnan Nath, Sheikh Mannan and Nikhil Krishnaswamy_
 
-**Knowledge Graph Embeddings using Neural It Process: From Multiple Walks to Stochastic Trajectories**<br>_Mojtaba Nayyeri, Bo Xiong, Majid Mohammadi, Mst. Mahfuja Akter, Mirza Mohtashim Alam, Jens Lehmann and Steffen Staab_
+**Knowledge Graph Embeddings using Neural Itˆ𝑜 Process: From Multiple Walks to Stochastic Trajectories**<br>_Mojtaba Nayyeri, Bo Xiong, Majid Mohammadi, Mst. Mahfuja Akter, Mirza Mohtashim Alam, Jens Lehmann and Steffen Staab_
 
 **SConE: Simplified Cone Embeddings with Symbolic Operators for Complex Logical Queries**<br>_Chau Nguyen, Tim French, Wei Liu and Michael Stewart_
 
@@ -2948,7 +2948,7 @@ Findings
 
 **VoteTRANS: Detecting Adversarial Text without Training by Voting on Hard Labels of Transformations**<br>_Hoang-Quoc Nguyen-Son, Seira Hidano, Kazuhide Fukushima, Shinsaku Kiyomoto and Isao Echizen_
 
-**Cross-Lingual Retrieval Augmented Prompt for Low-Resource Languages**<br>_Ercong Nie, Sheng Liang, Helmut Schmid and Hinrich Schtze_
+**Cross-Lingual Retrieval Augmented Prompt for Low-Resource Languages**<br>_Ercong Nie, Sheng Liang, Helmut Schmid and Hinrich Schütze_
 
 **AttenWalker: Unsupervised Long-Document Question Answering via Attention-based Graph Walking**<br>_Yuxiang Nie, Heyan Huang, Wei Wei and Xian-Ling Mao_
 
@@ -2976,13 +2976,13 @@ Findings
 
 **LR-Sum: Summarization for Less-Resourced Languages**<br>_Chester Palen-Michel and Constantine Lignos_
 
-**HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language**<br>_Shantipriya Parida, Idris Abdulmumin, Shamsuddeen Hassan Muhammad, Aneesh Bose, Guneet Kohli, Ibrahim Said Ahmad, Ketan Kotwal, Sayan Deb Sarkar, Ondej Bojar and Habeebah Kakudi_
+**HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language**<br>_Shantipriya Parida, Idris Abdulmumin, Shamsuddeen Hassan Muhammad, Aneesh Bose, Guneet Singh Kohli, Ibrahim Said Ahmad, Ketan Kotwal, Sayan Deb Sarkar, Ondřej Bojar and Habeebah Kakudi_
 
 **DEnsity: Open-domain Dialogue Evaluation Metric using Density Estimation**<br>_ChaeHun Park, Seungil Lee, Daniel Rim and Jaegul Choo_
 
 **Cross-task Knowledge Transfer for Extremely Weakly Supervised Text Classification**<br>_Seongmin Park, kyungho kim and Jihwa Lee_
 
-**Cross-Lingual Transfer with Target Language-Ready Task Adapters**<br>_Marinela Parovic, Alan Ansell, Ivan Vuli and Anna Korhonen_
+**Cross-Lingual Transfer with Target Language-Ready Task Adapters**<br>_Marinela Parovic, Alan Ansell, Ivan Vulić and Anna Korhonen_
 
 **Few-shot Low-resource Knowledge Graph Completion with Reinforced Task Generation**<br>_Shichao Pei, qiannan zhang and Xiangliang Zhang_
 
@@ -2994,9 +2994,9 @@ Findings
 
 **GeoDRL: A Self-Learning Framework for Geometry Problem Solving using Reinforcement Learning in Deductive Reasoning**<br>_Shuai Peng, Di Fu, Yijun Liang, Liangcai Gao and Zhi TANG_
 
-**Discovering Language Model Behaviors with Model-Written Evaluations**<br>_Ethan Perez, Sam Ringer, Kamile Lukosiute, Karina Nguyen, Edwin Chen, Scott Heiner, Craig R. Pettit, Catherine Olsson, Sandipan Kundu, Saurav K. Kadavath, Andy Jones, Anna Chen, Benjamin Mann, Brian R. Israel, Bryan Seethor, Cameron McKinnon, Christopher Olah, Da Yan, Daniela Amodei, Dario Amodei, Dawn Drain, Dustin Li, Eli Tran-Johnson, Guro Khundadze, Jackson Kernion, James Landis, Jamie D. Kerr, Jared Mueller, Jeeyoon Hyun, Joshua Lee Landau, kamal ndousse, Landon Goldberg, Liane Lovitt, Martin Lucas, Michael Sellitto, Miranda Huixin Zhang, Neerav Kingsland, Nelson Elhage, Nicholas Joseph, Noemi Mercado, Nova Xenia DasSarma, Oliver Rausch, Robin Larson, Sam McCandlish, Scott Johnston, Shauna Kravec, Sheer El Showk, Tamera Lanham, Timothy Telleen-Lawton, Tom Brown, Tom Henighan, Tristan Glen Hume, Yuntao Bai, Zac Hatfield-Dodds, Jack Clark, Samuel R. Bowman, Amanda Askell, Roger Baker Grosse, Danny Hernandez, Deep Ganguli, Evan J. Hubinger, Nicholas Schiefer and Jared Kaplan_
+**Discovering Language Model Behaviors with Model-Written Evaluations**<br>_Ethan Perez, Sam Ringer, Kamile Lukosiute, Karina Nguyen, Edwin Chen, Scott Heiner, Craig Pettit, Catherine Olsson, Sandipan Kundu, Saurav Kadavath, Andy Jones, Anna Chen, Benjamin Mann, Brian Israel, Bryan Seethor, Cameron McKinnon, Christopher Olah, Da Yan, Daniela Amodei, Dario Amodei, Dawn Drain, Dustin Li, Eli Tran-Johnson, Guro Khundadze, Jackson Kernion, James Landis, Jamie Kerr, Jared Mueller, Jeeyoon Hyun, Joshua Landau, kamal ndousse, Landon Goldberg, Liane Lovitt, Martin Lucas, Michael Sellitto, Miranda Zhang, Neerav Kingsland, Nelson Elhage, Nicholas Joseph, Noemi Mercado, Nova DasSarma, Oliver Rausch, Robin Larson, Sam McCandlish, Scott Johnston, Shauna Kravec, Sheer El Showk, Tamera Lanham, Timothy Telleen-Lawton, Tom Brown, Tom Henighan, Tristan Hume, Yuntao Bai, Zac Hatfield-Dodds, Jack Clark, Samuel R. Bowman, Amanda Askell, Roger Grosse, Danny Hernandez, Deep Ganguli, Evan Hubinger, Nicholas Schiefer and Jared Kaplan_
 
-**Exploring Variation of Results from Different Experimental Conditions**<br>_Maja Popovi, Mohammad Arvan, Natalie Parde and Anya Belz_
+**Exploring Variation of Results from Different Experimental Conditions**<br>_Maja Popović, Mohammad Arvan, Natalie Parde and Anya Belz_
 
 **Generating Labeled Data for Relation Extraction: A Meta Learning Approach with Joint GPT-2 Training**<br>_Amir Pouran Ben Veyseh, Franck Dernoncourt, Bonan Min and Thien Nguyen_
 
@@ -3048,13 +3048,13 @@ Findings
 
 **DKAF: KB Arbitration for Learning Task-Oriented Dialog Systems with Dialog-KB Inconsistencies**<br>_Vishal Saley, Rocktim Das, Dinesh Raghu and Mausam_
 
-**Tokenization with Factorized Subword Encoding**<br>_David Samuel and Lilja vrelid_
+**Tokenization with Factorized Subword Encoding**<br>_David Samuel and Lilja Øvrelid_
 
 **Moving Beyond Downstream Task Accuracy for Information Retrieval Benchmarking**<br>_Keshav Santhanam, Jon Saad-Falcon, Martin Franz, Omar Khattab, Avi Sil, Radu Florian, Md Arafat Sultan, Salim Roukos, Matei Zaharia and Christopher Potts_
 
 **Curating Datasets for Better Performance with Example Training Dynamics**<br>_Aviad Sar-Shalom and Roy Schwartz_
 
-**Echoes from Alexandria: A Large Resource for Multilingual Book Summarization**<br>_Alessandro Scir, Simone Conia, Simone Ciciliano and Roberto Navigli_
+**Echoes from Alexandria: A Large Resource for Multilingual Book Summarization**<br>_Alessandro Scirè, Simone Conia, Simone Ciciliano and Roberto Navigli_
 
 **Stubborn Lexical Bias in Data and Models**<br>_Sofia Serrano, Jesse Dodge and Noah A. Smith_
 
@@ -3072,7 +3072,7 @@ Findings
 
 **A Unified Generative Approach to Product Attribute-Value Identification**<br>_Keiji Shinzato, Naoki Yoshinaga, Yandi Xia and Wei-Te Chen_
 
-**Distilling Reasoning Capabilities into Smaller Language Model**<br>_Kumar Shridhar, Alessandro Stolfo and Mrinmaya Sachan_
+**Distilling Reasoning Capabilities into Smaller Language Models**<br>_Kumar Shridhar, Alessandro Stolfo and Mrinmaya Sachan_
 
 **SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition**<br>_Shuzheng Si, Zefan Cai, Shuang Zeng, Guoqiang Feng, Jiaxing Lin and Baobao Chang_
 
@@ -3092,7 +3092,7 @@ Findings
 
 **PruMUX: Augmenting Data Multiplexing with Model Compression**<br>_Yushan Su, Vishvak Murahari, Karthik Narasimhan and Kai Li_
 
-**It Takes Two to Tango: Navigating Conceptualizations of NLP Tasks and Measurements of Performance**<br>_Arjun Subramonian, Xingdi Yuan, Hal Daum III and Su Lin Blodgett_
+**It Takes Two to Tango: Navigating Conceptualizations of NLP Tasks and Measurements of Performance**<br>_Arjun Subramonian, Xingdi Yuan, Hal Daumé III and Su Lin Blodgett_
 
 **On Degrees of Freedom in Defining and Testing Natural Language Understanding**<br>_Saku Sugawara and Shun Tsugita_
 
@@ -3112,11 +3112,11 @@ Findings
 
 **Follow the Wisdom of the Crowd: Effective Text Generation via Minimum Bayes Risk Decoding**<br>_Mirac Suzgun, Luke Melas-Kyriazi and Dan Jurafsky_
 
-**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**<br>_Mirac Suzgun, Nathan Scales, Nathanael Schrli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc Le, Ed Chi, Denny Zhou and Jason Wei_
+**Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**<br>_Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc Le, Ed Chi, Denny Zhou and Jason Wei_
 
 **B2T Connection: Serving Stability and Performance in Deep Transformers**<br>_Sho Takase, Shun Kiyono, Sosuke Kobayashi and Jun Suzuki_
 
-**Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind**<br>_Ece Takmaz, Nicolo&#x27; Brandizzi, Mario Giulianelli, Sandro Pezzelle and Raquel Fernandez_
+**Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind**<br>_Ece Takmaz, Nicolo' Brandizzi, Mario Giulianelli, Sandro Pezzelle and Raquel Fernandez_
 
 **Evaluating the Factual Consistency of Large Language Models Through News Summarization**<br>_Derek Tam, Anisha Mascarenhas, Shiyue Zhang, Sarah Kwan, Mohit Bansal and Colin Raffel_
 
@@ -3160,21 +3160,21 @@ Findings
 
 **Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models**<br>_Eddie Ungless, Bjorn Ross and Anne Lauscher_
 
-**Scaling Laws for BERT in Low-Resource Settings**<br>_Gorka Urbizu, Iaki San Vicente, Xabier Saralegi, Rodrigo Agerri and Aitor Soroa_
+**Scaling Laws for BERT in Low-Resource Settings**<br>_Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Rodrigo Agerri and Aitor Soroa_
 
 **Multi-armed bandits for resource efficient, online optimization of language model pre-training: the use case of dynamic masking**<br>_Inigo Urteaga, Moulay Zaidane Draidia, Tomer Lancewicki and Shahram Khadivi_
 
 **RISE: Leveraging Retrieval Techniques for Summarization Evaluation**<br>_David Uthus and Jianmo Ni_
 
-**Theory of Mind in Freely-Told Children&#x27;s Narratives: A Classification Approach**<br>_Bram van Dijk, Marco Spruit and Max van Duijn_
+**Theory of Mind in Freely-Told Children's Narratives: A Classification Approach**<br>_Bram van Dijk, Marco Spruit and Max van Duijn_
 
 **A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution**<br>_Neeraj Varshney, Himanshu Gupta, Eric Robertson, Bing Liu and Chitta Baral_
 
-**Incorporating Graph Information in Transformer-based AMR Parsing**<br>_Pavlo Vasylenko, Pere-Llus Huguet Cabot, Abelardo Carlos Martnez Lorenzo and Roberto Navigli_
+**Incorporating Graph Information in Transformer-based AMR Parsing**<br>_Pavlo Vasylenko, ‪Pere-Lluís Huguet Cabot, Abelardo Carlos Martínez Lorenzo and Roberto Navigli_
 
-**Using Collostructional Analysis to evaluate BERT&#x27;s representation of linguistic constructions**<br>_Tim Veenboer and Jelke Bloem_
+**Using Collostructional Analysis to evaluate BERT's representation of linguistic constructions**<br>_Tim Veenboer and Jelke Bloem_
 
-**Few Shot Rationale Generation using Self-Training with Dual Teachers**<br>_Aditya Srikanth Veerubhotla, Lahari Poddar, Jun Yin, Gyrgy Szarvas and Sharanya Eswaran_
+**Few Shot Rationale Generation using Self-Training with Dual Teachers**<br>_Aditya Srikanth Veerubhotla, Lahari Poddar, Jun Yin, György Szarvas and Sharanya Eswaran_
 
 **MTCue: Learning Zero-Shot Control of Extra-Textual Attributes by Leveraging Unstructured Context in Neural Machine Translation**<br>_Sebastian Vincent, Robert Flynn and Carolina Scarton_
 
@@ -3186,7 +3186,7 @@ Findings
 
 **Better Zero-Shot Reasoning with Self-Adaptive Prompting**<br>_Xingchen Wan, Ruoxi SUN, Hanjun Dai, Sercan Arik and Tomas Pfister_
 
-**Know What I don&#x27;t Know: Handling Ambiguous and Unknown Questions for Text-to-SQL**<br>_Bing Wang, Yan Gao, Zhoujun Li and Jian-Guang LOU_
+**Know What I don't Know: Handling Ambiguous and Unknown Questions for Text-to-SQL**<br>_Bing Wang, Yan Gao, Zhoujun Li and Jian-Guang LOU_
 
 **Boosting Event Extraction with Denoised Structure-to-Text Augmentation**<br>_bo wang, Heyan Huang, Xiaochi Wei, Ge Shi, Xiao Liu, Chong Feng, Tong Zhou, Shuaiqiang WANG and Dawei Yin_
 
@@ -3254,7 +3254,7 @@ Findings
 
 **Towards Alleviating the Object Bias in Prompt Tuning-based Factual Knowledge Extraction**<br>_Yuhang Wang, Dongyuan Lu, Chao Kong and Jitao Sang_
 
-**Shu o Wn Jie Z: Rethinking Dictionaries and Glyphs for Chinese Language Pre-training**<br>_Yuxuan Wang, Jack Wang, Dongyan Zhao and Zilong Zheng_
+**Shu ̄o Wén Jiˇe Zì: Rethinking Dictionaries and Glyphs for Chinese Language Pre-training**<br>_Yuxuan Wang, Jack Wang, Dongyan Zhao and Zilong Zheng_
 
 **Scene-robust Natural Language Video Localization via Learning Domain-invariant Representations**<br>_zehan wang, Yang Zhao, Haifeng Huang, yan xia and Zhou Zhao_
 
@@ -3302,7 +3302,7 @@ Findings
 
 **Probabilistic Transformer: A Probabilistic Dependency Model for Contextual Word Representation**<br>_Haoyi Wu and Kewei Tu_
 
-**TACR: A Table Alignment-based Cell Selection Method for HybridQA**<br>_Jian Wu, YICHENG XU, Yan Gao, Jian-Guang LOU, Brje Karlsson and Manabu Okumura_
+**TACR: A Table Alignment-based Cell Selection Method for HybridQA**<br>_Jian Wu, YICHENG XU, Yan Gao, Jian-Guang LOU, Börje Karlsson and Manabu Okumura_
 
 **Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**<br>_Siwei Wu, Xiangqing Shen and Rui Xia_
 
@@ -3402,7 +3402,7 @@ Findings
 
 **Complementary Explanations for Effective In-Context Learning**<br>_Xi Ye, Srinivasan Iyer, Asli Celikyilmaz, Veselin Stoyanov, Greg Durrett and Ramakanth Pasunuru_
 
-**A Statistical Exploration of Text Partition Into Constituents: The Case of the Priestly Source in the Books of Genesis and Exodus**<br>_Gideon Yoffe, Axel Bhler, Nachum Dershowitz, Thomas Romer, Eli Piasetzky, Israel Finkelstein and Barak Sober_
+**A Statistical Exploration of Text Partition Into Constituents: The Case of the Priestly Source in the Books of Genesis and Exodus**<br>_Gideon Yoffe, Axel Bühler, Nachum Dershowitz, Thomas Romer, Eli Piasetzky, Israel Finkelstein and Barak Sober_
 
 **FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery**<br>_Changlong Yu, Weiqi Wang, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao and Bing Yin_
 
@@ -3480,7 +3480,7 @@ Findings
 
 **TempLM: Distilling Language Models into Template-Based Generators**<br>_Tianyi Zhang, Mina Lee, Xiang Lisa Li, Ende Shen and Tatsunori Hashimoto_
 
-**Investigating Glyph-Phonetic Information for Chinese Spell Checking: What Works and What&#x27;s Next?**<br>_Xiaotian Zhang, Yanjun Zheng, Hang Yan and Xipeng Qiu_
+**Investigating Glyph-Phonetic Information for Chinese Spell Checking: What Works and What's Next?**<br>_Xiaotian Zhang, Yanjun Zheng, Hang Yan and Xipeng Qiu_
 
 **Disentangling Text Representation With Counter-Template For Unsupervised Opinion Summarization**<br>_Yanyue Zhang and Deyu Zhou_
 
@@ -3512,9 +3512,9 @@ Findings
 
 **Understanding Programs by Exploiting (Fuzzing) Test Cases**<br>_Jianyu Zhao, Yuyang Rong, Yiwen Guo, Yifeng He and Hao Chen_
 
-**Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models**<br>_Lingjun Zhao, Khanh Nguyen and Hal Daum III_
+**Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models**<br>_Lingjun Zhao, Khanh Nguyen and Hal Daumé III_
 
-**Don&#x27;t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness**<br>_Weixiang Zhao, Yanyan Zhao, Xin Lu and Bing Qin_
+**Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness**<br>_Weixiang Zhao, Yanyan Zhao, Xin Lu and Bing Qin_
 
 **TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition**<br>_Weixiang Zhao, Yanyan Zhao, Shilong Wang and Bing Qin_
 
@@ -3606,7 +3606,7 @@ Findings
 
 **UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning**<br>_Heqing Zou, Meng Shen, Chen Chen, Yuchen Hu, Deepu Rajan and Eng Siong Chng_
 
-**A Formal Perspective on Byte-Pair Encoding**<br>_Vilm Zouhar, Clara Meister, Juan Gastaldi, Li Du, Tim Vieira, Mrinmaya Sachan and Ryan Cotterell_
+**A Formal Perspective on Byte-Pair Encoding**<br>_Vilém Zouhar, Clara Meister, Juan Gastaldi, Li Du, Tim Vieira, Mrinmaya Sachan and Ryan Cotterell_
 
 
 ### <span style="font-size:larger;">Short Papers</span>
@@ -3618,7 +3618,7 @@ Findings
 
 **AraMUS: Pushing the Limits of Data and Model Scale for Arabic Natural Language Processing**<br>_Asaad Alghamdi, Xinyu Duan, Wei Jiang, Zhenhai Wang, Yimeng Wu, Qingrong Xia, Zhefeng Wang, Yi ZHENG, Mehdi Rezagholizadeh, baoxing Huai, Peilun Cheng and Abbas Ghaddar_
 
-**Data-Efficient French Language Modeling with CamemBERTa**<br>_Wissam Antoun, Benot Sagot and Djam Seddah_
+**Data-Efficient French Language Modeling with CamemBERTa**<br>_Wissam Antoun, Benoît Sagot and Djamé Seddah_
 
 **Hybrid Hierarchical Retrieval for Open-Domain Question Answering**<br>_Manoj Ghuhan Arivazhagan, Lan Liu, Peng Qi, Xinchi Chen, William Yang Wang and zhiheng huang_
 
@@ -3642,9 +3642,9 @@ Findings
 
 **Evaluation for Change**<br>_Rishi Bommasani_
 
-**On the Expressivity Role of LayerNorm in Transformers&#x27; Attention**<br>_Shaked Brody, Uri Alon and Eran Yahav_
+**On the Expressivity Role of LayerNorm in Transformers' Attention**<br>_Shaked Brody, Uri Alon and Eran Yahav_
 
-**Coherent or Not? Stressing a Neural Language Model for Discourse Coherence in Multiple Languages**<br>_Dominique Brunato, Felice Dell&#x27;Orletta, irene dini and Andrea Amelio Ravelli_
+**Coherent or Not? Stressing a Neural Language Model for Discourse Coherence in Multiple Languages**<br>_Dominique Brunato, Felice Dell'Orletta, irene dini and Andrea Amelio Ravelli_
 
 **Masked Audio Text Encoders are Effective Multi-Modal Rescorers**<br>_Jinglun Cai, Monica Sunkara, Xilai Li, Anshu Bhatia, Xiao Pan and Sravan Bodapati_
 
@@ -3670,7 +3670,7 @@ Findings
 
 **Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker**<br>_Sukmin Cho, Soyeong Jeong, Jeong yeon Seo and Jong Park_
 
-**Putting Natural in Natural Language Processing**<br>_Grzegorz Chrupaa_
+**Putting Natural in Natural Language Processing**<br>_Grzegorz Chrupała_
 
 **Temporal Relation Classification using Boolean Question Answering**<br>_Omer Cohen and Kfir Bar_
 
@@ -3678,7 +3678,7 @@ Findings
 
 **Cost-effective Distillation of Large Language Models**<br>_Sayantan Dasgupta, Trevor Cohn and Timothy Baldwin_
 
-**CDA: A Contrastive Data Augmentation Method for Alzheimer&#x27;s Disease Detection**<br>_Junwen Duan, Fangyuan Wei, Jin Liu, Hongdong Li, Tianming Liu and Jianxin Wang_
+**CDA: A Contrastive Data Augmentation Method for Alzheimer's Disease Detection**<br>_Junwen Duan, Fangyuan Wei, Jin Liu, Hongdong Li, Tianming Liu and Jianxin Wang_
 
 **DivHSK: Diverse Headline Generation using Self-Attention based Keyword Selection**<br>_Venkatesh E, Kaushal Maurya, Deepak Kumar and Maunendra Sankar Desarkar_
 
@@ -3696,11 +3696,11 @@ Findings
 
 **Reasoning in Large Language Models Through Symbolic Math Word Problems**<br>_Vedant Gaur and Nikunj Saunshi_
 
-**It&#x27;s not Sexually Suggestive; It&#x27;s Educative | Separating Sex Education from Suggestive Content on TikTok videos**<br>_Enfa George and Mihai Surdeanu_
+**It's not Sexually Suggestive; It's Educative | Separating Sex Education from Suggestive Content on TikTok videos**<br>_Enfa George and Mihai Surdeanu_
 
 **Gender-tuning: Empowering Fine-tuning for Debiasing Pre-trained Language Models**<br>_Somayeh Ghanbarzadeh, Yan Huang, Hamid Palangi, Radames Cruz Moreno and Hamed Khanpour_
 
-**Know Where You&#x27;re Going: Meta-Learning for Parameter-Efficient Fine-Tuning**<br>_Mozhdeh Gheini, Xuezhe Ma and Jonathan May_
+**Know Where You're Going: Meta-Learning for Parameter-Efficient Fine-Tuning**<br>_Mozhdeh Gheini, Xuezhe Ma and Jonathan May_
 
 **Bias Beyond English: Counterfactual Tests for Bias in Sentiment Analysis in Four Languages**<br>_Seraphina Goldfarb-Tarrant, Adam Lopez, Roi Blanco and Diego Marcheggiani_
 
@@ -3708,7 +3708,7 @@ Findings
 
 **Mitigating the Learning Bias towards Repetition by Self-Contrastive Training for Open-Ended Generation**<br>_Jian Guan and Minlie Huang_
 
-**It is a Bird Therefore it is a Robin: On BERT&#x27;s Internal Consistency Between Hypernym Knowledge and Logical Words**<br>_Nicolas Guerin and Emmanuel Chemla_
+**It is a Bird Therefore it is a Robin: On BERT's Internal Consistency Between Hypernym Knowledge and Logical Words**<br>_Nicolas Guerin and Emmanuel Chemla_
 
 **Run Like a Girl! Sport-Related Gender Bias in Language and Vision**<br>_Sophia Harrison, Eleonora Gualdoni and Gemma Boleda_
 
@@ -3732,11 +3732,11 @@ Findings
 
 **Multi-Dimensional Evaluation of Text Summarization with In-Context Learning**<br>_Sameer Jain, Vaishakh Keshava, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig and Chunting Zhou_
 
-**Assessing Word Importance Using Models Trained for Semantic Tasks**<br>_David Javorsky, Ondej Bojar and Franois Yvon_
+**Assessing Word Importance Using Models Trained for Semantic Tasks**<br>_David Javorsky, Ondřej Bojar and François Yvon_
 
-**On Dataset Transferability in Active Learning for Transformers**<br>_Fran Jeleni, Josip Jukic, Nina Drobac and Jan Snajder_
+**On Dataset Transferability in Active Learning for Transformers**<br>_Fran Jelenić, Josip Jukic, Nina Drobac and Jan Snajder_
 
-**Response-conditioned Turn-taking Prediction**<br>_Bing&#x27;er Jiang, Erik Ekstedt and Gabriel Skantze_
+**Response-conditioned Turn-taking Prediction**<br>_Bing'er Jiang, Erik Ekstedt and Gabriel Skantze_
 
 **Exploiting Commonsense Knowledge about Objects for Visual Activity Recognition**<br>_Tianyu Jiang and Ellen Riloff_
 
@@ -3838,9 +3838,9 @@ Findings
 
 **Augmenting Large Language Model Translators via Translation Memories**<br>_Yongyu Mu, Abudurexiti Reheman, Zhiquan Cao, Yuchun Fan, Bei Li, Yinqiao Li, Tong Xiao, Chunliang Zhang and Jingbo Zhu_
 
-**Another Dead End for Morphological Tags? Perturbed Inputs and Parsing**<br>_Alberto Muoz-Ortiz and David Vilares_
-
 **Do transformer models do phonology like a linguist?**<br>_Saliha Muradoglu and Mans Hulden_
+
+**Another Dead End for Morphological Tags? Perturbed Inputs and Parsing**<br>_Alberto Muñoz-Ortiz and David Vilares_
 
 **Entropy-guided Vocabulary Augmentation of Multilingual Language Models for Low-resource Tasks**<br>_Arijit Nag, bidisha Samanta, Animesh Mukherjee, Niloy Ganguly and Soumen Chakrabarti_
 
@@ -3850,11 +3850,11 @@ Findings
 
 **A Two-Stage Decoder for Efficient ICD Coding**<br>_Thanh-Tung Nguyen, Viktor Schlegel, Abhinav Ramesh Kashyap and Stefan Winkler_
 
-**People and Places of Historical Europe: Bootstrapping Annotation Pipeline and a New Corpus of Named Entities in Late Medieval Texts**<br>_Vit Novotny, Kristina Luger, Michal tefnik, Tereza Vrabcova and Ales Horak_
+**People and Places of Historical Europe: Bootstrapping Annotation Pipeline and a New Corpus of Named Entities in Late Medieval Texts**<br>_Vit Novotny, Kristina Luger, Michal Štefánik, Tereza Vrabcova and Ales Horak_
 
 **The State of Profanity Obfuscation in Natural Language Processing Scientific Publications**<br>_Debora Nozza and Dirk Hovy_
 
-**C-XNLI: Croatian Extension of XNLI Dataset**<br>_Leo Obadi, Andrej Jertec, Marko Rajnovi and Branimir Dropulji_
+**C-XNLI: Croatian Extension of XNLI Dataset**<br>_Leo Obadić, Andrej Jertec, Marko Rajnović and Branimir Dropuljić_
 
 **Evaluation of Question Generation Needs More References**<br>_Shinhyeok Oh, Hyojun Go, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee and Seungtaek Choi_
 
@@ -3926,7 +3926,7 @@ Findings
 
 **Better Language Models of Code through Self-Improvement**<br>_Hung To, Nghi Bui, Jin L.C. Guo and Tien Nguyen_
 
-**Not Enough Data to Pre-train Your Language Model? MT to the Rescue!**<br>_Gorka Urbizu, Iaki San Vicente, Xabier Saralegi and Ander Corral_
+**Not Enough Data to Pre-train Your Language Model? MT to the Rescue!**<br>_Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi and Ander Corral_
 
 **An Empirical Comparison of LM-based Question and Answer Generation Methods**<br>_Asahi Ushio, Fernando Alva-Manchego and Jose Camacho-Collados_
 
@@ -3966,13 +3966,13 @@ Findings
 
 **Multi-Domain Dialogue State Tracking with Disentangled Domain-Slot Attention**<br>_Longfei Yang, Jiyi Li, Sheng Li and Takahiro Shinozaki_
 
-**Do Large Language Models Know What They Don&#x27;t Know?**<br>_Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang_
+**Do Large Language Models Know What They Don't Know?**<br>_Zhangyue Yin, Qiushi Sun, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang_
 
 **INTapt: Information-Theoretic Adversarial Prompt Tuning for Enhanced Non-Native Speech Recognition**<br>_Eunseop Yoon, Hee Suk Yoon, John Harvill, Mark Hasegawa-Johnson and Chang Yoo_
 
 **Unified Language Representation for Question Answering over Text, Tables, and Images**<br>_Bowen Yu, Cheng Fu, Haiyang Yu, Fei Huang and Yongbin Li_
 
-**Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation**<br>_Xingdi Yuan, Tong Wang, Yen-Hsiang Wang, Emery Fine, Rania Abdelghani, Hlne Sauzon and Pierre-Yves Oudeyer_
+**Selecting Better Samples from Pre-trained LLMs: A Case Study on Question Generation**<br>_Xingdi Yuan, Tong Wang, Yen-Hsiang Wang, Emery Fine, Rania Abdelghani, Hélène Sauzéon and Pierre-Yves Oudeyer_
 
 **Causal Matching with Text Embeddings: A Case Study in Estimating the Causal Effects of Peer Review Policies**<br>_Raymond Zhang, Neha Nayak Kennard, Daniel Smith, Daniel McFarland, Andrew McCallum and Katherine Keith_
 
@@ -3989,4 +3989,3 @@ Findings
 **Enhancing Cross-lingual Prompting with Dual Prompt Augmentation**<br>_Meng Zhou, Xin Li, Yue Jiang and Lidong Bing_
 
 **Towards Unified Spoken Language Understanding Decoding via Label-aware Compact Linguistics Representations**<br>_Zhihong Zhu, Xuxin Cheng, Zhiqi Huang, Dongsheng Chen and Yuexian Zou_
-
