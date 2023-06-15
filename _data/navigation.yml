@@ -36,8 +36,6 @@ program:
     children:
       - title: "Conference Overview"
         url: /program/
-      - title: "Accepted Papers"
-        url: /program/accepted/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
@@ -48,6 +46,16 @@ program:
         url: /program/keynotes/
       - title: "Social Programs"
         url: /program/social/
+  - title: "Accepted Papers"
+    children:
+      - title: "Main Conference"
+        url: /program/accepted_main_conference/
+      - title: "Findings"
+        url: /program/accepted_findings/
+      - title: "Industry Track"
+        url: /program/accepted_industry_track/
+      - title: "System Demonstration"
+        url: /program/accepted_system_demonstration/
 
 calls:
   - title: "Call for Papers"

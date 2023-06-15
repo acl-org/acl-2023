@@ -22,7 +22,7 @@ More information will be announced soon.
 | 2023-06-15 | [Call for D&I Socials and BoF Sessions Organizers](/calls/bof/) is posted under the *Calls*.
 | 2023-06-12 | [Tutorial Schedule](/program/tutorials) is posted under the *Program*.
 | 2023-06-12 | [Workshop Schedule](/program/workshops) is posted under the *Program*.
-| 2023-06-09 | [Accepted Papers](/program/accepted/) is posted under the *Program*.
+| 2023-06-09 | [Accepted Papers for Main Conference](/program/accepted_main_conference/) is posted under the *Program*.
 | 2023-06-08 | [Ethical Policies](/participants/ethical_policies/) is posted under the *Participants*.
 | 2023-06-02 | [Conference Schedule](/program/) is posted under the *Program*.
 | 2023-05-31 | [Keynotes](/program/keynotes/) are posted under the *Program*.
