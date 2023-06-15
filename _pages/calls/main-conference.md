@@ -1,5 +1,5 @@
 ---
-title: Call for Main Conference Papers
+title: Main Conference
 layout: single
 permalink: /calls/main_conference/
 sidebar: 

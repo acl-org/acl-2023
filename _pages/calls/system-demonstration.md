@@ -1,5 +1,5 @@
 ---
-title: Call for System Demonstration Papers
+title: System Demonstration
 layout: single
 permalink: /calls/system_demonstration/
 sidebar: 

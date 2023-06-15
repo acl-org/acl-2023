@@ -70,6 +70,10 @@ calls:
     children:
       - title: "Diversity & Inclusion Program"
         url: /calls/subsidies/
+  - title: "Call for Organizers"
+    children:
+      - title: "D&I Socials & BoF Sessions"
+        url: /calls/bof/
   - title: "Call for Proposals"
     children:
       - title: "Workshops"

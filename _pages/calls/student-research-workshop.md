@@ -1,5 +1,5 @@
 ---
-title: Call for Student Research Workshop Papers
+title: Student Research Workshop
 layout: single
 permalink: /calls/student_research_workshop/
 sidebar: 
