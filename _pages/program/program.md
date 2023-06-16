@@ -3,9 +3,11 @@ title: Conference Overview
 layout: single
 excerpt: "ACL 2023 Conference Overview."
 permalink: /program/
-toc: false
 sidebar:
     nav: program
+toc: true
+toc_sticky: true
+toc_icon: "cog"
 ---
 
 <style>
