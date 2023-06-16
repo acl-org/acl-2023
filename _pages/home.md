@@ -19,6 +19,7 @@ More information will be announced soon.
 .news-table { font-size: .8em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-06-15 | [Accepted Papers for Industry Track](/program/accepted_industry_track/) is posted under the *Program*.
 | 2023-06-15 | [Accepted Papers for System Demonstration](/program/accepted_system_demonstration/) is posted under the *Program*.
 | 2023-06-15 | [Call for D&I Socials and BoF Sessions Organizers](/calls/bof/) is posted under the *Calls*.
 | 2023-06-12 | [Tutorial Schedule](/program/tutorials) is posted under the *Program*.
