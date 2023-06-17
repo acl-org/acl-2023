@@ -69,6 +69,7 @@ toc_icon: "cog"
 | 16:15 | 17:45 | Conference Session 8 |
 | 18:30 | 22:00 | Social Event ([Steam Whistle Brewing / Canada’s Premium Beer](https://steamwhistle.ca)) |
 
+* Memorial Organizers: Smaranda Muresan, Kathleen McKeown, Rada Mihalcea
 * Registration: 07:30 - 17:30, Harbour Foyer
 * Social Event: name badge required to access
 {: .notes}
