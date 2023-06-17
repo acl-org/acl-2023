@@ -63,7 +63,8 @@ toc_icon: "cog"
 | 11:00 | 12:30 | Conference Session 6 |
 | 12:30 | 13:00 | Lunch Break | 
 | 13:00 | 13:30 | Dr. Dragomir Radev Memorial |
-| 13:30 | 14:45 | Business Meeting
+| 13:30 | 14:10 | Business Meeting |
+| 14:15 | 14:45 | ARR Discussion |
 | 14:45 | 15:45 | Panel: Large Language Models |
 | 15:45 | 16:15 | Coffee Break |
 | 16:15 | 17:45 | Conference Session 8 |
