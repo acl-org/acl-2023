@@ -96,6 +96,8 @@ committees:
         url: /committees/organization/
       - title: "Program Committee"
         url: /committees/program/
+      - title: "Best Paper Committee"
+        url: /committees/best_paper/
 
 participants:
   - title: "Participants Information"

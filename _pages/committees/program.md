@@ -1,15 +1,11 @@
 ---
 title: Program Committee
 layout: single
-excerpt: "ACL 2023 senior program committee."
+excerpt: "ACL 2023 Senior Program Committee."
 permalink: /committees/program/
 sidebar:
     nav: "committees"
 ---
-
-## Best Paper Committee
-
-
 
 ## Senior Area Chairs
 
@@ -305,7 +301,7 @@ sidebar:
    name="Sunayana Sitaram"
    picture="/assets/images/committee/sunayana_sitaram.jpg"
    site="https://www.microsoft.com/en-us/research/people/susitara/"
-   institution="Microsoft Research India (India)"
+   institution="Microsoft Research (India)"
 %}
 
 ### NLP Applications
