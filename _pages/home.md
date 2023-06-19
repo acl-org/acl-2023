@@ -19,6 +19,8 @@ More information will be announced soon.
 .news-table { font-size: .8em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+
+| 2023-06-19 | [Discounted Virtual Registration](https://2023.aclweb.org/registration/discounted_virtual_registration/) is posted under the *Registration*.
 | 2023-06-17 | [Best Paper Committee](/committees/best_paper/) is posted under the *Committees*.
 | 2023-06-15 | [Accepted Papers for Industry Track](/program/accepted_industry_track/) is posted under the *Program*.
 | 2023-06-15 | [Accepted Papers for System Demonstration](/program/accepted_system_demonstration/) is posted under the *Program*.
