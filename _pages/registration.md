@@ -88,7 +88,7 @@ Register Here: [https://acl.swoogo.com/ACL2023](https://acl.swoogo.com/ACL2023)
 
 ## Virtual Pricing
 
-For a Discounted/sliding scale Virtual Registration Subsidy ($0-100), apply [here](discounted_virtual_registration) by June 28.
+For a Discounted/sliding scale Virtual Registration ($0-100), apply [here](discounted_virtual_registration) by June 28.
 
 Given the large real costs of all conference paper presentations
 (whether virtual or in-person), all papers in the program (oral or
