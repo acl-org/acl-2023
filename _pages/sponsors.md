@@ -74,9 +74,9 @@ platinum:
     alt: Huawei
     title: Huawei
   - url: https://www.speechocean.com
-    image_path: /assets/images/sponsors/speechocean.jpg
-    alt: Speechocean
-    title: Speechocean
+    image_path: /assets/images/sponsors/dataoceanai.jpg
+    alt: Dataocean AI
+    title: Dataocean AI
   - url: https://cemse.kaust.edu.sa/ai
     image_path: /assets/images/sponsors/kaust.jpg
     alt: Kaust
