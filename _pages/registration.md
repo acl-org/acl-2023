@@ -139,4 +139,4 @@ For questions about your registration and/or payment, please contact:
 
 * Yes Events
 * Email: [ACLinfo@yesevents.com](mailto:ACLinfo@yesevents.com)
-* Toll Free: 800-937-872
+* Toll Free: 800-937-8728
