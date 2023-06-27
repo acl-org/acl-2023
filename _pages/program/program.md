@@ -14,6 +14,9 @@ toc_icon: "cog"
 .notes { font-size: .9em; }
 </style>
 
+[Conference Handbook](/downloads/acl2023-handbook.pdf)
+{: .text-center .notice--success}
+
 <!-- Please refer to our [blog posts](/blog/) for more details. -->
 
 ## Sunday, July 9th
