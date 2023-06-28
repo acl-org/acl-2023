@@ -1,5 +1,7 @@
 # main links in masthead.html
 main:
+  - title: "MiniConf"
+    url: https://virtual2023.aclweb.org
   - title: "Blog"
     url: /blog/
   - title: "Calls"

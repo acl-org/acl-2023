@@ -24,6 +24,7 @@ Please see the [registration](/registration/) page for more details.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2023-06-27 | The link of [Mini Conference](https://virtual2023.aclweb.org) is added to the top menu.
 | 2023-06-27 | [Conference Handbook](/downloads/acl2023-handbook.pdf) is posted under the *Program*.
 | 2023-06-19 | [Discounted Virtual Registration](https://2023.aclweb.org/registration/discounted_virtual_registration/) is posted under the *Registration*.
 | 2023-06-17 | [Best Paper Committee](/committees/best_paper/) is posted under the *Committees*.
