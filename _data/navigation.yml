@@ -2,12 +2,6 @@
 main:
   - title: "MiniConf"
     url: https://virtual2023.aclweb.org
-  - title: "Blog"
-    url: /blog/
-  - title: "Calls"
-    url: /calls/main_conference/
-  - title: "FAQ"
-    url: /faq/
   - title: "Program"
     url: /program/
   - title: "Registration"
@@ -20,18 +14,12 @@ main:
     url: /committees/organization/
   - title: "Sponsors"
     url: /sponsors/
-  #- title: "Schedule"
-  #  url: /schedule/
-  #- title: "LiveCaptions"
-  #  url: /captions/
-  #- title: "Virtual Conference Website"
-  #  url: "https://underline.io/events/122/reception"
-  #- title: "Reviewer"
-  #  url: /not_available
-  # - title: "Contact"
-  #   url: /contact     
-  # - title: "Ethics"
-  #   url: /ethics/faq/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Blog"
+    url: /blog/
+  - title: "Calls"
+    url: /calls/main_conference/
 
 program:
   - title: "Programs"
@@ -112,14 +100,6 @@ participants:
         url: /participants/ethical_policies/
       - title: "Cancellation Policy"
         url: /participants/cancellation_policy/
-     # - title: "Instructions for Paper Presenters"
-     #   url: /participants/presenters/
-     # - title: "Instructions for Zoom Rooms"
-     #   url: /participants/zoom-rooms/
-     #  - title: "Accommodation"
-     #    url: /participants/accommodation/
-     #  - title: "Social Event"
-     #    url: /participants/social/
 
 registration:
   - title: "Registration"
@@ -128,48 +108,3 @@ registration:
         url: /registration/
       - title: "Discounted Virtual Registration"
         url: /registration/discounted_virtual_registration/
-
-
-
-# sponsors:
-#   - title: Sponsors
-#     children:
-#       - title: "Booklet: Rates &amp; Benefits"
-#         url: /sponsors/booklet/
-#      - title: "List of Sponsors"
-#        url: /sponsors/list/
-  
-  #- title: Submission Material
-  #  children:
-  #    - title: "Area Descriptions"
-  #      url: /calls/area-descriptions/
-  #    - title: "Style Files and Formatting"
-  #      url: /calls/style-and-formatting/
-  #    - title: "Reproducibility Checklist"
-  #      url: /calls/reproducibility-checklist/
-  #- title: Archived calls
-  #  children:
-  #    - title: "First Call for Papers"
-  #      url: /calls/papers/first/
-  #    - title: "Preliminary Call for Papers"
-  #      url: /calls/papers/prelim/
-
-# ethics:
-#   - title: Ethics
-#     children:
-#       - title: "Ethics FAQ"
-#         url: /ethics/faq/
-#       - title: "Ethics Review Questions"
-#         url: /ethics/review-questions/
-#       - title: "Ethics Committee"
-#         url: /ethics/committee/
-
-# reviewer:
-#   - title: Reviewer
-#     children:
-#       - title: "Reviewer Instructions"
-#     #    url: /reviewer/instructions/
-#     #  - title: "Example Review Form"
-#     #    url: /downloads/NAACL2021-Review-Form.pdf
-#     #  - title: "Reviewing Advice"
-#     #    url: /reviewer/advice/
