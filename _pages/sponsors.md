@@ -73,7 +73,7 @@ platinum:
     image_path: /assets/images/sponsors/huawei.jpg
     alt: Huawei
     title: Huawei
-  - url: https://www.speechocean.com
+  - url: https://dataoceanai.com
     image_path: /assets/images/sponsors/dataoceanai.jpg
     alt: Dataocean AI
     title: Dataocean AI
