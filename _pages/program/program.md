@@ -14,7 +14,7 @@ toc_icon: "cog"
 .notes { font-size: .9em; }
 </style>
 
-[Conference Handbook](/downloads/acl2023-handbook.pdf)
+[Conference Handbook](/downloads/acl2023-handbook-v2.pdf)
 {: .text-center .notice--success}
 
 <!-- Please refer to our [blog posts](/blog/) for more details. -->
