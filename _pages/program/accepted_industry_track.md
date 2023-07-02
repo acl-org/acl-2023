@@ -79,7 +79,7 @@ sidebar:
 
 **Generate-then-Retrieve: Intent-Aware FAQ Retrieval in Product Search**<br>_Zhiyu Chen, Jason Choi, Besnik Fetahu, Oleg Rokhlenko and Shervin Malmasi_
 
-**GKD: An General Knowledge Distillation Framework for Large-scale Pre-trained Language Model**<br>_Shicheng Tan, Weng Lam Tam, Yuanchun Wang, Wenwen Gong, Shu Zhao, Peng Zhang and Jie Tang_
+**GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model**<br>_Shicheng Tan, Weng Lam Tam, Yuanchun Wang, Wenwen Gong, Shu Zhao, Peng Zhang and Jie Tang_
 
 **Hunt for Buried Treasures: Extracting Unclaimed Embodiments from Patent Specifications**<br>_Chikara Hashimoto, Gautam Kumar, Shuichiro Hashimoto and Jun Suzuki_
 
