@@ -10,6 +10,23 @@ toc_icon: "cog"
 
 ## Registration and Presentation
 
+**Q**: Virtual posters are assigned a physical room.  What's going on
+in there and do I need to bring anything?
+
+**A**: The first virtual poster sessions were online-only: you log
+into Gathertown from a link on Underline and present a PDF to whoever
+showed up there.  We're still going to do that (and if you're unable
+to attend Toronto, that is exactly how the virtual poster sessions are
+going to work ... you don't need to do anything extra).  
+
+However, there's an additional problem.  When conferences became
+hybrid (rather than purely virtual), the on-site attendees didn't show
+up to the virtual posters.  So to address that, we're including a
+portal room (Pier 2&3 for ACL 2023) so that those at the conference
+can still see the virtual posters (a remaining problem that we haven't
+solved is how to connect in-person posters to virtual attendees beyond
+RocketChat).
+
 **Q**: I have a main conference paper.  Do I need to register for the
 conference?
 
