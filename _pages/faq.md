@@ -10,6 +10,35 @@ toc_icon: "cog"
 
 ## Registration and Presentation
 
+**Q**: One of our authors is in-person and the other is virtual.  Can
+we present in both places?
+
+**A**: We would like to be able to support this, as it would ensure
+that papers would be seen by both online and virtual attendees.
+However, there is an equity issue is giving some papers multiple
+opportunities to present, particularly when there are limited in-person
+presentation slots (even online, there is a cost with creating
+additional presentation slots).  Ideally, there would be less of a
+schism between online and offline presentations, but we were not able
+to solve that problem for ACL 2023.  Thus, we would not allocate both.
+
+**Q**: Virtual posters are assigned a physical room.  What's going on
+in there and do I need to bring anything?
+
+**A**: The first virtual poster sessions were online-only: you log
+into Gathertown from a link on Underline and present a PDF to whoever
+showed up there.  We're still going to do that (and if you're unable
+to attend Toronto, that is exactly how the virtual poster sessions are
+going to work ... you don't need to do anything extra).  
+
+However, there's an additional problem.  When conferences became
+hybrid (rather than purely virtual), the on-site attendees didn't show
+up to the virtual posters.  So to address that, we're including a
+portal room (Pier 2&3 for ACL 2023) so that those at the conference
+can still see the virtual posters (a remaining problem that we haven't
+solved is how to connect in-person posters to virtual attendees beyond
+RocketChat).
+
 **Q**: I have a main conference paper.  Do I need to register for the
 conference?
 
