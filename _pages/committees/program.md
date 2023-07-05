@@ -546,3 +546,19 @@ sidebar:
    site="https://w-rdb.waseda.jp/html/100001978_en.html"
    institution="Waseda University (Japan)"
 %}
+
+## Assistants
+
+{% include committee-member.html
+   name="Marzena Karpinska"
+   picture="/assets/images/committee/marzena_karpinska.jpg"
+   site="https://marzenakrp.github.io"
+   institution="University of Massachusetts Amherst (USA)"
+%}
+
+{% include committee-member.html
+   name="Youmi Ma"
+   picture="/assets/images/committee/youmi_ma.jpg"
+   site="https://scholar.google.com/citations?user=dM355_EAAAAJ"
+   institution="Tokyo Institute of Technology (Japan)"
+%}
