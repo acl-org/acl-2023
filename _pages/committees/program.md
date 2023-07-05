@@ -292,7 +292,7 @@ sidebar:
 
 {% include committee-member.html
    name="A. Seza Doğruöz"
-   picture="/assets/images/committee/no_photo.jpg"
+   picture="/assets/images/committee/a_seza_dogruoz.jpg"
    site="http://www.asezadogruoz.com/"
    institution="Ghent University (Belgium)"
 %}
