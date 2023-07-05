@@ -183,6 +183,13 @@ sidebar:
 ### Large Language Models
 
 {% include committee-member.html
+   name="Dipanjan Das"
+   picture="/assets/images/committee/dipanjan_das.jpg"
+   site="https://www.dipanjandas.com"
+   institution="Google (USA)"
+%}
+
+{% include committee-member.html
    name="Bhuwan Dhingra"
    picture="/assets/images/committee/bhuwan_dhingra.jpg"
    site="https://users.cs.duke.edu/~bdhingra/"
