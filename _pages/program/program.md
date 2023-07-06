@@ -31,7 +31,7 @@ toc_icon: "cog"
 | 14:00 | 15:30 | Tutorial Session 3  |
 | 15:30 | 16:00 | Lunch Break         |
 | 16:00 | 17:30 | Tutorial Session 4  |
-| 18:30 | 21:00 | Welcome Receptions  |
+| 19:00 | 21:30 | Welcome Receptions  |
 
 * Registration: 07:30 - 18:30, Westin Lobby
 * Welcome Receptions: name badge is required to access
