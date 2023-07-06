@@ -30,6 +30,12 @@ Join the Zoom room linked from the Underline schedule 15 minutes before the sess
 
 Check your paper’s page on RocketChat during the conference to engage with questions and comments from audience members.
 
+# In-Person Findings Spotlights
+
+Double-check the detailed presentation [instructions from Underline](https://docs.google.com/presentation/d/1NsSjVd0Wung2rMft42PsRdTK939pJ8PwKYmzOk-G6U8/edit) ahead of the conference to make sure you have submitted all the required materials.  In particular, you should only put one slide in your "slides" upload for Findings spotlight.  Underline will compile this together into a single slide deck.
+
+The chair of the spotlight session will order the spotlights based on the program and will give you instructions on where to sit before the session starts (so arrive early!) and sit in the correct order.
+
 # Main Conference In-Person Poster Presentation
 
 Double-check the detailed presentation [instructions from Underline](https://docs.google.com/presentation/d/1NsSjVd0Wung2rMft42PsRdTK939pJ8PwKYmzOk-G6U8/edit) ahead of the conference to make sure you have submitted all the required materials.  You should upload your slides at the latest by the end of the day before your presentation.
