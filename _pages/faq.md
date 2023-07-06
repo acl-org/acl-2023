@@ -10,6 +10,15 @@ toc_icon: "cog"
 
 ## Registration and Presentation
 
+**Q**: Something is not right in the handbook, Underline, or
+Miniconf.  How can I get it fixed?
+
+**A**: The handbook has already been sent to the printer, so we will
+no longer be updating it.  If information is out of date or incorrect
+on Underline, please contact Underline directly at
+[acl2023@underline.io](mailto:acl2023@underline.io).  For problems
+with Minconf, please report problems with [this form](https://docs.google.com/forms/d/12JMvLcFZqC3YV4C01PtHFo6oGDFwiW0964a6xRr-JVc/edit#settings).
+
 **Q**: One of our authors is in-person and the other is virtual.  Can
 we present in both places?
 
