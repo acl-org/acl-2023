@@ -36,6 +36,12 @@ program:
         url: /program/keynotes/
       - title: "Social Programs"
         url: /program/social/
+  - title: Awards
+    children:
+      - title: "Best Papers"
+        url: /program/best_papers/
+      - title: "Best Reviewers"
+        url: /program/best_reviewers/
   - title: "Accepted Papers"
     children:
       - title: "Main Conference"

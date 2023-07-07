@@ -1,9 +1,9 @@
 ---
 title: Social Programs
 layout: single
-excerpt: "NAACL 2021 Social Programs."
+excerpt: "ACL 2023 Social Programs."
 permalink: /program/social/
-toc: true
+toc: false
 toc_sticky: true
 toc_icon: "cog"
 sidebar:
