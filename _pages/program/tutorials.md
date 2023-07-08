@@ -12,7 +12,7 @@ sidebar:
 
 ## Morning (09:00 - 12:30)
 
-**T1: Agent's Consciousness in Conversational Systems: Proactivity, Non-collaborativity, and Beyond**<br>
+**T1: Goal Awareness for Conversational AI: Proactivity, Non-collaborativity, and Beyond**<br>
 
 * Location: Metropolitan East
 * _Yang Deng, Wenqiang Lei, Minlie Huang and Tat-Seng Chua_
