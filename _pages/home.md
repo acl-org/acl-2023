@@ -25,7 +25,7 @@ Please see the [registration](/registration/) page for more details.
 </style>
 
 | 2023-06-27 | The link of [Mini Conference](https://virtual2023.aclweb.org) is added to the top menu.
-| 2023-06-27 | [Conference Handbook](/downloads/acl2023-handbook-v2.pdf) is posted under the *Program*.
+| 2023-06-27 | [Conference Handbook](/downloads/acl2023-handbook-v3.pdf) is posted under the *Program*.
 | 2023-06-19 | [Discounted Virtual Registration](https://2023.aclweb.org/registration/discounted_virtual_registration/) is posted under the *Registration*.
 | 2023-06-17 | [Best Paper Committee](/committees/best_paper/) is posted under the *Committees*.
 | 2023-06-15 | [Accepted Papers for Industry Track](/program/accepted_industry_track/) is posted under the *Program*.
