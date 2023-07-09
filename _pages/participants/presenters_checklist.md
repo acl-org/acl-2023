@@ -54,13 +54,27 @@ Check your paper’s channel on RocketChat during the conference to engage with 
 
 We will do our best to accomodate changes with 48 hours notice.
 
-In case of travel disruptions, presenters can request switching from in person to virtual presentation mode as described below.
+In case of travel disruptions, presenters can request switching from
+in person to virtual presentation mode as described below.
 
-You can adjust your registration mode and fee by contacting aclinfo@yesevents.com or Toll Free: +1-800-937-8728. See [https://2023.aclweb.org/registration/](https://2023.aclweb.org/registration/) for details.
+You can adjust your registration mode and fee by contacting
+aclinfo@yesevents.com or Toll Free: +1-800-937-8728. See
+[https://2023.aclweb.org/registration/](https://2023.aclweb.org/registration/)
+for details.
 
-If you are presenting orally: you can present remotely on Underline rather than in person as long you follow the instructions for virtual presenters provided here. There is no need to notify the Program Chairs nor Underline in this case.
+If you are presenting orally: you can present remotely on Underline
+rather than in person as long you follow the instructions for virtual
+presenters provided here. There is no need to notify the Program
+Chairs nor Underline in this case.
 
 Contact tutorial or workshop chairs for presentations outside the main conference.
 
-For anything else, please submit a [change of modality form](https://forms.office.com/r/1zqrZBaTEM).
+If your paper is presented more than 24 hours from now and you want to
+present a virtual poster, please submit a [change of modality
+form](https://forms.office.com/r/1zqrZBaTEM).
+
+If you want to present an in-person poster, just talk to the
+registration desk (find Jenn) and she can give you a spot at an empty
+posterboard.  Feel free to promote your ad hoc slot on RocketChat and
+social media.
 
