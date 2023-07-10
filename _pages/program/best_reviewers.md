@@ -64,7 +64,7 @@ On behalf of ourselves and the authors - thanks for your help!
 # Best Reviewers
 
 - *Xi Ai* (Chongqing University, China)
-- *Alan Akbik* (Humboldt-Universität zu Berlin, Germany)
+- *Alan Akbik* (Humboldt-Universität zu Berlin, Germany). Secondary reviewers: _Susanna Rücker_, _Elena Merdjanovska_, _Ansar Aynetdinov_ and _Max Ploner_
 - *Tariq Alhindi* (Columbia University, United States)
 - *Long Bai* (School of Computer Science and Technology, University of Chinese Academy of Sciences; CAS Key Laboratory of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences, China)
 - *Roy Bar-Haim* (IBM Research, Israel)
