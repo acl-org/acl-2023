@@ -69,12 +69,8 @@ Chairs nor Underline in this case.
 
 Contact tutorial or workshop chairs for presentations outside the main conference.
 
-If your paper is presented more than 24 hours from now and you want to
-present a virtual poster, please submit a [change of modality
-form](https://forms.office.com/r/1zqrZBaTEM).
+If you have missed your in-person poster, you can request to have a virtual poster (to be scheduled Wednesday) by using this form:
+[https://forms.office.com/r/pNxngTfY9m](https://forms.office.com/r/pNxngTfY9m)
+(If you want to present less than 24 hours from now, we’re sorry that we cannot help.)
 
-If you want to present an in-person poster, just talk to the
-registration desk (find Jenn) and she can give you a spot at an empty
-posterboard.  Feel free to promote your ad hoc slot on RocketChat and
-social media.
-
+If you want to present an in-person poster, just talk to the registration desk (find Jenn) and she can give you a spot at an unclaimed posterboard in an in-person session. Feel free to promote your ad hoc slot on RocketChat and social media.
