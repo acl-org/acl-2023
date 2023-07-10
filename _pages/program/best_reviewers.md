@@ -1,5 +1,5 @@
 ---
-title: Best Reviewers
+title: Outstanding Reviewers
 layout: single
 permalink: /program/best_reviewers/
 toc: false
@@ -39,13 +39,13 @@ And AC nomination pitches:
 
 On behalf of ourselves and the authors - thanks for your help!
 
-# Best Senior Area Chairs
+# Outstanding Senior Area Chairs
 
 - *Carolin Lawrence* (NEC Laboratories Europe, Germany)
 - *Ana Marasovic* (University of Utah, United States)
 - *Chenhao Tan* (University of Chicago, United States)
 
-# Best Area Chairs
+# Outstanding Area Chairs
 
 - *Jasmijn Bastings* (Google, Netherlands)
 - *Tommaso Caselli* (Rijksuniversiteit Groningen, Netherlands)
@@ -61,7 +61,7 @@ On behalf of ourselves and the authors - thanks for your help!
 - *Mihai Surdeanu* (University of Arizona, United States)
 - *Sarah Wiegreffe* (Allen Institute for Artificial Intelligence, United States)
 
-# Best Reviewers
+# Outstanding Reviewers
 
 - *Xi Ai* (Chongqing University, China)
 - *Alan Akbik* (Humboldt-Universität zu Berlin, Germany). Secondary reviewers: _Susanna Rücker_, _Elena Merdjanovska_, _Ansar Aynetdinov_ and _Max Ploner_
