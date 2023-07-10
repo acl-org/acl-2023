@@ -11,11 +11,18 @@ sidebar:
 
 ACL'23 implemented the new [award policy](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Awards_Policy), which aims for broader recognition of exceptional research, in particular by significantly increasing the pool of outstanding papers to 1.5-2.5% of the total submissions. So, this year we have a total of 3 best papers, 4 special awards papers (Resource Award, Social Impact Award, Reproduction Award, Theme Paper Award)---and 39 outstanding papers! Additionally, there are Area Chair Awards: the Senior Area Chairs of each track had the opportunity to nominate one of their papers for a separate award. Many thanks to our [Best Paper Committee](https://2023.aclweb.org/committees/best_paper/) for helping us with the selection process!   
 
-This page lists most of the awards and honorable mentions, except for the 3 best papers which will be announced in the 4pm plenary session. It also lists demo track and SRW awards. We congratulate everybody who was considered for the award: only 1.6% papers were even nominated by the reviewers. Next year, let's all be more generous with nominations!
+This page lists all the awards and honorable mentions, as well as demo track and SRW awards. But we congratulate everybody who was considered for the award: only 1.6% papers were even nominated by the reviewers. Next year, let's all be more generous with nominations!
 
 # Best Paper Awards
 
-TBA in the 4pm plenary session on July 10
+- Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest<br/>
+_Jack Hessel, Ana Marasovic, Jena D. Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff and Yejin Choi_
+
+- What the DAAM: Interpreting Stable Diffusion Using Cross Attention<br/>
+_Raphael Tang, Linqing Liu, Akshat Pandey, Zhiying Jiang, Gefei Yang, Karun Kumar, Pontus Stenetorp, Jimmy Lin and Ferhan Ture_
+
+- From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models<br/>
+_Shangbin Feng, Chan Young Park, Yuhan Liu and Yulia Tsvetkov_
 
 # Special Awards
 
