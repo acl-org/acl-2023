@@ -95,7 +95,7 @@ sidebar:
 
 {% include committee-member.html
    name="Jun Suzuki"
-   picture="/assets/images/committee/jun_suzuki.jpg"
+   picture="/assets/images/committee/jun_suzuki.png"
    site="http://www.fai.cds.tohoku.ac.jp/members/js/"
    institution="Tohoku University (Japan)"
 %}
