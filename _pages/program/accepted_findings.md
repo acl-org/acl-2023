@@ -1522,7 +1522,7 @@ sidebar:
 
 **Reasoning in Large Language Models Through Symbolic Math Word Problems**<br>_Vedant Gaur and Nikunj Saunshi_
 
-**It's not Sexually Suggestive; It's Educative | Separating Sex Education from Suggestive Content on TikTok videos**<br>_Enfa George and Mihai Surdeanu_
+**It's not Sexually Suggestive; It's Educative \| Separating Sex Education from Suggestive Content on TikTok videos**<br>_Enfa George and Mihai Surdeanu_
 
 **Gender-tuning: Empowering Fine-tuning for Debiasing Pre-trained Language Models**<br>_Somayeh Ghanbarzadeh, Yan Huang, Hamid Palangi, Radames Cruz Moreno and Hamed Khanpour_
 
