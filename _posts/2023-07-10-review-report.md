@@ -13,7 +13,7 @@ categories:
 
 There were many new initiatives for peer review at this ACL'23, and we present our report on how all this worked. For the first time, it became an official part of the proceedings - so as to provide context for the final program and to make it easier for future chairs and organizers to find this data. The goal is also to improve transparency in the decision process.
 
-The full report is accessible here: [PDF](https://aclanthology.org/2023.acl-long.report.pdf), [BIBTEX entry](/assets/files/report.bib)
+The full report is accessible in ACL Anthology as a part of proceedings: [PDF](https://aclanthology.org/2023.acl-long.911/)
 
 Here's a brief guide to what's in the report:
 
