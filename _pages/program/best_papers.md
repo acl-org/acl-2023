@@ -179,7 +179,7 @@ _Ayyoob ImaniGooghari, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masou
  - Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters<br/> _Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer and Huan Sun_
  - UniCoRN: Unified Cognitive Signal ReconstructioN bridging cognitive signals and human language<br/> _Nuwa Xi, Sendong Zhao, Haochun Wang, Chi Liu, Bing Qin and Ting Liu_
  
- # Best Video Recordings
+# Best Video Recordings
  
  Overview of the best video awards (with video clips) [available on YouTube](https://youtu.be/BhtDkEKSZog).
  
