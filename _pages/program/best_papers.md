@@ -178,3 +178,25 @@ _Ayyoob ImaniGooghari, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masou
  - Theory-Grounded Computational Text Analysis<br/> _Arya D. McCarthy and Giovanna Maria Dora Dore_
  - Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters<br/> _Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer and Huan Sun_
  - UniCoRN: Unified Cognitive Signal ReconstructioN bridging cognitive signals and human language<br/> _Nuwa Xi, Sendong Zhao, Haochun Wang, Chi Liu, Bing Qin and Ting Liu_
+ 
+ # Best Video Recordings
+ 
+ Overview of the best video awards (with video clips) [available on YouTube](https://youtu.be/BhtDkEKSZog).
+ 
+ **Most Viewed**:
+ 
+ - [KILM: Knowledge Injection into Encoder-Decoder Language Models](https://underline.io/events/395/sessions/15195/lecture/76351-kilm-knowledge-injection-into-encoder-decoder-language-models) _Yan Xu, Mahdi Namazifar, Devamanyu Hazarika, Aishwarya Padmakumar, Yang Liu, and Dilek Hakkani-Tür_
+ 
+- [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://underline.io/lecture/76331-when-not-to-trust-language-models-investigating-effectiveness-of-parametric-and-non-parametric-memories)	 _Alex Mallen, Akari Asai, Victor Zhong, Rajarshi Das, Daniel Khashabi, and Hannaneh Hajishirzi_
+
+
+**Highest Rated**:
+- [Neural Machine Translation for Mathematical Formulae](https://underline.io/lecture/77250-neural-machine-translation-for-mathematical-formulae) _Felix Petersen, Moritz Schubotz, André Greiner-Petter, and Bela Gipp_
+
+**Outstanding Videos**:
+
+- [Generalizing Backpropagation for Gradient-Based Interpretability](https://underline.io/events/395/sessions/15195/lecture/76222-generalizing-backpropagation-for-gradient-based-interpretability) _Kevin Du, Lucas Torroba Hennigen, Niklas Stoehr, Alexander Warstadt, and Ryan Cotterell_
+
+- [WikiHowQA: A Comprehensive Benchmark for Multi-Document Non-Factoid Question Answering](https://underline.io/events/395/sessions/15195/lecture/76277-wikihowqa-a-comprehensive-benchmark-for-multi-document-non-factoid-question-answering) _Valeriia Bolotova, Vladislav Blinov, Sofya Filippova, Falk Scholer, and Mark Sanderson_ 
+
+- [Score It All Together: A Multi-Task Learning Study on Automatic Scoring of Argumentative Essays](https://underline.io/events/395/sessions/15195/lecture/77552-score-it-all-together-a-multi-task-learning-study-on-automatic-scoring-of-argumentative-essays) _Yuning Ding, Marie Bexte, and Andrea Horbach_
