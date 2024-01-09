@@ -180,8 +180,14 @@ _Ayyoob ImaniGooghari, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masou
  - UniCoRN: Unified Cognitive Signal ReconstructioN bridging cognitive signals and human language<br/> _Nuwa Xi, Sendong Zhao, Haochun Wang, Chi Liu, Bing Qin and Ting Liu_
  
 # Best Video Recordings
- 
- Overview of the best video awards (with video clips) [available on YouTube](https://youtu.be/BhtDkEKSZog).
+
+You can watch my seven minute highlights of the best video recordings via the video below.  After the highlights, all of the complete video recordings are viewable.
+
+<CENTER>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BhtDkEKSZog" target="_blank">
+ <img src="http://img.youtube.com/vi/BhtDkEKSZog/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+</CENTER>
  
  **Most Viewed**:
  
